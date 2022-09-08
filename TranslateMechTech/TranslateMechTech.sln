@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "TranslateMechTech", "TranslateMechTech\TranslateMechTech.pyproj", "{CF218BEB-2328-443A-A070-8456216EBB6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF218BEB-2328-443A-A070-8456216EBB6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF218BEB-2328-443A-A070-8456216EBB6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E313DB6-9260-4A92-A68E-01D601D3E440}
+	EndGlobalSection
+EndGlobal
