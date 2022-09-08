@@ -1,0 +1,75 @@
+migid "background_youth_accident.Description.Details"
+migstr "Space always called to you. <b><color=#ff9900>Quirk: Space&Honest.</color></b>"
+migid "background_youth_accident.Description.Name"
+migstr "Space"
+migid "background_youth_accident.OptionDescription"
+migstr "The rest of your family died in a freak [[DM.BaseDescriptionDefs[LoreJumpShip],JumpShip]] accident, after which you discovered they had left nothing behind but piles of debt.
+
+After selling everything to settle the debt, you set off on your own, with only your family's ancestral [[DM.BaseDescriptionDefs[LoreAncestralBlackjack],Blackjack]] left to your name.
+
++1 [[DM.BaseDescriptionDefs[StatMechWarriorPiloting],Piloting]], +1 [[DM.BaseDescriptionDefs[StatMechWarriorGuts],Guts]]"
+migid "background_youth_accident.OptionName"
+migstr "Space."
+migid "background_youth_accident.BioDescription"
+migstr "The rest of your family died in a freak JumpShip accident, after which you discovered they had left nothing behind but piles of debt. After selling everything to settle the debt, you set off on your own, with only your family's ancestral Blackjack left to your name.
+"
+migid "background_youth_bankrupt.Description.Details"
+migstr "Lady Luck and you are well aquainted. <b><color=#ff9900>Quirk: Jinxed&Lucky.</color></b>"
+migid "background_youth_bankrupt.Description.Name"
+migstr "Gambler"
+migid "background_youth_bankrupt.OptionDescription"
+migstr "As you grew older, you watched your family's fortune, income, and influence slowly dwindle away - until there was nothing left. Your parents, driven to despair, took their own lives.
+
+With nothing but your family's ancestral [[DM.BaseDescriptionDefs[LoreAncestralBlackjack],Blackjack]] left to call your own, you set off to make a new life for yourself.
+
++1 [[DM.BaseDescriptionDefs[StatMechWarriorTactics],Tactics]], +1 [[DM.BaseDescriptionDefs[StatMechWarriorGuts],Guts]]"
+migid "background_youth_bankrupt.OptionName"
+migstr "Gambler"
+migid "background_youth_bankrupt.BioDescription"
+migstr "As you grew older, you watched your family's fortune, income, and influence slowly dwindle away - until there was nothing left. Your parents, driven to despair, took their own lives. With nothing but your family's ancestral Blackjack left to call your own, you set off to make a new life for yourself.
+"
+migid "background_youth_betrayed.Description.Details"
+migstr "Youve always fiddled with your Tech. <b><color=#ff9900>Quirk: Tech&Comstar.</color></b>"
+migid "background_youth_betrayed.Description.Name"
+migstr "Tech"
+migid "background_youth_betrayed.OptionDescription"
+migstr "Your family was betrayed and its seat of power destroyed. You defeated the betrayers, but you were the sole surviving member of your house.
+
+With nothing but your family's ancestral [[DM.BaseDescriptionDefs[LoreAncestralBlackjack],Blackjack]] left to call your own, you set off to make a new life for yourself.
+
++1 [[DM.BaseDescriptionDefs[StatMechWarriorGunnery],Gunnery]], +1 [[DM.BaseDescriptionDefs[StatMechWarriorGuts],Guts]]"
+migid "background_youth_betrayed.OptionName"
+migstr "Tech."
+migid "background_youth_betrayed.BioDescription"
+migstr "Your family was betrayed and its seat of power destroyed. You defeated the betrayers, but you were the sole surviving member of your house. With nothing but your family's ancestral Blackjack left to call your own, you set off to make a new life for yourself.
+"
+migid "background_youth_exile.Description.Details"
+migstr "The Past held your Dreams. <b><color=#ff9900>Quirk: LosTech&Bookish.</color></b>"
+migid "background_youth_exile.Description.Name"
+migstr "History"
+migid "background_youth_exile.OptionDescription"
+migstr "Once the promising young scion of your family, you committed an unforgivable transgression and were sentenced to life in exile.
+
+You stole away with the family's ancestral [[DM.BaseDescriptionDefs[LoreAncestralBlackjack],Blackjack]] and set off to find a new life to call your own.
+
++1 [[DM.BaseDescriptionDefs[StatMechWarriorGunnery],Gunnery]], +1 [[DM.BaseDescriptionDefs[StatMechWarriorTactics],Tactics]]"
+migid "background_youth_exile.OptionName"
+migstr "History"
+migid "background_youth_exile.BioDescription"
+migstr "Once the promising young scion of your family, you committed an unforgivable transgression and were sentenced to life in exile. You stole away with the family's ancestral Blackjack and set off to find a new life to call your own.
+"
+migid "background_youth_loner.Description.Details"
+migstr "You've always been a Loner. <b><color=#ff9900>Quirk: Brave+Assassin.</color></b>"
+migid "background_youth_loner.Description.Name"
+migstr "Struck Out On Own, Disgusted with Nobility"
+migid "background_youth_loner.OptionDescription"
+migstr "As the heir to a noble family, you grew up wanting for nothing. And as it turns out… you couldn't stand a life of pampered nobility.
+
+Finally, one night you stole away with the family's ancestral [[DM.BaseDescriptionDefs[LoreAncestralBlackjack],Blackjack]] and set off to find a new life to call your own.
+
++1 [[DM.BaseDescriptionDefs[StatMechWarriorPiloting],Piloting]], +1 [[DM.BaseDescriptionDefs[StatMechWarriorTactics],Tactics]]"
+migid "background_youth_loner.OptionName"
+migstr "Loner"
+migid "background_youth_loner.BioDescription"
+migstr "As the heir to a noble family, you grew up wanting for nothing. As it turns out, you couldn't stand a life of pampered nobility. Finally, one night you stole away with the family's ancestral Blackjack and set off to find a new life to call your own.
+"

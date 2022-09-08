@@ -1,0 +1,6 @@
+migid "backgroundquestion_ancestry.Description.Name"
+migstr "You Were Born in..."
+migid "backgroundquestion_career.Description.Name"
+migstr "Coming of Age you choose the Career of...."
+migid "backgroundquestion_youth.Description.Name"
+migstr "You Interests had always been...."
