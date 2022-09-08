@@ -1,0 +1,27 @@
+{
+  "debugLog": false,
+  "debugLanceLoadout": false,
+  "additionalLanceName": "额外部署",
+  "respectFourDropLimit": true,
+  "additinalMechSlots": 0,
+  "additinalPlayerMechSlots": 4,
+  "defaultMaxTonnage": 420,
+  "allowUpgrades" : true,
+  "showAdditionalArgoUpgrades" : true,
+  "argoUpgradeName" : "命令&控制",
+  "argoUpgradeCategory1Name" : "部署规模",
+  "argoUpgradeCategory2Name" : "坦克&仓库容量",
+  "argoUpgradeCategory3Name" : "部署重量",
+  "CuInitialVehicles" : 2,
+  "CuV2FormationSize" : 6,
+  "CuV2InitialSlots" : [
+    "default_omni_slot",
+    "default_omni_slot",
+    "default_omni_slot",
+    "default_omni_slot",
+    "default_vehicle_slot",
+    "default_vehicle_slot",
+    "default_ba_slot",
+    "default_ba_slot"
+  ]
+}

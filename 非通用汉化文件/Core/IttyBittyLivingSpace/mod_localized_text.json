@@ -1,0 +1,13 @@
+{
+    "Labels" : {
+	    "MECH_UPKEEP" : "维护: {0}", 
+        "CARGO_GEAR" : "货物: 装备 ({0} 单位)",
+        "CARGO_MECH_PARTS" : "货物: 机甲机体 ({0} 吨)"
+    },
+	
+	"Tooltips" : {
+	    "CARGO_CHASSIS" : "\n\n<color=#FF0000>货物花费: {0} from {1} tons</color>",
+        "CARGO_EQUIPMENT" : "\n\n<color=#FF0000>货物花费: {0} from {1}u size</color>",
+        "CARGO_WEAPON" : "\n\n<color=#FF0000>货物花费: {0} from {1}u size</color>"
+	}	
+}
