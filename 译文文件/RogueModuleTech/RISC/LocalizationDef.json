@@ -1,0 +1,994 @@
+[
+  {
+    "id": "emod_engineslots_ul_center.Description.Details",
+    "content": "随着超重结构的先进性能和日益增长的坚固性需求,创造了一个比以前想象的更轻的引擎的需求出现了.尽管可以让更大的引擎核心与超重型机甲一起使用,但高昂的成本、增加的侧躯干暴露率以及在任何损伤时造成核连锁反应的机会都是非常明显的缺点.最重要的是,特轻型引擎的特殊结构也在相当大的程度上增加整个机甲的发热.然而,共和国战略作战研究所(RISC)确实拥有足够开发的技术,而且已经被用于他们的一些机甲设计中."
+  },
+  {
+    "id": "emod_engineslots_ul_center.Description.UIName",
+    "content": "特轻型引擎"
+  },
+  {
+    "id": "emod_engineslots_ul_center.Description.Name",
+    "content": "UL 引擎"
+  },
+  {
+    "id": "emod_engineslots_ul_center.Description.Manufacturer",
+    "content": "极限技术企业"
+  },
+  {
+    "id": "emod_kit_dhs_RISC.Description.Details",
+    "content": "将单散热器(SHS)引擎转换为双层散热器(DHS)模式,机甲的<b>冷却系统</b>.激进(Radical)散热器系统提供了像冷却液舱一样的清除余热的能力.然而激进散热器重复使用有失效的可能,特别是连续使用的情况下."
+  },
+  {
+    "id": "emod_kit_dhs_RISC.Description.UIName",
+    "content": "激进散热器套件(D)"
+  },
+  {
+    "id": "emod_kit_dhs_RISC.Description.Name",
+    "content": "双层引擎散热器套件"
+  },
+  {
+    "id": "emod_kit_dhs_RISC.Description.Manufacturer",
+    "content": "RISC"
+  },
+  {
+    "id": "emod_kit_dhs_RISC.RadicalCooling.CAE0.Details",
+    "content": "激进散热系统彻底的改善了机甲的散热能力"
+  },
+  {
+    "id": "emod_kit_dhs_RISC.RadicalCooling.CAE0.Name",
+    "content": "激进散热器系统"
+  },
+  {
+    "id": "Gear_EmergencyCoolant.Description.Details",
+    "content": "共和国战略研究所开发的紧急冷却系统是激进散热系统的进一步发展. 它旨在当战斗机甲到达一定热量水平时自动激活以延长持续作战时间.该系统总体工作正常,但有灾难性故障趋势,可能在故障发生时摧毁引擎.幸运的是,该系统具有下面的特点:无法手动激活,这有助于降低过度使用该系统所产生的负面效果.<b><color=#099ff2>不稳定!</color></b>."
+  },
+  {
+    "id": "Gear_EmergencyCoolant.Description.UIName",
+    "content": "紧急冷却系统"
+  },
+  {
+    "id": "Gear_EmergencyCoolant.Description.Name",
+    "content": "紧急冷却系统"
+  },
+  {
+    "id": "Gear_EmergencyCoolant.Description.Manufacturer",
+    "content": "RISC"
+  },
+  {
+    "id": "Gear_EmergencyCoolant.EmergencyCooling.CAE0.Details",
+    "content": "紧急冷却系统极大的改善了机甲散热"
+  },
+  {
+    "id": "Gear_EmergencyCoolant.EmergencyCooling.CAE0.Name",
+    "content": "紧急冷却系统"
+  },
+  {
+    "id": "Gear_EmergencyCoolant_1.Description.Details",
+    "content": "共和国战略研究所开发的紧急冷却系统是激进散热系统的进一步发展. 它旨在当战斗机甲到达一定热量水平时自动激活以延长持续作战时间.该系统总体工作正常,但有灾难性故障趋势,可能在故障发生时摧毁引擎.幸运的是,该系统具有下面的特点:无法手动激活,这有助于降低过度使用该系统所产生的负面效果.<b><color=#099ff2>不稳定!</color></b>."
+  },
+  {
+    "id": "Gear_EmergencyCoolant_1.Description.UIName",
+    "content": "紧急冷却系统 +1"
+  },
+  {
+    "id": "Gear_EmergencyCoolant_1.Description.Name",
+    "content": "紧急冷却系统"
+  },
+  {
+    "id": "Gear_EmergencyCoolant_1.Description.Manufacturer",
+    "content": "RISC"
+  },
+  {
+    "id": "Gear_EmergencyCoolant_1.EmergencyCooling.CAE0.Details",
+    "content": "紧急冷却系统极大的改善了机甲散热"
+  },
+  {
+    "id": "Gear_EmergencyCoolant_1.EmergencyCooling.CAE0.Name",
+    "content": "紧急冷却系统"
+  },
+  {
+    "id": "Gear_EmergencyCoolant_2.Description.Details",
+    "content": "共和国战略研究所开发的紧急冷却系统是激进散热系统的进一步发展. 它旨在当战斗机甲到达一定热量水平时自动激活以延长持续作战时间.该系统总体工作正常,但有灾难性故障趋势,可能在故障发生时摧毁引擎.幸运的是,该系统具有下面的特点:无法手动激活,这有助于降低过度使用该系统所产生的负面效果.<b><color=#099ff2>不稳定!</color></b>."
+  },
+  {
+    "id": "Gear_EmergencyCoolant_2.Description.UIName",
+    "content": "紧急冷却系统 +2"
+  },
+  {
+    "id": "Gear_EmergencyCoolant_2.Description.Name",
+    "content": "紧急冷却系统"
+  },
+  {
+    "id": "Gear_EmergencyCoolant_2.Description.Manufacturer",
+    "content": "RISC"
+  },
+  {
+    "id": "Gear_EmergencyCoolant_2.EmergencyCooling.CAE0.Details",
+    "content": "紧急冷却系统极大的改善了机甲散热"
+  },
+  {
+    "id": "Gear_EmergencyCoolant_2.EmergencyCooling.CAE0.Name",
+    "content": "紧急冷却系统"
+  },
+  {
+    "id": "Gear_EmergencyCoolant_3.Description.Details",
+    "content": "共和国战略研究所开发的紧急冷却系统是激进散热系统的进一步发展. 它旨在当战斗机甲到达一定热量水平时自动激活以延长持续作战时间.该系统总体工作正常,但有灾难性故障趋势,可能在故障发生时摧毁引擎.幸运的是,该系统具有下面的特点:无法手动激活,这有助于降低过度使用该系统所产生的负面效果.<b><color=#099ff2>不稳定!</color></b>."
+  },
+  {
+    "id": "Gear_EmergencyCoolant_3.Description.UIName",
+    "content": "紧急冷却系统 +3"
+  },
+  {
+    "id": "Gear_EmergencyCoolant_3.Description.Name",
+    "content": "紧急冷却系统"
+  },
+  {
+    "id": "Gear_EmergencyCoolant_3.Description.Manufacturer",
+    "content": "RISC"
+  },
+  {
+    "id": "Gear_EmergencyCoolant_3.EmergencyCooling.CAE0.Details",
+    "content": "紧急冷却系统极大的改善了机甲散热"
+  },
+  {
+    "id": "Gear_EmergencyCoolant_3.EmergencyCooling.CAE0.Name",
+    "content": "紧急冷却系统"
+  },
+  {
+    "id": "Gear_EmergencyCoolant_4.Description.Details",
+    "content": "共和国战略研究所开发的紧急冷却系统是激进散热系统的进一步发展. 它旨在当战斗机甲到达一定热量水平时自动激活以延长持续作战时间.该系统总体工作正常,但有灾难性故障趋势,可能在故障发生时摧毁引擎.幸运的是,该系统具有下面的特点:无法手动激活,这有助于降低过度使用该系统所产生的负面效果.<b><color=#099ff2>不稳定!</color></b>."
+  },
+  {
+    "id": "Gear_EmergencyCoolant_4.Description.UIName",
+    "content": "紧急冷却系统 +4"
+  },
+  {
+    "id": "Gear_EmergencyCoolant_4.Description.Name",
+    "content": "紧急冷却系统"
+  },
+  {
+    "id": "Gear_EmergencyCoolant_4.Description.Manufacturer",
+    "content": "RISC"
+  },
+  {
+    "id": "Gear_EmergencyCoolant_4.EmergencyCooling.CAE0.Details",
+    "content": "紧急冷却系统极大的改善了机甲散热"
+  },
+  {
+    "id": "Gear_EmergencyCoolant_4.EmergencyCooling.CAE0.Name",
+    "content": "紧急冷却系统"
+  },
+  {
+    "id": "Gear_EmergencyCoolant_5.Description.Details",
+    "content": "共和国战略研究所开发的紧急冷却系统是激进散热系统的进一步发展. 它旨在当战斗机甲到达一定热量水平时自动激活以延长持续作战时间.该系统总体工作正常,但有灾难性故障趋势,可能在故障发生时摧毁引擎.幸运的是,该系统具有下面的特点:无法手动激活,这有助于降低过度使用该系统所产生的负面效果.<b><color=#099ff2>不稳定!</color></b>."
+  },
+  {
+    "id": "Gear_EmergencyCoolant_5.Description.UIName",
+    "content": "紧急冷却系统 +5"
+  },
+  {
+    "id": "Gear_EmergencyCoolant_5.Description.Name",
+    "content": "紧急冷却系统"
+  },
+  {
+    "id": "Gear_EmergencyCoolant_5.Description.Manufacturer",
+    "content": "RISC"
+  },
+  {
+    "id": "Gear_EmergencyCoolant_5.EmergencyCooling.CAE0.Details",
+    "content": "紧急冷却系统极大的改善了机甲散热"
+  },
+  {
+    "id": "Gear_EmergencyCoolant_5.EmergencyCooling.CAE0.Name",
+    "content": "紧急冷却系统"
+  },
+  {
+    "id": "Gear_EmergencyCoolant_6.Description.Details",
+    "content": "共和国战略研究所开发的紧急冷却系统是激进散热系统的进一步发展. 它旨在当战斗机甲到达一定热量水平时自动激活以延长持续作战时间.该系统总体工作正常,但有灾难性故障趋势,可能在故障发生时摧毁引擎.幸运的是,该系统具有下面的特点:无法手动激活,这有助于降低过度使用该系统所产生的负面效果.<b><color=#099ff2>不稳定!</color></b>."
+  },
+  {
+    "id": "Gear_EmergencyCoolant_6.Description.UIName",
+    "content": "紧急冷却系统 +6"
+  },
+  {
+    "id": "Gear_EmergencyCoolant_6.Description.Name",
+    "content": "紧急冷却系统"
+  },
+  {
+    "id": "Gear_EmergencyCoolant_6.Description.Manufacturer",
+    "content": "RISC"
+  },
+  {
+    "id": "Gear_EmergencyCoolant_6.EmergencyCooling.CAE0.Details",
+    "content": "紧急冷却系统极大的改善了机甲散热"
+  },
+  {
+    "id": "Gear_EmergencyCoolant_6.EmergencyCooling.CAE0.Name",
+    "content": "紧急冷却系统"
+  },
+  {
+    "id": "Gear_EmergencyCoolant_RISC.Description.Details",
+    "content": "共和国战略研究所开发的紧急冷却系统是激进散热系统的进一步发展. 它旨在当战斗机甲到达一定热量水平时自动激活以延长持续作战时间.该系统总体工作正常,但有灾难性故障趋势,可能在故障发生时摧毁引擎.幸运的是,该系统具有下面的特点:无法手动激活,这有助于降低过度使用该系统所产生的负面效果.<b><color=#099ff2>不稳定!</color></b>."
+  },
+  {
+    "id": "Gear_EmergencyCoolant_RISC.Description.UIName",
+    "content": "紧急冷却系统"
+  },
+  {
+    "id": "Gear_EmergencyCoolant_RISC.Description.Name",
+    "content": "紧急冷却系统"
+  },
+  {
+    "id": "Gear_EmergencyCoolant_RISC.Description.Manufacturer",
+    "content": "RISC"
+  },
+  {
+    "id": "Gear_EmergencyCoolant_RISC.EmergencyCooling.CAE0.Details",
+    "content": "紧急冷却系统极大的改善了机甲散热"
+  },
+  {
+    "id": "Gear_EmergencyCoolant_RISC.EmergencyCooling.CAE0.Name",
+    "content": "紧急冷却系统"
+  },
+  {
+    "id": "Gear_EmergencyCoolant_RISC_SH.Description.Details",
+    "content": "共和国战略研究所开发的紧急冷却系统是激进散热系统的进一步发展. 它旨在当战斗机甲到达一定热量水平时自动激活以延长持续作战时间. 该系统总体工作正常,但有灾难性故障趋势,可能在故障发生时摧毁引擎. 幸运的是,该系统具有下面的特点:无法手动激活,这有助于降低过度使用该系统所产生的负面效果.这是该系统的超重型版本、更进一步的改进版本,由于其与结构的融合程度,实际上无法从机体中移除<br><br><b><color=#099ff2>不稳定!</color></b>."
+  },
+  {
+    "id": "Gear_EmergencyCoolant_RISC_SH.Description.UIName",
+    "content": "紧急冷却系统(SH)"
+  },
+  {
+    "id": "Gear_EmergencyCoolant_RISC_SH.Description.Name",
+    "content": "紧急冷却系统"
+  },
+  {
+    "id": "Gear_EmergencyCoolant_RISC_SH.Description.Manufacturer",
+    "content": "RISC"
+  },
+  {
+    "id": "Gear_EmergencyCoolant_RISC_SH.EmergencyCooling.CAE0.Details",
+    "content": "紧急冷却系统极大的改善了机甲散热"
+  },
+  {
+    "id": "Gear_EmergencyCoolant_RISC_SH.EmergencyCooling.CAE0.Name",
+    "content": "紧急冷却系统"
+  },
+  {
+    "id": "lootable_kit_dhs_RISC.Description.Details",
+    "content": "将单散热器(SHS)引擎转换为双层散热器(DHS)模式,机甲的<b>冷却系统</b>.激进(Radical)散热器系统提供了像冷却液舱一样的清除余热的能力.然而激进散热器重复使用有失效的可能,特别是连续使用的情况下."
+  },
+  {
+    "id": "lootable_kit_dhs_RISC.Description.UIName",
+    "content": "激进散热器套件(D)"
+  },
+  {
+    "id": "lootable_kit_dhs_RISC.Description.Name",
+    "content": "双层引擎散热器套件"
+  },
+  {
+    "id": "lootable_kit_dhs_RISC.Description.Manufacturer",
+    "content": "失落技术"
+  },
+  {
+    "id": "lootable_kit_dhs_RISC.RadicalCooling.CAE0.Details",
+    "content": "激进散热系统彻底的改善了机甲的散热能力"
+  },
+  {
+    "id": "lootable_kit_dhs_RISC.RadicalCooling.CAE0.Name",
+    "content": "激进散热器系统"
+  },
+  {
+    "id": "radical_kit_chs.Description.Details",
+    "content": "将单散热器(SHS)引擎转换为激进的紧凑散热器(CHS)模式,机甲的<b>冷却系统</b>为机甲的内部部件提供冷却,并更改机甲上外部散热器挂载点的适配类型.它不同于引擎的封闭冷却系统."
+  },
+  {
+    "id": "radical_kit_chs.Description.UIName",
+    "content": "激进紧凑散热器套件"
+  },
+  {
+    "id": "radical_kit_chs.Description.Name",
+    "content": "紧凑型引擎散热器套件(C)"
+  },
+  {
+    "id": "radical_kit_chs.Description.Manufacturer",
+    "content": "失落技术"
+  },
+  {
+    "id": "radical_kit_chs.RadicalCooling.CAE0.Details",
+    "content": "激进散热系统彻底的改善了机甲的散热能力"
+  },
+  {
+    "id": "radical_kit_chs.RadicalCooling.CAE0.Name",
+    "content": "激进散热器系统"
+  },
+  {
+    "id": "Gear_Cockpit_Advanced_Small.Description.Details",
+    "content": "先进小型座舱配备了升级的控制和触觉系统,解决了\"狭窄\"座舱的经典问题"
+  },
+  {
+    "id": "Gear_Cockpit_Advanced_Small.Description.UIName",
+    "content": "先进小型座舱"
+  },
+  {
+    "id": "Gear_Cockpit_Advanced_Small.Description.Name",
+    "content": "小型座舱"
+  },
+  {
+    "id": "Gear_Cockpit_Advanced_Small.Description.Manufacturer",
+    "content": "原型"
+  },
+  {
+    "id": "Gear_Cockpit_Advanced_Small.CockpitBleed.statusEffects0.Details",
+    "content": "失血速度 x 0.6"
+  },
+  {
+    "id": "Gear_Cockpit_Advanced_Small.CockpitBleed.statusEffects0.Name",
+    "content": "降低失血速度"
+  },
+  {
+    "id": "Gear_Cockpit_Interface.Description.Details",
+    "content": "以利用氏族原型机甲设计为基础被布雷克之道开发出的实验性交互系统,该座舱完全不需要战斗机甲陀螺仪."
+  },
+  {
+    "id": "Gear_Cockpit_Interface.Description.UIName",
+    "content": "座舱接口"
+  },
+  {
+    "id": "Gear_Cockpit_Interface.Description.Name",
+    "content": "座舱接口"
+  },
+  {
+    "id": "Gear_Cockpit_Interface.Description.Manufacturer",
+    "content": "布莱克之道"
+  },
+  {
+    "id": "Gear_Cockpit_Interface.NightVision.statusEffects0.Details",
+    "content": "被动:开启夜视"
+  },
+  {
+    "id": "Gear_Cockpit_Interface.InterFaceMoveAfterShoot.statusEffects1.Details",
+    "content": "该单位在射击前后都可以移动."
+  },
+  {
+    "id": "Gear_Cockpit_Interface.HeadShotDamageImmunity.statusEffects2.Details",
+    "content": "头部被命中时,驾驶员不再受伤"
+  },
+  {
+    "id": "Gear_Cockpit_Interface.InterfaceureFoot.statusEffects3.Details",
+    "content": "被动:该单位从剩余的稳定中获得<<警戒>>(减免50%从侧面和前面的范围攻击伤害). 提升10%近战伤害."
+  },
+  {
+    "id": "Gear_Cockpit_Interface.InterfaceStabDmgReduction.statusEffects4.Details",
+    "content": "-30%即将到来的稳定伤害"
+  },
+  {
+    "id": "Gear_Cockpit_Interface.GyroGenericThreshhold.statusEffects5.Details",
+    "content": "陀螺仪有助于机甲稳定重心"
+  },
+  {
+    "id": "Gear_Cockpit_Interface.LV_ADVANCED_SENSORS.statusEffects6.Details",
+    "content": "提供敌军单位的详细信息"
+  },
+  {
+    "id": "Gear_Cockpit_Interface.MaxEvasion.statusEffects7.Details",
+    "content": "该单位从移动中获得额外的闪避(直到最大值)."
+  },
+  {
+    "id": "Gear_Cockpit_Interface.GainEvasion.statusEffects8.Details",
+    "content": "该单位从移动中获得额外的闪避(直到最大值)."
+  },
+  {
+    "id": "Gear_Cockpit_Interface.StatusEffect_Cockpit_Skill_Gunnery.statusEffects9.Details",
+    "content": "获得射击学增益"
+  },
+  {
+    "id": "Gear_Cockpit_Interface.StatusEffect_Cockpit_Skill_Piloting.statusEffects10.Details",
+    "content": "驾驶技能增益"
+  },
+  {
+    "id": "Gear_Cockpit_Interface.StatusEffect_Cockpit_Skill_Guts.statusEffects11.Details",
+    "content": "获得勇气技能增益"
+  },
+  {
+    "id": "Gear_Cockpit_Interface.StatusEffect_Cockpit_Skill_Tactics.statusEffects12.Details",
+    "content": "战术技能增益"
+  },
+  {
+    "id": "Gear_Cockpit_Interface.Torso-Mounted.statusEffects13.Details",
+    "content": "躯干装座舱,当头部被击中时不会受伤."
+  },
+  {
+    "id": "Gear_Cockpit_Interface.CockpitBleed.statusEffects14.Details",
+    "content": "失血速度 x 0.6"
+  },
+  {
+    "id": "Gear_Cockpit_Interface.NightVision.statusEffects0.Name",
+    "content": "夜视模式"
+  },
+  {
+    "id": "Gear_Cockpit_Interface.InterFaceMoveAfterShoot.statusEffects1.Name",
+    "content": "王牌驾驶员"
+  },
+  {
+    "id": "Gear_Cockpit_Interface.HeadShotDamageImmunity.statusEffects2.Name",
+    "content": "免疫"
+  },
+  {
+    "id": "Gear_Cockpit_Interface.InterfaceureFoot.statusEffects3.Name",
+    "content": "堡垒"
+  },
+  {
+    "id": "Gear_Cockpit_Interface.InterfaceStabDmgReduction.statusEffects4.Name",
+    "content": "降低即将到来的稳定伤害"
+  },
+  {
+    "id": "Gear_Cockpit_Interface.GyroGenericThreshhold.statusEffects5.Name",
+    "content": "陀螺仪稳定器"
+  },
+  {
+    "id": "Gear_Cockpit_Interface.LV_ADVANCED_SENSORS.statusEffects6.Name",
+    "content": "先进传感器"
+  },
+  {
+    "id": "Gear_Cockpit_Interface.MaxEvasion.statusEffects7.Name",
+    "content": "闪避机动"
+  },
+  {
+    "id": "Gear_Cockpit_Interface.GainEvasion.statusEffects8.Name",
+    "content": "闪避机动"
+  },
+  {
+    "id": "Gear_Cockpit_Interface.StatusEffect_Cockpit_Skill_Gunnery.statusEffects9.Name",
+    "content": "射击学增益"
+  },
+  {
+    "id": "Gear_Cockpit_Interface.StatusEffect_Cockpit_Skill_Piloting.statusEffects10.Name",
+    "content": "驾驶增益"
+  },
+  {
+    "id": "Gear_Cockpit_Interface.StatusEffect_Cockpit_Skill_Guts.statusEffects11.Name",
+    "content": "勇气增益"
+  },
+  {
+    "id": "Gear_Cockpit_Interface.StatusEffect_Cockpit_Skill_Tactics.statusEffects12.Name",
+    "content": "战术增益"
+  },
+  {
+    "id": "Gear_Cockpit_Interface.Torso-Mounted.statusEffects13.Name",
+    "content": "躯干安装"
+  },
+  {
+    "id": "Gear_Cockpit_Interface.CockpitBleed.statusEffects14.Name",
+    "content": "降低失血速度"
+  },
+  {
+    "id": "Gear_Cockpit_RISC.Description.Details",
+    "content": "RISC使用了众所周知的几个系统创造这个座舱,以提供更加广泛的防护和进攻能力"
+  },
+  {
+    "id": "Gear_Cockpit_RISC.Description.UIName",
+    "content": "RISC座舱"
+  },
+  {
+    "id": "Gear_Cockpit_RISC.Description.Name",
+    "content": "RISC防护型座舱"
+  },
+  {
+    "id": "Gear_Cockpit_RISC.Description.Manufacturer",
+    "content": "RISC"
+  },
+  {
+    "id": "Gear_Cockpit_RISC.LV_ADVANCED_SENSORS.statusEffects0.Details",
+    "content": "提供敌军单位的详细信息"
+  },
+  {
+    "id": "Gear_Cockpit_RISC.StatusEffect_Cockpit_Skill_Guts.statusEffects1.Details",
+    "content": "获得勇气技能增益"
+  },
+  {
+    "id": "Gear_Cockpit_RISC.StatusEffect_Cockpit_Skill_Tactics.statusEffects2.Details",
+    "content": "战术技能增益"
+  },
+  {
+    "id": "Gear_Cockpit_RISC.Status-ArmorCowlStructure-{location}.statusEffects3.Details",
+    "content": "改进头部结构"
+  },
+  {
+    "id": "Gear_Cockpit_RISC.Status-ArmorCowlArmor-{location}.statusEffects4.Details",
+    "content": "改进头部装甲"
+  },
+  {
+    "id": "Gear_Cockpit_RISC.StatusEffect-Pilot_HealthAdd-T1.statusEffects5.Details",
+    "content": "为机甲战士承受[AMT]伤害"
+  },
+  {
+    "id": "Gear_Cockpit_RISC.CockpitBleed.statusEffects6.Details",
+    "content": "失血速度 x 0.6"
+  },
+  {
+    "id": "Gear_Cockpit_RISC.LV_ADVANCED_SENSORS.statusEffects0.Name",
+    "content": "先进传感器"
+  },
+  {
+    "id": "Gear_Cockpit_RISC.StatusEffect_Cockpit_Skill_Guts.statusEffects1.Name",
+    "content": "勇气增益"
+  },
+  {
+    "id": "Gear_Cockpit_RISC.StatusEffect_Cockpit_Skill_Tactics.statusEffects2.Name",
+    "content": "战术增益"
+  },
+  {
+    "id": "Gear_Cockpit_RISC.Status-ArmorCowlStructure-{location}.statusEffects3.Name",
+    "content": "装甲前围"
+  },
+  {
+    "id": "Gear_Cockpit_RISC.Status-ArmorCowlArmor-{location}.statusEffects4.Name",
+    "content": "装甲前围"
+  },
+  {
+    "id": "Gear_Cockpit_RISC.StatusEffect-Pilot_HealthAdd-T1.statusEffects5.Name",
+    "content": "最大承受伤害增加了"
+  },
+  {
+    "id": "Gear_Cockpit_RISC.CockpitBleed.statusEffects6.Name",
+    "content": "降低失血速度"
+  },
+  {
+    "id": "Gear_FCS_RISC.Description.Details",
+    "content": "RISC基础火控系统结合了多种内天体和氏族的科技."
+  },
+  {
+    "id": "Gear_FCS_RISC.Description.UIName",
+    "content": "RISC火控系统"
+  },
+  {
+    "id": "Gear_FCS_RISC.Description.Name",
+    "content": "法康(Facon)目标追踪套件"
+  },
+  {
+    "id": "Gear_FCS_RISC.Description.Manufacturer",
+    "content": "RISC"
+  },
+  {
+    "id": "Gear_FCS_RISC.TC-Breaching.statusEffects0.Details",
+    "content": "被动:使用单武器攻击时忽略目标的遮蔽和守备状态."
+  },
+  {
+    "id": "Gear_FCS_RISC.StatusEffect-FCS_Flak.statusEffects1.Details",
+    "content": "闪避1忽略."
+  },
+  {
+    "id": "Gear_FCS_RISC.TC-Breaching.statusEffects0.Name",
+    "content": "突破射击"
+  },
+  {
+    "id": "Gear_FCS_RISC.StatusEffect-FCS_Flak.statusEffects1.Name",
+    "content": "RISC火控系统"
+  },
+  {
+    "id": "Gear_Pulse_Module.Description.Details",
+    "content": "在著名的停电前不久,共和国战略研究所(RISXC)开发了脉冲激光模块,最初被设计用于安装在任何标准和增程激光上,使其拥有替换的射击模式,该模式增加了热量输出,但提高到了与脉冲激光相同的精度.最近对原型设计的迭代通过稍微延长脉冲持续时间,允许更多的气化破坏装甲,从而能够集成到现有的脉冲激光中."
+  },
+  {
+    "id": "Gear_Pulse_Module.Description.UIName",
+    "content": "脉冲激光模块"
+  },
+  {
+    "id": "Gear_Pulse_Module.Description.Name",
+    "content": "脉冲模块"
+  },
+  {
+    "id": "Gear_Pulse_Module.Description.Manufacturer",
+    "content": "RISC"
+  },
+  {
+    "id": "Gear_Pulse_Module.StatusEffect-Attack_PMODULE.CAE0.Details",
+    "content": "增加激光精度y."
+  },
+  {
+    "id": "Gear_Pulse_Module.StatusEffect-Attack2_PMODULE.CAE1.Details",
+    "content": "增加激光精度y."
+  },
+  {
+    "id": "Gear_Pulse_Module.StatusEffect-Heat_PMODULE.CAE2.Details",
+    "content": "20%产热."
+  },
+  {
+    "id": "Gear_Pulse_Module.StatusEffect-Heat2_PMODULE.CAE3.Details",
+    "content": "保持9恒定产热"
+  },
+  {
+    "id": "Gear_Pulse_Module.StatusEffect-Attack_PMODULE.CAE0.Name",
+    "content": "脉冲模块"
+  },
+  {
+    "id": "Gear_Pulse_Module.StatusEffect-Attack2_PMODULE.CAE1.Name",
+    "content": "脉冲模块"
+  },
+  {
+    "id": "Gear_Pulse_Module.StatusEffect-Heat_PMODULE.CAE2.Name",
+    "content": "增加热量"
+  },
+  {
+    "id": "Gear_Pulse_Module.StatusEffect-Heat2_PMODULE.CAE3.Name",
+    "content": "增加热量"
+  },
+  {
+    "id": "Gear_Sensors_RISC.Description.Details",
+    "content": "基于传奇的阁楼DJ12通讯套件,RISC的科学家成功创建了一个具有大规模生产能力的传感器套件,其中包含先进的ECM和增强扫描功能."
+  },
+  {
+    "id": "Gear_Sensors_RISC.Description.UIName",
+    "content": "RISC传感器"
+  },
+  {
+    "id": "Gear_Sensors_RISC.Description.Name",
+    "content": "斯科贝尔波(Skobel Wave)VII通讯套件"
+  },
+  {
+    "id": "Gear_Sensors_RISC.Description.Manufacturer",
+    "content": "RISC"
+  },
+  {
+    "id": "Gear_Sensors_RISC.LV_ADVANCED_SENSORS.statusEffects0.Details",
+    "content": "提供敌军单位的详细信息"
+  },
+  {
+    "id": "Gear_Sensors_RISC.LV_Shares_Vision.statusEffects1.Details",
+    "content": "当队友移动时显示他们的视野"
+  },
+  {
+    "id": "Gear_Sensors_RISC.LV_ADVANCED_SENSORS.statusEffects0.Name",
+    "content": "先进传感器"
+  },
+  {
+    "id": "Gear_Sensors_RISC.LV_Shares_Vision.statusEffects1.Name",
+    "content": "视野共享"
+  },
+  {
+    "id": "Gear_Turret.Description.Details",
+    "content": "战斗机甲炮塔可以安装在躯干位置,可以提高安装在同一位置任何武器的精度和目标追踪."
+  },
+  {
+    "id": "Gear_Turret.Description.UIName",
+    "content": "炮塔安装"
+  },
+  {
+    "id": "Gear_Turret.Description.Name",
+    "content": "炮塔安装"
+  },
+  {
+    "id": "Gear_Turret.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Gear_Turret.Status-TurretAccuracy-{location}.statusEffects0.Details",
+    "content": "+3炮塔安装精度"
+  },
+  {
+    "id": "Gear_Turret.Status-TurretAccuracy-{location}.statusEffects0.Name",
+    "content": "炮塔精度"
+  },
+  {
+    "id": "SMHGR_Side.Description.Details",
+    "content": "这是一种拼接材料(如纤维钢装甲、内构钢或超轻复合材料),它们以较轻的重量提供相同的保护,但需要关键槽. "
+  },
+  {
+    "id": "SMHGR_Side.Description.UIName",
+    "content": "脊柱支架躯干槽"
+  },
+  {
+    "id": "SMHGR_Side.Description.Name",
+    "content": "脊柱支架躯干槽"
+  },
+  {
+    "id": "SMHGR_Side.Description.Manufacturer",
+    "content": "RISC"
+  },
+  {
+    "id": "Weapon_AMS_Advanced.Description.Details",
+    "content": "\"铁穹\"先进点防御系统,也被称为APD或APDS,是一种反导系统,目的是为了保护多个单位免受来袭导弹的攻击,能够让一层金属弹药覆盖天空.\n\n<b><color=#ffcc00>使用AMS弹药</color></b> "
+  },
+  {
+    "id": "Weapon_AMS_Advanced.Description.UIName",
+    "content": "先进AMS"
+  },
+  {
+    "id": "Weapon_AMS_Advanced.Description.Name",
+    "content": "先进AMS"
+  },
+  {
+    "id": "Weapon_AMS_Advanced.Description.Manufacturer",
+    "content": "RISC"
+  },
+  {
+    "id": "Weapon_Gauss_Taser.Description.Details",
+    "content": "战斗机甲泰瑟枪是一种经过改装的金属鱼叉,通过与发射装置相连的电线向目标发射一个巨大的电脉冲.该脉冲的目的是使目标的电气系统过载,并有希望使目标单位关闭.这使得携带泰瑟枪的单位可以捕获目标单位,而不是摧毁目标.\n\n<b><color=#ffcc00>使用泰瑟弹药</color></b> \n\n<b><color=#099ff2>不稳定!</color></b>"
+  },
+  {
+    "id": "Weapon_Gauss_Taser.Description.UIName",
+    "content": "泰瑟"
+  },
+  {
+    "id": "Weapon_Gauss_Taser.Description.Name",
+    "content": "泰瑟步枪"
+  },
+  {
+    "id": "Weapon_Gauss_Taser.Description.Manufacturer",
+    "content": "约翰斯顿"
+  },
+  {
+    "id": "Weapon_Gauss_Taser.HeatDamageTakenSoftCapMultiplier.statusEffects0.Details",
+    "content": "-1%热伤害"
+  },
+  {
+    "id": "Weapon_Gauss_Taser.Taser-Effect.statusEffects1.Details",
+    "content": "机甲系统已被扰乱"
+  },
+  {
+    "id": "Weapon_Gauss_Taser.Taser-Effect1.statusEffects2.Details",
+    "content": "降低机甲的移动."
+  },
+  {
+    "id": "Weapon_Gauss_Taser.Taser-Effect3.statusEffects3.Details",
+    "content": "机甲冷却系统受损"
+  },
+  {
+    "id": "Weapon_Gauss_Taser.WeaponEffect-OnHitShutdownChanceVee.statusEffects4.Details",
+    "content": "扎比先生"
+  },
+  {
+    "id": "Weapon_Gauss_Taser.WeaponEffect-OnHitShutdownChance.statusEffects5.Details",
+    "content": "扎比先生"
+  },
+  {
+    "id": "Weapon_Gauss_Taser.WeaponEffect-StackingShutdownChance.statusEffects6.Details",
+    "content": "扎比先生"
+  },
+  {
+    "id": "Weapon_Gauss_Taser.HeatDamageTakenSoftCapMultiplier.statusEffects0.Name",
+    "content": "4%热软限额"
+  },
+  {
+    "id": "Weapon_Gauss_Taser.Taser-Effect.statusEffects1.Name",
+    "content": "被扰乱"
+  },
+  {
+    "id": "Weapon_Gauss_Taser.Taser-Effect1.statusEffects2.Name",
+    "content": "步行障碍"
+  },
+  {
+    "id": "Weapon_Gauss_Taser.Taser-Effect3.statusEffects3.Name",
+    "content": "冷却系统受损"
+  },
+  {
+    "id": "Weapon_Gauss_Taser.WeaponEffect-OnHitShutdownChanceVee.statusEffects4.Name",
+    "content": "扎比先生"
+  },
+  {
+    "id": "Weapon_Gauss_Taser.WeaponEffect-OnHitShutdownChance.statusEffects5.Name",
+    "content": "扎比先生"
+  },
+  {
+    "id": "Weapon_Gauss_Taser.WeaponEffect-StackingShutdownChance.statusEffects6.Name",
+    "content": "扎比先生"
+  },
+  {
+    "id": "Weapon_Laser_HyperLargeLaser.Description.Details",
+    "content": "RISC超级激光是一种实验性重激光,源于氏族改进的重激光系列.超级激光是重激光技术的最终发展,但它是由RISC工程师而不是由氏族开发的.由于激光屏蔽和等离子体激光化学方面的突破,超级激光是极具破坏性和极远射程的武器,但巨大的热应力和物理应力使这种武器极易发生爆炸故障<b><color=#099ff2>不稳定!</color></b> "
+  },
+  {
+    "id": "Weapon_Laser_HyperLargeLaser.Description.UIName",
+    "content": "超级激光"
+  },
+  {
+    "id": "Weapon_Laser_HyperLargeLaser.Description.Name",
+    "content": "超级激光"
+  },
+  {
+    "id": "Weapon_Laser_HyperLargeLaser.Description.Manufacturer",
+    "content": "RISC"
+  },
+  {
+    "id": "Weapon_PPC_TSEMP.Description.Details",
+    "content": "紧固流电磁脉冲(TSEMP)加农炮是一种基于泰瑟系统的定向能武器,但不需要布线和电容器.安装TSEMP加农炮的单位每次发射时都会受到传感器和电子系统的干扰.用于给加农炮充电的电容器在两次发射间必须要重充电,因此驾驶员必须在两次射击前等待."
+  },
+  {
+    "id": "Weapon_PPC_TSEMP.Description.UIName",
+    "content": "TSEMP加农炮"
+  },
+  {
+    "id": "Weapon_PPC_TSEMP.Description.Name",
+    "content": "TSEMP"
+  },
+  {
+    "id": "Weapon_PPC_TSEMP.Description.Manufacturer",
+    "content": "扶丝贡"
+  },
+  {
+    "id": "Weapon_PPC_TSEMP.HeatDamageTakenSoftCapMultiplier.statusEffects0.Details",
+    "content": "-1%热伤害"
+  },
+  {
+    "id": "Weapon_PPC_TSEMP.AbilityDefPPC.statusEffects1.Details",
+    "content": "电磁干扰降低传感器效率."
+  },
+  {
+    "id": "Weapon_PPC_TSEMP.TSEMP-Effect1.statusEffects2.Details",
+    "content": "降低机甲的移动."
+  },
+  {
+    "id": "Weapon_PPC_TSEMP.TSEMP-Effect3.statusEffects3.Details",
+    "content": "机甲冷却系统受损"
+  },
+  {
+    "id": "Weapon_PPC_TSEMP.WeaponEffect-OnHitShutdownChanceVee.statusEffects4.Details",
+    "content": "扎比先生"
+  },
+  {
+    "id": "Weapon_PPC_TSEMP.WeaponEffect-OnHitShutdownChance.statusEffects5.Details",
+    "content": "扎比先生"
+  },
+  {
+    "id": "Weapon_PPC_TSEMP.WeaponEffect-StackingShutdownChance.statusEffects6.Details",
+    "content": "扎比先生"
+  },
+  {
+    "id": "Weapon_PPC_TSEMP.HeatDamageTakenSoftCapMultiplier.statusEffects0.Name",
+    "content": "5%热软限额"
+  },
+  {
+    "id": "Weapon_PPC_TSEMP.AbilityDefPPC.statusEffects1.Name",
+    "content": "传感器削弱"
+  },
+  {
+    "id": "Weapon_PPC_TSEMP.TSEMP-Effect1.statusEffects2.Name",
+    "content": "步行障碍"
+  },
+  {
+    "id": "Weapon_PPC_TSEMP.TSEMP-Effect3.statusEffects3.Name",
+    "content": "冷却系统受损"
+  },
+  {
+    "id": "Weapon_PPC_TSEMP.WeaponEffect-OnHitShutdownChanceVee.statusEffects4.Name",
+    "content": "扎比先生"
+  },
+  {
+    "id": "Weapon_PPC_TSEMP.WeaponEffect-OnHitShutdownChance.statusEffects5.Name",
+    "content": "扎比先生"
+  },
+  {
+    "id": "Weapon_PPC_TSEMP.WeaponEffect-StackingShutdownChance.statusEffects6.Name",
+    "content": "扎比先生"
+  },
+  {
+    "id": "Weapon_PPC_TSEMP_OS.Description.Details",
+    "content": "紧固流电磁脉冲(TSEMP)加农炮是一种基于泰瑟系统的定向能武器,但不需要布线和电容器.安装TSEMP加农炮的单位每次发射时都会受到传感器和电子系统的干扰.此版本只能发射1发."
+  },
+  {
+    "id": "Weapon_PPC_TSEMP_OS.Description.UIName",
+    "content": "TSEMP加农炮(OS)"
+  },
+  {
+    "id": "Weapon_PPC_TSEMP_OS.Description.Name",
+    "content": "TSEMP"
+  },
+  {
+    "id": "Weapon_PPC_TSEMP_OS.Description.Manufacturer",
+    "content": "扶丝贡"
+  },
+  {
+    "id": "Weapon_PPC_TSEMP_OS.HeatDamageTakenSoftCapMultiplier.statusEffects0.Details",
+    "content": "-1%热伤害"
+  },
+  {
+    "id": "Weapon_PPC_TSEMP_OS.AbilityDefPPC.statusEffects1.Details",
+    "content": "电磁干扰降低传感器效率."
+  },
+  {
+    "id": "Weapon_PPC_TSEMP_OS.TSEMP-Effect1.statusEffects2.Details",
+    "content": "降低机甲的移动."
+  },
+  {
+    "id": "Weapon_PPC_TSEMP_OS.TSEMP-Effect3.statusEffects3.Details",
+    "content": "机甲冷却系统受损"
+  },
+  {
+    "id": "Weapon_PPC_TSEMP_OS.WeaponEffect-OnHitShutdownChance.statusEffects4.Details",
+    "content": "扎比先生"
+  },
+  {
+    "id": "Weapon_PPC_TSEMP_OS.HeatDamageTakenSoftCapMultiplier.statusEffects0.Name",
+    "content": "5%热软限额"
+  },
+  {
+    "id": "Weapon_PPC_TSEMP_OS.AbilityDefPPC.statusEffects1.Name",
+    "content": "传感器削弱"
+  },
+  {
+    "id": "Weapon_PPC_TSEMP_OS.TSEMP-Effect1.statusEffects2.Name",
+    "content": "步行障碍"
+  },
+  {
+    "id": "Weapon_PPC_TSEMP_OS.TSEMP-Effect3.statusEffects3.Name",
+    "content": "冷却系统受损"
+  },
+  {
+    "id": "Weapon_PPC_TSEMP_OS.WeaponEffect-OnHitShutdownChance.statusEffects4.Name",
+    "content": "扎比先生"
+  },
+  {
+    "id": "Weapon_Repeating_TSEMP.Description.Details",
+    "content": "重复紧固流电磁脉冲(TSEMP)加农炮是一种定向能武器,是对TSEMP的升级. 以可靠性换取效率,可以使这种TSEMP更频繁的射击."
+  },
+  {
+    "id": "Weapon_Repeating_TSEMP.Description.UIName",
+    "content": "重复TSEMP"
+  },
+  {
+    "id": "Weapon_Repeating_TSEMP.Description.Name",
+    "content": "TSEMP"
+  },
+  {
+    "id": "Weapon_Repeating_TSEMP.Description.Manufacturer",
+    "content": "RISC"
+  },
+  {
+    "id": "Weapon_Repeating_TSEMP.HeatDamageTakenSoftCapMultiplier.statusEffects0.Details",
+    "content": "-1%热伤害"
+  },
+  {
+    "id": "Weapon_Repeating_TSEMP.AbilityDefPPC.statusEffects1.Details",
+    "content": "电磁干扰降低传感器效率."
+  },
+  {
+    "id": "Weapon_Repeating_TSEMP.TSEMP-Effect1.statusEffects2.Details",
+    "content": "降低机甲的移动."
+  },
+  {
+    "id": "Weapon_Repeating_TSEMP.TSEMP-Effect3.statusEffects3.Details",
+    "content": "机甲冷却系统受损"
+  },
+  {
+    "id": "Weapon_Repeating_TSEMP.WeaponEffect-OnHitShutdownChanceVee.statusEffects4.Details",
+    "content": "扎比先生"
+  },
+  {
+    "id": "Weapon_Repeating_TSEMP.WeaponEffect-OnHitShutdownChance.statusEffects5.Details",
+    "content": "扎比先生"
+  },
+  {
+    "id": "Weapon_Repeating_TSEMP.WeaponEffect-StackingShutdownChance.statusEffects6.Details",
+    "content": "扎比先生"
+  },
+  {
+    "id": "Weapon_Repeating_TSEMP.HeatDamageTakenSoftCapMultiplier.statusEffects0.Name",
+    "content": "5%热软限额"
+  },
+  {
+    "id": "Weapon_Repeating_TSEMP.AbilityDefPPC.statusEffects1.Name",
+    "content": "传感器削弱"
+  },
+  {
+    "id": "Weapon_Repeating_TSEMP.TSEMP-Effect1.statusEffects2.Name",
+    "content": "步行障碍"
+  },
+  {
+    "id": "Weapon_Repeating_TSEMP.TSEMP-Effect3.statusEffects3.Name",
+    "content": "冷却系统受损"
+  },
+  {
+    "id": "Weapon_Repeating_TSEMP.WeaponEffect-OnHitShutdownChanceVee.statusEffects4.Name",
+    "content": "扎比先生"
+  },
+  {
+    "id": "Weapon_Repeating_TSEMP.WeaponEffect-OnHitShutdownChance.statusEffects5.Name",
+    "content": "扎比先生"
+  },
+  {
+    "id": "Weapon_Repeating_TSEMP.WeaponEffect-StackingShutdownChance.statusEffects6.Name",
+    "content": "扎比先生"
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "id": "Weapon_AMS.Description.Details",
+    "content": "反导系统(AMS)用于在导弹击中它们的目标前摧毁导弹.通过向导弹开火的近程快速射击武器来实现.\n\n<b><color=#ffcc00>使用AMS弹药</color></b>. "
+  },
+  {
+    "id": "Weapon_AMS.Description.UIName",
+    "content": "AMS"
+  },
+  {
+    "id": "Weapon_AMS.Description.Name",
+    "content": "AMS"
+  },
+  {
+    "id": "Weapon_AMS.Description.Manufacturer",
+    "content": "北方佬武器系统"
+  },
+  {
+    "id": "Weapon_AMS_ADV_Pirate.Description.Details",
+    "content": "某些特立独行的人制作了这件武器;不管怎么说,他们比普通人更具工程意识.这是两个轻型机枪阵列,它们被强制安装在AMS的万向架上,并接驳到一个复杂的自动跟踪雷达上. \n\n<b><color=#ffcc00>使用LMG弹药</color></b>."
+  },
+  {
+    "id": "Weapon_AMS_ADV_Pirate.Description.UIName",
+    "content": "先进AMS(P)"
+  },
+  {
+    "id": "Weapon_AMS_ADV_Pirate.Description.Name",
+    "content": "先进AMS(P)"
+  },
+  {
+    "id": "Weapon_AMS_ADV_Pirate.Description.Manufacturer",
+    "content": "某个白痴"
+  },
+  {
+    "id": "Weapon_AMS_CLAN.Description.Details",
+    "content": "反导系统(AMS)用于在导弹击中它们的目标前摧毁导弹.通过射向导弹的近程快速射击武器来实现.\n\n<b><color=#ffcc00>使用AMS弹药</color></b>. "
+  },
+  {
+    "id": "Weapon_AMS_CLAN.Description.UIName",
+    "content": "AMS(C)"
+  },
+  {
+    "id": "Weapon_AMS_CLAN.Description.Name",
+    "content": "氏族AMS"
+  },
+  {
+    "id": "Weapon_AMS_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_AMS_MK2.Description.Details",
+    "content": "反导系统(AMS)用于在导弹命中目标前摧毁来袭导弹.布兰肯堡技术公司的麦克阿瑟II通过一个极其复杂的目标定位系统来提供更好防护,使其能够跟踪所有任何来袭导弹.\n\n<b><color=#ffcc00>使用AMS弹药</color></b>. "
+  },
+  {
+    "id": "Weapon_AMS_MK2.Description.UIName",
+    "content": "AMS MK2"
+  },
+  {
+    "id": "Weapon_AMS_MK2.Description.Name",
+    "content": "AMS MK2"
+  },
+  {
+    "id": "Weapon_AMS_MK2.Description.Manufacturer",
+    "content": "布兰肯堡技术公司"
+  },
+  {
+    "id": "Weapon_Laser_AMS.Description.Details",
+    "content": "激光反导系统(LAMS)是标准反导系统的高级变体.标准系统使用与专用追踪系统相连的机枪,而LAMS使用小型脉冲激光,确保系统永远不会耗尽弹药."
+  },
+  {
+    "id": "Weapon_Laser_AMS.Description.UIName",
+    "content": "激光AMS"
+  },
+  {
+    "id": "Weapon_Laser_AMS.Description.Name",
+    "content": "激光反导系统"
+  },
+  {
+    "id": "Weapon_Laser_AMS.Description.Manufacturer",
+    "content": "DS航空"
+  },
+  {
+    "id": "Weapon_Laser_AMS_CLAN.Description.Details",
+    "content": "激光反导系统(LAMS)是标准反导系统的高级变体.标准系统使用与专用追踪系统相连的机枪,而LAMS使用小型脉冲激光,确保系统永远不会耗尽弹药."
+  },
+  {
+    "id": "Weapon_Laser_AMS_CLAN.Description.UIName",
+    "content": "激光AMS(C)"
+  },
+  {
+    "id": "Weapon_Laser_AMS_CLAN.Description.Name",
+    "content": "氏族LAMS"
+  },
+  {
+    "id": "Weapon_Laser_AMS_CLAN.Description.Manufacturer",
+    "content": "DS航空"
+  },
+  {
+    "id": "Weapon_Laser_AMS_Integrated.Description.Details",
+    "content": "这种装甲装备有一个集成激光反导系统(LAMS),将许多较小的脉冲激光装在机甲中,以增强拦截能力."
+  },
+  {
+    "id": "Weapon_Laser_AMS_Integrated.Description.UIName",
+    "content": "集成激光AMS"
+  },
+  {
+    "id": "Weapon_Laser_AMS_Integrated.Description.Name",
+    "content": "集成LAMS"
+  },
+  {
+    "id": "Weapon_Laser_AMS_Integrated.Description.Manufacturer",
+    "content": "珍妮塞克公司"
+  },
+  {
+    "id": "Weapon_Laser_AMS_Pirate.Description.Details",
+    "content": "老板,你从那弄到这么多废物的?这是一架WLF-1X的LAMS,但他们在其中安装了一个APDS跟踪系统,将一个电容器热连接到其中,手工打造了一个透镜系统,看起来像是大型脉冲激光....."
+  },
+  {
+    "id": "Weapon_Laser_AMS_Pirate.Description.UIName",
+    "content": "激光AMS(P)"
+  },
+  {
+    "id": "Weapon_Laser_AMS_Pirate.Description.Name",
+    "content": "自制LAMS"
+  },
+  {
+    "id": "Weapon_Laser_AMS_Pirate.Description.Manufacturer",
+    "content": "DS航空"
+  }
+]

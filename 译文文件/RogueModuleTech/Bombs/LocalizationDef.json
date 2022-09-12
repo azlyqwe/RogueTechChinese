@@ -1,0 +1,522 @@
+[
+  {
+    "id": "Universal_InternalBombBay.Description.Details",
+    "content": "能够容纳更换多种弹药的内部挂载点系统.\n\n<b><color=#ff0066>该武器所有的状态都来自其装载的弹药</color></b> \n\n<b><color=#ff0066>需要专用槽和挂载点弹药</color></b>."
+  },
+  {
+    "id": "Universal_InternalBombBay.Description.UIName",
+    "content": "内部挂载点"
+  },
+  {
+    "id": "Universal_InternalBombBay.Description.Name",
+    "content": "内部弹舱"
+  },
+  {
+    "id": "Universal_InternalBombBay.Description.Manufacturer",
+    "content": "洛克希德-CBM"
+  },
+  {
+    "id": "Universal_WingMount.Description.Details",
+    "content": "能够容纳更换多种弹药的外部挂载点系统.\n\n<b><color=#ff0066>该武器所有的状态都来自其装载的弹药</color></b> \n\n<b><color=#ff0066>需要专用槽和挂载点弹药</color></b>."
+  },
+  {
+    "id": "Universal_WingMount.Description.UIName",
+    "content": "外部挂载点"
+  },
+  {
+    "id": "Universal_WingMount.Description.Name",
+    "content": "外部挂载点"
+  },
+  {
+    "id": "Universal_WingMount.Description.Manufacturer",
+    "content": "洛克希德-CBM"
+  },
+  {
+    "id": "Weapon_Bomb_2_ATGM10.Description.Details",
+    "content": "高爆炸弹是空天飞机和常规战斗机可携带的几种常见炸弹类型之一.他们通常在军用飞机常见的外部挂载点上携带."
+  },
+  {
+    "id": "Weapon_Bomb_2_ATGM10.Description.UIName",
+    "content": "ATGM导弹架"
+  },
+  {
+    "id": "Weapon_Bomb_2_ATGM10.Description.Name",
+    "content": "ATGM导弹架"
+  },
+  {
+    "id": "Weapon_Bomb_2_ATGM10.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Weapon_Bomb_2_Cluster.Description.Details",
+    "content": "集束炸弹是一种特殊类型的高爆炸弹,可以在大范围造成破坏.他们通常在军用飞机的外部挂载点上携带."
+  },
+  {
+    "id": "Weapon_Bomb_2_Cluster.Description.UIName",
+    "content": "集束炸弹架 x2"
+  },
+  {
+    "id": "Weapon_Bomb_2_Cluster.Description.Name",
+    "content": "集束炸弹"
+  },
+  {
+    "id": "Weapon_Bomb_2_Cluster.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Weapon_Bomb_2_Guided.Description.Details",
+    "content": "高爆炸弹是空天飞机和常规战斗机可携带的几种常见炸弹类型之一.他们通常在军用飞机常见的外部挂载点上携带."
+  },
+  {
+    "id": "Weapon_Bomb_2_Guided.Description.UIName",
+    "content": "制导炸弹架 x2"
+  },
+  {
+    "id": "Weapon_Bomb_2_Guided.Description.Name",
+    "content": "制导炸弹"
+  },
+  {
+    "id": "Weapon_Bomb_2_Guided.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Weapon_Bomb_2_HE.Description.Details",
+    "content": "高爆炸弹是空天飞机和常规战斗机可携带的几种常见炸弹类型之一.他们通常在军用飞机常见的外部挂载点上携带."
+  },
+  {
+    "id": "Weapon_Bomb_2_HE.Description.UIName",
+    "content": "高爆炸弹架 x2"
+  },
+  {
+    "id": "Weapon_Bomb_2_HE.Description.Name",
+    "content": "高爆炸弹"
+  },
+  {
+    "id": "Weapon_Bomb_2_HE.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Weapon_Bomb_2_Inferno.Description.Details",
+    "content": "炼狱炸弹是空投弹药,使用与其他武器系统相同的炼狱技术.虽然不如普通高爆弹药常见,但炼狱炸弹可用于对敌人编队造成严重破坏或毁灭丛林或森林地区."
+  },
+  {
+    "id": "Weapon_Bomb_2_Inferno.Description.UIName",
+    "content": "炼狱炸弹架 x2"
+  },
+  {
+    "id": "Weapon_Bomb_2_Inferno.Description.Name",
+    "content": "炼狱炸弹"
+  },
+  {
+    "id": "Weapon_Bomb_2_Inferno.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Weapon_Bomb_2_Inferno.HeatDamageTakenSoftCapMultiplier.statusEffects0.Details",
+    "content": "-1%热伤害"
+  },
+  {
+    "id": "Weapon_Bomb_2_Inferno.HeatDamageTakenSoftCapMultiplier.statusEffects0.Name",
+    "content": "5%热软限额"
+  },
+  {
+    "id": "Weapon_Bomb_2_LightAA_Twin.Description.Details",
+    "content": "不如天琴同盟国和狼氏族推出的空对空箭导弹威力强大,这种更小的空对空导弹版本首次亮相在塔马林德公国的盟军航空部队和艾丽斯·罗塞特·马里克公爵夫人的抵抗运动.这些轻型空空导弹(LAA)体积更小、重量更轻可以由更小的战斗机携带,在大气圈中作战产生的阻力要小的多."
+  },
+  {
+    "id": "Weapon_Bomb_2_LightAA_Twin.Description.UIName",
+    "content": "轻型空空导弹架"
+  },
+  {
+    "id": "Weapon_Bomb_2_LightAA_Twin.Description.Name",
+    "content": "轻型空空导弹架"
+  },
+  {
+    "id": "Weapon_Bomb_2_LightAA_Twin.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Weapon_Bomb_2_Mine.Description.Details",
+    "content": "雷电炸弹,众所周知的FASCAM炸弹,是人类霸权在2623年发明的雷电箭导弹的空投版本."
+  },
+  {
+    "id": "Weapon_Bomb_2_Mine.Description.UIName",
+    "content": "布雷炸弹架 x2"
+  },
+  {
+    "id": "Weapon_Bomb_2_Mine.Description.Name",
+    "content": "布雷炸弹"
+  },
+  {
+    "id": "Weapon_Bomb_2_Mine.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Weapon_Bomb_2_Mine_Inferno.Description.Details",
+    "content": "雷电炸弹,众所周知的FASCAM炸弹,是人类霸权在2623年发明的雷电箭导弹的空投版本."
+  },
+  {
+    "id": "Weapon_Bomb_2_Mine_Inferno.Description.UIName",
+    "content": "炼狱布雷炸弹架 x2"
+  },
+  {
+    "id": "Weapon_Bomb_2_Mine_Inferno.Description.Name",
+    "content": "炼狱布雷炸弹"
+  },
+  {
+    "id": "Weapon_Bomb_2_Mine_Inferno.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Weapon_Bomb_3_Missile_AAiATM12.Description.Details",
+    "content": " <b><color=#F79232>3发装!</color> </b> <b><color=#099ff2>不稳定!</color></b>"
+  },
+  {
+    "id": "Weapon_Bomb_3_Missile_AAiATM12.Description.UIName",
+    "content": "空空iATM支架"
+  },
+  {
+    "id": "Weapon_Bomb_3_Missile_AAiATM12.Description.Name",
+    "content": "空空iATM支架"
+  },
+  {
+    "id": "Weapon_Bomb_3_Missile_AAiATM12.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_Bomb_4_Guided.Description.Details",
+    "content": "高爆炸弹是空天飞机和常规战斗机可携带的几种常见炸弹类型之一.他们通常在军用飞机常见的外部挂载点上携带."
+  },
+  {
+    "id": "Weapon_Bomb_4_Guided.Description.UIName",
+    "content": "制导炸弹架 x4"
+  },
+  {
+    "id": "Weapon_Bomb_4_Guided.Description.Name",
+    "content": "制导炸弹"
+  },
+  {
+    "id": "Weapon_Bomb_4_Guided.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Weapon_Bomb_4_HE.Description.Details",
+    "content": "高爆炸弹是空天飞机和常规战斗机可携带的几种常见炸弹类型之一.他们通常在军用飞机常见的外部挂载点上携带."
+  },
+  {
+    "id": "Weapon_Bomb_4_HE.Description.UIName",
+    "content": "高爆炸弹发射架 x4"
+  },
+  {
+    "id": "Weapon_Bomb_4_HE.Description.Name",
+    "content": "高爆炸弹"
+  },
+  {
+    "id": "Weapon_Bomb_4_HE.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Weapon_Bomb_4_Inferno.Description.Details",
+    "content": "炼狱炸弹是空投弹药,使用与其他武器系统相同的炼狱技术.虽然不如普通高爆弹药常见,但炼狱炸弹可用于对敌人编队造成严重破坏或毁灭丛林或森林地区."
+  },
+  {
+    "id": "Weapon_Bomb_4_Inferno.Description.UIName",
+    "content": "炼狱炸弹架 x4"
+  },
+  {
+    "id": "Weapon_Bomb_4_Inferno.Description.Name",
+    "content": "炼狱炸弹"
+  },
+  {
+    "id": "Weapon_Bomb_4_Inferno.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Weapon_Bomb_4_Inferno.HeatDamageTakenSoftCapMultiplier.statusEffects0.Details",
+    "content": "-1%热伤害"
+  },
+  {
+    "id": "Weapon_Bomb_4_Inferno.HeatDamageTakenSoftCapMultiplier.statusEffects0.Name",
+    "content": "5%热软限额"
+  },
+  {
+    "id": "Weapon_Bomb_4_MissileLAUNCHER4.Description.Details",
+    "content": "这枚导弹舱含有一组四枚导弹,发射后不管,该制导导弹可以与标准霹雳火5系列媲美.<b><color=#F79232>1发装!</color></b><b><color=#099ff2>不稳定!</color></b>"
+  },
+  {
+    "id": "Weapon_Bomb_4_MissileLAUNCHER4.Description.UIName",
+    "content": "四联装导弹舱"
+  },
+  {
+    "id": "Weapon_Bomb_4_MissileLAUNCHER4.Description.Name",
+    "content": "ML4弹舱"
+  },
+  {
+    "id": "Weapon_Bomb_4_MissileLAUNCHER4.Description.Manufacturer",
+    "content": "死亡之花"
+  },
+  {
+    "id": "Weapon_Bomb_4_ROCKETLAUNCHER15.Description.Details",
+    "content": "火箭弹发射器是廉价的无制导一次性导弹发射器。每个发射器上装有五枚火箭弹，每个发射周期只能发射最前面的火箭弹.<b><color=#F79232>1发装!</color> <b><color=#099ff2>不稳定!</color></b>"
+  },
+  {
+    "id": "Weapon_Bomb_4_ROCKETLAUNCHER15.Description.UIName",
+    "content": "火箭弹15弹舱"
+  },
+  {
+    "id": "Weapon_Bomb_4_ROCKETLAUNCHER15.Description.Name",
+    "content": "RL15弹舱"
+  },
+  {
+    "id": "Weapon_Bomb_4_ROCKETLAUNCHER15.Description.Manufacturer",
+    "content": "死亡之花"
+  },
+  {
+    "id": "Weapon_Bomb_AAA_Arrow.Description.Details",
+    "content": "防空箭导弹,也被称为ADA导弹,是卡佩兰联邦发明的一种替代箭IV的火炮导弹,用于攻击空天战斗机.ADA导弹的研制始于3066年,随后于3068年进行了试验性原型设计和初步生产.它在主权正义行动中被卡佩兰部队实地测试,后来被用来和布莱克之道战斗."
+  },
+  {
+    "id": "Weapon_Bomb_AAA_Arrow.Description.UIName",
+    "content": "防空箭"
+  },
+  {
+    "id": "Weapon_Bomb_AAA_Arrow.Description.Name",
+    "content": "箭IV"
+  },
+  {
+    "id": "Weapon_Bomb_AAA_Arrow.Description.Manufacturer",
+    "content": "天吾宇航"
+  },
+  {
+    "id": "Weapon_Bomb_ArrowIV.Description.Details",
+    "content": "箭IV是一种独立的、基于导弹的火炮系统,目的是增强长汤姆(Long Tom)和狙击手(Sniper)等常规系统.它最初是在2600年由人类霸权引入的,并成为星联防御部队的主要装备.尽管在星联崩溃后箭IV的技术失传,但它在3044年被卡佩兰联邦的工程师们从海姆(Helm)记忆核心中恢复."
+  },
+  {
+    "id": "Weapon_Bomb_ArrowIV.Description.UIName",
+    "content": "箭IV导弹"
+  },
+  {
+    "id": "Weapon_Bomb_ArrowIV.Description.Name",
+    "content": "箭IV"
+  },
+  {
+    "id": "Weapon_Bomb_ArrowIV.Description.Manufacturer",
+    "content": "WOB"
+  },
+  {
+    "id": "Weapon_Bomb_Cluster.Description.Details",
+    "content": "集束炸弹是一种特殊类型的高爆炸弹,可以在大范围造成破坏.他们通常在军用飞机的外部挂载点上携带."
+  },
+  {
+    "id": "Weapon_Bomb_Cluster.Description.UIName",
+    "content": "集束炸弹"
+  },
+  {
+    "id": "Weapon_Bomb_Cluster.Description.Name",
+    "content": "集束炸弹"
+  },
+  {
+    "id": "Weapon_Bomb_Cluster.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Weapon_Bomb_DaisyCutter.Description.Details",
+    "content": "'雏菊切割器'是最大的常规炸弹之一.顾名思义,它会在大范围内将所有东西夷为平地."
+  },
+  {
+    "id": "Weapon_Bomb_DaisyCutter.Description.UIName",
+    "content": "雏菊切割器炸弹"
+  },
+  {
+    "id": "Weapon_Bomb_DaisyCutter.Description.Name",
+    "content": "雏菊切割器炸弹"
+  },
+  {
+    "id": "Weapon_Bomb_DaisyCutter.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Weapon_Bomb_FAE.Description.Details",
+    "content": "燃油空爆弹是空天飞机和普通战斗机可携带的几种常见炸弹类型之一.它们通常在军用飞机的外部挂载点上携带."
+  },
+  {
+    "id": "Weapon_Bomb_FAE.Description.UIName",
+    "content": "燃油空爆弹"
+  },
+  {
+    "id": "Weapon_Bomb_FAE.Description.Name",
+    "content": "燃油空爆弹"
+  },
+  {
+    "id": "Weapon_Bomb_FAE.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Weapon_Bomb_Guided.Description.Details",
+    "content": "高爆炸弹是空天飞机和常规战斗机可携带的几种常见炸弹类型之一.他们通常在军用飞机常见的外部挂载点上携带."
+  },
+  {
+    "id": "Weapon_Bomb_Guided.Description.UIName",
+    "content": "制导炸弹"
+  },
+  {
+    "id": "Weapon_Bomb_Guided.Description.Name",
+    "content": "制导炸弹"
+  },
+  {
+    "id": "Weapon_Bomb_Guided.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Weapon_Bomb_HE.Description.Details",
+    "content": "高爆炸弹是空天飞机和常规战斗机可携带的几种常见炸弹类型之一.他们通常在军用飞机常见的外部挂载点上携带."
+  },
+  {
+    "id": "Weapon_Bomb_HE.Description.UIName",
+    "content": "高爆炸弹"
+  },
+  {
+    "id": "Weapon_Bomb_HE.Description.Name",
+    "content": "高爆炸弹"
+  },
+  {
+    "id": "Weapon_Bomb_HE.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Weapon_Bomb_Inferno.Description.Details",
+    "content": "炼狱炸弹是空投弹药,使用与其他武器系统相同的炼狱技术.虽然不如普通高爆弹药常见,但炼狱炸弹可用于对敌人编队造成严重破坏或毁灭丛林或森林地区."
+  },
+  {
+    "id": "Weapon_Bomb_Inferno.Description.UIName",
+    "content": "炼狱炸弹"
+  },
+  {
+    "id": "Weapon_Bomb_Inferno.Description.Name",
+    "content": "炼狱炸弹"
+  },
+  {
+    "id": "Weapon_Bomb_Inferno.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Weapon_Bomb_Inferno.HeatDamageTakenSoftCapMultiplier.statusEffects0.Details",
+    "content": "-1%热伤害"
+  },
+  {
+    "id": "Weapon_Bomb_Inferno.HeatDamageTakenSoftCapMultiplier.statusEffects0.Name",
+    "content": "5%热软限额"
+  },
+  {
+    "id": "Weapon_Bomb_LightAA.Description.Details",
+    "content": "不如天琴同盟国和狼氏族推出的空对空箭导弹威力强大,这种更小的空对空导弹版本首次亮相在塔马林德公国的盟军航空部队和艾丽斯·罗塞特·马里克公爵夫人的抵抗运动.这些轻型空空导弹(LAA)体积更小、重量更轻可以由更小的战斗机携带,在大气圈中作战产生的阻力要小的多."
+  },
+  {
+    "id": "Weapon_Bomb_LightAA.Description.UIName",
+    "content": "轻型空空导弹"
+  },
+  {
+    "id": "Weapon_Bomb_LightAA.Description.Name",
+    "content": "轻型空空导弹"
+  },
+  {
+    "id": "Weapon_Bomb_LightAA.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Weapon_Bomb_Mine.Description.Details",
+    "content": "雷电炸弹,众所周知的FASCAM炸弹,是人类霸权在2623年发明的雷电箭导弹的空投版本."
+  },
+  {
+    "id": "Weapon_Bomb_Mine.Description.UIName",
+    "content": "布雷炸弹"
+  },
+  {
+    "id": "Weapon_Bomb_Mine.Description.Name",
+    "content": "布雷炸弹"
+  },
+  {
+    "id": "Weapon_Bomb_Mine.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Weapon_Bomb_Mine_Inferno.Description.Details",
+    "content": "雷电炸弹,众所周知的FASCAM炸弹,是人类霸权在2623年发明的雷电箭导弹的空投版本."
+  },
+  {
+    "id": "Weapon_Bomb_Mine_Inferno.Description.UIName",
+    "content": "炼狱布雷炸弹"
+  },
+  {
+    "id": "Weapon_Bomb_Mine_Inferno.Description.Name",
+    "content": "炼狱布雷炸弹"
+  },
+  {
+    "id": "Weapon_Bomb_Mine_Inferno.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Weapon_Bomb_MissileLAUNCHER4.Description.Details",
+    "content": "这枚导弹舱含有一组四枚导弹,发射后不管,该制导导弹可以与标准霹雳火5系列媲美.<b><color=#F79232>1发装!</color></b><b><color=#099ff2>不稳定!</color></b>"
+  },
+  {
+    "id": "Weapon_Bomb_MissileLAUNCHER4.Description.UIName",
+    "content": "四发联装导弹"
+  },
+  {
+    "id": "Weapon_Bomb_MissileLAUNCHER4.Description.Name",
+    "content": "ML4"
+  },
+  {
+    "id": "Weapon_Bomb_MissileLAUNCHER4.Description.Manufacturer",
+    "content": "死亡之花"
+  },
+  {
+    "id": "Weapon_Bomb_MOAB.Description.Details",
+    "content": "大型空炸炸弹携带非常大的常规爆炸物,以摧毁其目标."
+  },
+  {
+    "id": "Weapon_Bomb_MOAB.Description.UIName",
+    "content": "大型空炸炸弹"
+  },
+  {
+    "id": "Weapon_Bomb_MOAB.Description.Name",
+    "content": "大型空炸炸弹"
+  },
+  {
+    "id": "Weapon_Bomb_MOAB.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Weapon_Bomb_ROCKETLAUNCHER15.Description.Details",
+    "content": "火箭发射器是一种廉价、无制导、一次性的导弹发射器.有马里安霸权开发,他们通常替代外围国家负担不起或无法维修的更复杂设备.<b><color=#F79232>1发装!</color></b><b><color=#099ff2>不稳定!</color></b>"
+  },
+  {
+    "id": "Weapon_Bomb_ROCKETLAUNCHER15.Description.UIName",
+    "content": "火箭弹15"
+  },
+  {
+    "id": "Weapon_Bomb_ROCKETLAUNCHER15.Description.Name",
+    "content": "RL15"
+  },
+  {
+    "id": "Weapon_Bomb_ROCKETLAUNCHER15.Description.Manufacturer",
+    "content": "死亡之花"
+  },
+  {
+    "id": "Weapon_Bomb_ROCKETLAUNCHER25_AA.Description.Details",
+    "content": "火箭发射器是一种廉价、无制导、一次性的导弹发射器.有马里安霸权开发,他们通常替代外围国家负担不起或无法维修的更复杂设备.<b><color=#F79232>1发装!</color></b><b><color=#099ff2>不稳定!</color></b>"
+  },
+  {
+    "id": "Weapon_Bomb_ROCKETLAUNCHER25_AA.Description.UIName",
+    "content": "AA火箭弹25"
+  },
+  {
+    "id": "Weapon_Bomb_ROCKETLAUNCHER25_AA.Description.Name",
+    "content": "AA-RL25"
+  },
+  {
+    "id": "Weapon_Bomb_ROCKETLAUNCHER25_AA.Description.Manufacturer",
+    "content": "红蜘蛛"
+  }
+]

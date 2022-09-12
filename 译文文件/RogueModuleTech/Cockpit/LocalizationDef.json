@@ -1,0 +1,5030 @@
+[
+  {
+    "id": "Gear_Cockpit_Ceres_Metals_Braced.Description.Details",
+    "content": "所有机甲都配备了一个可以升级以提高性能的可配置座舱,座舱模块增强了机甲战士在战斗中所处部位的结构,加强了对致命伤害的防护."
+  },
+  {
+    "id": "Gear_Cockpit_Ceres_Metals_Braced.Description.UIName",
+    "content": "装甲前围"
+  },
+  {
+    "id": "Gear_Cockpit_Ceres_Metals_Braced.Description.Name",
+    "content": "谷神(Ceres)金属装甲化前围座舱模块"
+  },
+  {
+    "id": "Gear_Cockpit_Ceres_Metals_Braced.Description.Manufacturer",
+    "content": "谷神星金属"
+  },
+  {
+    "id": "Gear_Cockpit_Ceres_Metals_Braced.Status-ArmorCowlStructure-{location}.statusEffects0.Details",
+    "content": "改进头部结构"
+  },
+  {
+    "id": "Gear_Cockpit_Ceres_Metals_Braced.Status-ArmorCowlArmor-{location}.statusEffects1.Details",
+    "content": "改进头部装甲"
+  },
+  {
+    "id": "Gear_Cockpit_Ceres_Metals_Braced.StatusEffect_Cockpit_Skill_Guts.statusEffects2.Details",
+    "content": "获得勇气技能增益"
+  },
+  {
+    "id": "Gear_Cockpit_Ceres_Metals_Braced.StatusEffect-Pilot_HealthAdd-T1.statusEffects3.Details",
+    "content": "为机甲战士承受[AMT]伤害"
+  },
+  {
+    "id": "Gear_Cockpit_Ceres_Metals_Braced.CockpitBleed.statusEffects4.Details",
+    "content": "失血速度 x 0.6"
+  },
+  {
+    "id": "Gear_Cockpit_Ceres_Metals_Braced.Status-ArmorCowlStructure-{location}.statusEffects0.Name",
+    "content": "装甲前围"
+  },
+  {
+    "id": "Gear_Cockpit_Ceres_Metals_Braced.Status-ArmorCowlArmor-{location}.statusEffects1.Name",
+    "content": "装甲前围"
+  },
+  {
+    "id": "Gear_Cockpit_Ceres_Metals_Braced.StatusEffect_Cockpit_Skill_Guts.statusEffects2.Name",
+    "content": "勇气增益"
+  },
+  {
+    "id": "Gear_Cockpit_Ceres_Metals_Braced.StatusEffect-Pilot_HealthAdd-T1.statusEffects3.Name",
+    "content": "最大承受伤害增加了"
+  },
+  {
+    "id": "Gear_Cockpit_Ceres_Metals_Braced.CockpitBleed.statusEffects4.Name",
+    "content": "降低失血速度"
+  },
+  {
+    "id": "Gear_Cockpit_Ceres_Metals_Hardened.Description.Details",
+    "content": "所有机甲都配备了一个可以升级以提高性能的可配置座舱,座舱模块增强了机甲战士在战斗中所处部位的结构,加强了对致命伤害的防护."
+  },
+  {
+    "id": "Gear_Cockpit_Ceres_Metals_Hardened.Description.UIName",
+    "content": "装甲前围 + +"
+  },
+  {
+    "id": "Gear_Cockpit_Ceres_Metals_Hardened.Description.Name",
+    "content": "谷神(Ceres)硬化金属座舱模块"
+  },
+  {
+    "id": "Gear_Cockpit_Ceres_Metals_Hardened.Description.Manufacturer",
+    "content": "谷神星金属"
+  },
+  {
+    "id": "Gear_Cockpit_Ceres_Metals_Hardened.Status-ArmorCowlStructure-{location}.statusEffects0.Details",
+    "content": "改进头部结构"
+  },
+  {
+    "id": "Gear_Cockpit_Ceres_Metals_Hardened.Status-ArmorCowlArmor-{location}.statusEffects1.Details",
+    "content": "改进头部装甲"
+  },
+  {
+    "id": "Gear_Cockpit_Ceres_Metals_Hardened.StatusEffect_Cockpit_Skill_Guts.statusEffects2.Details",
+    "content": "获得勇气技能增益"
+  },
+  {
+    "id": "Gear_Cockpit_Ceres_Metals_Hardened.StatusEffect-Pilot_HealthAdd-T1.statusEffects3.Details",
+    "content": "为机甲战士承受[AMT]伤害"
+  },
+  {
+    "id": "Gear_Cockpit_Ceres_Metals_Hardened.CockpitBleed.statusEffects4.Details",
+    "content": "失血速度 x 0.6"
+  },
+  {
+    "id": "Gear_Cockpit_Ceres_Metals_Hardened.Status-ArmorCowlStructure-{location}.statusEffects0.Name",
+    "content": "装甲前围"
+  },
+  {
+    "id": "Gear_Cockpit_Ceres_Metals_Hardened.Status-ArmorCowlArmor-{location}.statusEffects1.Name",
+    "content": "装甲前围"
+  },
+  {
+    "id": "Gear_Cockpit_Ceres_Metals_Hardened.StatusEffect_Cockpit_Skill_Guts.statusEffects2.Name",
+    "content": "勇气增益"
+  },
+  {
+    "id": "Gear_Cockpit_Ceres_Metals_Hardened.StatusEffect-Pilot_HealthAdd-T1.statusEffects3.Name",
+    "content": "最大承受伤害增加了"
+  },
+  {
+    "id": "Gear_Cockpit_Ceres_Metals_Hardened.CockpitBleed.statusEffects4.Name",
+    "content": "降低失血速度"
+  },
+  {
+    "id": "Gear_Cockpit_Ceres_Metals_Reinforced.Description.Details",
+    "content": "所有机甲都配备了一个可以升级以提高性能的可配置座舱,座舱模块增强了机甲战士在战斗中所处部位的结构,加强了对致命伤害的防护."
+  },
+  {
+    "id": "Gear_Cockpit_Ceres_Metals_Reinforced.Description.UIName",
+    "content": "装甲前围 +"
+  },
+  {
+    "id": "Gear_Cockpit_Ceres_Metals_Reinforced.Description.Name",
+    "content": "谷神(Ceres)金属加固座舱模块"
+  },
+  {
+    "id": "Gear_Cockpit_Ceres_Metals_Reinforced.Description.Manufacturer",
+    "content": "谷神星金属"
+  },
+  {
+    "id": "Gear_Cockpit_Ceres_Metals_Reinforced.StatusEffect_Cockpit_Skill_Guts.statusEffects0.Details",
+    "content": "获得勇气技能增益"
+  },
+  {
+    "id": "Gear_Cockpit_Ceres_Metals_Reinforced.StatusEffect-Pilot_HealthAdd-T1.statusEffects1.Details",
+    "content": "为机甲战士承受[AMT]伤害"
+  },
+  {
+    "id": "Gear_Cockpit_Ceres_Metals_Reinforced.Status-ArmorCowlStructure-{location}.statusEffects2.Details",
+    "content": "改进头部结构"
+  },
+  {
+    "id": "Gear_Cockpit_Ceres_Metals_Reinforced.Status-ArmorCowlArmor-{location}.statusEffects3.Details",
+    "content": "改进头部装甲"
+  },
+  {
+    "id": "Gear_Cockpit_Ceres_Metals_Reinforced.CockpitBleed.statusEffects4.Details",
+    "content": "失血速度 x 0.6"
+  },
+  {
+    "id": "Gear_Cockpit_Ceres_Metals_Reinforced.StatusEffect_Cockpit_Skill_Guts.statusEffects0.Name",
+    "content": "勇气增益"
+  },
+  {
+    "id": "Gear_Cockpit_Ceres_Metals_Reinforced.StatusEffect-Pilot_HealthAdd-T1.statusEffects1.Name",
+    "content": "最大承受伤害增加了"
+  },
+  {
+    "id": "Gear_Cockpit_Ceres_Metals_Reinforced.Status-ArmorCowlStructure-{location}.statusEffects2.Name",
+    "content": "装甲前围"
+  },
+  {
+    "id": "Gear_Cockpit_Ceres_Metals_Reinforced.Status-ArmorCowlArmor-{location}.statusEffects3.Name",
+    "content": "装甲前围"
+  },
+  {
+    "id": "Gear_Cockpit_Ceres_Metals_Reinforced.CockpitBleed.statusEffects4.Name",
+    "content": "降低失血速度"
+  },
+  {
+    "id": "Gear_Cockpit_Ceres_TSM.Description.Details",
+    "content": "几乎就是一个装甲座舱,但是一些小丑决定用\"WEEE\"标记一个用来关闭某些散热器的按钮,以便持续使用\"三倍强化人工肌肉(TSM)\""
+  },
+  {
+    "id": "Gear_Cockpit_Ceres_TSM.Description.UIName",
+    "content": "热座座舱"
+  },
+  {
+    "id": "Gear_Cockpit_Ceres_TSM.Description.Name",
+    "content": "谷神(Ceres)金属角斗士座舱模块"
+  },
+  {
+    "id": "Gear_Cockpit_Ceres_TSM.Description.Manufacturer",
+    "content": "谷神星金属"
+  },
+  {
+    "id": "Gear_Cockpit_Ceres_TSM.Status-ArmorCowlStructure-{location}.statusEffects0.Details",
+    "content": "改进头部结构"
+  },
+  {
+    "id": "Gear_Cockpit_Ceres_TSM.Status-ArmorCowlArmor-{location}.statusEffects1.Details",
+    "content": "改进头部装甲"
+  },
+  {
+    "id": "Gear_Cockpit_Ceres_TSM.StatusEffect_Cockpit_Skill_Guts.statusEffects2.Details",
+    "content": "获得勇气技能增益"
+  },
+  {
+    "id": "Gear_Cockpit_Ceres_TSM.StatusEffect-Pilot_HealthAdd-T1.statusEffects3.Details",
+    "content": "为机甲战士承受[AMT]伤害"
+  },
+  {
+    "id": "Gear_Cockpit_Ceres_TSM.CockpitBleed.statusEffects4.Details",
+    "content": "失血速度 x 0.6"
+  },
+  {
+    "id": "Gear_Cockpit_Ceres_TSM.Status-ArmorCowlStructure-{location}.statusEffects0.Name",
+    "content": "装甲前围"
+  },
+  {
+    "id": "Gear_Cockpit_Ceres_TSM.Status-ArmorCowlArmor-{location}.statusEffects1.Name",
+    "content": "装甲前围"
+  },
+  {
+    "id": "Gear_Cockpit_Ceres_TSM.StatusEffect_Cockpit_Skill_Guts.statusEffects2.Name",
+    "content": "勇气增益"
+  },
+  {
+    "id": "Gear_Cockpit_Ceres_TSM.StatusEffect-Pilot_HealthAdd-T1.statusEffects3.Name",
+    "content": "最大承受伤害增加了"
+  },
+  {
+    "id": "Gear_Cockpit_Ceres_TSM.CockpitBleed.statusEffects4.Name",
+    "content": "降低失血速度"
+  },
+  {
+    "id": "Gear_Cockpit_Ceres_TSM.TSM_Damage_Weapon.CAE0.Details",
+    "content": "伤害修正"
+  },
+  {
+    "id": "Gear_Cockpit_Ceres_TSM.TSM_Stability_Weapon.CAE1.Details",
+    "content": "伤害修正"
+  },
+  {
+    "id": "Gear_Cockpit_Ceres_TSM.TSM_Damage_Punch.CAE2.Details",
+    "content": "伤害修正"
+  },
+  {
+    "id": "Gear_Cockpit_Ceres_TSM.TSM_Stability_Punch.CAE3.Details",
+    "content": "伤害修正"
+  },
+  {
+    "id": "Gear_Cockpit_Ceres_TSM.TSM_Damage_Kick.CAE4.Details",
+    "content": "伤害修正"
+  },
+  {
+    "id": "Gear_Cockpit_Ceres_TSM.TSM_Stability_Kick.CAE5.Details",
+    "content": "伤害修正"
+  },
+  {
+    "id": "Gear_Cockpit_Ceres_TSM.TSMActive1.CAE6.Details",
+    "content": "更强的近战和更快的速度"
+  },
+  {
+    "id": "Gear_Cockpit_Ceres_TSM.CockpitTSMHeat.CAE7.Details",
+    "content": "座舱TSM热量"
+  },
+  {
+    "id": "Gear_Cockpit_Ceres_TSM.TSM_Damage_Weapon.CAE0.Name",
+    "content": "近战武器伤害模块"
+  },
+  {
+    "id": "Gear_Cockpit_Ceres_TSM.TSM_Stability_Weapon.CAE1.Name",
+    "content": "近战武器伤害模块"
+  },
+  {
+    "id": "Gear_Cockpit_Ceres_TSM.TSM_Damage_Punch.CAE2.Name",
+    "content": "近战武器伤害模块"
+  },
+  {
+    "id": "Gear_Cockpit_Ceres_TSM.TSM_Stability_Punch.CAE3.Name",
+    "content": "近战武器伤害模块"
+  },
+  {
+    "id": "Gear_Cockpit_Ceres_TSM.TSM_Damage_Kick.CAE4.Name",
+    "content": "近战武器伤害模块"
+  },
+  {
+    "id": "Gear_Cockpit_Ceres_TSM.TSM_Stability_Kick.CAE5.Name",
+    "content": "近战武器伤害模块"
+  },
+  {
+    "id": "Gear_Cockpit_Ceres_TSM.TSMActive1.CAE6.Name",
+    "content": "TSM激活!"
+  },
+  {
+    "id": "Gear_Cockpit_Ceres_TSM.CockpitTSMHeat.CAE7.Name",
+    "content": "座舱TSM热量"
+  },
+  {
+    "id": "Gear_Cockpit_CLAN_EI.Description.Details",
+    "content": "由氏族开发,增强成像(EI)是一种先进的瞄准和驾驶系统,可与人型作战载具(如战斗机甲)一起使用.EI虽然具有相当大的优势,但会对使用者造成严重的副作用,包括精神不稳定、神经损伤和死亡的可能."
+  },
+  {
+    "id": "Gear_Cockpit_CLAN_EI.Description.UIName",
+    "content": "增强成像座舱(C)"
+  },
+  {
+    "id": "Gear_Cockpit_CLAN_EI.Description.Name",
+    "content": "增强成像座舱"
+  },
+  {
+    "id": "Gear_Cockpit_CLAN_EI.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Gear_Cockpit_CLAN_EI.NightVision.statusEffects0.Details",
+    "content": "被动:开启夜视"
+  },
+  {
+    "id": "Gear_Cockpit_CLAN_EI.StatusEffect-RequireNI.statusEffects1.Details",
+    "content": "该单位在射击前后都可以移动."
+  },
+  {
+    "id": "Gear_Cockpit_CLAN_EI.StatusEffect_Cockpit_Skill_Gunnery.statusEffects2.Details",
+    "content": "获得射击学增益"
+  },
+  {
+    "id": "Gear_Cockpit_CLAN_EI.StatusEffect_Cockpit_Skill_Piloting.statusEffects3.Details",
+    "content": "驾驶技能增益"
+  },
+  {
+    "id": "Gear_Cockpit_CLAN_EI.CockpitBleed.statusEffects4.Details",
+    "content": "失血速度 x 0.6"
+  },
+  {
+    "id": "Gear_Cockpit_CLAN_EI.NightVision.statusEffects0.Name",
+    "content": "夜视模式"
+  },
+  {
+    "id": "Gear_Cockpit_CLAN_EI.StatusEffect-RequireNI.statusEffects1.Name",
+    "content": "王牌驾驶员"
+  },
+  {
+    "id": "Gear_Cockpit_CLAN_EI.StatusEffect_Cockpit_Skill_Gunnery.statusEffects2.Name",
+    "content": "射击学增益"
+  },
+  {
+    "id": "Gear_Cockpit_CLAN_EI.StatusEffect_Cockpit_Skill_Piloting.statusEffects3.Name",
+    "content": "驾驶增益"
+  },
+  {
+    "id": "Gear_Cockpit_CLAN_EI.CockpitBleed.statusEffects4.Name",
+    "content": "降低失血速度"
+  },
+  {
+    "id": "Gear_Cockpit_CLAN_EI.StatusEffect-RequireNI.CAE0.Details",
+    "content": "当内部结构受损时,驾驶员将受伤."
+  },
+  {
+    "id": "Gear_Cockpit_CLAN_EI.StatusEffect-RequireNI.CAE1.Details",
+    "content": "+1主动性和其他一些增益"
+  },
+  {
+    "id": "Gear_Cockpit_CLAN_EI.StatusEffect-RequireNI.CAE2.Details",
+    "content": "该单位从移动中获得额外的闪避(直到最大值)."
+  },
+  {
+    "id": "Gear_Cockpit_CLAN_EI.StatusEffect-RequireNI.CAE3.Details",
+    "content": "精确射击双倍可靠"
+  },
+  {
+    "id": "Gear_Cockpit_CLAN_EI.StatusEffect-RequireNI.CAE4.Details",
+    "content": "突破射击, 提高精度/后座"
+  },
+  {
+    "id": "Gear_Cockpit_CLAN_EI.StatusEffect-RequireNI.CAE0.Name",
+    "content": "当结构受损时受伤"
+  },
+  {
+    "id": "Gear_Cockpit_CLAN_EI.StatusEffect-RequireNI.CAE1.Name",
+    "content": "驾驶舱技术奖励"
+  },
+  {
+    "id": "Gear_Cockpit_CLAN_EI.StatusEffect-RequireNI.CAE2.Name",
+    "content": "闪避机动"
+  },
+  {
+    "id": "Gear_Cockpit_CLAN_EI.StatusEffect-RequireNI.CAE3.Name",
+    "content": "提升精确射击"
+  },
+  {
+    "id": "Gear_Cockpit_CLAN_EI.StatusEffect-RequireNI.CAE4.Name",
+    "content": "瞄准电脑"
+  },
+  {
+    "id": "Gear_Cockpit_CLAN_EI_Compact.Description.Details",
+    "content": "标准氏族增强成像的紧凑版本,使用更大和更坚固的超重框架的特性,以在一个更小的空间安装所有需要的组件."
+  },
+  {
+    "id": "Gear_Cockpit_CLAN_EI_Compact.Description.UIName",
+    "content": "紧凑增强成像(C)"
+  },
+  {
+    "id": "Gear_Cockpit_CLAN_EI_Compact.Description.Name",
+    "content": "增强成像座舱"
+  },
+  {
+    "id": "Gear_Cockpit_CLAN_EI_Compact.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Gear_Cockpit_CLAN_EI_Compact.NightVision.statusEffects0.Details",
+    "content": "被动:开启夜视"
+  },
+  {
+    "id": "Gear_Cockpit_CLAN_EI_Compact.StatusEffect-RequireNI.statusEffects1.Details",
+    "content": "该单位在射击前后都可以移动."
+  },
+  {
+    "id": "Gear_Cockpit_CLAN_EI_Compact.StatusEffect_Cockpit_Skill_Gunnery.statusEffects2.Details",
+    "content": "获得射击学增益"
+  },
+  {
+    "id": "Gear_Cockpit_CLAN_EI_Compact.StatusEffect_Cockpit_Skill_Piloting.statusEffects3.Details",
+    "content": "驾驶技能增益"
+  },
+  {
+    "id": "Gear_Cockpit_CLAN_EI_Compact.CockpitBleed.statusEffects4.Details",
+    "content": "失血速度 x 0.6"
+  },
+  {
+    "id": "Gear_Cockpit_CLAN_EI_Compact.NightVision.statusEffects0.Name",
+    "content": "夜视模式"
+  },
+  {
+    "id": "Gear_Cockpit_CLAN_EI_Compact.StatusEffect-RequireNI.statusEffects1.Name",
+    "content": "王牌驾驶员"
+  },
+  {
+    "id": "Gear_Cockpit_CLAN_EI_Compact.StatusEffect_Cockpit_Skill_Gunnery.statusEffects2.Name",
+    "content": "射击学增益"
+  },
+  {
+    "id": "Gear_Cockpit_CLAN_EI_Compact.StatusEffect_Cockpit_Skill_Piloting.statusEffects3.Name",
+    "content": "驾驶增益"
+  },
+  {
+    "id": "Gear_Cockpit_CLAN_EI_Compact.CockpitBleed.statusEffects4.Name",
+    "content": "降低失血速度"
+  },
+  {
+    "id": "Gear_Cockpit_CLAN_EI_Compact.StatusEffect-RequireNI.CAE0.Details",
+    "content": "当内部结构受损时,驾驶员将受伤."
+  },
+  {
+    "id": "Gear_Cockpit_CLAN_EI_Compact.StatusEffect-RequireNI.CAE1.Details",
+    "content": "+1主动性和其他一些增益"
+  },
+  {
+    "id": "Gear_Cockpit_CLAN_EI_Compact.StatusEffect-RequireNI.CAE2.Details",
+    "content": "该单位从移动中获得额外的闪避(直到最大值)."
+  },
+  {
+    "id": "Gear_Cockpit_CLAN_EI_Compact.StatusEffect-RequireNI.CAE3.Details",
+    "content": "精确射击双倍可靠"
+  },
+  {
+    "id": "Gear_Cockpit_CLAN_EI_Compact.StatusEffect-RequireNI.CAE4.Details",
+    "content": "突破射击, 提高精度/后座"
+  },
+  {
+    "id": "Gear_Cockpit_CLAN_EI_Compact.StatusEffect-RequireNI.CAE0.Name",
+    "content": "当结构受损时受伤"
+  },
+  {
+    "id": "Gear_Cockpit_CLAN_EI_Compact.StatusEffect-RequireNI.CAE1.Name",
+    "content": "驾驶舱技术奖励"
+  },
+  {
+    "id": "Gear_Cockpit_CLAN_EI_Compact.StatusEffect-RequireNI.CAE2.Name",
+    "content": "闪避机动"
+  },
+  {
+    "id": "Gear_Cockpit_CLAN_EI_Compact.StatusEffect-RequireNI.CAE3.Name",
+    "content": "提升精确射击"
+  },
+  {
+    "id": "Gear_Cockpit_CLAN_EI_Compact.StatusEffect-RequireNI.CAE4.Name",
+    "content": "瞄准电脑"
+  },
+  {
+    "id": "Gear_Cockpit_DNI.Description.Details",
+    "content": "该座舱模块允许使用直接神经接口(DNI),允许以受伤风险提升机甲的控制"
+  },
+  {
+    "id": "Gear_Cockpit_DNI.Description.UIName",
+    "content": "DNI驾驶舱"
+  },
+  {
+    "id": "Gear_Cockpit_DNI.Description.Name",
+    "content": "黑暗幻象直接神经接口(DNI)座舱"
+  },
+  {
+    "id": "Gear_Cockpit_DNI.Description.Manufacturer",
+    "content": "NAIS"
+  },
+  {
+    "id": "Gear_Cockpit_DNI.NightVision.statusEffects0.Details",
+    "content": "被动:开启夜视"
+  },
+  {
+    "id": "Gear_Cockpit_DNI.StatusEffect-RequireNI.statusEffects1.Details",
+    "content": "该单位在射击前后都可以移动."
+  },
+  {
+    "id": "Gear_Cockpit_DNI.StatusEffect_Cockpit_Skill_Gunnery.statusEffects2.Details",
+    "content": "获得射击学增益"
+  },
+  {
+    "id": "Gear_Cockpit_DNI.StatusEffect_Cockpit_Skill_Piloting.statusEffects3.Details",
+    "content": "驾驶技能增益"
+  },
+  {
+    "id": "Gear_Cockpit_DNI.CockpitBleed.statusEffects4.Details",
+    "content": "失血速度 x 0.6"
+  },
+  {
+    "id": "Gear_Cockpit_DNI.NightVision.statusEffects0.Name",
+    "content": "夜视模式"
+  },
+  {
+    "id": "Gear_Cockpit_DNI.StatusEffect-RequireNI.statusEffects1.Name",
+    "content": "王牌驾驶员"
+  },
+  {
+    "id": "Gear_Cockpit_DNI.StatusEffect_Cockpit_Skill_Gunnery.statusEffects2.Name",
+    "content": "射击学增益"
+  },
+  {
+    "id": "Gear_Cockpit_DNI.StatusEffect_Cockpit_Skill_Piloting.statusEffects3.Name",
+    "content": "驾驶增益"
+  },
+  {
+    "id": "Gear_Cockpit_DNI.CockpitBleed.statusEffects4.Name",
+    "content": "降低失血速度"
+  },
+  {
+    "id": "Gear_Cockpit_DNI.StatusEffect-RequireNI.CAE0.Details",
+    "content": "当内部结构受损时,驾驶员将受伤."
+  },
+  {
+    "id": "Gear_Cockpit_DNI.StatusEffect-RequireNI.CAE1.Details",
+    "content": "+1主动性和其他一些增益"
+  },
+  {
+    "id": "Gear_Cockpit_DNI.StatusEffect-RequireNI.CAE2.Details",
+    "content": "该单位从移动中获得额外的闪避(直到最大值)."
+  },
+  {
+    "id": "Gear_Cockpit_DNI.StatusEffect-RequireNI.CAE3.Details",
+    "content": "伤害修正"
+  },
+  {
+    "id": "Gear_Cockpit_DNI.StatusEffect-RequireNI.CAE4.Details",
+    "content": "伤害修正"
+  },
+  {
+    "id": "Gear_Cockpit_DNI.StatusEffect-RequireNI.CAE5.Details",
+    "content": "伤害修正"
+  },
+  {
+    "id": "Gear_Cockpit_DNI.StatusEffect-RequireNI.CAE6.Details",
+    "content": "伤害修正"
+  },
+  {
+    "id": "Gear_Cockpit_DNI.StatusEffect-RequireNI.CAE7.Details",
+    "content": "伤害修正"
+  },
+  {
+    "id": "Gear_Cockpit_DNI.StatusEffect-RequireNI.CAE0.Name",
+    "content": "当结构受损时受伤"
+  },
+  {
+    "id": "Gear_Cockpit_DNI.StatusEffect-RequireNI.CAE1.Name",
+    "content": "驾驶舱技术奖励"
+  },
+  {
+    "id": "Gear_Cockpit_DNI.StatusEffect-RequireNI.CAE2.Name",
+    "content": "闪避机动"
+  },
+  {
+    "id": "Gear_Cockpit_DNI.StatusEffect-RequireNI.CAE3.Name",
+    "content": "近战武器伤害模块"
+  },
+  {
+    "id": "Gear_Cockpit_DNI.StatusEffect-RequireNI.CAE4.Name",
+    "content": "近战武器伤害模块"
+  },
+  {
+    "id": "Gear_Cockpit_DNI.StatusEffect-RequireNI.CAE5.Name",
+    "content": "近战武器伤害模块"
+  },
+  {
+    "id": "Gear_Cockpit_DNI.StatusEffect-RequireNI.CAE6.Name",
+    "content": "近战武器伤害模块"
+  },
+  {
+    "id": "Gear_Cockpit_DNI.StatusEffect-RequireNI.CAE7.Name",
+    "content": "近战武器伤害模块"
+  },
+  {
+    "id": "Gear_Cockpit_Generic_Small.Description.Details",
+    "content": "小型座舱的重量只有标准型的2/3,但代价是更拥挤.驾驶员在机甲异常停机时会受伤"
+  },
+  {
+    "id": "Gear_Cockpit_Generic_Small.Description.UIName",
+    "content": "小型座舱"
+  },
+  {
+    "id": "Gear_Cockpit_Generic_Small.Description.Name",
+    "content": "小型座舱"
+  },
+  {
+    "id": "Gear_Cockpit_Generic_Small.Description.Manufacturer",
+    "content": "原型"
+  },
+  {
+    "id": "Gear_Cockpit_Generic_Small.StatusEffect_Cockpit_Skill_Gunnery.statusEffects0.Details",
+    "content": "获得射击学增益"
+  },
+  {
+    "id": "Gear_Cockpit_Generic_Small.StatusEffect_Cockpit_Skill_Piloting.statusEffects1.Details",
+    "content": "驾驶技能增益"
+  },
+  {
+    "id": "Gear_Cockpit_Generic_Small.StatusEffect_Cockpit_Skill_Gunnery.statusEffects0.Name",
+    "content": "射击学增益"
+  },
+  {
+    "id": "Gear_Cockpit_Generic_Small.StatusEffect_Cockpit_Skill_Piloting.statusEffects1.Name",
+    "content": "驾驶增益"
+  },
+  {
+    "id": "Gear_Cockpit_Majesty_M_M_120KL.Description.Details",
+    "content": "所有机甲都配备了一个可以升级以提高性能的可配置座舱,测距仪增加了目标的可视距离,以便直接瞄准或提供侦查支援火力."
+  },
+  {
+    "id": "Gear_Cockpit_Majesty_M_M_120KL.Description.UIName",
+    "content": "测距仪 +"
+  },
+  {
+    "id": "Gear_Cockpit_Majesty_M_M_120KL.Description.Name",
+    "content": "王权M M120KL测距仪"
+  },
+  {
+    "id": "Gear_Cockpit_Majesty_M_M_120KL.Description.Manufacturer",
+    "content": "王权M M"
+  },
+  {
+    "id": "Gear_Cockpit_Majesty_M_M_120KL.StatusEffect_Cockpit_Skill_Gunnery.statusEffects0.Details",
+    "content": "获得射击学增益"
+  },
+  {
+    "id": "Gear_Cockpit_Majesty_M_M_120KL.StatusEffect-Spotting_Gain-T2.statusEffects1.Details",
+    "content": "+[AMT]m侦测距离."
+  },
+  {
+    "id": "Gear_Cockpit_Majesty_M_M_120KL.CockpitBleed.statusEffects2.Details",
+    "content": "失血速度 x 0.6"
+  },
+  {
+    "id": "Gear_Cockpit_Majesty_M_M_120KL.StatusEffect_Cockpit_Skill_Gunnery.statusEffects0.Name",
+    "content": "射击学增益"
+  },
+  {
+    "id": "Gear_Cockpit_Majesty_M_M_120KL.StatusEffect-Spotting_Gain-T2.statusEffects1.Name",
+    "content": "提升发现距离"
+  },
+  {
+    "id": "Gear_Cockpit_Majesty_M_M_120KL.CockpitBleed.statusEffects2.Name",
+    "content": "降低失血速度"
+  },
+  {
+    "id": "Gear_Cockpit_Majesty_M_M_180KL.Description.Details",
+    "content": "所有机甲都配备了一个可以升级以提高性能的可配置座舱,测距仪增加了目标的可视距离,以便直接瞄准或提供侦查支援火力."
+  },
+  {
+    "id": "Gear_Cockpit_Majesty_M_M_180KL.Description.UIName",
+    "content": "测距仪 + +"
+  },
+  {
+    "id": "Gear_Cockpit_Majesty_M_M_180KL.Description.Name",
+    "content": "王权M M180KL测距仪"
+  },
+  {
+    "id": "Gear_Cockpit_Majesty_M_M_180KL.Description.Manufacturer",
+    "content": "王权M M"
+  },
+  {
+    "id": "Gear_Cockpit_Majesty_M_M_180KL.StatusEffect_Cockpit_Skill_Gunnery.statusEffects0.Details",
+    "content": "获得射击学增益"
+  },
+  {
+    "id": "Gear_Cockpit_Majesty_M_M_180KL.StatusEffect-Spotting_Gain-T3.statusEffects1.Details",
+    "content": "+[AMT]m侦测距离."
+  },
+  {
+    "id": "Gear_Cockpit_Majesty_M_M_180KL.CockpitBleed.statusEffects2.Details",
+    "content": "失血速度 x 0.6"
+  },
+  {
+    "id": "Gear_Cockpit_Majesty_M_M_180KL.StatusEffect_Cockpit_Skill_Gunnery.statusEffects0.Name",
+    "content": "射击学增益"
+  },
+  {
+    "id": "Gear_Cockpit_Majesty_M_M_180KL.StatusEffect-Spotting_Gain-T3.statusEffects1.Name",
+    "content": "提升发现距离"
+  },
+  {
+    "id": "Gear_Cockpit_Majesty_M_M_180KL.CockpitBleed.statusEffects2.Name",
+    "content": "降低失血速度"
+  },
+  {
+    "id": "Gear_Cockpit_Majesty_M_M_60KL.Description.Details",
+    "content": "所有机甲都配备了一个可以升级以提高性能的可配置座舱,测距仪增加了目标的可视距离,以便直接瞄准或提供侦查支援火力."
+  },
+  {
+    "id": "Gear_Cockpit_Majesty_M_M_60KL.Description.UIName",
+    "content": "测距仪"
+  },
+  {
+    "id": "Gear_Cockpit_Majesty_M_M_60KL.Description.Name",
+    "content": "王权M M60KL测距仪"
+  },
+  {
+    "id": "Gear_Cockpit_Majesty_M_M_60KL.Description.Manufacturer",
+    "content": "王权M M"
+  },
+  {
+    "id": "Gear_Cockpit_Majesty_M_M_60KL.StatusEffect_Cockpit_Skill_Gunnery.statusEffects0.Details",
+    "content": "获得射击学增益"
+  },
+  {
+    "id": "Gear_Cockpit_Majesty_M_M_60KL.StatusEffect-Spotting_Gain-T1.statusEffects1.Details",
+    "content": "+[AMT]m侦测距离."
+  },
+  {
+    "id": "Gear_Cockpit_Majesty_M_M_60KL.CockpitBleed.statusEffects2.Details",
+    "content": "失血速度 x 0.6"
+  },
+  {
+    "id": "Gear_Cockpit_Majesty_M_M_60KL.StatusEffect_Cockpit_Skill_Gunnery.statusEffects0.Name",
+    "content": "射击学增益"
+  },
+  {
+    "id": "Gear_Cockpit_Majesty_M_M_60KL.StatusEffect-Spotting_Gain-T1.statusEffects1.Name",
+    "content": "提升发现距离"
+  },
+  {
+    "id": "Gear_Cockpit_Majesty_M_M_60KL.CockpitBleed.statusEffects2.Name",
+    "content": "降低失血速度"
+  },
+  {
+    "id": "Gear_Cockpit_Majesty_M_M_MagestrixAlpha.Description.Details",
+    "content": "所有机甲都配备了一个可以升级以提高性能的可配置座舱,测距仪增加了目标的可视距离,以便直接瞄准或提供侦查支援火力."
+  },
+  {
+    "id": "Gear_Cockpit_Majesty_M_M_MagestrixAlpha.Description.UIName",
+    "content": "测距仪 + + +"
+  },
+  {
+    "id": "Gear_Cockpit_Majesty_M_M_MagestrixAlpha.Description.Name",
+    "content": "王权M M裁判官测距仪"
+  },
+  {
+    "id": "Gear_Cockpit_Majesty_M_M_MagestrixAlpha.Description.Manufacturer",
+    "content": "王权M M"
+  },
+  {
+    "id": "Gear_Cockpit_Majesty_M_M_MagestrixAlpha.StatusEffect_Cockpit_Skill_Gunnery.statusEffects0.Details",
+    "content": "获得射击学增益"
+  },
+  {
+    "id": "Gear_Cockpit_Majesty_M_M_MagestrixAlpha.CockpitBleed.statusEffects1.Details",
+    "content": "失血速度 x 0.6"
+  },
+  {
+    "id": "Gear_Cockpit_Majesty_M_M_MagestrixAlpha.StatusEffect-Spotting_Gain-T3.statusEffects2.Details",
+    "content": "+[AMT]m侦测距离."
+  },
+  {
+    "id": "Gear_Cockpit_Majesty_M_M_MagestrixAlpha.StatusEffect_Cockpit_Skill_Gunnery.statusEffects0.Name",
+    "content": "射击学增益"
+  },
+  {
+    "id": "Gear_Cockpit_Majesty_M_M_MagestrixAlpha.CockpitBleed.statusEffects1.Name",
+    "content": "降低失血速度"
+  },
+  {
+    "id": "Gear_Cockpit_Majesty_M_M_MagestrixAlpha.StatusEffect-Spotting_Gain-T3.statusEffects2.Name",
+    "content": "提升侦查距离"
+  },
+  {
+    "id": "Gear_Cockpit_Siri.Description.Details",
+    "content": "座舱提供了先进的语音交互接口"
+  },
+  {
+    "id": "Gear_Cockpit_Siri.Description.UIName",
+    "content": "语音座舱"
+  },
+  {
+    "id": "Gear_Cockpit_Siri.Description.Name",
+    "content": "语音座舱"
+  },
+  {
+    "id": "Gear_Cockpit_Siri.Description.Manufacturer",
+    "content": "苹果"
+  },
+  {
+    "id": "Gear_Cockpit_Siri.CockpitInitativeEffect.statusEffects0.Details",
+    "content": "+1主动性和其他一些增益"
+  },
+  {
+    "id": "Gear_Cockpit_Siri.CockpitBleed.statusEffects1.Details",
+    "content": "失血速度 x 0.6"
+  },
+  {
+    "id": "Gear_Cockpit_Siri.CockpitInitativeEffect.statusEffects0.Name",
+    "content": "驾驶舱技术奖励"
+  },
+  {
+    "id": "Gear_Cockpit_Siri.CockpitBleed.statusEffects1.Name",
+    "content": "降低失血速度"
+  },
+  {
+    "id": "Gear_Cockpit_SLDF_Custom.Description.Details",
+    "content": "这个星联防卫军特种行动战术升级包含了C3系统的前身,将它们连接成一个网状网络以增加其中所有单位的能力."
+  },
+  {
+    "id": "Gear_Cockpit_SLDF_Custom.Description.UIName",
+    "content": "SLIC套件"
+  },
+  {
+    "id": "Gear_Cockpit_SLDF_Custom.Description.Name",
+    "content": "SLIC套件"
+  },
+  {
+    "id": "Gear_Cockpit_SLDF_Custom.Description.Manufacturer",
+    "content": "星联防卫部队"
+  },
+  {
+    "id": "Gear_Cockpit_SLDF_Custom.SLIC-Network.statusEffects0.Details",
+    "content": "+1主动性和其他一些增益"
+  },
+  {
+    "id": "Gear_Cockpit_SLDF_Custom.SLIC-Network.statusEffects1.Details",
+    "content": "增加 视野/传感器效率/健康."
+  },
+  {
+    "id": "Gear_Cockpit_SLDF_Custom.SLIC-Network.statusEffects2.Details",
+    "content": "+50m发现距离"
+  },
+  {
+    "id": "Gear_Cockpit_SLDF_Custom.StatusEffect_Cockpit_Skill_Piloting.statusEffects3.Details",
+    "content": "驾驶技能增益"
+  },
+  {
+    "id": "Gear_Cockpit_SLDF_Custom.SLIC-Network.statusEffects4.Details",
+    "content": "战术技能增益"
+  },
+  {
+    "id": "Gear_Cockpit_SLDF_Custom.CockpitBleed.statusEffects5.Details",
+    "content": "失血速度 x 0.6"
+  },
+  {
+    "id": "Gear_Cockpit_SLDF_Custom.SLIC-Network.statusEffects0.Name",
+    "content": "驾驶舱技术奖励"
+  },
+  {
+    "id": "Gear_Cockpit_SLDF_Custom.SLIC-Network.statusEffects1.Name",
+    "content": "SLIC黑色行动"
+  },
+  {
+    "id": "Gear_Cockpit_SLDF_Custom.SLIC-Network.statusEffects2.Name",
+    "content": "提升侦查距离"
+  },
+  {
+    "id": "Gear_Cockpit_SLDF_Custom.StatusEffect_Cockpit_Skill_Piloting.statusEffects3.Name",
+    "content": "驾驶增益"
+  },
+  {
+    "id": "Gear_Cockpit_SLDF_Custom.SLIC-Network.statusEffects4.Name",
+    "content": "战术增益"
+  },
+  {
+    "id": "Gear_Cockpit_SLDF_Custom.CockpitBleed.statusEffects5.Name",
+    "content": "降低失血速度"
+  },
+  {
+    "id": "Gear_Cockpit_Spiked_Helmet.Description.Details",
+    "content": "这看起来像是谷神金属紧凑型座舱,但有人让它看起来像头盔并在上面装了尖刺!"
+  },
+  {
+    "id": "Gear_Cockpit_Spiked_Helmet.Description.UIName",
+    "content": "尖刺头盔座舱(P)"
+  },
+  {
+    "id": "Gear_Cockpit_Spiked_Helmet.Description.Name",
+    "content": "海盗尖刺头盔座舱"
+  },
+  {
+    "id": "Gear_Cockpit_Spiked_Helmet.Description.Manufacturer",
+    "content": "海盗"
+  },
+  {
+    "id": "Gear_Cockpit_Spiked_Helmet.StatusEffect-Spikedhelmet.statusEffects0.Details",
+    "content": "抵抗1次受伤,并增加5%近战伤害."
+  },
+  {
+    "id": "Gear_Cockpit_Spiked_Helmet.SpikedHelmMelee.statusEffects1.Details",
+    "content": "近战攻击造成5%或更多伤害."
+  },
+  {
+    "id": "Gear_Cockpit_Spiked_Helmet.StatusEffect_Cockpit_Skill_Gunnery.statusEffects2.Details",
+    "content": "获得射击学增益"
+  },
+  {
+    "id": "Gear_Cockpit_Spiked_Helmet.StatusEffect_Cockpit_Skill_Piloting.statusEffects3.Details",
+    "content": "驾驶技能增益"
+  },
+  {
+    "id": "Gear_Cockpit_Spiked_Helmet.StatusEffect_Cockpit_Skill_Guts.statusEffects4.Details",
+    "content": "获得勇气技能增益"
+  },
+  {
+    "id": "Gear_Cockpit_Spiked_Helmet.StatusEffect_Cockpit_Skill_Tactics.statusEffects5.Details",
+    "content": "战术技能增益"
+  },
+  {
+    "id": "Gear_Cockpit_Spiked_Helmet.StatusEffect-Spikedhelmet.statusEffects0.Name",
+    "content": "尖刺头盔"
+  },
+  {
+    "id": "Gear_Cockpit_Spiked_Helmet.SpikedHelmMelee.statusEffects1.Name",
+    "content": "提升近战伤害"
+  },
+  {
+    "id": "Gear_Cockpit_Spiked_Helmet.StatusEffect_Cockpit_Skill_Gunnery.statusEffects2.Name",
+    "content": "射击学增益"
+  },
+  {
+    "id": "Gear_Cockpit_Spiked_Helmet.StatusEffect_Cockpit_Skill_Piloting.statusEffects3.Name",
+    "content": "驾驶增益"
+  },
+  {
+    "id": "Gear_Cockpit_Spiked_Helmet.StatusEffect_Cockpit_Skill_Guts.statusEffects4.Name",
+    "content": "勇气增益"
+  },
+  {
+    "id": "Gear_Cockpit_Spiked_Helmet.StatusEffect_Cockpit_Skill_Tactics.statusEffects5.Name",
+    "content": "战术增益"
+  },
+  {
+    "id": "Gear_Cockpit_StarCorps_Advanced.Description.Details",
+    "content": "所有机甲都配备了一个可以升级以提高性能的可配置座舱.通讯套件升级可以让小队在战斗中增强凝聚力,增加决心产生."
+  },
+  {
+    "id": "Gear_Cockpit_StarCorps_Advanced.Description.UIName",
+    "content": "通讯套件 + +"
+  },
+  {
+    "id": "Gear_Cockpit_StarCorps_Advanced.Description.Name",
+    "content": "星际军团先进通讯套件"
+  },
+  {
+    "id": "Gear_Cockpit_StarCorps_Advanced.Description.Manufacturer",
+    "content": "星际军团"
+  },
+  {
+    "id": "Gear_Cockpit_StarCorps_Advanced.StatusEffect_Cockpit_Skill_Tactics.statusEffects0.Details",
+    "content": "战术技能增益"
+  },
+  {
+    "id": "Gear_Cockpit_StarCorps_Advanced.StatusEffect-Morale_Gain-T3.statusEffects1.Details",
+    "content": "为产生决心的活动提供[AMT]奖励."
+  },
+  {
+    "id": "Gear_Cockpit_StarCorps_Advanced.CockpitBleed.statusEffects2.Details",
+    "content": "失血速度 x 0.6"
+  },
+  {
+    "id": "Gear_Cockpit_StarCorps_Advanced.StatusEffect_Cockpit_Skill_Tactics.statusEffects0.Name",
+    "content": "战术增益"
+  },
+  {
+    "id": "Gear_Cockpit_StarCorps_Advanced.StatusEffect-Morale_Gain-T3.statusEffects1.Name",
+    "content": "增加决心产生"
+  },
+  {
+    "id": "Gear_Cockpit_StarCorps_Advanced.CockpitBleed.statusEffects2.Name",
+    "content": "降低失血速度"
+  },
+  {
+    "id": "Gear_Cockpit_StarCorps_Dalban.Description.Details",
+    "content": "所有机甲都配备了一个可以升级以提高性能的可配置座舱.通讯套件升级可以让小队在战斗中增强凝聚力,增加决心产生."
+  },
+  {
+    "id": "Gear_Cockpit_StarCorps_Dalban.Description.UIName",
+    "content": "通讯套件 + + +"
+  },
+  {
+    "id": "Gear_Cockpit_StarCorps_Dalban.Description.Name",
+    "content": "星际军团达尔班(Dalban)通讯套件"
+  },
+  {
+    "id": "Gear_Cockpit_StarCorps_Dalban.Description.Manufacturer",
+    "content": "星际军团"
+  },
+  {
+    "id": "Gear_Cockpit_StarCorps_Dalban.StatusEffect_Cockpit_Skill_Tactics.statusEffects0.Details",
+    "content": "战术技能增益"
+  },
+  {
+    "id": "Gear_Cockpit_StarCorps_Dalban.StatusEffect-Morale_Gain-T4.statusEffects1.Details",
+    "content": "为产生决心的活动提供[AMT]奖励."
+  },
+  {
+    "id": "Gear_Cockpit_StarCorps_Dalban.CockpitBleed.statusEffects2.Details",
+    "content": "失血速度 x 0.6"
+  },
+  {
+    "id": "Gear_Cockpit_StarCorps_Dalban.StatusEffect_Cockpit_Skill_Tactics.statusEffects0.Name",
+    "content": "战术增益"
+  },
+  {
+    "id": "Gear_Cockpit_StarCorps_Dalban.StatusEffect-Morale_Gain-T4.statusEffects1.Name",
+    "content": "增加决心产生"
+  },
+  {
+    "id": "Gear_Cockpit_StarCorps_Dalban.CockpitBleed.statusEffects2.Name",
+    "content": "降低失血速度"
+  },
+  {
+    "id": "Gear_Cockpit_StarCorps_Enhanced.Description.Details",
+    "content": "所有机甲都配备了一个可以升级以提高性能的可配置座舱.通讯套件升级可以让小队在战斗中增强凝聚力,增加决心产生."
+  },
+  {
+    "id": "Gear_Cockpit_StarCorps_Enhanced.Description.UIName",
+    "content": "通讯套件 +"
+  },
+  {
+    "id": "Gear_Cockpit_StarCorps_Enhanced.Description.Name",
+    "content": "星际军团增强型通讯套件"
+  },
+  {
+    "id": "Gear_Cockpit_StarCorps_Enhanced.Description.Manufacturer",
+    "content": "星际军团"
+  },
+  {
+    "id": "Gear_Cockpit_StarCorps_Enhanced.StatusEffect_Cockpit_Skill_Tactics.statusEffects0.Details",
+    "content": "战术技能增益"
+  },
+  {
+    "id": "Gear_Cockpit_StarCorps_Enhanced.StatusEffect-Morale_Gain-T2.statusEffects1.Details",
+    "content": "为产生决心的活动提供[AMT]奖励."
+  },
+  {
+    "id": "Gear_Cockpit_StarCorps_Enhanced.CockpitBleed.statusEffects2.Details",
+    "content": "失血速度 x 0.6"
+  },
+  {
+    "id": "Gear_Cockpit_StarCorps_Enhanced.StatusEffect_Cockpit_Skill_Tactics.statusEffects0.Name",
+    "content": "战术增益"
+  },
+  {
+    "id": "Gear_Cockpit_StarCorps_Enhanced.StatusEffect-Morale_Gain-T2.statusEffects1.Name",
+    "content": "增加决心产生"
+  },
+  {
+    "id": "Gear_Cockpit_StarCorps_Enhanced.CockpitBleed.statusEffects2.Name",
+    "content": "降低失血速度"
+  },
+  {
+    "id": "Gear_Cockpit_StarCorps_Improved.Description.Details",
+    "content": "所有机甲都配备了一个可以升级以提高性能的可配置座舱.通讯套件升级可以让小队在战斗中增强凝聚力,增加决心产生."
+  },
+  {
+    "id": "Gear_Cockpit_StarCorps_Improved.Description.UIName",
+    "content": "通讯套件"
+  },
+  {
+    "id": "Gear_Cockpit_StarCorps_Improved.Description.Name",
+    "content": "星际军团改进型通讯套件"
+  },
+  {
+    "id": "Gear_Cockpit_StarCorps_Improved.Description.Manufacturer",
+    "content": "星际军团"
+  },
+  {
+    "id": "Gear_Cockpit_StarCorps_Improved.StatusEffect_Cockpit_Skill_Tactics.statusEffects0.Details",
+    "content": "战术技能增益"
+  },
+  {
+    "id": "Gear_Cockpit_StarCorps_Improved.StatusEffect-Morale_Gain-T1.statusEffects1.Details",
+    "content": "为产生决心的活动提供[AMT]奖励."
+  },
+  {
+    "id": "Gear_Cockpit_StarCorps_Improved.CockpitBleed.statusEffects2.Details",
+    "content": "失血速度 x 0.6"
+  },
+  {
+    "id": "Gear_Cockpit_StarCorps_Improved.StatusEffect_Cockpit_Skill_Tactics.statusEffects0.Name",
+    "content": "战术增益"
+  },
+  {
+    "id": "Gear_Cockpit_StarCorps_Improved.StatusEffect-Morale_Gain-T1.statusEffects1.Name",
+    "content": "增加决心产生"
+  },
+  {
+    "id": "Gear_Cockpit_StarCorps_Improved.CockpitBleed.statusEffects2.Name",
+    "content": "降低失血速度"
+  },
+  {
+    "id": "Weapon_FCS_TAG.Description.Details",
+    "content": "一个与座舱火控系统(FCS)接驳的独特目标寻获装备(TAG),以单位的火控系统交换强力的目标寻获装备."
+  },
+  {
+    "id": "Weapon_FCS_TAG.Description.UIName",
+    "content": "目标寻获火控系统"
+  },
+  {
+    "id": "Weapon_FCS_TAG.Description.Name",
+    "content": "目标寻获装备"
+  },
+  {
+    "id": "Weapon_FCS_TAG.Description.Manufacturer",
+    "content": "NAIS"
+  },
+  {
+    "id": "Weapon_FCS_TAG.PainterEffect.statusEffects0.Details",
+    "content": "目标被寻获+1命中."
+  },
+  {
+    "id": "Weapon_FCS_TAG.PainterEffect2.statusEffects1.Details",
+    "content": "目标寻获装备增加可见性"
+  },
+  {
+    "id": "Weapon_FCS_TAG.StatusEffect-TAG-IndicatorVFX.statusEffects2.Details",
+    "content": "TAG效果的视觉指示器"
+  },
+  {
+    "id": "Weapon_FCS_TAG.PainterEffect.statusEffects0.Name",
+    "content": "寻取目标"
+  },
+  {
+    "id": "Weapon_FCS_TAG.PainterEffect2.statusEffects1.Name",
+    "content": "检测到"
+  },
+  {
+    "id": "Weapon_FCS_TAG.StatusEffect-TAG-IndicatorVFX.statusEffects2.Name",
+    "content": "目标寻获装备已标记"
+  },
+  {
+    "id": "Gear_FCS_AA.Description.Details",
+    "content": "防空高射炮系统-1是专门配备空天跟踪雷达的火控系统,对飞行目标非常有效."
+  },
+  {
+    "id": "Gear_FCS_AA.Description.UIName",
+    "content": "防空火控系统"
+  },
+  {
+    "id": "Gear_FCS_AA.Description.Name",
+    "content": "防空火控系统"
+  },
+  {
+    "id": "Gear_FCS_AA.Description.Manufacturer",
+    "content": "卡隆工业公司"
+  },
+  {
+    "id": "Gear_FCS_AA.AAAFactorMulti.statusEffects0.Details",
+    "content": "防空系数."
+  },
+  {
+    "id": "Gear_FCS_AA.AAAFactorMulti.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Gear_FCS_AC2.Description.Details",
+    "content": "苹果丘吉尔2000火控系统(FCS)被设计用于多种战斗机甲.随着越来越多的技术变为失落科技,苹果星际公司继续为不断扩大的市场制造着丘吉尔2000.它最初被设计为一种更细致的控制系统,而且也成功的在许多装备了AC2的轻型、中型甚至一些重型机甲上获得了市场."
+  },
+  {
+    "id": "Gear_FCS_AC2.Description.UIName",
+    "content": "AC2火控系统"
+  },
+  {
+    "id": "Gear_FCS_AC2.Description.Name",
+    "content": "AC2火控系统"
+  },
+  {
+    "id": "Gear_FCS_AC2.Description.Manufacturer",
+    "content": "苹果星际"
+  },
+  {
+    "id": "Gear_FCS_AC2.StatusEffect-FCS_AC2.statusEffects0.Details",
+    "content": "+2 AC2伤害"
+  },
+  {
+    "id": "Gear_FCS_AC2.StatusEffect-FCS_AC21.statusEffects1.Details",
+    "content": "-2 AC2后座"
+  },
+  {
+    "id": "Gear_FCS_AC2.StatusEffect-FCS_AC22.statusEffects2.Details",
+    "content": "-20% AC2产热"
+  },
+  {
+    "id": "Gear_FCS_AC2.StatusEffect-FCS_AC2.statusEffects0.Name",
+    "content": "弹道火控系统"
+  },
+  {
+    "id": "Gear_FCS_AC2.StatusEffect-FCS_AC21.statusEffects1.Name",
+    "content": "弹道火控系统"
+  },
+  {
+    "id": "Gear_FCS_AC2.StatusEffect-FCS_AC22.statusEffects2.Name",
+    "content": "弹道火控系统"
+  },
+  {
+    "id": "Gear_FCS_AdvancedTC.Description.Details",
+    "content": "瞄准电脑(TC)是一种复杂的电子设备,和普通的瞄准系统不同,它可以帮助机甲战士瞄准他们的对手.后座补偿器和陀螺仪稳定器用于防止后座和运动等因素造成武器漂移,同时电脑还考虑了大气和其他条件,以准确的\"指引\"目标.这是一种可以进行更精确射击的设备,特别使用自然的精确系统. "
+  },
+  {
+    "id": "Gear_FCS_AdvancedTC.Description.UIName",
+    "content": "先进TC火控系统"
+  },
+  {
+    "id": "Gear_FCS_AdvancedTC.Description.Name",
+    "content": "NAIS瞄准电脑"
+  },
+  {
+    "id": "Gear_FCS_AdvancedTC.Description.Manufacturer",
+    "content": "NAIS"
+  },
+  {
+    "id": "Gear_FCS_AdvancedTC.TC-Breaching.statusEffects0.Details",
+    "content": "被动:使用单武器攻击时忽略目标的遮蔽和警戒状态."
+  },
+  {
+    "id": "Gear_FCS_AdvancedTC.TC-CalledShotAcc.statusEffects1.Details",
+    "content": "被动:使用单武器攻击时忽略目标的遮蔽和警戒状态."
+  },
+  {
+    "id": "Gear_FCS_AdvancedTC.TCRecoil.statusEffects2.Details",
+    "content": "精确射击双倍可靠"
+  },
+  {
+    "id": "Gear_FCS_AdvancedTC.TCCALLSHOT.statusEffects3.Details",
+    "content": "精确射击双倍可靠"
+  },
+  {
+    "id": "Gear_FCS_AdvancedTC.TC-Breaching.statusEffects0.Name",
+    "content": "突破射击"
+  },
+  {
+    "id": "Gear_FCS_AdvancedTC.TC-CalledShotAcc.statusEffects1.Name",
+    "content": "突破射击"
+  },
+  {
+    "id": "Gear_FCS_AdvancedTC.TCRecoil.statusEffects2.Name",
+    "content": "提升精确射击"
+  },
+  {
+    "id": "Gear_FCS_AdvancedTC.TCCALLSHOT.statusEffects3.Name",
+    "content": "提升精确射击"
+  },
+  {
+    "id": "Gear_FCS_AdvancedTC_Clan.Description.Details",
+    "content": "瞄准电脑(TC)是一种复杂的电子设备,和普通的瞄准系统不同,它可以帮助机甲战士瞄准他们的对手.后座补偿器和陀螺仪稳定器用于防止后座和运动等因素造成武器漂移,同时电脑还考虑了大气和其他条件,以准确的\"指引\"目标.这是一种可以进行更精确射击的设备,特别使用自然的精确系统. "
+  },
+  {
+    "id": "Gear_FCS_AdvancedTC_Clan.Description.UIName",
+    "content": "先进TC火控系统(C)"
+  },
+  {
+    "id": "Gear_FCS_AdvancedTC_Clan.Description.Name",
+    "content": "氏族瞄准电脑"
+  },
+  {
+    "id": "Gear_FCS_AdvancedTC_Clan.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Gear_FCS_AdvancedTC_Clan.TC-CalledShotAcc.statusEffects0.Details",
+    "content": "被动:使用单武器攻击时忽略目标的遮蔽和警戒状态."
+  },
+  {
+    "id": "Gear_FCS_AdvancedTC_Clan.TC-Breaching.statusEffects1.Details",
+    "content": "被动:使用单武器攻击时忽略目标的遮蔽和警戒状态."
+  },
+  {
+    "id": "Gear_FCS_AdvancedTC_Clan.TCRecoil.statusEffects2.Details",
+    "content": "精确射击双倍可靠"
+  },
+  {
+    "id": "Gear_FCS_AdvancedTC_Clan.TC-CalledShotAcc.statusEffects0.Name",
+    "content": "突破射击"
+  },
+  {
+    "id": "Gear_FCS_AdvancedTC_Clan.TC-Breaching.statusEffects1.Name",
+    "content": "突破射击"
+  },
+  {
+    "id": "Gear_FCS_AdvancedTC_Clan.TCRecoil.statusEffects2.Name",
+    "content": "提升精确射击"
+  },
+  {
+    "id": "Gear_FCS_ArtemisII.Description.Details",
+    "content": "月神(Artemis)II火控系统是导弹的基础制导系统,提供自动电传制导,很容易被反制措施愚弄."
+  },
+  {
+    "id": "Gear_FCS_ArtemisII.Description.UIName",
+    "content": "月神II火控系统"
+  },
+  {
+    "id": "Gear_FCS_ArtemisII.Description.Name",
+    "content": "月神II火控系统"
+  },
+  {
+    "id": "Gear_FCS_ArtemisII.Description.Manufacturer",
+    "content": "同步锁定"
+  },
+  {
+    "id": "Gear_FCS_ArtemisII.StatusEffect_BCMissile.statusEffects0.Details",
+    "content": "+1精度,+25%致命损伤率,+10射程,-50%导弹武器最低射程"
+  },
+  {
+    "id": "Gear_FCS_ArtemisII.StatusEffect_BCMissile.statusEffects0.Name",
+    "content": "导弹武器TTS"
+  },
+  {
+    "id": "Gear_FCS_ArtemisIII.Description.Details",
+    "content": "月神II系统的高级版本,这个火控系统提供了对所有类型导弹更加先进的制导控制"
+  },
+  {
+    "id": "Gear_FCS_ArtemisIII.Description.UIName",
+    "content": "月神III火控系统"
+  },
+  {
+    "id": "Gear_FCS_ArtemisIII.Description.Name",
+    "content": "哈特福德AIII火控系统"
+  },
+  {
+    "id": "Gear_FCS_ArtemisIII.Description.Manufacturer",
+    "content": "哈特福德"
+  },
+  {
+    "id": "Gear_FCS_ArtemisIII.StatusEffect_BCMissile.statusEffects0.Details",
+    "content": "+1精度,+25%致命损伤率,+10射程,-50%导弹武器最低射程"
+  },
+  {
+    "id": "Gear_FCS_ArtemisIII.StatusEffect-EnhMS-ClusterBonusLRM.statusEffects1.Details",
+    "content": "大大增加了该单位LRM武器的群组命中,将SRM的稳定伤害提高50%."
+  },
+  {
+    "id": "Gear_FCS_ArtemisIII.StatusEffect_BCMissile.statusEffects0.Name",
+    "content": "导弹武器TTS"
+  },
+  {
+    "id": "Gear_FCS_ArtemisIII.StatusEffect-EnhMS-ClusterBonusLRM.statusEffects1.Name",
+    "content": "导弹套件"
+  },
+  {
+    "id": "Gear_FCS_ARTIV.Description.Details",
+    "content": "作为一个区域性火控系统,改装过的月神系统大大增强了阁楼(Garret)A99的能力,甚至远超市场上的某些竞争对手.<b><color=#F79232>不能和其他导弹TTS一起使用,以使用月神IV弹药</color></b>."
+  },
+  {
+    "id": "Gear_FCS_ARTIV.Description.UIName",
+    "content": "月神IV火控系统"
+  },
+  {
+    "id": "Gear_FCS_ARTIV.Description.Name",
+    "content": "月神IV火控系统"
+  },
+  {
+    "id": "Gear_FCS_ARTIV.Description.Manufacturer",
+    "content": "门达姆电子"
+  },
+  {
+    "id": "Gear_FCS_ARTIV.StatusEffect-EnhMS-EvasionIgnore.statusEffects0.Details",
+    "content": "大大增加了该单位LRM武器的群组命中,将SRM的稳定伤害提高50%."
+  },
+  {
+    "id": "Gear_FCS_ARTIV.StatusEffect-EnhMS-EvasionIgnore.statusEffects0.Name",
+    "content": "导弹套件"
+  },
+  {
+    "id": "Gear_FCS_Autocannon.Description.Details",
+    "content": "苹果丘吉尔1000系列火控系统是在30世纪晚些时候在麦金托什(Machintosh)开发的. 该系统旨在为使用AC2武器作为远程武器的轻型和中型机甲提供火控系统升级.它在索拉里斯区域获得了一些市场,作为一个相当便宜和有效的火控系统,被一些有远程效能需求的机甲所需要.然而在大多数情况下,在内天体领域,它被降级为二线,这有利于苹果丘吉尔2000的销售."
+  },
+  {
+    "id": "Gear_FCS_Autocannon.Description.UIName",
+    "content": "AC火控系统"
+  },
+  {
+    "id": "Gear_FCS_Autocannon.Description.Name",
+    "content": "AC火控系统"
+  },
+  {
+    "id": "Gear_FCS_Autocannon.Description.Manufacturer",
+    "content": "苹果星际"
+  },
+  {
+    "id": "Gear_FCS_Autocannon.StatusEffect-FCS_AC1.statusEffects0.Details",
+    "content": "+1自动炮精度"
+  },
+  {
+    "id": "Gear_FCS_Autocannon.StatusEffect-FCS_AC2.statusEffects1.Details",
+    "content": "-1自动炮后座"
+  },
+  {
+    "id": "Gear_FCS_Autocannon.StatusEffect-FCS_AC3.statusEffects2.Details",
+    "content": "-10%自动炮产热"
+  },
+  {
+    "id": "Gear_FCS_Autocannon.StatusEffect-FCS_PPC7.statusEffects3.Details",
+    "content": "该单位发射增程LRM."
+  },
+  {
+    "id": "Gear_FCS_Autocannon.FCS-Recoil.statusEffects4.Details",
+    "content": "降低武器后座"
+  },
+  {
+    "id": "Gear_FCS_Autocannon.StatusEffect-TTSBALLCRIT.statusEffects5.Details",
+    "content": "+3导弹武器攻击命中."
+  },
+  {
+    "id": "Gear_FCS_Autocannon.StatusEffect-FCS_AC1.statusEffects0.Name",
+    "content": "自动炮火控系统"
+  },
+  {
+    "id": "Gear_FCS_Autocannon.StatusEffect-FCS_AC2.statusEffects1.Name",
+    "content": "自动炮火控系统"
+  },
+  {
+    "id": "Gear_FCS_Autocannon.StatusEffect-FCS_AC3.statusEffects2.Name",
+    "content": "自动炮火控系统"
+  },
+  {
+    "id": "Gear_FCS_Autocannon.StatusEffect-FCS_PPC7.statusEffects3.Name",
+    "content": "TTS3NRGMINRANGE"
+  },
+  {
+    "id": "Gear_FCS_Autocannon.FCS-Recoil.statusEffects4.Name",
+    "content": "-2后座"
+  },
+  {
+    "id": "Gear_FCS_Autocannon.StatusEffect-TTSBALLCRIT.statusEffects5.Name",
+    "content": "提升导弹武器命中"
+  },
+  {
+    "id": "Gear_FCS_Bloodsports.Description.Details",
+    "content": "最初为索拉里斯市场设计,恐怖清晰视界2A相比于恐怖清晰视界1A提供了更多的近战优势."
+  },
+  {
+    "id": "Gear_FCS_Bloodsports.Description.UIName",
+    "content": "猎杀活动火控系统"
+  },
+  {
+    "id": "Gear_FCS_Bloodsports.Description.Name",
+    "content": "猎杀活动火控系统"
+  },
+  {
+    "id": "Gear_FCS_Bloodsports.Description.Manufacturer",
+    "content": "多灵电子"
+  },
+  {
+    "id": "Gear_FCS_Bloodsports.CockpitInitiativeEffect.statusEffects0.Details",
+    "content": "+1主动性和其他一些增益"
+  },
+  {
+    "id": "Gear_FCS_Bloodsports.FCS_MeleeAccuracy.statusEffects1.Details",
+    "content": "近战武器精度修正"
+  },
+  {
+    "id": "Gear_FCS_Bloodsports.FCS_MeleeAccuracy1.statusEffects2.Details",
+    "content": "近战武器精度修正"
+  },
+  {
+    "id": "Gear_FCS_Bloodsports.FCS_MeleeAccuracy2.statusEffects3.Details",
+    "content": "近战武器精度修正"
+  },
+  {
+    "id": "Gear_FCS_Bloodsports.FCS_MeleeAccuracy3.statusEffects4.Details",
+    "content": "近战武器精度修正"
+  },
+  {
+    "id": "Gear_FCS_Bloodsports.CockpitInitiativeEffect.statusEffects0.Name",
+    "content": "驾驶舱技术奖励"
+  },
+  {
+    "id": "Gear_FCS_Bloodsports.FCS_MeleeAccuracy.statusEffects1.Name",
+    "content": "近战武器精度修正"
+  },
+  {
+    "id": "Gear_FCS_Bloodsports.FCS_MeleeAccuracy1.statusEffects2.Name",
+    "content": "近战武器精度修正"
+  },
+  {
+    "id": "Gear_FCS_Bloodsports.FCS_MeleeAccuracy2.statusEffects3.Name",
+    "content": "近战武器精度修正"
+  },
+  {
+    "id": "Gear_FCS_Bloodsports.FCS_MeleeAccuracy3.statusEffects4.Name",
+    "content": "近战武器精度修正"
+  },
+  {
+    "id": "Gear_FCS_Breaching.Description.Details",
+    "content": "Octagon Accutrack I于3025年投入使用,因为在正在进行的机甲冲突中发现越来越多的熟练驾驶员利用障碍物减少迎面火力.它让驾驶员获得一个临时\"窗口\",可以进行更精确的射击,而不是担心打到敌人周围的掩体上."
+  },
+  {
+    "id": "Gear_FCS_Breaching.Description.UIName",
+    "content": "突破火控系统"
+  },
+  {
+    "id": "Gear_FCS_Breaching.Description.Name",
+    "content": "突破火控系统"
+  },
+  {
+    "id": "Gear_FCS_Breaching.Description.Manufacturer",
+    "content": "十月"
+  },
+  {
+    "id": "Gear_FCS_Breaching.TC-Breaching.statusEffects0.Details",
+    "content": "被动:使用单武器攻击时忽略目标的遮蔽和警戒状态."
+  },
+  {
+    "id": "Gear_FCS_Breaching.TC-Breaching.statusEffects0.Name",
+    "content": "突破射击"
+  },
+  {
+    "id": "Gear_FCS_Clan_ARTEMISIV.Description.Details",
+    "content": "XXXII火控系统只是氏族从内天体撤离期间研发的一系列火控系统中的一个.XXXII是第一个真正的本土火控系统,大量部署在装备有远程导弹的机甲上.<b><color=#F79232>不能和其他导弹TTS一起使用,可以使用月神IV弹药</color></b>."
+  },
+  {
+    "id": "Gear_FCS_Clan_ARTEMISIV.Description.UIName",
+    "content": "月神IV火控系统(C)"
+  },
+  {
+    "id": "Gear_FCS_Clan_ARTEMISIV.Description.Name",
+    "content": "氏族月神IV火控系统"
+  },
+  {
+    "id": "Gear_FCS_Clan_ARTEMISIV.Description.Manufacturer",
+    "content": "黑寡妇氏族"
+  },
+  {
+    "id": "Gear_FCS_Clan_ARTEMISIV.StatusEffect-EnhMS-ClusterBonusLRM.statusEffects0.Details",
+    "content": "大大增加了该单位LRM武器的群组命中,将SRM的稳定伤害提高50%."
+  },
+  {
+    "id": "Gear_FCS_Clan_ARTEMISIV.StatusEffect-EnhMS-ClusterBonusLRM.statusEffects0.Name",
+    "content": "导弹套件"
+  },
+  {
+    "id": "Gear_FCS_Critical.Description.Details",
+    "content": "Octagon Accutrack II设计时考虑到了内部存储.它是为数不多的具有专用预测和存储模块的控制系统之一.允许它在进入遮蔽时计算机甲的预期位置;允许它继续对传感器视线范围内的目标进行精确打击."
+  },
+  {
+    "id": "Gear_FCS_Critical.Description.UIName",
+    "content": "致命损伤火控系统"
+  },
+  {
+    "id": "Gear_FCS_Critical.Description.Name",
+    "content": "致命损伤火控系统"
+  },
+  {
+    "id": "Gear_FCS_Critical.Description.Manufacturer",
+    "content": "Octagon"
+  },
+  {
+    "id": "Gear_FCS_Critical.TC-Breaching.statusEffects0.Details",
+    "content": "被动:使用单武器攻击时忽略目标的遮蔽和警戒状态."
+  },
+  {
+    "id": "Gear_FCS_Critical.TC-Breaching.statusEffects0.Name",
+    "content": "突破射击"
+  },
+  {
+    "id": "Gear_FCS_Flak.Description.Details",
+    "content": "在氏族入侵的时候,装备有过时的高射炮-1A防空平台作为武装的机甲通过重写的系统和框架.禁用了空中目标追踪系统以更多关注地面目标.这大大提高机甲上常用的LBX系统的普及率,但代价是需要花费很长的改装周期来重新恢复机甲的防空."
+  },
+  {
+    "id": "Gear_FCS_Flak.Description.UIName",
+    "content": "高射炮火控系统"
+  },
+  {
+    "id": "Gear_FCS_Flak.Description.Name",
+    "content": "高射炮火控系统"
+  },
+  {
+    "id": "Gear_FCS_Flak.Description.Manufacturer",
+    "content": "卡隆工业公司"
+  },
+  {
+    "id": "Gear_FCS_Flak.StatusEffect-FCS_Flak.statusEffects0.Details",
+    "content": "+1闪避忽略"
+  },
+  {
+    "id": "Gear_FCS_Flak.StatusEffect-FCS_Flak.statusEffects0.Name",
+    "content": "忽略闪避"
+  },
+  {
+    "id": "Gear_FCS_Flak.StatusEffect-FCS_Flak2.statusEffects1.Name",
+    "content": "高射炮火控系统"
+  },
+  {
+    "id": "Gear_FCS_Flak.StatusEffect-FCS_Flak3.statusEffects2.Name",
+    "content": "高射炮火控系统"
+  },
+  {
+    "id": "Gear_FCS_Flamer.Description.Details",
+    "content": "FoxxFire火控系统在被多个城市作战部队采用前就出现在了索拉里斯竞技场上.为单位的机载喷火器提供了更好的管理."
+  },
+  {
+    "id": "Gear_FCS_Flamer.Description.UIName",
+    "content": "喷火器火控系统"
+  },
+  {
+    "id": "Gear_FCS_Flamer.Description.Name",
+    "content": "地狱火火控系统"
+  },
+  {
+    "id": "Gear_FCS_Flamer.Description.Manufacturer",
+    "content": "未知"
+  },
+  {
+    "id": "Gear_FCS_Flamer.StatusEffect-FCS_Flamer.statusEffects0.Details",
+    "content": "+1精度,+25%能量武器致命损伤率"
+  },
+  {
+    "id": "Gear_FCS_Flamer.StatusEffect-FCS_Flamer2.statusEffects1.Details",
+    "content": "+1精度,+25%能量武器致命损伤率"
+  },
+  {
+    "id": "Gear_FCS_Flamer.StatusEffect-FCS_Flamer.statusEffects0.Name",
+    "content": "喷火器火控系统"
+  },
+  {
+    "id": "Gear_FCS_Flamer.StatusEffect-FCS_Flamer2.statusEffects1.Name",
+    "content": "喷火器火控系统"
+  },
+  {
+    "id": "Gear_FCS_Gauss.Description.Details",
+    "content": "鹰眼400最初与当时由天琴座同盟国开发的高斯线膛炮原型一起使用.一种独特的瞄准范围和高点计算框架的组合,使得以精确为定位的高斯线膛炮可以抵消在近距离开火所造成的湍流的影响.这有助于减少上战场前所需要的训练时间,比如减少了三分之一发射高精度炮弹所需要的训练."
+  },
+  {
+    "id": "Gear_FCS_Gauss.Description.UIName",
+    "content": "高斯狙击火控系统"
+  },
+  {
+    "id": "Gear_FCS_Gauss.Description.Name",
+    "content": "高斯狙击火控系统"
+  },
+  {
+    "id": "Gear_FCS_Gauss.Description.Manufacturer",
+    "content": "鹰眼"
+  },
+  {
+    "id": "Gear_FCS_Gauss.StatusEffect-FCS_Gauss.statusEffects0.Details",
+    "content": "+3高斯武器精度"
+  },
+  {
+    "id": "Gear_FCS_Gauss.StatusEffect-FCS_Gauss.statusEffects0.Name",
+    "content": "高斯火控系统"
+  },
+  {
+    "id": "Gear_FCS_GaussPlus.Description.Details",
+    "content": "鹰眼400X是鹰眼计划中一个相当奇怪的产品.以原始的天气检测套件为例,它去掉了一些远程的下降预测效果,而以一台专用计算机来调整稳定武器上的充电量.这使的\"机甲\"能以中程以外的精度作为代价获得更好的弹头速度."
+  },
+  {
+    "id": "Gear_FCS_GaussPlus.Description.UIName",
+    "content": "高斯伤害火控系统"
+  },
+  {
+    "id": "Gear_FCS_GaussPlus.Description.Name",
+    "content": "高斯伤害火控系统"
+  },
+  {
+    "id": "Gear_FCS_GaussPlus.Description.Manufacturer",
+    "content": "鹰眼"
+  },
+  {
+    "id": "Gear_FCS_GaussPlus.StatusEffect-FCS_GaussPlus.statusEffects0.Details",
+    "content": "+1精度,+25%能量武器致命损伤率"
+  },
+  {
+    "id": "Gear_FCS_GaussPlus.StatusEffect-FCS_GaussPlus2.statusEffects1.Details",
+    "content": "+1精度,+25%能量武器致命损伤率"
+  },
+  {
+    "id": "Gear_FCS_GaussPlus.StatusEffect-FCS_GaussPlus.statusEffects0.Name",
+    "content": "能量武器 TTS"
+  },
+  {
+    "id": "Gear_FCS_GaussPlus.StatusEffect-FCS_GaussPlus2.statusEffects1.Name",
+    "content": "能量武器 TTS"
+  },
+  {
+    "id": "Gear_FCS_Handheld.Description.Details",
+    "content": "被设计用于和手持武器对接,该火控系统提供了使用任何该类装备或手持近战武器瞄准时更优越的灵活性."
+  },
+  {
+    "id": "Gear_FCS_Handheld.Description.UIName",
+    "content": "手持设备火控系统"
+  },
+  {
+    "id": "Gear_FCS_Handheld.Description.Name",
+    "content": " 手持设备火控系统"
+  },
+  {
+    "id": "Gear_FCS_Handheld.Description.Manufacturer",
+    "content": "多灵电子"
+  },
+  {
+    "id": "Gear_FCS_Handheld.FCS_MeleeAccuracy.statusEffects0.Details",
+    "content": "近战武器精度修正"
+  },
+  {
+    "id": "Gear_FCS_Handheld.FCS_MeleeAccuracy2.statusEffects1.Details",
+    "content": "+1粒子炮精度."
+  },
+  {
+    "id": "Gear_FCS_Handheld.FCS_MeleeAccuracy3.statusEffects2.Details",
+    "content": "+1粒子炮精度."
+  },
+  {
+    "id": "Gear_FCS_Handheld.FCS_MeleeAccuracy.statusEffects0.Name",
+    "content": "近战武器精度修正"
+  },
+  {
+    "id": "Gear_FCS_Handheld.FCS_MeleeAccuracy2.statusEffects1.Name",
+    "content": "粒子炮精度特性"
+  },
+  {
+    "id": "Gear_FCS_Handheld.FCS_MeleeAccuracy3.statusEffects2.Name",
+    "content": "粒子炮精度特性"
+  },
+  {
+    "id": "Gear_FCS_Headshot.Description.Details",
+    "content": "Octagon Accutrack I于3025年投入使用,因为在正在进行的机甲冲突中发现越来越多的熟练驾驶员利用障碍物减少迎面火力.它让驾驶员获得一个临时\"窗口\",可以进行更精确的射击,而不是担心打到敌人周围的掩体上."
+  },
+  {
+    "id": "Gear_FCS_Headshot.Description.UIName",
+    "content": "头部武器火控系统"
+  },
+  {
+    "id": "Gear_FCS_Headshot.Description.Name",
+    "content": "头部武器火控系统"
+  },
+  {
+    "id": "Gear_FCS_Headshot.Description.Manufacturer",
+    "content": "十月"
+  },
+  {
+    "id": "Gear_FCS_Headshot.TC-Headshot.statusEffects0.Details",
+    "content": "被动:使用单武器攻击时忽略目标的遮蔽和警戒状态."
+  },
+  {
+    "id": "Gear_FCS_Headshot.TC-Headshot.statusEffects0.Name",
+    "content": "突破射击"
+  },
+  {
+    "id": "Gear_FCS_Improved.Description.Details",
+    "content": "基础强化火控电脑,提升了单位瞄准系统."
+  },
+  {
+    "id": "Gear_FCS_Improved.Description.UIName",
+    "content": "改进火控系统"
+  },
+  {
+    "id": "Gear_FCS_Improved.Description.Name",
+    "content": "改进火控系统"
+  },
+  {
+    "id": "Gear_FCS_Improved.Description.Manufacturer",
+    "content": "NAIS"
+  },
+  {
+    "id": "Gear_FCS_Improved.NightVision.statusEffects0.Details",
+    "content": "被动:开启夜视"
+  },
+  {
+    "id": "Gear_FCS_Improved.StatusEffect_Cockpit_Skill_Gunnery.statusEffects1.Details",
+    "content": "获得射击学增益"
+  },
+  {
+    "id": "Gear_FCS_Improved.AAAFactorMulti.statusEffects2.Details",
+    "content": "防空系数."
+  },
+  {
+    "id": "Gear_FCS_Improved.NightVision.statusEffects0.Name",
+    "content": "夜视模式"
+  },
+  {
+    "id": "Gear_FCS_Improved.StatusEffect_Cockpit_Skill_Gunnery.statusEffects1.Name",
+    "content": "射击学增益"
+  },
+  {
+    "id": "Gear_FCS_Improved.AAAFactorMulti.statusEffects2.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Gear_FCS_Improved_Clan.Description.Details",
+    "content": "氏族基础强化火控电脑,提升了单位瞄准系统."
+  },
+  {
+    "id": "Gear_FCS_Improved_Clan.Description.UIName",
+    "content": "改进火控系统(C)"
+  },
+  {
+    "id": "Gear_FCS_Improved_Clan.Description.Name",
+    "content": "改进火控系统(C)"
+  },
+  {
+    "id": "Gear_FCS_Improved_Clan.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Gear_FCS_Improved_Clan.NightVision.statusEffects0.Details",
+    "content": "被动:开启夜视"
+  },
+  {
+    "id": "Gear_FCS_Improved_Clan.TCCALLSHOT.statusEffects1.Details",
+    "content": "精确射击双倍可靠"
+  },
+  {
+    "id": "Gear_FCS_Improved_Clan.StatusEffect_Cockpit_Skill_Gunnery.statusEffects2.Details",
+    "content": "获得射击学增益"
+  },
+  {
+    "id": "Gear_FCS_Improved_Clan.AAAFactorMulti.statusEffects3.Details",
+    "content": "防空系数."
+  },
+  {
+    "id": "Gear_FCS_Improved_Clan.NightVision.statusEffects0.Name",
+    "content": "夜视模式"
+  },
+  {
+    "id": "Gear_FCS_Improved_Clan.TCCALLSHOT.statusEffects1.Name",
+    "content": "提升精确射击"
+  },
+  {
+    "id": "Gear_FCS_Improved_Clan.StatusEffect_Cockpit_Skill_Gunnery.statusEffects2.Name",
+    "content": "射击学增益"
+  },
+  {
+    "id": "Gear_FCS_Improved_Clan.AAAFactorMulti.statusEffects3.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Gear_FCS_LaserHeat.Description.Details",
+    "content": "O-P911是一种相当古老的火控系统.在继承战争后期性能被其他型号超越.该型号为机甲提供了专用的电容控制系统,降低了激光武器的热量和能量消耗. "
+  },
+  {
+    "id": "Gear_FCS_LaserHeat.Description.UIName",
+    "content": "超新星火控系统"
+  },
+  {
+    "id": "Gear_FCS_LaserHeat.Description.Name",
+    "content": "超新星火控系统"
+  },
+  {
+    "id": "Gear_FCS_LaserHeat.Description.Manufacturer",
+    "content": "多灵电子"
+  },
+  {
+    "id": "Gear_FCS_LaserHeat.StatusEffect-FCS-Laser.statusEffects0.Details",
+    "content": "更少的激光产热"
+  },
+  {
+    "id": "Gear_FCS_LaserHeat.StatusEffect-FCS-Laser.statusEffects0.Name",
+    "content": "激光产热"
+  },
+  {
+    "id": "Gear_FCS_MachineGun.Description.Details",
+    "content": "一种独特的火控系统,它能对装在机甲上的机枪进行过充.不管性能如何,它都能将弹药送入机甲的枪膛内,从而产生明显的效果.尽管设计着不清楚子弹是从枪口发射的还是从武器下方的进弹口射出的."
+  },
+  {
+    "id": "Gear_FCS_MachineGun.Description.UIName",
+    "content": "机枪火控系统"
+  },
+  {
+    "id": "Gear_FCS_MachineGun.Description.Name",
+    "content": "机枪火控系统"
+  },
+  {
+    "id": "Gear_FCS_MachineGun.Description.Manufacturer",
+    "content": "索拉里斯"
+  },
+  {
+    "id": "Gear_FCS_MachineGun.FCSMG1.statusEffects0.Details",
+    "content": "+1导弹武器的精度"
+  },
+  {
+    "id": "Gear_FCS_MachineGun.FCSMG2.statusEffects1.Details",
+    "content": "间瞄导弹攻击失去2精度,因此只有直瞄射击才能从月神获得+2奖励."
+  },
+  {
+    "id": "Gear_FCS_MachineGun.FCSMG3.statusEffects2.Details",
+    "content": "间瞄导弹攻击失去2精度,因此只有直瞄射击才能从月神获得+2奖励."
+  },
+  {
+    "id": "Gear_FCS_MachineGun.FCSMG4.statusEffects3.Details",
+    "content": "间瞄导弹攻击失去2精度,因此只有直瞄射击才能从月神获得+2奖励."
+  },
+  {
+    "id": "Gear_FCS_MachineGun.FCSMG1.statusEffects0.Name",
+    "content": "导弹武器TTS"
+  },
+  {
+    "id": "Gear_FCS_MachineGun.FCSMG2.statusEffects1.Name",
+    "content": "间瞄射击"
+  },
+  {
+    "id": "Gear_FCS_MachineGun.FCSMG3.statusEffects2.Name",
+    "content": "间瞄射击"
+  },
+  {
+    "id": "Gear_FCS_MachineGun.FCSMG4.statusEffects3.Name",
+    "content": "间瞄射击"
+  },
+  {
+    "id": "Gear_FCS_MachineGun_Clan.Description.Details",
+    "content": "由氏族为Pir-1开发.该火控系统将一组计算机和传感器匹配,以消除机枪自动供弹线的扭结.使用精细的微动切换器,该控制器可以瞬间更换子弹,始终确保武器的供弹.其余的重量是携带的是一个风阻计算器.将计算应变的压力从驾驶员身上转移到另外的两个计算中心."
+  },
+  {
+    "id": "Gear_FCS_MachineGun_Clan.Description.UIName",
+    "content": "机枪火控系统(C)"
+  },
+  {
+    "id": "Gear_FCS_MachineGun_Clan.Description.Name",
+    "content": "机枪火控系统(C)"
+  },
+  {
+    "id": "Gear_FCS_MachineGun_Clan.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Gear_FCS_MachineGun_Clan.FCSMG1.statusEffects0.Details",
+    "content": "+1导弹武器的精度"
+  },
+  {
+    "id": "Gear_FCS_MachineGun_Clan.FCSMG2.statusEffects1.Details",
+    "content": "间瞄导弹攻击失去2精度,因此只有直瞄射击才能从月神获得+2奖励."
+  },
+  {
+    "id": "Gear_FCS_MachineGun_Clan.FCSMG3.statusEffects2.Details",
+    "content": "间瞄导弹攻击失去2精度,因此只有直瞄射击才能从月神获得+2奖励."
+  },
+  {
+    "id": "Gear_FCS_MachineGun_Clan.FCSMG1.statusEffects0.Name",
+    "content": "导弹武器TTS"
+  },
+  {
+    "id": "Gear_FCS_MachineGun_Clan.FCSMG2.statusEffects1.Name",
+    "content": "间瞄射击"
+  },
+  {
+    "id": "Gear_FCS_MachineGun_Clan.FCSMG3.statusEffects2.Name",
+    "content": "间瞄射击"
+  },
+  {
+    "id": "Gear_FCS_Melee.Description.Details",
+    "content": "恐怖清晰视界1A是为了索拉里斯市场设计的.每个清晰视界1A都必须和驾驶员神经头盔进行痛苦的校准.再加上运动预测算法,它让机甲拥有在不泄露驾驶员意图的情况下进行闪电般快速打击的能力.降低敌人近一半的躲避空间."
+  },
+  {
+    "id": "Gear_FCS_Melee.Description.UIName",
+    "content": "近战火控系统"
+  },
+  {
+    "id": "Gear_FCS_Melee.Description.Name",
+    "content": "近战火控系统"
+  },
+  {
+    "id": "Gear_FCS_Melee.Description.Manufacturer",
+    "content": "多灵电子"
+  },
+  {
+    "id": "Gear_FCS_Melee.FCS_MeleeAccuracy.statusEffects0.Details",
+    "content": "近战武器精度修正"
+  },
+  {
+    "id": "Gear_FCS_Melee.FCS_MeleeAccuracy1.statusEffects1.Details",
+    "content": "近战武器精度修正"
+  },
+  {
+    "id": "Gear_FCS_Melee.FCS_MeleeAccuracy2.statusEffects2.Details",
+    "content": "近战武器精度修正"
+  },
+  {
+    "id": "Gear_FCS_Melee.FCS_MeleeAccuracy3.statusEffects3.Details",
+    "content": "近战武器精度修正"
+  },
+  {
+    "id": "Gear_FCS_Melee.FCS_MeleeAccuracy.statusEffects0.Name",
+    "content": "近战武器精度修正"
+  },
+  {
+    "id": "Gear_FCS_Melee.FCS_MeleeAccuracy1.statusEffects1.Name",
+    "content": "近战武器精度修正"
+  },
+  {
+    "id": "Gear_FCS_Melee.FCS_MeleeAccuracy2.statusEffects2.Name",
+    "content": "近战武器精度修正"
+  },
+  {
+    "id": "Gear_FCS_Melee.FCS_MeleeAccuracy3.statusEffects3.Name",
+    "content": "近战武器精度修正"
+  },
+  {
+    "id": "Gear_FCS_MissileHeat.Description.Details",
+    "content": "IMB433火控系统被设计用于让机甲上的导弹错开发射.虽然是一个相当简单的控制套件,但管理的每个方面都需要从多个方面进行预先计算.在收到有关导弹发射器和弹药上的制造商数据后,IMB能够以错开的方式发射,限制武器系统内的总辐射热累积;不管外界因素如何. "
+  },
+  {
+    "id": "Gear_FCS_MissileHeat.Description.UIName",
+    "content": "雨师火控系统"
+  },
+  {
+    "id": "Gear_FCS_MissileHeat.Description.Name",
+    "content": "雨师火控系统"
+  },
+  {
+    "id": "Gear_FCS_MissileHeat.Description.Manufacturer",
+    "content": "IMB"
+  },
+  {
+    "id": "Gear_FCS_MissileHeat.StatusEffect-MissileHeat.statusEffects0.Details",
+    "content": "+2导弹武器攻击命中."
+  },
+  {
+    "id": "Gear_FCS_MissileHeat.StatusEffect-MissileHeat.statusEffects0.Name",
+    "content": "月神IV系统"
+  },
+  {
+    "id": "Gear_FCS_MultiTrack.Description.Details",
+    "content": "Octagon Accutrack I于3025年投入使用,因为在正在进行的机甲冲突中发现越来越多的熟练驾驶员利用障碍物减少迎面火力.它让驾驶员获得一个临时\"窗口\",可以进行更精确的射击,而不是担心打到敌人周围的掩体上."
+  },
+  {
+    "id": "Gear_FCS_MultiTrack.Description.UIName",
+    "content": "多追踪火控系统"
+  },
+  {
+    "id": "Gear_FCS_MultiTrack.Description.Name",
+    "content": "多追踪"
+  },
+  {
+    "id": "Gear_FCS_MultiTrack.Description.Manufacturer",
+    "content": "十月"
+  },
+  {
+    "id": "Gear_FCS_MultiTrack.IRAllowMultiTargetEffect.statusEffects0.Details",
+    "content": "启用多目标."
+  },
+  {
+    "id": "Gear_FCS_MultiTrack.AAAFactorMulti.statusEffects1.Details",
+    "content": "防空系数."
+  },
+  {
+    "id": "Gear_FCS_MultiTrack.IRAllowMultiTargetEffect.statusEffects0.Name",
+    "content": "红外多目标"
+  },
+  {
+    "id": "Gear_FCS_MultiTrack.AAAFactorMulti.statusEffects1.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Gear_FCS_PPC.Description.Details",
+    "content": "机甲的火控系统协调并分析传感器带来的大量数据,以便跟踪单位、生成射击方案和命中目标."
+  },
+  {
+    "id": "Gear_FCS_PPC.Description.UIName",
+    "content": "粒子炮火控系统"
+  },
+  {
+    "id": "Gear_FCS_PPC.Description.Name",
+    "content": "粒子炮火控系统"
+  },
+  {
+    "id": "Gear_FCS_PPC.Description.Manufacturer",
+    "content": "阿尔沙因"
+  },
+  {
+    "id": "Gear_FCS_PPC.StatusEffect-FCS_PPC3.statusEffects6.Details",
+    "content": "该单位发射增程LRM."
+  },
+  {
+    "id": "Gear_FCS_PPC.StatusEffect-FCS_PPC7.statusEffects7.Details",
+    "content": "该单位发射增程LRM."
+  },
+  {
+    "id": "Gear_FCS_PPC.FCS-Recoil.statusEffects8.Details",
+    "content": "降低武器后座"
+  },
+  {
+    "id": "Gear_FCS_PPC.FCS-Recoil.statusEffects9.Details",
+    "content": "降低武器后座"
+  },
+  {
+    "id": "Gear_FCS_PPC.StatusEffect-TTSBALLCRIT.statusEffects10.Details",
+    "content": "+3导弹武器攻击命中."
+  },
+  {
+    "id": "Gear_FCS_PPC.StatusEffect-TTSBALLCRIT.statusEffects11.Details",
+    "content": "+3导弹武器攻击命中."
+  },
+  {
+    "id": "Gear_FCS_PPC.StatusEffect-FCS_PPC0.statusEffects0.Name",
+    "content": "能量武器 TTS"
+  },
+  {
+    "id": "Gear_FCS_PPC.StatusEffect-FCS_PPC4.statusEffects1.Name",
+    "content": "能量武器 TTS"
+  },
+  {
+    "id": "Gear_FCS_PPC.StatusEffect-FCS_PPC1.statusEffects2.Name",
+    "content": "能量武器 TTS"
+  },
+  {
+    "id": "Gear_FCS_PPC.StatusEffect-FCS_PPC5.statusEffects3.Name",
+    "content": "能量武器 TTS"
+  },
+  {
+    "id": "Gear_FCS_PPC.StatusEffect-FCS_PPC2.statusEffects4.Name",
+    "content": "能量武器 TTS"
+  },
+  {
+    "id": "Gear_FCS_PPC.StatusEffect-FCS_PPC6.statusEffects5.Name",
+    "content": "能量武器 TTS"
+  },
+  {
+    "id": "Gear_FCS_PPC.StatusEffect-FCS_PPC3.statusEffects6.Name",
+    "content": "TTS3NRGMINRANGE"
+  },
+  {
+    "id": "Gear_FCS_PPC.StatusEffect-FCS_PPC7.statusEffects7.Name",
+    "content": "TTS3NRGMINRANGE"
+  },
+  {
+    "id": "Gear_FCS_PPC.FCS-Recoil.statusEffects8.Name",
+    "content": "-2后座"
+  },
+  {
+    "id": "Gear_FCS_PPC.FCS-Recoil.statusEffects9.Name",
+    "content": "-2后座"
+  },
+  {
+    "id": "Gear_FCS_PPC.StatusEffect-TTSBALLCRIT.statusEffects10.Name",
+    "content": "提升导弹武器命中"
+  },
+  {
+    "id": "Gear_FCS_PPC.StatusEffect-TTSBALLCRIT.statusEffects11.Name",
+    "content": "提升导弹武器命中"
+  },
+  {
+    "id": "Gear_FCS_Predator.Description.Details",
+    "content": "光学扫描400BP是一次相当成功的尝试,它将以前的O-P型号上常见的夜视仪和热成像仪融合到一个独特系统中.在加上一个额外的数字示波器套件.这个庞大的火控系统使机甲能够在任何条件下完全工作,几乎在机甲遇到的所有可能情况范围内."
+  },
+  {
+    "id": "Gear_FCS_Predator.Description.UIName",
+    "content": "捕食者火控系统"
+  },
+  {
+    "id": "Gear_FCS_Predator.Description.Name",
+    "content": "捕食者火控系统"
+  },
+  {
+    "id": "Gear_FCS_Predator.Description.Manufacturer",
+    "content": "多灵电子"
+  },
+  {
+    "id": "Gear_FCS_Predator.NightVision.statusEffects0.Details",
+    "content": "被动:开启夜视"
+  },
+  {
+    "id": "Gear_FCS_Predator.TCCALLSHOT.statusEffects1.Details",
+    "content": "精确射击双倍可靠"
+  },
+  {
+    "id": "Gear_FCS_Predator.RangeBracketBonusAccER.statusEffects2.Details",
+    "content": "射程组精度奖励"
+  },
+  {
+    "id": "Gear_FCS_Predator.RangeBracketBonusAccLR.statusEffects3.Details",
+    "content": "射程组精度奖励"
+  },
+  {
+    "id": "Gear_FCS_Predator.RangeBracketBonusAccMR.statusEffects4.Details",
+    "content": "射程组精度奖励"
+  },
+  {
+    "id": "Gear_FCS_Predator.RangeBracketBonusAccSR.statusEffects5.Details",
+    "content": "射程组精度奖励"
+  },
+  {
+    "id": "Gear_FCS_Predator.NightVision.statusEffects0.Name",
+    "content": "夜视模式"
+  },
+  {
+    "id": "Gear_FCS_Predator.TCCALLSHOT.statusEffects1.Name",
+    "content": "提升精确射击"
+  },
+  {
+    "id": "Gear_FCS_Predator.RangeBracketBonusAccER.statusEffects2.Name",
+    "content": "在射程内奖励精度"
+  },
+  {
+    "id": "Gear_FCS_Predator.RangeBracketBonusAccLR.statusEffects3.Name",
+    "content": "在射程内奖励精度"
+  },
+  {
+    "id": "Gear_FCS_Predator.RangeBracketBonusAccMR.statusEffects4.Name",
+    "content": "在射程内奖励精度"
+  },
+  {
+    "id": "Gear_FCS_Predator.RangeBracketBonusAccSR.statusEffects5.Name",
+    "content": "在射程内奖励精度"
+  },
+  {
+    "id": "Gear_FCS_RangeBoost.Description.Details",
+    "content": "机甲的火控系统协调并分析传感器带来的大量数据,以便跟踪单位、生成射击方案和命中目标."
+  },
+  {
+    "id": "Gear_FCS_RangeBoost.Description.UIName",
+    "content": "游骑兵火控系统"
+  },
+  {
+    "id": "Gear_FCS_RangeBoost.Description.Name",
+    "content": "游骑兵火控系统"
+  },
+  {
+    "id": "Gear_FCS_RangeBoost.Description.Manufacturer",
+    "content": "哈特福德"
+  },
+  {
+    "id": "Gear_FCS_RangeBoost.TTS3MISSMINRANGE.statusEffects0.Details",
+    "content": "该单位发射增程LRM."
+  },
+  {
+    "id": "Gear_FCS_RangeBoost.TTS3MISSSHORTRANGE.statusEffects1.Details",
+    "content": "DF Minrange by50m"
+  },
+  {
+    "id": "Gear_FCS_RangeBoost.TTS3MISSMEDRANGE.statusEffects2.Details",
+    "content": "DF Minrange by50m"
+  },
+  {
+    "id": "Gear_FCS_RangeBoost.TTS3MISSLONGRANGE.statusEffects3.Details",
+    "content": "DF Minrange by50m"
+  },
+  {
+    "id": "Gear_FCS_RangeBoost.TTS3MISSMAXRANGE.statusEffects4.Details",
+    "content": "DF Minrange by50m"
+  },
+  {
+    "id": "Gear_FCS_RangeBoost.TTS3MISSMINRANGE.statusEffects0.Name",
+    "content": "TTS3MISSMINRANGE"
+  },
+  {
+    "id": "Gear_FCS_RangeBoost.TTS3MISSSHORTRANGE.statusEffects1.Name",
+    "content": "TTS3MISSMINRANGE"
+  },
+  {
+    "id": "Gear_FCS_RangeBoost.TTS3MISSMEDRANGE.statusEffects2.Name",
+    "content": "TTS3MISSMEDRANGE"
+  },
+  {
+    "id": "Gear_FCS_RangeBoost.TTS3MISSLONGRANGE.statusEffects3.Name",
+    "content": "TTS3MISSLONGRANGE"
+  },
+  {
+    "id": "Gear_FCS_RangeBoost.TTS3MISSMAXRANGE.statusEffects4.Name",
+    "content": "TTS3MISSMAXRANGE"
+  },
+  {
+    "id": "Gear_FCS_Recoil.Description.Details",
+    "content": "减少卡壳就机率的改进火控系统"
+  },
+  {
+    "id": "Gear_FCS_Recoil.Description.UIName",
+    "content": "卡壳优化火控系统"
+  },
+  {
+    "id": "Gear_FCS_Recoil.Description.Name",
+    "content": "武器电脑"
+  },
+  {
+    "id": "Gear_FCS_Recoil.Description.Manufacturer",
+    "content": "NAIS"
+  },
+  {
+    "id": "Gear_FCS_Recoil.FCS-Recoil.statusEffects0.Details",
+    "content": "降低武器后座"
+  },
+  {
+    "id": "Gear_FCS_Recoil.FCS-Recoil.statusEffects0.Name",
+    "content": "-2后座"
+  },
+  {
+    "id": "Gear_FCS_ScanOptics.Description.Details",
+    "content": "光学扫描400BP是一次相当成功的尝试,它将以前的O-P型号上常见的夜视仪和热成像仪融合到一个独特系统中.在加上一个额外的数字示波器套件.这个庞大的火控系统使机甲能够在任何条件下完全工作,几乎在机甲遇到的所有可能情况范围内."
+  },
+  {
+    "id": "Gear_FCS_ScanOptics.Description.UIName",
+    "content": "光学扫描火控系统"
+  },
+  {
+    "id": "Gear_FCS_ScanOptics.Description.Name",
+    "content": "武器电脑"
+  },
+  {
+    "id": "Gear_FCS_ScanOptics.Description.Manufacturer",
+    "content": "多灵电子"
+  },
+  {
+    "id": "Gear_FCS_ScanOptics.FCSCritChance.statusEffects0.Details",
+    "content": "被动:使用单武器攻击时忽略目标的遮蔽和警戒状态."
+  },
+  {
+    "id": "Gear_FCS_ScanOptics.NightVision.statusEffects1.Details",
+    "content": "被动:开启夜视"
+  },
+  {
+    "id": "Gear_FCS_ScanOptics.Zoom Vision Effect.statusEffects2.Details",
+    "content": "射程组精度奖励"
+  },
+  {
+    "id": "Gear_FCS_ScanOptics.Heat Vision Effect.statusEffects3.Details",
+    "content": "热奖励精度"
+  },
+  {
+    "id": "Gear_FCS_ScanOptics.FCSCritChance.statusEffects0.Name",
+    "content": "突破射击"
+  },
+  {
+    "id": "Gear_FCS_ScanOptics.NightVision.statusEffects1.Name",
+    "content": "夜视模式"
+  },
+  {
+    "id": "Gear_FCS_ScanOptics.Zoom Vision Effect.statusEffects2.Name",
+    "content": "在射程内奖励精度"
+  },
+  {
+    "id": "Gear_FCS_ScanOptics.Heat Vision Effect.statusEffects3.Name",
+    "content": "奖励精度对抗热"
+  },
+  {
+    "id": "Gear_FCS_VDNI.Description.Details",
+    "content": "媒介直接神经接口(VDNI)是为Manei Domini开发的一种特殊类型控制植入物.该系统在原理上与氏族增强成像(EI)系统类似,允许机甲战士、战斗机驾驶员、战斗装甲兵、甚至是作战车辆和小型艇与他们的机器成为一体.然而与EI系统不同,VDNI是可以通过使用改进断路器强制用户定期摄入特殊化学物质抵御该技术的短期负面影响."
+  },
+  {
+    "id": "Gear_FCS_VDNI.Description.UIName",
+    "content": "媒介DNI座舱"
+  },
+  {
+    "id": "Gear_FCS_VDNI.Description.Name",
+    "content": "VDNI座舱"
+  },
+  {
+    "id": "Gear_FCS_VDNI.Description.Manufacturer",
+    "content": "布莱克之道"
+  },
+  {
+    "id": "Gear_FCS_VDNI.StatusEffect-RequireNI.statusEffects0.Details",
+    "content": "该单位在射击前后都可以移动."
+  },
+  {
+    "id": "Gear_FCS_VDNI.RangeBracketBonusAccER.statusEffects1.Details",
+    "content": "射程组精度奖励"
+  },
+  {
+    "id": "Gear_FCS_VDNI.RangeBracketBonusAccLR.statusEffects2.Details",
+    "content": "射程组精度奖励"
+  },
+  {
+    "id": "Gear_FCS_VDNI.RangeBracketBonusAccMR.statusEffects3.Details",
+    "content": "射程组精度奖励"
+  },
+  {
+    "id": "Gear_FCS_VDNI.RangeBracketBonusAccSR.statusEffects4.Details",
+    "content": "射程组精度奖励"
+  },
+  {
+    "id": "Gear_FCS_VDNI.CockpitBleed.statusEffects5.Details",
+    "content": "失血速度 x 0.6"
+  },
+  {
+    "id": "Gear_FCS_VDNI.StatusEffect-RequireNI.statusEffects0.Name",
+    "content": "王牌驾驶员"
+  },
+  {
+    "id": "Gear_FCS_VDNI.RangeBracketBonusAccER.statusEffects1.Name",
+    "content": "在射程内奖励精度"
+  },
+  {
+    "id": "Gear_FCS_VDNI.RangeBracketBonusAccLR.statusEffects2.Name",
+    "content": "在射程内奖励精度"
+  },
+  {
+    "id": "Gear_FCS_VDNI.RangeBracketBonusAccMR.statusEffects3.Name",
+    "content": "在射程内奖励精度"
+  },
+  {
+    "id": "Gear_FCS_VDNI.RangeBracketBonusAccSR.statusEffects4.Name",
+    "content": "在射程内奖励精度"
+  },
+  {
+    "id": "Gear_FCS_VDNI.CockpitBleed.statusEffects5.Name",
+    "content": "降低失血速度"
+  },
+  {
+    "id": "Gear_FCS_VDNI.StatusEffect-RequireNI.CAE0.Details",
+    "content": "过热时受到伤害"
+  },
+  {
+    "id": "Gear_FCS_VDNI.StatusEffect-RequireNI.CAE1.Details",
+    "content": "+2主动性和其他一些增益"
+  },
+  {
+    "id": "Gear_FCS_VDNI.StatusEffect-RequireNI.CAE2.Details",
+    "content": "该单位从移动中获得额外的闪避(直到最大值)."
+  },
+  {
+    "id": "Gear_FCS_VDNI.StatusEffect-RequireNI.CAE3.Details",
+    "content": "精确射击双倍可靠"
+  },
+  {
+    "id": "Gear_FCS_VDNI.StatusEffect-RequireNI.CAE4.Details",
+    "content": "精确射击双倍可靠"
+  },
+  {
+    "id": "Gear_FCS_VDNI.AAAFactorMulti.CAE5.Details",
+    "content": "防空系数."
+  },
+  {
+    "id": "Gear_FCS_VDNI.StatusEffect-RequireNI.CAE0.Name",
+    "content": "过热驾驶伤害"
+  },
+  {
+    "id": "Gear_FCS_VDNI.StatusEffect-RequireNI.CAE1.Name",
+    "content": "驾驶舱技术奖励"
+  },
+  {
+    "id": "Gear_FCS_VDNI.StatusEffect-RequireNI.CAE2.Name",
+    "content": "闪避机动"
+  },
+  {
+    "id": "Gear_FCS_VDNI.StatusEffect-RequireNI.CAE3.Name",
+    "content": "提升精确射击"
+  },
+  {
+    "id": "Gear_FCS_VDNI.StatusEffect-RequireNI.CAE4.Name",
+    "content": "提升精确射击"
+  },
+  {
+    "id": "Gear_FCS_VDNI.AAAFactorMulti.CAE5.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Gear_Pirate_AdvancedTC.Description.Details",
+    "content": "瞄准电脑是一种复杂的电子设备,和普通的瞄准系统不同,它可以帮助机甲战士瞄准他们的对手.另一方面,它被重新布线并多次手工改造,令人惊讶的是,它不仅不会爆炸,还在屏幕中刻了一个大十字......"
+  },
+  {
+    "id": "Gear_Pirate_AdvancedTC.Description.UIName",
+    "content": "海盗火控系统"
+  },
+  {
+    "id": "Gear_Pirate_AdvancedTC.Description.Name",
+    "content": "乡巴佬武器电脑"
+  },
+  {
+    "id": "Gear_Pirate_AdvancedTC.Description.Manufacturer",
+    "content": "1337HAX0R"
+  },
+  {
+    "id": "Gear_Pirate_AdvancedTC.TCEvasive.statusEffects0.Details",
+    "content": "精确射击双倍可靠"
+  },
+  {
+    "id": "Gear_Pirate_AdvancedTC.TC-Breaching.statusEffects1.Details",
+    "content": "被动:使用单武器攻击时忽略目标的遮蔽和警戒状态."
+  },
+  {
+    "id": "Gear_Pirate_AdvancedTC.TC-TO-HIT.statusEffects2.Details",
+    "content": "改良精度但增加产热和后座"
+  },
+  {
+    "id": "Gear_Pirate_AdvancedTC.TCRecoil.statusEffects3.Details",
+    "content": "精确射击双倍可靠"
+  },
+  {
+    "id": "Gear_Pirate_AdvancedTC.StatusEffect-Heat_GenPirateTC.statusEffects4.Details",
+    "content": "-10%产热"
+  },
+  {
+    "id": "Gear_Pirate_AdvancedTC.TCEvasive.statusEffects0.Name",
+    "content": "提升精确射击"
+  },
+  {
+    "id": "Gear_Pirate_AdvancedTC.TC-Breaching.statusEffects1.Name",
+    "content": "突破射击"
+  },
+  {
+    "id": "Gear_Pirate_AdvancedTC.TC-TO-HIT.statusEffects2.Name",
+    "content": "瞄准器!"
+  },
+  {
+    "id": "Gear_Pirate_AdvancedTC.TCRecoil.statusEffects3.Name",
+    "content": "提升精确射击"
+  },
+  {
+    "id": "Gear_Pirate_AdvancedTC.StatusEffect-Heat_GenPirateTC.statusEffects4.Name",
+    "content": "减少产热"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Hartford_F1800.Description.Details",
+    "content": "机甲的火控系统协调并分析传感器带来的大量数据,以便跟踪单位、生成射击方案和命中目标."
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Hartford_F1800.Description.UIName",
+    "content": "高精度导弹火控系统"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Hartford_F1800.Description.Name",
+    "content": "哈特福德(Hartford) F1800TTS"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Hartford_F1800.Description.Manufacturer",
+    "content": "哈特福德"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Hartford_F1800.StatusEffect-TTSMISSACC1.statusEffects0.Details",
+    "content": "+1导弹武器的精度"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Hartford_F1800.TTS1-Correction.statusEffects1.Details",
+    "content": "间瞄导弹攻击失去2精度,因此只有直瞄射击才能从月神获得+2奖励."
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Hartford_F1800.StatusEffect-TTSMISSACC1.statusEffects0.Name",
+    "content": "导弹武器TTS"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Hartford_F1800.TTS1-Correction.statusEffects1.Name",
+    "content": "间瞄射击"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Hartford_F2400.Description.Details",
+    "content": "机甲的火控系统协调并分析传感器带来的大量数据,以便跟踪单位、生成射击方案和命中目标."
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Hartford_F2400.Description.UIName",
+    "content": "HP导弹火控系统"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Hartford_F2400.Description.Name",
+    "content": "哈特福德(Hartford) F2400TTS"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Hartford_F2400.Description.Manufacturer",
+    "content": "哈特福德"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Hartford_F2400.StatusEffect-TTSMISSCRIT.statusEffects0.Details",
+    "content": "3导弹武器攻击命中."
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Hartford_F2400.StatusEffect-TTSMISSCRIT.statusEffects0.Name",
+    "content": "提升导弹武器命中"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Hartford_F3000.Description.Details",
+    "content": "机甲的火控系统协调并分析传感器带来的大量数据,以便跟踪单位、生成射击方案和命中目标."
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Hartford_F3000.Description.UIName",
+    "content": "导弹射程火控系统"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Hartford_F3000.Description.Name",
+    "content": "哈特福德(Hartford) F3000TTS"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Hartford_F3000.Description.Manufacturer",
+    "content": "哈特福德"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Hartford_F3000.TTS3MISSMINRANGE.statusEffects0.Details",
+    "content": "该单位发射增程LRM."
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Hartford_F3000.TTS3MISSSHORTRANGE.statusEffects1.Details",
+    "content": "DF Minrange by50m"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Hartford_F3000.TTS3MISSMEDRANGE.statusEffects2.Details",
+    "content": "DF Minrange by50m"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Hartford_F3000.TTS3MISSLONGRANGE.statusEffects3.Details",
+    "content": "DF Minrange by50m"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Hartford_F3000.TTS3MISSMAXRANGE.statusEffects4.Details",
+    "content": "DF Minrange by50m"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Hartford_F3000.TTS3MISSMINRANGE.statusEffects0.Name",
+    "content": "TTS3MISSMINRANGE"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Hartford_F3000.TTS3MISSSHORTRANGE.statusEffects1.Name",
+    "content": "TTS3MISSMINRANGE"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Hartford_F3000.TTS3MISSMEDRANGE.statusEffects2.Name",
+    "content": "TTS3MISSMEDRANGE"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Hartford_F3000.TTS3MISSLONGRANGE.statusEffects3.Name",
+    "content": "TTS3MISSLONGRANGE"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Hartford_F3000.TTS3MISSMAXRANGE.statusEffects4.Name",
+    "content": "TTS3MISSMAXRANGE"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_I3F1.Description.Details",
+    "content": "机甲的火控系统协调并分析传感器带来的大量数据,以便跟踪单位、生成射击方案和命中目标."
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_I3F1.Description.UIName",
+    "content": "间瞄火控系统"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_I3F1.Description.Name",
+    "content": "英泰克100间瞄射击"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_I3F1.Description.Manufacturer",
+    "content": "英泰克"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_I3F1.StatusEffect-I3F100.statusEffects0.Details",
+    "content": "间瞄导弹攻击 +1精度."
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_I3F1.StatusEffect-I3F100.statusEffects0.Name",
+    "content": "间瞄射击提升"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_I3F2.Description.Details",
+    "content": "机甲的火控系统协调并分析传感器带来的大量数据,以便跟踪单位、生成射击方案和命中目标."
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_I3F2.Description.UIName",
+    "content": "间瞄火控系统 +"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_I3F2.Description.Name",
+    "content": "英泰克200间瞄射击"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_I3F2.Description.Manufacturer",
+    "content": "英泰克"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_I3F2.StatusEffect-I3F200.statusEffects0.Details",
+    "content": "间瞄导弹攻击 +2精度."
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_I3F2.CockpitInitativeEffect.statusEffects1.Details",
+    "content": "+1主动性和其他一些增益"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_I3F2.StatusEffect-I3F200.statusEffects0.Name",
+    "content": "间瞄射击提升"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_I3F2.CockpitInitativeEffect.statusEffects1.Name",
+    "content": "驾驶舱技术奖励"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_I3F3.Description.Details",
+    "content": "机甲的火控系统协调并分析传感器带来的大量数据,以便跟踪单位、生成射击方案和命中目标."
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_I3F3.Description.UIName",
+    "content": "分散火控系统"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_I3F3.Description.Name",
+    "content": "英泰克300间瞄射击"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_I3F3.Description.Manufacturer",
+    "content": "英泰克"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_I3F3.MinScatterRadiusMod.statusEffects0.Details",
+    "content": "精确射击双倍可靠"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_I3F3.MaxScatterRadiusMod.statusEffects1.Details",
+    "content": "精确射击双倍可靠"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_I3F3.MinScatterRadiusMod.statusEffects0.Name",
+    "content": "提升精确射击"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_I3F3.MaxScatterRadiusMod.statusEffects1.Name",
+    "content": "提升精确射击"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Kallon_A-C-1000.Description.Details",
+    "content": "机甲的火控系统协调并分析传感器带来的大量数据,以便跟踪单位、生成射击方案和命中目标."
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Kallon_A-C-1000.Description.UIName",
+    "content": "弹道精度火控系统"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Kallon_A-C-1000.Description.Name",
+    "content": "卡隆(Kallon)A-C1000FCS"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Kallon_A-C-1000.Description.Manufacturer",
+    "content": "卡隆"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Kallon_A-C-1000.StatusEffect-Attack_ToHitBallistic-T1.statusEffects0.Details",
+    "content": "+1弹道武器精度"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Kallon_A-C-1000.StatusEffect-Attack_ToHitBallistic-T1.statusEffects0.Name",
+    "content": "弹道武器 TTS"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Kallon_A-C-1500.Description.Details",
+    "content": "机甲的火控系统协调并分析传感器带来的大量数据,以便跟踪单位、生成射击方案和命中目标."
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Kallon_A-C-1500.Description.UIName",
+    "content": "弹道致命损伤火控系统"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Kallon_A-C-1500.Description.Name",
+    "content": "卡隆(Kallon) A-C1500FCS"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Kallon_A-C-1500.Description.Manufacturer",
+    "content": "卡隆"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Kallon_A-C-1500.StatusEffect-TTSBALLCRIT.statusEffects0.Details",
+    "content": "3导弹武器攻击命中."
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Kallon_A-C-1500.StatusEffect-Attack_ToHitBallistic-T1.statusEffects1.Details",
+    "content": "+1弹道武器精度"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Kallon_A-C-1500.StatusEffect-TTSBALLCRIT.statusEffects0.Name",
+    "content": "提升导弹武器命中"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Kallon_A-C-1500.StatusEffect-Attack_ToHitBallistic-T1.statusEffects1.Name",
+    "content": "弹道武器 TTS"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Kallon_A-C-P150+.Description.Details",
+    "content": "机甲的火控系统协调并分析传感器带来的大量数据,以便跟踪单位、生成射击方案和命中目标."
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Kallon_A-C-P150+.Description.UIName",
+    "content": "弹道射程火控系统"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Kallon_A-C-P150+.Description.Name",
+    "content": "卡隆(Kallon) A-C P150+ FCS"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Kallon_A-C-P150+.Description.Manufacturer",
+    "content": "卡隆"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Kallon_A-C-P150+.TTS3BALLMINRANGE.statusEffects0.Details",
+    "content": "该单位发射增程LRM."
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Kallon_A-C-P150+.TTS3BALLSHORTRANGE.statusEffects1.Details",
+    "content": "DF Minrange by50m"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Kallon_A-C-P150+.TTS3BALLMEDRANGE.statusEffects2.Details",
+    "content": "DF Minrange by50m"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Kallon_A-C-P150+.TTS3BALLLONGRANGE.statusEffects3.Details",
+    "content": "DF Minrange by50m"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Kallon_A-C-P150+.TTS3BALLMAXRANGE.statusEffects4.Details",
+    "content": "DF Minrange by50m"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Kallon_A-C-P150+.TTS3BALLMINRANGE.statusEffects0.Name",
+    "content": "TTS3BALLMINRANGE"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Kallon_A-C-P150+.TTS3BALLSHORTRANGE.statusEffects1.Name",
+    "content": "TTS3BALLSHORTRANGE"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Kallon_A-C-P150+.TTS3BALLMEDRANGE.statusEffects2.Name",
+    "content": "TTS3BALLMEDRANGE"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Kallon_A-C-P150+.TTS3BALLLONGRANGE.statusEffects3.Name",
+    "content": "TTS3BALLLONGRANGE"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Kallon_A-C-P150+.TTS3BALLMAXRANGE.statusEffects4.Name",
+    "content": "TTS3BALLMAXRANGE"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Kallon_Lock-On.Description.Details",
+    "content": "机甲的火控系统协调并分析传感器带来的大量数据,以便跟踪单位、生成射击方案和命中目标."
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Kallon_Lock-On.Description.UIName",
+    "content": "弹道精度火控系统"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Kallon_Lock-On.Description.Name",
+    "content": "卡隆(Kallon) Lock-On FCS"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Kallon_Lock-On.Description.Manufacturer",
+    "content": "卡隆"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Kallon_Lock-On.StatusEffect-Attack_ToHitBallistic-T3.statusEffects0.Details",
+    "content": "弹道武器命中提升[AMT]."
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Kallon_Lock-On.StatusEffect-Attack_ToHitBallistic-T3.statusEffects1.Details",
+    "content": "弹道武器命中提升[AMT]."
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Kallon_Lock-On.FCS-Recoil.statusEffects2.Details",
+    "content": "降低武器后座"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Kallon_Lock-On.StatusEffect-Attack_ToHitBallistic-T3.statusEffects0.Name",
+    "content": "提升弹道武器命中率"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Kallon_Lock-On.StatusEffect-Attack_ToHitBallistic-T3.statusEffects1.Name",
+    "content": "提升弹道武器命中率"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Kallon_Lock-On.FCS-Recoil.statusEffects2.Name",
+    "content": "-2后座"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_RCA_InstaTrac-IX.Description.Details",
+    "content": "机甲的火控系统协调并分析传感器带来的大量数据,以便跟踪单位、生成射击方案和命中目标."
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_RCA_InstaTrac-IX.Description.UIName",
+    "content": "能量致命损伤火控系统"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_RCA_InstaTrac-IX.Description.Name",
+    "content": "RCA InstaTrac IX火控系统"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_RCA_InstaTrac-IX.Description.Manufacturer",
+    "content": "RCA"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_RCA_InstaTrac-IX.StatusEffect-TTSMISSCRIT.statusEffects0.Details",
+    "content": "3导弹武器攻击命中."
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_RCA_InstaTrac-IX.StatusEffect-TTSNRG1.statusEffects1.Details",
+    "content": "+1能量武器精度"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_RCA_InstaTrac-IX.StatusEffect-TTSMISSCRIT.statusEffects0.Name",
+    "content": "提升导弹武器命中"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_RCA_InstaTrac-IX.StatusEffect-TTSNRG1.statusEffects1.Name",
+    "content": "能量武器TTS"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_RCA_InstaTrac-VIII.Description.Details",
+    "content": "机甲的火控系统协调并分析传感器带来的大量数据,以便跟踪单位、生成射击方案和命中目标."
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_RCA_InstaTrac-VIII.Description.UIName",
+    "content": "能量精度火控系统"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_RCA_InstaTrac-VIII.Description.Name",
+    "content": "RCA InstaTrac VIII火控系统"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_RCA_InstaTrac-VIII.Description.Manufacturer",
+    "content": "RCA"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_RCA_InstaTrac-VIII.StatusEffect-TTSNRG1.statusEffects0.Details",
+    "content": "+1能量武器精度"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_RCA_InstaTrac-VIII.StatusEffect-TTSNRG1.statusEffects0.Name",
+    "content": "能量武器TTS"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_RCA_InstaTrac-X.Description.Details",
+    "content": "机甲的火控系统协调并分析传感器带来的大量数据,以便跟踪单位、生成射击方案和命中目标."
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_RCA_InstaTrac-X.Description.UIName",
+    "content": "能量射程火控系统"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_RCA_InstaTrac-X.Description.Name",
+    "content": "RCA InstaTrac X 火控系统"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_RCA_InstaTrac-X.Description.Manufacturer",
+    "content": "RCA"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_RCA_InstaTrac-X.TTS3NRGMINRANGE.statusEffects0.Details",
+    "content": "该单位发射增程LRM."
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_RCA_InstaTrac-X.TTS3NRGSHORTRANGE.statusEffects1.Details",
+    "content": "DF Minrange by50m"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_RCA_InstaTrac-X.TTS3NRGMEDRANGE.statusEffects2.Details",
+    "content": "DF Minrange by50m"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_RCA_InstaTrac-X.TTS3NRGLONGRANGE.statusEffects3.Details",
+    "content": "DF Minrange by50m"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_RCA_InstaTrac-X.TTS3NRGMAXRANGE.statusEffects4.Details",
+    "content": "DF Minrange by50m"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_RCA_InstaTrac-X.TTS3NRGMINRANGE.statusEffects0.Name",
+    "content": "TTS3NRGMINRANGE"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_RCA_InstaTrac-X.TTS3NRGSHORTRANGE.statusEffects1.Name",
+    "content": "TTS3NRGSHORTRANGE"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_RCA_InstaTrac-X.TTS3NRGMEDRANGE.statusEffects2.Name",
+    "content": "TTS3NRGMEDRANGE"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_RCA_InstaTrac-X.TTS3NRGLONGRANGE.statusEffects3.Name",
+    "content": "TTS3NRGLONGRANGE"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_RCA_InstaTrac-X.TTS3NRGMAXRANGE.statusEffects4.Name",
+    "content": "TTS3NRGMAXRANGE"
+  },
+  {
+    "id": "Gear_Cockpit_LifeSupportA_FuzzyDice.Description.Details",
+    "content": "这是..一对模糊的骰子,一股新鲜的空气被带到了前通风设备....."
+  },
+  {
+    "id": "Gear_Cockpit_LifeSupportA_FuzzyDice.Description.UIName",
+    "content": "模糊骰子"
+  },
+  {
+    "id": "Gear_Cockpit_LifeSupportA_FuzzyDice.Description.Name",
+    "content": "维生系统A"
+  },
+  {
+    "id": "Gear_Cockpit_LifeSupportA_FuzzyDice.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Gear_Cockpit_LifeSupportA_FuzzyDice.FuzzyDice-Morale_Gain.statusEffects0.Details",
+    "content": "为产生决心的活动提供[AMT]奖励."
+  },
+  {
+    "id": "Gear_Cockpit_LifeSupportA_FuzzyDice.FuzzyDice-Morale_Gain.statusEffects0.Name",
+    "content": "增加决心产生"
+  },
+  {
+    "id": "Gear_Cockpit_LifeSupportA_Gunnery.Description.Details",
+    "content": "战斗机甲的座舱是密封加压的,并装有维生系统.机甲内含有有限的空气和水.如果机甲外有空气或水,则可以通过过滤系统无限量供应新鲜氧气."
+  },
+  {
+    "id": "Gear_Cockpit_LifeSupportA_Gunnery.Description.UIName",
+    "content": "射击学维生系统A"
+  },
+  {
+    "id": "Gear_Cockpit_LifeSupportA_Gunnery.Description.Name",
+    "content": "维生系统A"
+  },
+  {
+    "id": "Gear_Cockpit_LifeSupportA_Gunnery.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Gear_Cockpit_LifeSupportA_Gunnery.StatusEffect_Cockpit_Skill_Gunnery.statusEffects0.Details",
+    "content": "获得射击学增益"
+  },
+  {
+    "id": "Gear_Cockpit_LifeSupportA_Gunnery.StatusEffect_Cockpit_Skill_Gunnery.statusEffects0.Name",
+    "content": "射击学增益"
+  },
+  {
+    "id": "Gear_Cockpit_LifeSupportA_Guts.Description.Details",
+    "content": "战斗机甲的座舱是密封加压的,并装有维生系统.机甲内含有有限的空气和水.如果机甲外有空气或水,则可以通过过滤系统无限量供应新鲜氧气."
+  },
+  {
+    "id": "Gear_Cockpit_LifeSupportA_Guts.Description.UIName",
+    "content": "勇气维生系统A"
+  },
+  {
+    "id": "Gear_Cockpit_LifeSupportA_Guts.Description.Name",
+    "content": "维生系统A"
+  },
+  {
+    "id": "Gear_Cockpit_LifeSupportA_Guts.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Gear_Cockpit_LifeSupportA_Guts.StatusEffect_Cockpit_Skill_Guts.statusEffects0.Details",
+    "content": "获得勇气技能增益"
+  },
+  {
+    "id": "Gear_Cockpit_LifeSupportA_Guts.StatusEffect_Cockpit_Skill_Guts.statusEffects0.Name",
+    "content": "勇气增益"
+  },
+  {
+    "id": "Gear_Cockpit_LifeSupportA_Hardened.Description.Details",
+    "content": "战斗机甲的座舱是密封加压的,并装有维生系统.机甲内含有有限的空气和水.如果机甲外有空气或水,则可以通过过滤系统无限量供应新鲜氧气."
+  },
+  {
+    "id": "Gear_Cockpit_LifeSupportA_Hardened.Description.UIName",
+    "content": "硬化维生系统A"
+  },
+  {
+    "id": "Gear_Cockpit_LifeSupportA_Hardened.Description.Name",
+    "content": "维生系统A"
+  },
+  {
+    "id": "Gear_Cockpit_LifeSupportA_Hardened.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Gear_Cockpit_LifeSupportA_Hardened.Status-LSHardened-{location}.statusEffects0.Details",
+    "content": "强化装甲"
+  },
+  {
+    "id": "Gear_Cockpit_LifeSupportA_Hardened.Status-LSHardenedStruct-{location}.statusEffects1.Details",
+    "content": "强化结构"
+  },
+  {
+    "id": "Gear_Cockpit_LifeSupportA_Hardened.Status-LSHardened-{location}.statusEffects0.Name",
+    "content": "硬化装甲LS"
+  },
+  {
+    "id": "Gear_Cockpit_LifeSupportA_Hardened.Status-LSHardenedStruct-{location}.statusEffects1.Name",
+    "content": "硬化装甲LS"
+  },
+  {
+    "id": "Gear_Cockpit_LifeSupportA_Piloting.Description.Details",
+    "content": "战斗机甲的座舱是密封加压的,并装有维生系统.机甲内含有有限的空气和水.如果机甲外有空气或水,则可以通过过滤系统无限量供应新鲜氧气."
+  },
+  {
+    "id": "Gear_Cockpit_LifeSupportA_Piloting.Description.UIName",
+    "content": "驾驶维生系统A"
+  },
+  {
+    "id": "Gear_Cockpit_LifeSupportA_Piloting.Description.Name",
+    "content": "维生系统A"
+  },
+  {
+    "id": "Gear_Cockpit_LifeSupportA_Piloting.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Gear_Cockpit_LifeSupportA_Piloting.StatusEffect_Cockpit_Skill_Piloting.statusEffects0.Details",
+    "content": "驾驶技能增益"
+  },
+  {
+    "id": "Gear_Cockpit_LifeSupportA_Piloting.StatusEffect_Cockpit_Skill_Piloting.statusEffects0.Name",
+    "content": "驾驶增益"
+  },
+  {
+    "id": "Gear_Cockpit_LifeSupportA_Tactics.Description.Details",
+    "content": "战斗机甲的座舱是密封加压的,并装有维生系统.机甲内含有有限的空气和水.如果机甲外有空气或水,则可以通过过滤系统无限量供应新鲜氧气."
+  },
+  {
+    "id": "Gear_Cockpit_LifeSupportA_Tactics.Description.UIName",
+    "content": "战术维生系统A"
+  },
+  {
+    "id": "Gear_Cockpit_LifeSupportA_Tactics.Description.Name",
+    "content": "维生系统A"
+  },
+  {
+    "id": "Gear_Cockpit_LifeSupportA_Tactics.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Gear_Cockpit_LifeSupportA_Tactics.StatusEffect_Cockpit_Skill_Tactics.statusEffects0.Details",
+    "content": "战术技能增益"
+  },
+  {
+    "id": "Gear_Cockpit_LifeSupportA_Tactics.StatusEffect_Cockpit_Skill_Tactics.statusEffects0.Name",
+    "content": "战术增益"
+  },
+  {
+    "id": "Gear_Cockpit_LifeSupportB_Distille.Description.Details",
+    "content": "老大,有人改装他们的座舱的维生系统系统,在一个小的蒸馏器周围运行冷却系统.我不赞成这样做,因为水雾会让人变的蠢笨和盲目."
+  },
+  {
+    "id": "Gear_Cockpit_LifeSupportB_Distille.Description.UIName",
+    "content": "蒸馏"
+  },
+  {
+    "id": "Gear_Cockpit_LifeSupportB_Distille.Description.Name",
+    "content": "生命支持B"
+  },
+  {
+    "id": "Gear_Cockpit_LifeSupportB_Distille.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Gear_Cockpit_LifeSupportB_Distille.CockpitInitativeEffect.statusEffects0.Details",
+    "content": "+1主动性和其他一些增益"
+  },
+  {
+    "id": "Gear_Cockpit_LifeSupportB_Distille.StatusEffect-Morale_Gain-T3.statusEffects1.Details",
+    "content": "为产生决心的活动提供[AMT]奖励."
+  },
+  {
+    "id": "Gear_Cockpit_LifeSupportB_Distille.CockpitInitativeEffect.statusEffects0.Name",
+    "content": "驾驶舱技术奖励"
+  },
+  {
+    "id": "Gear_Cockpit_LifeSupportB_Distille.StatusEffect-Morale_Gain-T3.statusEffects1.Name",
+    "content": "增加决心产生"
+  },
+  {
+    "id": "Gear_Cockpit_LifeSupportB_Gunnery.Description.Details",
+    "content": "战斗机甲的座舱是密封加压的,并装有维生系统.机甲内含有有限的空气和水.如果机甲外有空气或水,则可以通过过滤系统无限量供应新鲜氧气."
+  },
+  {
+    "id": "Gear_Cockpit_LifeSupportB_Gunnery.Description.UIName",
+    "content": "射击学维生B"
+  },
+  {
+    "id": "Gear_Cockpit_LifeSupportB_Gunnery.Description.Name",
+    "content": "生命支持B"
+  },
+  {
+    "id": "Gear_Cockpit_LifeSupportB_Gunnery.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Gear_Cockpit_LifeSupportB_Gunnery.StatusEffect_Cockpit_Skill_Gunnery.statusEffects0.Details",
+    "content": "获得射击学增益"
+  },
+  {
+    "id": "Gear_Cockpit_LifeSupportB_Gunnery.StatusEffect_Cockpit_Skill_Gunnery.statusEffects0.Name",
+    "content": "射击学增益"
+  },
+  {
+    "id": "Gear_Cockpit_LifeSupportB_Guts.Description.Details",
+    "content": "战斗机甲的座舱是密封加压的,并装有维生系统.机甲内含有有限的空气和水.如果机甲外有空气或水,则可以通过过滤系统无限量供应新鲜氧气."
+  },
+  {
+    "id": "Gear_Cockpit_LifeSupportB_Guts.Description.UIName",
+    "content": "勇气维生B"
+  },
+  {
+    "id": "Gear_Cockpit_LifeSupportB_Guts.Description.Name",
+    "content": "生命支持B"
+  },
+  {
+    "id": "Gear_Cockpit_LifeSupportB_Guts.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Gear_Cockpit_LifeSupportB_Guts.StatusEffect_Cockpit_Skill_Guts.statusEffects0.Details",
+    "content": "获得勇气技能增益"
+  },
+  {
+    "id": "Gear_Cockpit_LifeSupportB_Guts.StatusEffect_Cockpit_Skill_Guts.statusEffects0.Name",
+    "content": "勇气增益"
+  },
+  {
+    "id": "Gear_Cockpit_LifeSupportB_Hardened.Description.Details",
+    "content": "战斗机甲的座舱是密封加压的,并装有维生系统.机甲内含有有限的空气和水.如果机甲外有空气或水,则可以通过过滤系统无限量供应新鲜氧气."
+  },
+  {
+    "id": "Gear_Cockpit_LifeSupportB_Hardened.Description.UIName",
+    "content": "硬化维生系统B"
+  },
+  {
+    "id": "Gear_Cockpit_LifeSupportB_Hardened.Description.Name",
+    "content": "生命支持B"
+  },
+  {
+    "id": "Gear_Cockpit_LifeSupportB_Hardened.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Gear_Cockpit_LifeSupportB_Hardened.Status-LSHardened-{location}.statusEffects0.Details",
+    "content": "强化装甲"
+  },
+  {
+    "id": "Gear_Cockpit_LifeSupportB_Hardened.Status-LSHardenedStruct-{location}.statusEffects1.Details",
+    "content": "强化结构"
+  },
+  {
+    "id": "Gear_Cockpit_LifeSupportB_Hardened.Status-LSHardened-{location}.statusEffects0.Name",
+    "content": "硬化装甲LS"
+  },
+  {
+    "id": "Gear_Cockpit_LifeSupportB_Hardened.Status-LSHardenedStruct-{location}.statusEffects1.Name",
+    "content": "硬化装甲LS"
+  },
+  {
+    "id": "Gear_Cockpit_LifeSupportB_Piloting.Description.Details",
+    "content": "战斗机甲的座舱是密封加压的,并装有维生系统.机甲内含有有限的空气和水.如果机甲外有空气或水,则可以通过过滤系统无限量供应新鲜氧气."
+  },
+  {
+    "id": "Gear_Cockpit_LifeSupportB_Piloting.Description.UIName",
+    "content": "驾驶维生系统B"
+  },
+  {
+    "id": "Gear_Cockpit_LifeSupportB_Piloting.Description.Name",
+    "content": "生命支持B"
+  },
+  {
+    "id": "Gear_Cockpit_LifeSupportB_Piloting.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Gear_Cockpit_LifeSupportB_Piloting.StatusEffect_Cockpit_Skill_Piloting.statusEffects0.Details",
+    "content": "驾驶技能增益"
+  },
+  {
+    "id": "Gear_Cockpit_LifeSupportB_Piloting.StatusEffect_Cockpit_Skill_Piloting.statusEffects0.Name",
+    "content": "驾驶增益"
+  },
+  {
+    "id": "Gear_Cockpit_LifeSupportB_Tactics.Description.Details",
+    "content": "战斗机甲的座舱是密封加压的,并装有维生系统.机甲内含有有限的空气和水.如果机甲外有空气或水,则可以通过过滤系统无限量供应新鲜氧气."
+  },
+  {
+    "id": "Gear_Cockpit_LifeSupportB_Tactics.Description.UIName",
+    "content": "战术维生系统B"
+  },
+  {
+    "id": "Gear_Cockpit_LifeSupportB_Tactics.Description.Name",
+    "content": "生命支持B"
+  },
+  {
+    "id": "Gear_Cockpit_LifeSupportB_Tactics.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Gear_Cockpit_LifeSupportB_Tactics.StatusEffect_Cockpit_Skill_Tactics.statusEffects0.Details",
+    "content": "战术技能增益"
+  },
+  {
+    "id": "Gear_Cockpit_LifeSupportB_Tactics.StatusEffect_Cockpit_Skill_Tactics.statusEffects0.Name",
+    "content": "战术增益"
+  },
+  {
+    "id": "Gear_Cockpit_CommandConsole.Description.Details",
+    "content": "所有机甲都配备了一个可以升级以提高性能的可配置座舱.控制台为加入指挥和控制设施的第二驾驶员添加了一整套的控制系统,以提高主动性并更好的协调小队\n\n到3025年,星联的老式指挥控制台已经非常罕见,因为搭载该装备的机甲是战斗中最受喜爱的目标."
+  },
+  {
+    "id": "Gear_Cockpit_CommandConsole.Description.UIName",
+    "content": "命令控制台"
+  },
+  {
+    "id": "Gear_Cockpit_CommandConsole.Description.Name",
+    "content": "多林电子命令控制台"
+  },
+  {
+    "id": "Gear_Cockpit_CommandConsole.Description.Manufacturer",
+    "content": "多灵电子"
+  },
+  {
+    "id": "Gear_Cockpit_CommandConsole.IRAllowMultiTargetEffect.statusEffects0.Details",
+    "content": "启用多目标."
+  },
+  {
+    "id": "Gear_Cockpit_CommandConsole.TC-Breaching.statusEffects1.Details",
+    "content": "被动:使用单武器攻击时忽略目标的遮蔽和警戒状态."
+  },
+  {
+    "id": "Gear_Cockpit_CommandConsole.LV_PROBE_CARRIER.statusEffects2.Details",
+    "content": "降低隐身和ECM护罩单元的效果"
+  },
+  {
+    "id": "Gear_Cockpit_CommandConsole.LV_ADVANCED_SENSORS.statusEffects3.Details",
+    "content": "提供敌军单位的详细信息"
+  },
+  {
+    "id": "Gear_Cockpit_CommandConsole.StatusEffect-Pilot_HealthAdd-T3.statusEffects4.Details",
+    "content": "防止机甲战士受伤"
+  },
+  {
+    "id": "Gear_Cockpit_CommandConsole.StatusEffect-Morale_Gain-T3-CC.statusEffects5.Details",
+    "content": "提供了获取士气活动的奖励"
+  },
+  {
+    "id": "Gear_Cockpit_CommandConsole.LV_Shares_Vision.statusEffects6.Details",
+    "content": "当队友移动时显示他们的视野"
+  },
+  {
+    "id": "Gear_Cockpit_CommandConsole.CockpitBleed.statusEffects7.Details",
+    "content": "失血速度 x 0.6"
+  },
+  {
+    "id": "Gear_Cockpit_CommandConsole.IRAllowMultiTargetEffect.statusEffects0.Name",
+    "content": "红外多目标"
+  },
+  {
+    "id": "Gear_Cockpit_CommandConsole.TC-Breaching.statusEffects1.Name",
+    "content": "突破射击"
+  },
+  {
+    "id": "Gear_Cockpit_CommandConsole.LV_PROBE_CARRIER.statusEffects2.Name",
+    "content": "主动探测器(被动)"
+  },
+  {
+    "id": "Gear_Cockpit_CommandConsole.LV_ADVANCED_SENSORS.statusEffects3.Name",
+    "content": "先进传感器"
+  },
+  {
+    "id": "Gear_Cockpit_CommandConsole.StatusEffect-Pilot_HealthAdd-T3.statusEffects4.Name",
+    "content": "最大承受伤害增加了"
+  },
+  {
+    "id": "Gear_Cockpit_CommandConsole.StatusEffect-Morale_Gain-T3-CC.statusEffects5.Name",
+    "content": "士气高涨"
+  },
+  {
+    "id": "Gear_Cockpit_CommandConsole.LV_Shares_Vision.statusEffects6.Name",
+    "content": "视野共享"
+  },
+  {
+    "id": "Gear_Cockpit_CommandConsole.CockpitBleed.statusEffects7.Name",
+    "content": "降低失血速度"
+  },
+  {
+    "id": "Gear_Cockpit_CommandConsole_Armored.Description.Details",
+    "content": "所有机甲都配备了一个可以升级以提高性能的可配置座舱.控制台为加入指挥和控制设施的第二驾驶员添加了一整套的控制系统,以提高主动性并更好的协调小队\n\n到3025年,星联的老式指挥控制台已经非常罕见,因为搭载该装备的机甲是战斗中最受喜爱的目标."
+  },
+  {
+    "id": "Gear_Cockpit_CommandConsole_Armored.Description.UIName",
+    "content": "命令控制台(装甲化)"
+  },
+  {
+    "id": "Gear_Cockpit_CommandConsole_Armored.Description.Name",
+    "content": "多林电子命令控制台"
+  },
+  {
+    "id": "Gear_Cockpit_CommandConsole_Armored.Description.Manufacturer",
+    "content": "多灵电子"
+  },
+  {
+    "id": "Gear_Cockpit_CommandConsole_Armored.IRAllowMultiTargetEffect.statusEffects0.Details",
+    "content": "启用多目标."
+  },
+  {
+    "id": "Gear_Cockpit_CommandConsole_Armored.TC-Breaching.statusEffects1.Details",
+    "content": "被动:使用单武器攻击时忽略目标的遮蔽和警戒状态."
+  },
+  {
+    "id": "Gear_Cockpit_CommandConsole_Armored.LV_PROBE_CARRIER.statusEffects2.Details",
+    "content": "降低隐身和ECM护罩单元的效果"
+  },
+  {
+    "id": "Gear_Cockpit_CommandConsole_Armored.LV_ADVANCED_SENSORS.statusEffects3.Details",
+    "content": "提供敌军单位的详细信息"
+  },
+  {
+    "id": "Gear_Cockpit_CommandConsole_Armored.StatusEffect-Pilot_HealthAdd-T3.statusEffects4.Details",
+    "content": "防止机甲战士受伤"
+  },
+  {
+    "id": "Gear_Cockpit_CommandConsole_Armored.StatusEffect-Morale_Gain-T3-CC.statusEffects5.Details",
+    "content": "提供了获取士气活动的奖励"
+  },
+  {
+    "id": "Gear_Cockpit_CommandConsole_Armored.LV_Shares_Vision.statusEffects6.Details",
+    "content": "当队友移动时显示他们的视野"
+  },
+  {
+    "id": "Gear_Cockpit_CommandConsole_Armored.CockpitBleed.statusEffects7.Details",
+    "content": "失血速度 x 0.6"
+  },
+  {
+    "id": "Gear_Cockpit_CommandConsole_Armored.PaddingEffect.statusEffects8.Details",
+    "content": "该单位抵抗致命损伤."
+  },
+  {
+    "id": "Gear_Cockpit_CommandConsole_Armored.IRAllowMultiTargetEffect.statusEffects0.Name",
+    "content": "红外多目标"
+  },
+  {
+    "id": "Gear_Cockpit_CommandConsole_Armored.TC-Breaching.statusEffects1.Name",
+    "content": "突破射击"
+  },
+  {
+    "id": "Gear_Cockpit_CommandConsole_Armored.LV_PROBE_CARRIER.statusEffects2.Name",
+    "content": "主动探测器(被动)"
+  },
+  {
+    "id": "Gear_Cockpit_CommandConsole_Armored.LV_ADVANCED_SENSORS.statusEffects3.Name",
+    "content": "先进传感器"
+  },
+  {
+    "id": "Gear_Cockpit_CommandConsole_Armored.StatusEffect-Pilot_HealthAdd-T3.statusEffects4.Name",
+    "content": "最大承受伤害增加了"
+  },
+  {
+    "id": "Gear_Cockpit_CommandConsole_Armored.StatusEffect-Morale_Gain-T3-CC.statusEffects5.Name",
+    "content": "士气高涨"
+  },
+  {
+    "id": "Gear_Cockpit_CommandConsole_Armored.LV_Shares_Vision.statusEffects6.Name",
+    "content": "视野共享"
+  },
+  {
+    "id": "Gear_Cockpit_CommandConsole_Armored.CockpitBleed.statusEffects7.Name",
+    "content": "降低失血速度"
+  },
+  {
+    "id": "Gear_Cockpit_CommandConsole_Armored.PaddingEffect.statusEffects8.Name",
+    "content": "防剥落衬层"
+  },
+  {
+    "id": "Gear_Cockpit_CommandConsole_ArtemisIV.Description.Details",
+    "content": "所有机甲都配备了一个可以升级以提高性能的可配置座舱. 控制台为加入指挥和控制设施的第二驾驶员添加了一整套的控制系统,以提高主动性并更好的协调小队\n\n该座舱还可使用月神IV型导弹发射器."
+  },
+  {
+    "id": "Gear_Cockpit_CommandConsole_ArtemisIV.Description.UIName",
+    "content": "命令控制台[月神IV]"
+  },
+  {
+    "id": "Gear_Cockpit_CommandConsole_ArtemisIV.Description.Name",
+    "content": "多林电子命令控制台"
+  },
+  {
+    "id": "Gear_Cockpit_CommandConsole_ArtemisIV.Description.Manufacturer",
+    "content": "多灵电子"
+  },
+  {
+    "id": "Gear_Cockpit_CommandConsole_ArtemisIV.IRAllowMultiTargetEffect.statusEffects0.Details",
+    "content": "启用多目标."
+  },
+  {
+    "id": "Gear_Cockpit_CommandConsole_ArtemisIV.TC-Breaching.statusEffects1.Details",
+    "content": "被动:使用单武器攻击时忽略目标的遮蔽和警戒状态."
+  },
+  {
+    "id": "Gear_Cockpit_CommandConsole_ArtemisIV.LV_PROBE_CARRIER.statusEffects2.Details",
+    "content": "降低隐身和ECM护罩单元的效果"
+  },
+  {
+    "id": "Gear_Cockpit_CommandConsole_ArtemisIV.LV_ADVANCED_SENSORS.statusEffects3.Details",
+    "content": "提供敌军单位的详细信息"
+  },
+  {
+    "id": "Gear_Cockpit_CommandConsole_ArtemisIV.StatusEffect-Pilot_HealthAdd-T3.statusEffects4.Details",
+    "content": "防止机甲战士受伤"
+  },
+  {
+    "id": "Gear_Cockpit_CommandConsole_ArtemisIV.StatusEffect-Morale_Gain-T3-CC.statusEffects5.Details",
+    "content": "提供了获取士气活动的奖励"
+  },
+  {
+    "id": "Gear_Cockpit_CommandConsole_ArtemisIV.LV_Shares_Vision.statusEffects6.Details",
+    "content": "当队友移动时显示他们的视野"
+  },
+  {
+    "id": "Gear_Cockpit_CommandConsole_ArtemisIV.CockpitBleed.statusEffects7.Details",
+    "content": "失血速度 x 0.6"
+  },
+  {
+    "id": "Gear_Cockpit_CommandConsole_ArtemisIV.StatusEffect-EnhMS-EvasionIgnore.statusEffects8.Details",
+    "content": "大大增加了该单位LRM武器的群组命中,将SRM的稳定伤害提高50%."
+  },
+  {
+    "id": "Gear_Cockpit_CommandConsole_ArtemisIV.IRAllowMultiTargetEffect.statusEffects0.Name",
+    "content": "红外多目标"
+  },
+  {
+    "id": "Gear_Cockpit_CommandConsole_ArtemisIV.TC-Breaching.statusEffects1.Name",
+    "content": "突破射击"
+  },
+  {
+    "id": "Gear_Cockpit_CommandConsole_ArtemisIV.LV_PROBE_CARRIER.statusEffects2.Name",
+    "content": "主动探测器(被动)"
+  },
+  {
+    "id": "Gear_Cockpit_CommandConsole_ArtemisIV.LV_ADVANCED_SENSORS.statusEffects3.Name",
+    "content": "先进传感器"
+  },
+  {
+    "id": "Gear_Cockpit_CommandConsole_ArtemisIV.StatusEffect-Pilot_HealthAdd-T3.statusEffects4.Name",
+    "content": "最大承受伤害增加了"
+  },
+  {
+    "id": "Gear_Cockpit_CommandConsole_ArtemisIV.StatusEffect-Morale_Gain-T3-CC.statusEffects5.Name",
+    "content": "士气高涨"
+  },
+  {
+    "id": "Gear_Cockpit_CommandConsole_ArtemisIV.LV_Shares_Vision.statusEffects6.Name",
+    "content": "视野共享"
+  },
+  {
+    "id": "Gear_Cockpit_CommandConsole_ArtemisIV.CockpitBleed.statusEffects7.Name",
+    "content": "降低失血速度"
+  },
+  {
+    "id": "Gear_Cockpit_CommandConsole_ArtemisIV.StatusEffect-EnhMS-EvasionIgnore.statusEffects8.Name",
+    "content": "导弹套件"
+  },
+  {
+    "id": "Gear_Cockpit_Cripple.Description.Details",
+    "content": "老板,不管你把我带到那,这都是艺术!下一代控制理论,基于带有虚拟现实吊舱的DNI系统,但它对所有故障都提供了三重缓冲,并分流到备用继电器中.除此之外,大部分基本座舱都不见了,你可能不相信,座椅基本上变成了轮椅."
+  },
+  {
+    "id": "Gear_Cockpit_Cripple.Description.UIName",
+    "content": "DNI MKII座舱"
+  },
+  {
+    "id": "Gear_Cockpit_Cripple.Description.Name",
+    "content": "DNI MKII座舱"
+  },
+  {
+    "id": "Gear_Cockpit_Cripple.Description.Manufacturer",
+    "content": "死罪"
+  },
+  {
+    "id": "Gear_Cockpit_Cripple.StatusEffect-RequireNI.statusEffects0.Details",
+    "content": "该单位在射击前后都可以移动."
+  },
+  {
+    "id": "Gear_Cockpit_Cripple.TC-Breaching.statusEffects1.Details",
+    "content": "被动:使用单武器攻击时忽略目标的遮蔽和警戒状态."
+  },
+  {
+    "id": "Gear_Cockpit_Cripple.GainEvasion.statusEffects2.Details",
+    "content": "该单位从移动中获得额外的闪避(直到最大值)."
+  },
+  {
+    "id": "Gear_Cockpit_Cripple.MaxEvasion.statusEffects3.Details",
+    "content": "该单位从移动中获得额外的闪避(直到最大值)."
+  },
+  {
+    "id": "Gear_Cockpit_Cripple.StatusEffect_Cockpit_Skill_Gunnery.statusEffects4.Details",
+    "content": "获得射击学增益"
+  },
+  {
+    "id": "Gear_Cockpit_Cripple.StatusEffect_Cockpit_Skill_Piloting.statusEffects5.Details",
+    "content": "驾驶技能增益"
+  },
+  {
+    "id": "Gear_Cockpit_Cripple.StatusEffect_Cockpit_Skill_Guts.statusEffects6.Details",
+    "content": "获得勇气技能增益"
+  },
+  {
+    "id": "Gear_Cockpit_Cripple.StatusEffect_Cockpit_Skill_Tactics.statusEffects7.Details",
+    "content": "战术技能增益"
+  },
+  {
+    "id": "Gear_Cockpit_Cripple.CockpitBleed.statusEffects8.Details",
+    "content": "失血速度 x 0.6"
+  },
+  {
+    "id": "Gear_Cockpit_Cripple.not crippled.statusEffects9.Details",
+    "content": "更快的移动"
+  },
+  {
+    "id": "Gear_Cockpit_Cripple.StatusEffect-RequireNI.statusEffects10.Details",
+    "content": "突破射击, 提高精度/后座"
+  },
+  {
+    "id": "Gear_Cockpit_Cripple.FCS_MeleeAccuracy.statusEffects11.Details",
+    "content": "近战武器精度修正"
+  },
+  {
+    "id": "Gear_Cockpit_Cripple.FCS_MeleeAccuracy1.statusEffects12.Details",
+    "content": "近战武器精度修正"
+  },
+  {
+    "id": "Gear_Cockpit_Cripple.FCS_MeleeAccuracy2.statusEffects13.Details",
+    "content": "近战武器精度修正"
+  },
+  {
+    "id": "Gear_Cockpit_Cripple.FCS_MeleeAccuracy3.statusEffects14.Details",
+    "content": "近战武器精度修正"
+  },
+  {
+    "id": "Gear_Cockpit_Cripple.LV_ADVANCED_SENSORS.statusEffects15.Details",
+    "content": "提供敌军单位的详细信息"
+  },
+  {
+    "id": "Gear_Cockpit_Cripple.BAProbe.statusEffects16.Details",
+    "content": "增加视野/传感器"
+  },
+  {
+    "id": "Gear_Cockpit_Cripple.HP-CockpitSensors-Spot.statusEffects17.Details",
+    "content": "+50m发现距离"
+  },
+  {
+    "id": "Gear_Cockpit_Cripple.StatusEffect-RequireNI.statusEffects0.Name",
+    "content": "王牌驾驶员"
+  },
+  {
+    "id": "Gear_Cockpit_Cripple.TC-Breaching.statusEffects1.Name",
+    "content": "突破射击"
+  },
+  {
+    "id": "Gear_Cockpit_Cripple.GainEvasion.statusEffects2.Name",
+    "content": "闪避机动"
+  },
+  {
+    "id": "Gear_Cockpit_Cripple.MaxEvasion.statusEffects3.Name",
+    "content": "闪避机动"
+  },
+  {
+    "id": "Gear_Cockpit_Cripple.StatusEffect_Cockpit_Skill_Gunnery.statusEffects4.Name",
+    "content": "射击学增益"
+  },
+  {
+    "id": "Gear_Cockpit_Cripple.StatusEffect_Cockpit_Skill_Piloting.statusEffects5.Name",
+    "content": "驾驶增益"
+  },
+  {
+    "id": "Gear_Cockpit_Cripple.StatusEffect_Cockpit_Skill_Guts.statusEffects6.Name",
+    "content": "勇气增益"
+  },
+  {
+    "id": "Gear_Cockpit_Cripple.StatusEffect_Cockpit_Skill_Tactics.statusEffects7.Name",
+    "content": "战术增益"
+  },
+  {
+    "id": "Gear_Cockpit_Cripple.CockpitBleed.statusEffects8.Name",
+    "content": "降低失血速度"
+  },
+  {
+    "id": "Gear_Cockpit_Cripple.not crippled.statusEffects9.Name",
+    "content": "不会残疾"
+  },
+  {
+    "id": "Gear_Cockpit_Cripple.StatusEffect-RequireNI.statusEffects10.Name",
+    "content": "瞄准电脑"
+  },
+  {
+    "id": "Gear_Cockpit_Cripple.FCS_MeleeAccuracy.statusEffects11.Name",
+    "content": "近战武器精度修正"
+  },
+  {
+    "id": "Gear_Cockpit_Cripple.FCS_MeleeAccuracy1.statusEffects12.Name",
+    "content": "近战武器精度修正"
+  },
+  {
+    "id": "Gear_Cockpit_Cripple.FCS_MeleeAccuracy2.statusEffects13.Name",
+    "content": "近战武器精度修正"
+  },
+  {
+    "id": "Gear_Cockpit_Cripple.FCS_MeleeAccuracy3.statusEffects14.Name",
+    "content": "近战武器精度修正"
+  },
+  {
+    "id": "Gear_Cockpit_Cripple.LV_ADVANCED_SENSORS.statusEffects15.Name",
+    "content": "先进传感器"
+  },
+  {
+    "id": "Gear_Cockpit_Cripple.BAProbe.statusEffects16.Name",
+    "content": "HP-驾驶舱传感器-传感器"
+  },
+  {
+    "id": "Gear_Cockpit_Cripple.HP-CockpitSensors-Spot.statusEffects17.Name",
+    "content": "提升侦查距离"
+  },
+  {
+    "id": "Gear_Cockpit_LifeSupportA_Torso.Description.Details",
+    "content": "战斗机甲的座舱是密封加压的,并装有维生系统.机甲内含有有限的空气和水.如果机甲外有空气或水,则可以通过过滤系统无限量供应新鲜氧气."
+  },
+  {
+    "id": "Gear_Cockpit_LifeSupportA_Torso.Description.UIName",
+    "content": "维生系统"
+  },
+  {
+    "id": "Gear_Cockpit_LifeSupportA_Torso.Description.Name",
+    "content": "维生系统A"
+  },
+  {
+    "id": "Gear_Cockpit_LifeSupportA_Torso.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Gear_Cockpit_LifeSupportB_Torso.Description.Details",
+    "content": "战斗机甲的座舱是密封加压的,并装有维生系统.机甲内含有有限的空气和水.如果机甲外有空气或水,则可以通过过滤系统无限量供应新鲜氧气."
+  },
+  {
+    "id": "Gear_Cockpit_LifeSupportB_Torso.Description.UIName",
+    "content": "维生系统"
+  },
+  {
+    "id": "Gear_Cockpit_LifeSupportB_Torso.Description.Name",
+    "content": "生命支持B"
+  },
+  {
+    "id": "Gear_Cockpit_LifeSupportB_Torso.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Gear_Cockpit_Torsomount.Description.Details",
+    "content": "躯干座舱一直以来都是机甲设计师的梦想.通过将机甲战士移到一个更受保护的部位,军队可以让更有经验的战士在战斗中生存更长时间.这个想法一直是一个梦想,直到海姆(Helm)记忆核心的解锁为许多技术的开发提供了助力."
+  },
+  {
+    "id": "Gear_Cockpit_Torsomount.Description.UIName",
+    "content": "躯干位座舱"
+  },
+  {
+    "id": "Gear_Cockpit_Torsomount.Description.Name",
+    "content": "躯干座舱"
+  },
+  {
+    "id": "Gear_Cockpit_Torsomount.Description.Manufacturer",
+    "content": "黑暗幻象"
+  },
+  {
+    "id": "Gear_Cockpit_Torsomount.CockpitInitativeEffect.statusEffects0.Details",
+    "content": "+1主动性和其他一些增益"
+  },
+  {
+    "id": "Gear_Cockpit_Torsomount.HeadShotDamageImmunity.statusEffects1.Details",
+    "content": "头部被命中时,驾驶员不再受伤"
+  },
+  {
+    "id": "Gear_Cockpit_Torsomount.Torso-Mounted.statusEffects2.Details",
+    "content": "躯干装座舱,当头部被击中时不会受伤."
+  },
+  {
+    "id": "Gear_Cockpit_Torsomount.CockpitBleed.statusEffects3.Details",
+    "content": "失血速度 x 0.6"
+  },
+  {
+    "id": "Gear_Cockpit_Torsomount.CockpitInitativeEffect.statusEffects0.Name",
+    "content": "驾驶舱技术奖励"
+  },
+  {
+    "id": "Gear_Cockpit_Torsomount.HeadShotDamageImmunity.statusEffects1.Name",
+    "content": "免疫"
+  },
+  {
+    "id": "Gear_Cockpit_Torsomount.Torso-Mounted.statusEffects2.Name",
+    "content": "躯干安装"
+  },
+  {
+    "id": "Gear_Cockpit_Torsomount.CockpitBleed.statusEffects3.Name",
+    "content": "降低失血速度"
+  },
+  {
+    "id": "Gear_Cockpit_Torsomount_Superheavy.Description.Details",
+    "content": "躯干座舱一直以来都是机甲设计师的梦想.通过将机甲战士移到一个更受保护的部位,军队可以让更有经验的战士在战斗中生存更长时间.这个想法一直是一个梦想,直到海姆(Helm)记忆核心的解锁为许多技术的开发提供了助力."
+  },
+  {
+    "id": "Gear_Cockpit_Torsomount_Superheavy.Description.UIName",
+    "content": "躯干座舱(超重型)"
+  },
+  {
+    "id": "Gear_Cockpit_Torsomount_Superheavy.Description.Name",
+    "content": "躯干座舱"
+  },
+  {
+    "id": "Gear_Cockpit_Torsomount_Superheavy.Description.Manufacturer",
+    "content": "黑暗幻象"
+  },
+  {
+    "id": "Gear_Cockpit_Torsomount_Superheavy.CockpitInitativeEffect.statusEffects0.Details",
+    "content": "+1主动性和其他一些增益"
+  },
+  {
+    "id": "Gear_Cockpit_Torsomount_Superheavy.HeadShotDamageImmunity.statusEffects1.Details",
+    "content": "头部被命中时,驾驶员不再受伤"
+  },
+  {
+    "id": "Gear_Cockpit_Torsomount_Superheavy.Torso-Mounted.statusEffects2.Details",
+    "content": "躯干装座舱,当头部被击中时不会受伤."
+  },
+  {
+    "id": "Gear_Cockpit_Torsomount_Superheavy.CockpitBleed.statusEffects3.Details",
+    "content": "失血速度 x 0.6"
+  },
+  {
+    "id": "Gear_Cockpit_Torsomount_Superheavy.CockpitInitativeEffect.statusEffects0.Name",
+    "content": "驾驶舱技术奖励"
+  },
+  {
+    "id": "Gear_Cockpit_Torsomount_Superheavy.HeadShotDamageImmunity.statusEffects1.Name",
+    "content": "免疫"
+  },
+  {
+    "id": "Gear_Cockpit_Torsomount_Superheavy.Torso-Mounted.statusEffects2.Name",
+    "content": "躯干安装"
+  },
+  {
+    "id": "Gear_Cockpit_Torsomount_Superheavy.CockpitBleed.statusEffects3.Name",
+    "content": "降低失血速度"
+  },
+  {
+    "id": "Gear_Cockpit_Uberjager.Description.Details",
+    "content": "超级猎人的一套非常专门的座舱系统,完全专注于弹道武器.火控系统比普通版本占用了更多空间,但也导致了传感器效能非常糟糕."
+  },
+  {
+    "id": "Gear_Cockpit_Uberjager.Description.UIName",
+    "content": "超级猎人弹道套件"
+  },
+  {
+    "id": "Gear_Cockpit_Uberjager.Description.Name",
+    "content": "超级猎人弹道套件"
+  },
+  {
+    "id": "Gear_Cockpit_Uberjager.Description.Manufacturer",
+    "content": "赛博沃克斯"
+  },
+  {
+    "id": "Gear_Cockpit_Uberjager.InterFaceMoveAfterShoot.statusEffects0.Details",
+    "content": "该单位在射击前后都可以移动."
+  },
+  {
+    "id": "Gear_Cockpit_Uberjager.StatusEffect-TTSBALLCRIT.statusEffects1.Details",
+    "content": "+3导弹武器攻击命中."
+  },
+  {
+    "id": "Gear_Cockpit_Uberjager.StatusEffect-Attack_ToHitBallistic-T1.statusEffects2.Details",
+    "content": "+1弹道武器精度"
+  },
+  {
+    "id": "Gear_Cockpit_Uberjager.TTS3BALLMINRANGE.statusEffects3.Details",
+    "content": "该单位发射增程LRM."
+  },
+  {
+    "id": "Gear_Cockpit_Uberjager.TTS3BALLSHORTRANGE.statusEffects4.Details",
+    "content": "DF Minrange by50m"
+  },
+  {
+    "id": "Gear_Cockpit_Uberjager.TTS3BALLMEDRANGE.statusEffects5.Details",
+    "content": "DF Minrange by50m"
+  },
+  {
+    "id": "Gear_Cockpit_Uberjager.TTS3BALLLONGRANGE.statusEffects6.Details",
+    "content": "DF Minrange by50m"
+  },
+  {
+    "id": "Gear_Cockpit_Uberjager.TTS3BALLMAXRANGE.statusEffects7.Details",
+    "content": "DF Minrange by50m"
+  },
+  {
+    "id": "Gear_Cockpit_Uberjager.StatusEffect-Attack_ToHitBallistic-T3.statusEffects8.Details",
+    "content": "弹道武器命中提升[AMT]."
+  },
+  {
+    "id": "Gear_Cockpit_Uberjager.FCS-Recoil.statusEffects9.Details",
+    "content": "降低武器后座"
+  },
+  {
+    "id": "Gear_Cockpit_Uberjager.PrimitiveSensors.statusEffects10.Details",
+    "content": "降低传感器性能"
+  },
+  {
+    "id": "Gear_Cockpit_Uberjager.InterFaceMoveAfterShoot.statusEffects0.Name",
+    "content": "王牌驾驶员"
+  },
+  {
+    "id": "Gear_Cockpit_Uberjager.StatusEffect-TTSBALLCRIT.statusEffects1.Name",
+    "content": "提升导弹武器命中"
+  },
+  {
+    "id": "Gear_Cockpit_Uberjager.StatusEffect-Attack_ToHitBallistic-T1.statusEffects2.Name",
+    "content": "弹道武器 TTS"
+  },
+  {
+    "id": "Gear_Cockpit_Uberjager.TTS3BALLMINRANGE.statusEffects3.Name",
+    "content": "TTS3BALLMINRANGE"
+  },
+  {
+    "id": "Gear_Cockpit_Uberjager.TTS3BALLSHORTRANGE.statusEffects4.Name",
+    "content": "TTS3BALLSHORTRANGE"
+  },
+  {
+    "id": "Gear_Cockpit_Uberjager.TTS3BALLMEDRANGE.statusEffects5.Name",
+    "content": "TTS3BALLMEDRANGE"
+  },
+  {
+    "id": "Gear_Cockpit_Uberjager.TTS3BALLLONGRANGE.statusEffects6.Name",
+    "content": "TTS3BALLLONGRANGE"
+  },
+  {
+    "id": "Gear_Cockpit_Uberjager.TTS3BALLMAXRANGE.statusEffects7.Name",
+    "content": "TTS3BALLMAXRANGE"
+  },
+  {
+    "id": "Gear_Cockpit_Uberjager.StatusEffect-Attack_ToHitBallistic-T3.statusEffects8.Name",
+    "content": "提升弹道武器命中率"
+  },
+  {
+    "id": "Gear_Cockpit_Uberjager.FCS-Recoil.statusEffects9.Name",
+    "content": "-2后座"
+  },
+  {
+    "id": "Gear_Cockpit_Uberjager.PrimitiveSensors.statusEffects10.Name",
+    "content": "原始座舱"
+  },
+  {
+    "id": "Gear_Cockpit_VR_POD.Description.Details",
+    "content": "最初是被废弃的DNI项目的一个分支,让驾驶员可以完全沉浸与和\"机甲\"的连接中,冒着反馈回路中的致命风险以获得全面提升. <b><color=#F79232>需要安装DNI或EI座舱</color></b>"
+  },
+  {
+    "id": "Gear_Cockpit_VR_POD.Description.UIName",
+    "content": "虚拟现实座舱"
+  },
+  {
+    "id": "Gear_Cockpit_VR_POD.Description.Name",
+    "content": "虚拟现实座舱"
+  },
+  {
+    "id": "Gear_Cockpit_VR_POD.Description.Manufacturer",
+    "content": "原型"
+  },
+  {
+    "id": "Gear_Cockpit_VR_POD.LV_ADVANCED_SENSORS.statusEffects0.Details",
+    "content": "提供敌军单位的详细信息"
+  },
+  {
+    "id": "Gear_Cockpit_VR_POD.DNI-Penalty.statusEffects1.Details",
+    "content": "过热时受到伤害"
+  },
+  {
+    "id": "Gear_Cockpit_VR_POD.CockpitInitativeEffectPlus.statusEffects2.Details",
+    "content": "+1主动性和其他一些增益"
+  },
+  {
+    "id": "Gear_Cockpit_VR_POD.GainEvasion.statusEffects3.Details",
+    "content": "该单位从移动中获得额外的闪避(直到最大值)."
+  },
+  {
+    "id": "Gear_Cockpit_VR_POD.MaxEvasion.statusEffects4.Details",
+    "content": "该单位从移动中获得额外的闪避(直到最大值)."
+  },
+  {
+    "id": "Gear_Cockpit_VR_POD.LV_ADVANCED_SENSORS.statusEffects0.Name",
+    "content": "先进传感器"
+  },
+  {
+    "id": "Gear_Cockpit_VR_POD.DNI-Penalty.statusEffects1.Name",
+    "content": "过热驾驶伤害"
+  },
+  {
+    "id": "Gear_Cockpit_VR_POD.CockpitInitativeEffectPlus.statusEffects2.Name",
+    "content": "驾驶舱技术奖励"
+  },
+  {
+    "id": "Gear_Cockpit_VR_POD.GainEvasion.statusEffects3.Name",
+    "content": "闪避机动"
+  },
+  {
+    "id": "Gear_Cockpit_VR_POD.MaxEvasion.statusEffects4.Name",
+    "content": "闪避机动"
+  },
+  {
+    "id": "Gear_Sensors_AR12.Description.Details",
+    "content": "AR-12护套定向信标和守护者ECM套件是一个专门为\"歼灭者\"机甲设计星联座舱和传感器系统,结合了主动探测器和ECM系统的优点."
+  },
+  {
+    "id": "Gear_Sensors_AR12.Description.UIName",
+    "content": "AR12护套信标"
+  },
+  {
+    "id": "Gear_Sensors_AR12.Description.Name",
+    "content": "AR12护套信标"
+  },
+  {
+    "id": "Gear_Sensors_AR12.Description.Manufacturer",
+    "content": "卡隆"
+  },
+  {
+    "id": "Gear_Sensors_AR12.UAV_Ping.statusEffects0.Details",
+    "content": "主动能力(使用开火动作).对在旋转的金色圆圈范围内的所有敌人进行传感器锁定.使用后进入冷却状态."
+  },
+  {
+    "id": "Gear_Sensors_AR12.AdvancedProbeSensor.statusEffects1.Details",
+    "content": "增加 视野/传感器效率/健康."
+  },
+  {
+    "id": "Gear_Sensors_AR12.AdvancedProbeSight.statusEffects2.Details",
+    "content": "+50m发现距离"
+  },
+  {
+    "id": "Gear_Sensors_AR12.MineFieldDetection.statusEffects3.Details",
+    "content": "探测雷场"
+  },
+  {
+    "id": "Gear_Sensors_AR12.LV_PROBE_CARRIER.statusEffects4.Details",
+    "content": "降低隐身和ECM护罩单元的效果"
+  },
+  {
+    "id": "Gear_Sensors_AR12.LV_ADVANCED_SENSORS.statusEffects5.Details",
+    "content": "提供敌军单位的详细信息"
+  },
+  {
+    "id": "Gear_Sensors_AR12.ECMPassiveShield.statusEffects6.Details",
+    "content": "被动ECM保护"
+  },
+  {
+    "id": "Gear_Sensors_AR12.ECMPassiveJam.statusEffects7.Details",
+    "content": "被动干扰保护"
+  },
+  {
+    "id": "Gear_Sensors_AR12.UAV_Ping.statusEffects0.Name",
+    "content": "无人机侦测"
+  },
+  {
+    "id": "Gear_Sensors_AR12.AdvancedProbeSensor.statusEffects1.Name",
+    "content": "探测传感器"
+  },
+  {
+    "id": "Gear_Sensors_AR12.AdvancedProbeSight.statusEffects2.Name",
+    "content": "探测器视野"
+  },
+  {
+    "id": "Gear_Sensors_AR12.MineFieldDetection.statusEffects3.Name",
+    "content": "主动探测器(被动)"
+  },
+  {
+    "id": "Gear_Sensors_AR12.LV_PROBE_CARRIER.statusEffects4.Name",
+    "content": "主动探测器(被动)"
+  },
+  {
+    "id": "Gear_Sensors_AR12.LV_ADVANCED_SENSORS.statusEffects5.Name",
+    "content": "先进传感器"
+  },
+  {
+    "id": "Gear_Sensors_AR12.ECMPassiveShield.statusEffects6.Name",
+    "content": "ECM被动护罩"
+  },
+  {
+    "id": "Gear_Sensors_AR12.ECMPassiveJam.statusEffects7.Name",
+    "content": "ECM被动干扰"
+  },
+  {
+    "id": "Gear_Sensors_BallisticRange.Description.Details",
+    "content": "阁楼卫星通讯的'射手'弹道传感器套件增强了测距设备,有助于计算弹道轨迹."
+  },
+  {
+    "id": "Gear_Sensors_BallisticRange.Description.UIName",
+    "content": "弹道射程传感器"
+  },
+  {
+    "id": "Gear_Sensors_BallisticRange.Description.Name",
+    "content": "弹道射程传感器"
+  },
+  {
+    "id": "Gear_Sensors_BallisticRange.Description.Manufacturer",
+    "content": "阁楼卫星通讯"
+  },
+  {
+    "id": "Gear_Sensors_BallisticRange.LV_ADVANCED_SENSORS.statusEffects0.Details",
+    "content": "提供敌军单位的详细信息"
+  },
+  {
+    "id": "Gear_Sensors_BallisticRange.RangedWeaponSensors1.statusEffects2.Details",
+    "content": "增加视野/传感器"
+  },
+  {
+    "id": "Gear_Sensors_BallisticRange.RangedWeaponSensors2.statusEffects3.Details",
+    "content": "增加视野/传感器"
+  },
+  {
+    "id": "Gear_Sensors_BallisticRange.RangedWeaponSensors3.statusEffects4.Details",
+    "content": "增加视野/传感器"
+  },
+  {
+    "id": "Gear_Sensors_BallisticRange.RangedWeaponSensors4.statusEffects5.Details",
+    "content": "增加视野/传感器"
+  },
+  {
+    "id": "Gear_Sensors_BallisticRange.LV_ADVANCED_SENSORS.statusEffects0.Name",
+    "content": "先进传感器"
+  },
+  {
+    "id": "Gear_Sensors_BallisticRange.RangedWeaponSensors.statusEffects1.Name",
+    "content": "弹道最小射程"
+  },
+  {
+    "id": "Gear_Sensors_BallisticRange.RangedWeaponSensors1.statusEffects2.Name",
+    "content": "C3M探测器"
+  },
+  {
+    "id": "Gear_Sensors_BallisticRange.RangedWeaponSensors2.statusEffects3.Name",
+    "content": "C3M探测器"
+  },
+  {
+    "id": "Gear_Sensors_BallisticRange.RangedWeaponSensors3.statusEffects4.Name",
+    "content": "C3M探测器"
+  },
+  {
+    "id": "Gear_Sensors_BallisticRange.RangedWeaponSensors4.statusEffects5.Name",
+    "content": "C3M探测器"
+  },
+  {
+    "id": "Gear_Sensors_BAP.Description.Details",
+    "content": "这各特殊传感器包集成有一个小猎犬有源探测器(BAP).BAP是一套增强技术,当附加到通用电子传感器上时,装备的单位能够检测和分别除常规步兵外其他战场单位,无论他们是伪装还是关机."
+  },
+  {
+    "id": "Gear_Sensors_BAP.Description.UIName",
+    "content": "传感探测器"
+  },
+  {
+    "id": "Gear_Sensors_BAP.Description.Name",
+    "content": "传感器和主动探测器"
+  },
+  {
+    "id": "Gear_Sensors_BAP.Description.Manufacturer",
+    "content": "阿赫纳尔战斗机甲"
+  },
+  {
+    "id": "Gear_Sensors_BAP.NightVision.statusEffects0.Details",
+    "content": "被动:开启夜视"
+  },
+  {
+    "id": "Gear_Sensors_BAP.LV_PROBE_CARRIER.statusEffects1.Details",
+    "content": "降低隐身和ECM护罩单元的效果"
+  },
+  {
+    "id": "Gear_Sensors_BAP.LV_ADVANCED_SENSORS.statusEffects2.Details",
+    "content": "提供敌军单位的详细信息"
+  },
+  {
+    "id": "Gear_Sensors_BAP.BAProbe.statusEffects3.Details",
+    "content": "增加视野/传感器"
+  },
+  {
+    "id": "Gear_Sensors_BAP.BAP-Spotting_Gain-T1.statusEffects4.Details",
+    "content": "+50m发现距离"
+  },
+  {
+    "id": "Gear_Sensors_BAP.MineFieldDetection.statusEffects5.Details",
+    "content": "探测雷场"
+  },
+  {
+    "id": "Gear_Sensors_BAP.NightVision.statusEffects0.Name",
+    "content": "夜视模式"
+  },
+  {
+    "id": "Gear_Sensors_BAP.LV_PROBE_CARRIER.statusEffects1.Name",
+    "content": "主动探测器(被动)"
+  },
+  {
+    "id": "Gear_Sensors_BAP.LV_ADVANCED_SENSORS.statusEffects2.Name",
+    "content": "先进传感器"
+  },
+  {
+    "id": "Gear_Sensors_BAP.BAProbe.statusEffects3.Name",
+    "content": "猎兔犬探测器"
+  },
+  {
+    "id": "Gear_Sensors_BAP.BAP-Spotting_Gain-T1.statusEffects4.Name",
+    "content": "提升侦查距离"
+  },
+  {
+    "id": "Gear_Sensors_BAP.MineFieldDetection.statusEffects5.Name",
+    "content": "主动探测器(被动)"
+  },
+  {
+    "id": "Gear_Sensors_C3i.Description.Details",
+    "content": "C3i是通讯之星基于天龙联合体技术开发的.在扩大其军事力量以抵御氏族入侵的同时,通讯防卫队发现他们目前的C3主机无法处理复杂的老旧单位."
+  },
+  {
+    "id": "Gear_Sensors_C3i.Description.UIName",
+    "content": "C3i传感器"
+  },
+  {
+    "id": "Gear_Sensors_C3i.Description.Name",
+    "content": "通讯之星改进型C3"
+  },
+  {
+    "id": "Gear_Sensors_C3i.Description.Manufacturer",
+    "content": "通讯之星"
+  },
+  {
+    "id": "Gear_Sensors_C3i.C3i.statusEffects0.Details",
+    "content": "当队友移动时显示他们的视野"
+  },
+  {
+    "id": "Gear_Sensors_C3i.C3_AI.statusEffects1.Details",
+    "content": "当队友移动时显示他们的视野"
+  },
+  {
+    "id": "Gear_Sensors_C3i.LV_Shares_Vision.statusEffects2.Details",
+    "content": "当队友移动时显示他们的视野"
+  },
+  {
+    "id": "Gear_Sensors_C3i.C3i.statusEffects0.Name",
+    "content": "C3i网络"
+  },
+  {
+    "id": "Gear_Sensors_C3i.C3_AI.statusEffects1.Name",
+    "content": "C3 AI"
+  },
+  {
+    "id": "Gear_Sensors_C3i.LV_Shares_Vision.statusEffects2.Name",
+    "content": "视野共享"
+  },
+  {
+    "id": "Gear_Sensors_DFA.Description.Details",
+    "content": "一个升级的传感器包,将先进测距仪、地面震动传感器、扫描算法与敌我识别干扰机相结合."
+  },
+  {
+    "id": "Gear_Sensors_DFA.Description.UIName",
+    "content": "飞行传感器"
+  },
+  {
+    "id": "Gear_Sensors_DFA.Description.Name",
+    "content": "飞行稳定器"
+  },
+  {
+    "id": "Gear_Sensors_DFA.Description.Manufacturer",
+    "content": "盟军航空航天"
+  },
+  {
+    "id": "Gear_Sensors_DFA.Directional Jump Jets.statusEffects0.Details",
+    "content": "提升DFA"
+  },
+  {
+    "id": "Gear_Sensors_DFA.StatusEffect-Attack_DamageDFA-JJ.statusEffects1.Details",
+    "content": "DAF造成额外10%伤害"
+  },
+  {
+    "id": "Gear_Sensors_DFA.StatusEffect-Attack_SelfDamageDFA-JJ.statusEffects2.Details",
+    "content": "DFA减少10%自伤."
+  },
+  {
+    "id": "Gear_Sensors_DFA.StatusEffect-Attack_DFAACC_JJ.statusEffects3.Details",
+    "content": "DFA减少10%自伤."
+  },
+  {
+    "id": "Gear_Sensors_DFA.Directional Jump Jets.statusEffects0.Name",
+    "content": "精确跳跃"
+  },
+  {
+    "id": "Gear_Sensors_DFA.StatusEffect-Attack_DamageDFA-JJ.statusEffects1.Name",
+    "content": "DAF伤害提升"
+  },
+  {
+    "id": "Gear_Sensors_DFA.StatusEffect-Attack_SelfDamageDFA-JJ.statusEffects2.Name",
+    "content": "降低DFA自伤"
+  },
+  {
+    "id": "Gear_Sensors_DFA.StatusEffect-Attack_DFAACC_JJ.statusEffects3.Name",
+    "content": "降低DFA自伤"
+  },
+  {
+    "id": "Gear_Sensors_ECM.Description.Details",
+    "content": "为了重现星联防卫部队(SLDF)AR12.将ECM和传感器套件集成到一起,获得了低产量的EMC和扫描系统."
+  },
+  {
+    "id": "Gear_Sensors_ECM.Description.UIName",
+    "content": "传感器先进干扰器"
+  },
+  {
+    "id": "Gear_Sensors_ECM.Description.Name",
+    "content": "黑色行动干扰器"
+  },
+  {
+    "id": "Gear_Sensors_ECM.Description.Manufacturer",
+    "content": "DCMS"
+  },
+  {
+    "id": "Gear_Sensors_ECM.ECMPassiveShield.statusEffects0.Details",
+    "content": "被动ECM保护"
+  },
+  {
+    "id": "Gear_Sensors_ECM.ECMPassiveJam.statusEffects1.Details",
+    "content": "被动干扰保护"
+  },
+  {
+    "id": "Gear_Sensors_ECM.ECMPassiveShield.statusEffects0.Name",
+    "content": "ECM被动护罩"
+  },
+  {
+    "id": "Gear_Sensors_ECM.ECMPassiveJam.statusEffects1.Name",
+    "content": "ECM被动干扰"
+  },
+  {
+    "id": "Gear_Sensors_EWS.Description.Details",
+    "content": "AR-24护套定向信标和ECM套件基于星联传感器系统开发,结合了有源探测器和ECM系统的优点.遗憾的是,它无法提供它所使用的失落技术完全相同的性能."
+  },
+  {
+    "id": "Gear_Sensors_EWS.Description.UIName",
+    "content": "AR-24护套信标"
+  },
+  {
+    "id": "Gear_Sensors_EWS.Description.Name",
+    "content": "AR-24护套信标"
+  },
+  {
+    "id": "Gear_Sensors_EWS.Description.Manufacturer",
+    "content": "卡隆"
+  },
+  {
+    "id": "Gear_Sensors_EWS.UAV_Ping.statusEffects0.Details",
+    "content": "主动能力(使用开火动作).对在旋转的金色圆圈范围内的所有敌人进行传感器锁定.使用后进入冷却状态."
+  },
+  {
+    "id": "Gear_Sensors_EWS.MineFieldDetection.statusEffects1.Details",
+    "content": "探测雷场"
+  },
+  {
+    "id": "Gear_Sensors_EWS.LV_PROBE_CARRIER.statusEffects2.Details",
+    "content": "降低隐身和ECM护罩单元的效果"
+  },
+  {
+    "id": "Gear_Sensors_EWS.LV_ADVANCED_SENSORS.statusEffects3.Details",
+    "content": "提供敌军单位的详细信息"
+  },
+  {
+    "id": "Gear_Sensors_EWS.AdvancedProbeSensor.statusEffects4.Details",
+    "content": "增加 视野/传感器效率/健康."
+  },
+  {
+    "id": "Gear_Sensors_EWS.AdvancedProbeSight.statusEffects5.Details",
+    "content": "+50m发现距离"
+  },
+  {
+    "id": "Gear_Sensors_EWS.ECMPassiveShield.statusEffects6.Details",
+    "content": "被动ECM保护"
+  },
+  {
+    "id": "Gear_Sensors_EWS.ECMPassiveJam.statusEffects7.Details",
+    "content": "被动干扰保护"
+  },
+  {
+    "id": "Gear_Sensors_EWS.UAV_Ping.statusEffects0.Name",
+    "content": "无人机侦测"
+  },
+  {
+    "id": "Gear_Sensors_EWS.MineFieldDetection.statusEffects1.Name",
+    "content": "主动探测器(被动)"
+  },
+  {
+    "id": "Gear_Sensors_EWS.LV_PROBE_CARRIER.statusEffects2.Name",
+    "content": "主动探测器(被动)"
+  },
+  {
+    "id": "Gear_Sensors_EWS.LV_ADVANCED_SENSORS.statusEffects3.Name",
+    "content": "先进传感器"
+  },
+  {
+    "id": "Gear_Sensors_EWS.AdvancedProbeSensor.statusEffects4.Name",
+    "content": "探测传感器"
+  },
+  {
+    "id": "Gear_Sensors_EWS.AdvancedProbeSight.statusEffects5.Name",
+    "content": "探测器视野"
+  },
+  {
+    "id": "Gear_Sensors_EWS.ECMPassiveShield.statusEffects6.Name",
+    "content": "ECM被动护罩"
+  },
+  {
+    "id": "Gear_Sensors_EWS.ECMPassiveJam.statusEffects7.Name",
+    "content": "ECM被动干扰"
+  },
+  {
+    "id": "Gear_Sensors_HighPowered.Description.Details",
+    "content": "高功率传感器套件可以感知更远距离."
+  },
+  {
+    "id": "Gear_Sensors_HighPowered.Description.UIName",
+    "content": "高功率传感器"
+  },
+  {
+    "id": "Gear_Sensors_HighPowered.Description.Name",
+    "content": "高功率传感器"
+  },
+  {
+    "id": "Gear_Sensors_HighPowered.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Gear_Sensors_HighPowered.LV_PROBE_CARRIER.statusEffects0.Details",
+    "content": "降低隐身和ECM护罩单元的效果"
+  },
+  {
+    "id": "Gear_Sensors_HighPowered.LV_ADVANCED_SENSORS.statusEffects1.Details",
+    "content": "提供敌军单位的详细信息"
+  },
+  {
+    "id": "Gear_Sensors_HighPowered.BAProbe.statusEffects2.Details",
+    "content": "增加视野/传感器"
+  },
+  {
+    "id": "Gear_Sensors_HighPowered.HP-CockpitSensors-Spot.statusEffects3.Details",
+    "content": "+50m发现距离"
+  },
+  {
+    "id": "Gear_Sensors_HighPowered.MineFieldDetection.statusEffects4.Details",
+    "content": "探测雷场"
+  },
+  {
+    "id": "Gear_Sensors_HighPowered.LV_PROBE_CARRIER.statusEffects0.Name",
+    "content": "主动探测器(被动)"
+  },
+  {
+    "id": "Gear_Sensors_HighPowered.LV_ADVANCED_SENSORS.statusEffects1.Name",
+    "content": "先进传感器"
+  },
+  {
+    "id": "Gear_Sensors_HighPowered.BAProbe.statusEffects2.Name",
+    "content": "HP-驾驶舱传感器-传感器"
+  },
+  {
+    "id": "Gear_Sensors_HighPowered.HP-CockpitSensors-Spot.statusEffects3.Name",
+    "content": "提升侦查距离"
+  },
+  {
+    "id": "Gear_Sensors_HighPowered.MineFieldDetection.statusEffects4.Name",
+    "content": "主动探测器(被动)"
+  },
+  {
+    "id": "Gear_Sensors_Huntress.Description.Details",
+    "content": "阁楼卫星通讯的\"女猎手\"武器传感器套件允许武器在更大射程开火."
+  },
+  {
+    "id": "Gear_Sensors_Huntress.Description.UIName",
+    "content": "范围传感器"
+  },
+  {
+    "id": "Gear_Sensors_Huntress.Description.Name",
+    "content": "女猎手武器电脑"
+  },
+  {
+    "id": "Gear_Sensors_Huntress.Description.Manufacturer",
+    "content": "阁楼卫星通讯"
+  },
+  {
+    "id": "Gear_Sensors_Huntress.LV_ADVANCED_SENSORS.statusEffects0.Details",
+    "content": "提供敌军单位的详细信息"
+  },
+  {
+    "id": "Gear_Sensors_Huntress.RangedWeaponSensors.statusEffects1.Details",
+    "content": "增加视野/传感器"
+  },
+  {
+    "id": "Gear_Sensors_Huntress.RangedWeaponSensors1.statusEffects2.Details",
+    "content": "增加视野/传感器"
+  },
+  {
+    "id": "Gear_Sensors_Huntress.RangedWeaponSensors2.statusEffects3.Details",
+    "content": "增加视野/传感器"
+  },
+  {
+    "id": "Gear_Sensors_Huntress.RangedWeaponSensors3.statusEffects4.Details",
+    "content": "增加视野/传感器"
+  },
+  {
+    "id": "Gear_Sensors_Huntress.RangedWeaponSensors4.statusEffects5.Details",
+    "content": "增加视野/传感器"
+  },
+  {
+    "id": "Gear_Sensors_Huntress.LV_ADVANCED_SENSORS.statusEffects0.Name",
+    "content": "先进传感器"
+  },
+  {
+    "id": "Gear_Sensors_Huntress.RangedWeaponSensors.statusEffects1.Name",
+    "content": "C3M探测器"
+  },
+  {
+    "id": "Gear_Sensors_Huntress.RangedWeaponSensors1.statusEffects2.Name",
+    "content": "C3M探测器"
+  },
+  {
+    "id": "Gear_Sensors_Huntress.RangedWeaponSensors2.statusEffects3.Name",
+    "content": "C3M探测器"
+  },
+  {
+    "id": "Gear_Sensors_Huntress.RangedWeaponSensors3.statusEffects4.Name",
+    "content": "C3M探测器"
+  },
+  {
+    "id": "Gear_Sensors_Huntress.RangedWeaponSensors4.statusEffects5.Name",
+    "content": "C3M探测器"
+  },
+  {
+    "id": "Gear_Sensors_Improved.Description.Details",
+    "content": "随着氏族入侵和内天体技术的复兴,许多内天体公司开始生产传感器包,匹敌或超过氏族规格或老式星联防卫部队装备的性能."
+  },
+  {
+    "id": "Gear_Sensors_Improved.Description.UIName",
+    "content": "改进传感器"
+  },
+  {
+    "id": "Gear_Sensors_Improved.Description.Name",
+    "content": "改进传感器包"
+  },
+  {
+    "id": "Gear_Sensors_Improved.Description.Manufacturer",
+    "content": "阿尔迪"
+  },
+  {
+    "id": "Gear_Sensors_Improved.LV_ADVANCED_SENSORS.statusEffects0.Details",
+    "content": "提供敌军单位的详细信息"
+  },
+  {
+    "id": "Gear_Sensors_Improved.BAProbe.statusEffects1.Details",
+    "content": "增加视野/传感器"
+  },
+  {
+    "id": "Gear_Sensors_Improved.HP-CockpitSensors-Spot.statusEffects2.Details",
+    "content": "+50m发现距离"
+  },
+  {
+    "id": "Gear_Sensors_Improved.LV_ADVANCED_SENSORS.statusEffects0.Name",
+    "content": "先进传感器"
+  },
+  {
+    "id": "Gear_Sensors_Improved.BAProbe.statusEffects1.Name",
+    "content": "HP-驾驶舱传感器-传感器"
+  },
+  {
+    "id": "Gear_Sensors_Improved.HP-CockpitSensors-Spot.statusEffects2.Name",
+    "content": "提升侦查距离"
+  },
+  {
+    "id": "Gear_Sensors_Improved_Clan.Description.Details",
+    "content": "随着氏族入侵和内天体技术的复兴,许多内天体公司开始生产传感器包,匹敌或超过氏族规格或老式星联防卫部队装备的性能."
+  },
+  {
+    "id": "Gear_Sensors_Improved_Clan.Description.UIName",
+    "content": "改进传感器(C)"
+  },
+  {
+    "id": "Gear_Sensors_Improved_Clan.Description.Name",
+    "content": "改进传感器包"
+  },
+  {
+    "id": "Gear_Sensors_Improved_Clan.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Gear_Sensors_Improved_Clan.LV_ADVANCED_SENSORS.statusEffects0.Details",
+    "content": "提供敌军单位的详细信息"
+  },
+  {
+    "id": "Gear_Sensors_Improved_Clan.BAProbe.statusEffects1.Details",
+    "content": "增加视野/传感器"
+  },
+  {
+    "id": "Gear_Sensors_Improved_Clan.HP-CockpitSensors-Spot.statusEffects2.Details",
+    "content": "+50m发现距离"
+  },
+  {
+    "id": "Gear_Sensors_Improved_Clan.ECMPassiveJam.statusEffects3.Details",
+    "content": "被动干扰保护"
+  },
+  {
+    "id": "Gear_Sensors_Improved_Clan.LV_ADVANCED_SENSORS.statusEffects0.Name",
+    "content": "先进传感器"
+  },
+  {
+    "id": "Gear_Sensors_Improved_Clan.BAProbe.statusEffects1.Name",
+    "content": "HP-驾驶舱传感器-传感器"
+  },
+  {
+    "id": "Gear_Sensors_Improved_Clan.HP-CockpitSensors-Spot.statusEffects2.Name",
+    "content": "提升侦查距离"
+  },
+  {
+    "id": "Gear_Sensors_Improved_Clan.ECMPassiveJam.statusEffects3.Name",
+    "content": "ECM被动干扰"
+  },
+  {
+    "id": "Gear_Sensors_Longscan.Description.Details",
+    "content": "一个升级的传感器包,专注于无目视接触的侦测技术,包括地震传感器,电磁信号探测器,甚至声学分析."
+  },
+  {
+    "id": "Gear_Sensors_Longscan.Description.UIName",
+    "content": "慢扫描传感器"
+  },
+  {
+    "id": "Gear_Sensors_Longscan.Description.Name",
+    "content": "慢扫描传感器包"
+  },
+  {
+    "id": "Gear_Sensors_Longscan.Description.Manufacturer",
+    "content": "埃克塞特"
+  },
+  {
+    "id": "Gear_Sensors_Longscan.LV_PROBE_CARRIER.statusEffects0.Details",
+    "content": "降低隐身和ECM护罩单元的效果"
+  },
+  {
+    "id": "Gear_Sensors_Longscan.LV_ADVANCED_SENSORS.statusEffects1.Details",
+    "content": "提供敌军单位的详细信息"
+  },
+  {
+    "id": "Gear_Sensors_Longscan.BAProbe.statusEffects2.Details",
+    "content": "增加视野/传感器"
+  },
+  {
+    "id": "Gear_Sensors_Longscan.LV_PROBE_CARRIER.statusEffects0.Name",
+    "content": "主动探测器(被动)"
+  },
+  {
+    "id": "Gear_Sensors_Longscan.LV_ADVANCED_SENSORS.statusEffects1.Name",
+    "content": "先进传感器"
+  },
+  {
+    "id": "Gear_Sensors_Longscan.BAProbe.statusEffects2.Name",
+    "content": "HP-驾驶舱传感器-传感器"
+  },
+  {
+    "id": "Gear_Sensors_MissileRange.Description.Details",
+    "content": "阁楼卫星通讯\"女猎手\"武器传感器套件允许武器在更大射程发射导弹."
+  },
+  {
+    "id": "Gear_Sensors_MissileRange.Description.UIName",
+    "content": "导弹射程传感器"
+  },
+  {
+    "id": "Gear_Sensors_MissileRange.Description.Name",
+    "content": "导弹瞄准传感器"
+  },
+  {
+    "id": "Gear_Sensors_MissileRange.Description.Manufacturer",
+    "content": "阁楼卫星通讯"
+  },
+  {
+    "id": "Gear_Sensors_MissileRange.LV_ADVANCED_SENSORS.statusEffects0.Details",
+    "content": "提供敌军单位的详细信息"
+  },
+  {
+    "id": "Gear_Sensors_MissileRange.RangedWeaponSensors.statusEffects1.Details",
+    "content": "增加视野/传感器"
+  },
+  {
+    "id": "Gear_Sensors_MissileRange.RangedWeaponSensors1.statusEffects2.Details",
+    "content": "增加视野/传感器"
+  },
+  {
+    "id": "Gear_Sensors_MissileRange.RangedWeaponSensors2.statusEffects3.Details",
+    "content": "增加视野/传感器"
+  },
+  {
+    "id": "Gear_Sensors_MissileRange.RangedWeaponSensors3.statusEffects4.Details",
+    "content": "增加视野/传感器"
+  },
+  {
+    "id": "Gear_Sensors_MissileRange.RangedWeaponSensors4.statusEffects5.Details",
+    "content": "增加视野/传感器"
+  },
+  {
+    "id": "Gear_Sensors_MissileRange.LV_ADVANCED_SENSORS.statusEffects0.Name",
+    "content": "先进传感器"
+  },
+  {
+    "id": "Gear_Sensors_MissileRange.RangedWeaponSensors.statusEffects1.Name",
+    "content": "C3M探测器"
+  },
+  {
+    "id": "Gear_Sensors_MissileRange.RangedWeaponSensors1.statusEffects2.Name",
+    "content": "C3M探测器"
+  },
+  {
+    "id": "Gear_Sensors_MissileRange.RangedWeaponSensors2.statusEffects3.Name",
+    "content": "C3M探测器"
+  },
+  {
+    "id": "Gear_Sensors_MissileRange.RangedWeaponSensors3.statusEffects4.Name",
+    "content": "C3M探测器"
+  },
+  {
+    "id": "Gear_Sensors_MissileRange.RangedWeaponSensors4.statusEffects5.Name",
+    "content": "C3M探测器"
+  },
+  {
+    "id": "Gear_Sensors_Passive.Description.Details",
+    "content": "一种仅被动检测环境信号的传感器系统,而不是使用雷达、声呐、激光雷达或其他发射器进行扫描.这使得该装置通过降低其电磁辐射而更难检测,但该系统在探测上不如主动扫描有效."
+  },
+  {
+    "id": "Gear_Sensors_Passive.Description.UIName",
+    "content": "被动传感器"
+  },
+  {
+    "id": "Gear_Sensors_Passive.Description.Name",
+    "content": "被动传感器"
+  },
+  {
+    "id": "Gear_Sensors_Passive.Description.Manufacturer",
+    "content": "无声运行"
+  },
+  {
+    "id": "Gear_Sensors_Passive.Angel-Signature_Decrease_45.statusEffects0.Details",
+    "content": "激活零信号系统降低了可见性并增强了防御"
+  },
+  {
+    "id": "Gear_Sensors_Passive.BAProbe.statusEffects1.Details",
+    "content": "增加视野/传感器"
+  },
+  {
+    "id": "Gear_Sensors_Passive.LV_ADVANCED_SENSORS.statusEffects2.Details",
+    "content": "提供敌军单位的详细信息"
+  },
+  {
+    "id": "Gear_Sensors_Passive.Angel-Signature_Decrease_45.statusEffects0.Name",
+    "content": "零信号系统"
+  },
+  {
+    "id": "Gear_Sensors_Passive.BAProbe.statusEffects1.Name",
+    "content": "HP-驾驶舱传感器-传感器"
+  },
+  {
+    "id": "Gear_Sensors_Passive.LV_ADVANCED_SENSORS.statusEffects2.Name",
+    "content": "先进传感器"
+  },
+  {
+    "id": "Gear_Sensors_Recon.Description.Details",
+    "content": "一个升级的传感器包,将先进测距仪、地面震动传感器、扫描算法与敌我识别干扰机相结合."
+  },
+  {
+    "id": "Gear_Sensors_Recon.Description.UIName",
+    "content": "侦查传感器"
+  },
+  {
+    "id": "Gear_Sensors_Recon.Description.Name",
+    "content": "侦查传感器包"
+  },
+  {
+    "id": "Gear_Sensors_Recon.Description.Manufacturer",
+    "content": "范登堡"
+  },
+  {
+    "id": "Gear_Sensors_Recon.LV_ECM_SHIELD.statusEffects0.Details",
+    "content": "降低隐身和ECM护罩单元的效果"
+  },
+  {
+    "id": "Gear_Sensors_Recon.LV_PROBE_CARRIER.statusEffects1.Details",
+    "content": "降低隐身和ECM护罩单元的效果"
+  },
+  {
+    "id": "Gear_Sensors_Recon.LV_ADVANCED_SENSORS.statusEffects2.Details",
+    "content": "提供敌军单位的详细信息"
+  },
+  {
+    "id": "Gear_Sensors_Recon.BAProbe.statusEffects3.Details",
+    "content": "增加视野/传感器"
+  },
+  {
+    "id": "Gear_Sensors_Recon.HP-CockpitSensors-Spot.statusEffects4.Details",
+    "content": "+50m发现距离"
+  },
+  {
+    "id": "Gear_Sensors_Recon.LV_Shares_Vision.statusEffects5.Details",
+    "content": "当队友移动时显示他们的视野"
+  },
+  {
+    "id": "Gear_Sensors_Recon.MineFieldDetection.statusEffects6.Details",
+    "content": "探测雷场"
+  },
+  {
+    "id": "Gear_Sensors_Recon.LV_ECM_SHIELD.statusEffects0.Name",
+    "content": "敌我识别干扰器2"
+  },
+  {
+    "id": "Gear_Sensors_Recon.LV_PROBE_CARRIER.statusEffects1.Name",
+    "content": "主动探测器(被动)"
+  },
+  {
+    "id": "Gear_Sensors_Recon.LV_ADVANCED_SENSORS.statusEffects2.Name",
+    "content": "先进传感器"
+  },
+  {
+    "id": "Gear_Sensors_Recon.BAProbe.statusEffects3.Name",
+    "content": "HP-驾驶舱传感器-传感器"
+  },
+  {
+    "id": "Gear_Sensors_Recon.HP-CockpitSensors-Spot.statusEffects4.Name",
+    "content": "提升侦查距离"
+  },
+  {
+    "id": "Gear_Sensors_Recon.LV_Shares_Vision.statusEffects5.Name",
+    "content": "视野共享"
+  },
+  {
+    "id": "Gear_Sensors_Recon.MineFieldDetection.statusEffects6.Name",
+    "content": "主动探测器(被动)"
+  },
+  {
+    "id": "Gear_Sensors_Recon_Clan.Description.Details",
+    "content": "一个氏族的升级传感器包,将先进的测距仪、地震传感器、扫描算法和敌我识别干扰器结合在一起.还额外携带了一套热成像和光学变焦系统."
+  },
+  {
+    "id": "Gear_Sensors_Recon_Clan.Description.UIName",
+    "content": "侦查传感器(C)"
+  },
+  {
+    "id": "Gear_Sensors_Recon_Clan.Description.Name",
+    "content": "侦查传感器包"
+  },
+  {
+    "id": "Gear_Sensors_Recon_Clan.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Gear_Sensors_Recon_Clan.LV_ECM_SHIELD.statusEffects0.Details",
+    "content": "降低隐身和ECM护罩单元的效果"
+  },
+  {
+    "id": "Gear_Sensors_Recon_Clan.LV_PROBE_CARRIER.statusEffects1.Details",
+    "content": "降低隐身和ECM护罩单元的效果"
+  },
+  {
+    "id": "Gear_Sensors_Recon_Clan.LV_ADVANCED_SENSORS.statusEffects2.Details",
+    "content": "提供敌军单位的详细信息"
+  },
+  {
+    "id": "Gear_Sensors_Recon_Clan.BAProbe.statusEffects3.Details",
+    "content": "增加视野/传感器"
+  },
+  {
+    "id": "Gear_Sensors_Recon_Clan.HP-CockpitSensors-Spot.statusEffects4.Details",
+    "content": "+50m发现距离"
+  },
+  {
+    "id": "Gear_Sensors_Recon_Clan.LV_Shares_Vision.statusEffects5.Details",
+    "content": "当队友移动时显示他们的视野"
+  },
+  {
+    "id": "Gear_Sensors_Recon_Clan.MineFieldDetection.statusEffects6.Details",
+    "content": "探测雷场"
+  },
+  {
+    "id": "Gear_Sensors_Recon_Clan.LV_ECM_SHIELD.statusEffects0.Name",
+    "content": "敌我识别干扰器2"
+  },
+  {
+    "id": "Gear_Sensors_Recon_Clan.LV_PROBE_CARRIER.statusEffects1.Name",
+    "content": "主动探测器(被动)"
+  },
+  {
+    "id": "Gear_Sensors_Recon_Clan.LV_ADVANCED_SENSORS.statusEffects2.Name",
+    "content": "先进传感器"
+  },
+  {
+    "id": "Gear_Sensors_Recon_Clan.BAProbe.statusEffects3.Name",
+    "content": "HP-驾驶舱传感器-传感器"
+  },
+  {
+    "id": "Gear_Sensors_Recon_Clan.HP-CockpitSensors-Spot.statusEffects4.Name",
+    "content": "提升侦查距离"
+  },
+  {
+    "id": "Gear_Sensors_Recon_Clan.LV_Shares_Vision.statusEffects5.Name",
+    "content": "视野共享"
+  },
+  {
+    "id": "Gear_Sensors_Recon_Clan.MineFieldDetection.statusEffects6.Name",
+    "content": "主动探测器(被动)"
+  },
+  {
+    "id": "Gear_Sensors_Reinforced.Description.Details",
+    "content": "增强传感器套件,增强了座舱装甲和结构."
+  },
+  {
+    "id": "Gear_Sensors_Reinforced.Description.UIName",
+    "content": "增强传感器"
+  },
+  {
+    "id": "Gear_Sensors_Reinforced.Description.Name",
+    "content": "增强传感器"
+  },
+  {
+    "id": "Gear_Sensors_Reinforced.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Gear_Sensors_Reinforced.LV_ADVANCED_SENSORS.statusEffects0.Details",
+    "content": "提供敌军单位的详细信息"
+  },
+  {
+    "id": "Gear_Sensors_Reinforced.Status-LSHardened-{location}.statusEffects1.Details",
+    "content": "强化装甲"
+  },
+  {
+    "id": "Gear_Sensors_Reinforced.Status-LSHardenedStruct-{location}.statusEffects2.Details",
+    "content": "强化结构"
+  },
+  {
+    "id": "Gear_Sensors_Reinforced.LV_ADVANCED_SENSORS.statusEffects0.Name",
+    "content": "先进传感器"
+  },
+  {
+    "id": "Gear_Sensors_Reinforced.Status-LSHardened-{location}.statusEffects1.Name",
+    "content": "硬化装甲LS"
+  },
+  {
+    "id": "Gear_Sensors_Reinforced.Status-LSHardenedStruct-{location}.statusEffects2.Name",
+    "content": "硬化装甲LS"
+  },
+  {
+    "id": "Gear_Sensors_Sniper.Description.Details",
+    "content": "一个升级的传感器包,将先进测距仪、地面震动传感器、扫描算法与敌我识别干扰机相结合."
+  },
+  {
+    "id": "Gear_Sensors_Sniper.Description.UIName",
+    "content": "狙击传感器"
+  },
+  {
+    "id": "Gear_Sensors_Sniper.Description.Name",
+    "content": "狙击战斗电脑"
+  },
+  {
+    "id": "Gear_Sensors_Sniper.Description.Manufacturer",
+    "content": "文斯"
+  },
+  {
+    "id": "Gear_Sensors_Sniper.LV_ECM_SHIELD.statusEffects0.Details",
+    "content": "降低隐身和ECM护罩单元的效果"
+  },
+  {
+    "id": "Gear_Sensors_Sniper.LV_ADVANCED_SENSORS.statusEffects1.Details",
+    "content": "提供敌军单位的详细信息"
+  },
+  {
+    "id": "Gear_Sensors_Sniper.BAProbe.statusEffects2.Details",
+    "content": "增加视野/传感器"
+  },
+  {
+    "id": "Gear_Sensors_Sniper.HP-CockpitSensors-Spot.statusEffects3.Details",
+    "content": "+50m发现距离"
+  },
+  {
+    "id": "Gear_Sensors_Sniper.LV_ECM_SHIELD.statusEffects0.Name",
+    "content": "敌我识别干扰器2"
+  },
+  {
+    "id": "Gear_Sensors_Sniper.LV_ADVANCED_SENSORS.statusEffects1.Name",
+    "content": "先进传感器"
+  },
+  {
+    "id": "Gear_Sensors_Sniper.BAProbe.statusEffects2.Name",
+    "content": "HP-驾驶舱传感器-传感器"
+  },
+  {
+    "id": "Gear_Sensors_Sniper.HP-CockpitSensors-Spot.statusEffects3.Name",
+    "content": "提升侦查距离"
+  },
+  {
+    "id": "Gear_Sensors_Tracker.Description.Details",
+    "content": "一个传说中的星联步枪兵传感器套件,能够有效地捕捉和追踪任何敌人,同时阻止任何尝试获得传感器锁的企图."
+  },
+  {
+    "id": "Gear_Sensors_Tracker.Description.UIName",
+    "content": "追踪传感器"
+  },
+  {
+    "id": "Gear_Sensors_Tracker.Description.Name",
+    "content": "传说送葬者"
+  },
+  {
+    "id": "Gear_Sensors_Tracker.Description.Manufacturer",
+    "content": "星联防卫部队"
+  },
+  {
+    "id": "Gear_Sensors_Tracker.RangeBracketBonusAccER.statusEffects0.Details",
+    "content": "射程组精度奖励"
+  },
+  {
+    "id": "Gear_Sensors_Tracker.RangeBracketBonusAccLR.statusEffects1.Details",
+    "content": "射程组精度奖励"
+  },
+  {
+    "id": "Gear_Sensors_Tracker.RangeBracketBonusAccSR.statusEffects2.Details",
+    "content": "射程组精度奖励"
+  },
+  {
+    "id": "Gear_Sensors_Tracker.AAAFactorMulti.statusEffects3.Details",
+    "content": "防空系数."
+  },
+  {
+    "id": "Gear_Sensors_Tracker.RangeBracketBonusAccER.statusEffects0.Name",
+    "content": "在射程内奖励精度"
+  },
+  {
+    "id": "Gear_Sensors_Tracker.RangeBracketBonusAccLR.statusEffects1.Name",
+    "content": "在射程内奖励精度"
+  },
+  {
+    "id": "Gear_Sensors_Tracker.RangeBracketBonusAccSR.statusEffects2.Name",
+    "content": "在射程内奖励精度"
+  },
+  {
+    "id": "Gear_Sensors_Tracker.AAAFactorMulti.statusEffects3.Name",
+    "content": "防空系数"
+  }
+]

@@ -1,0 +1,994 @@
+[
+  {
+    "id": "Gear_Articulated_Generic_Assault.Description.Details",
+    "content": "铰接式跳跃推进器系统(A)是一组精巧的推进器和排气控制装置,以战斗机甲的跳跃距离为代价获得更高的机动性.专门被设计用于90吨及以上的机甲上."
+  },
+  {
+    "id": "Gear_Articulated_Generic_Assault.Description.UIName",
+    "content": "铰接式跳跃推进器(A)"
+  },
+  {
+    "id": "Gear_Articulated_Generic_Assault.Description.Name",
+    "content": "铰接式跳跃推进器(A)"
+  },
+  {
+    "id": "Gear_Articulated_Generic_Assault.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Gear_Articulated_Generic_Assault.StatusEffect-JumpHeat.statusEffects0.Details",
+    "content": "这个跳跃推进器每格产热"
+  },
+  {
+    "id": "Gear_Articulated_Generic_Assault.ArticulatedDefense.statusEffects1.Details",
+    "content": "守护者ECM让这个单位更难被命中"
+  },
+  {
+    "id": "Gear_Articulated_Generic_Assault.ArticulatedWalk.statusEffects2.Details",
+    "content": "增压引擎"
+  },
+  {
+    "id": "Gear_Articulated_Generic_Assault.StatusEffect-JumpHeat.statusEffects0.Name",
+    "content": "跳跃推进器热量"
+  },
+  {
+    "id": "Gear_Articulated_Generic_Assault.ArticulatedDefense.statusEffects1.Name",
+    "content": "GECM干扰"
+  },
+  {
+    "id": "Gear_Articulated_Generic_Assault.ArticulatedWalk.statusEffects2.Name",
+    "content": "增压"
+  },
+  {
+    "id": "Gear_Articulated_Generic_Heavy.Description.Details",
+    "content": "铰接式跳跃推进器系统(H)是一组精巧的推进器和排气控制装置,使战斗机甲的跳跃距离为代价获得更高的机动性.专门被设计用于60吨到85吨上的机甲上."
+  },
+  {
+    "id": "Gear_Articulated_Generic_Heavy.Description.UIName",
+    "content": "铰接式跳跃推进器(H)"
+  },
+  {
+    "id": "Gear_Articulated_Generic_Heavy.Description.Name",
+    "content": "铰接式跳跃推进器(H)"
+  },
+  {
+    "id": "Gear_Articulated_Generic_Heavy.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Gear_Articulated_Generic_Heavy.StatusEffect-JumpHeat.statusEffects0.Details",
+    "content": "这个跳跃推进器每格产热"
+  },
+  {
+    "id": "Gear_Articulated_Generic_Heavy.ArticulatedDefense.statusEffects1.Details",
+    "content": "守护者ECM让这个单位更难被命中"
+  },
+  {
+    "id": "Gear_Articulated_Generic_Heavy.ArticulatedWalk.statusEffects2.Details",
+    "content": "增压引擎"
+  },
+  {
+    "id": "Gear_Articulated_Generic_Heavy.StatusEffect-JumpHeat.statusEffects0.Name",
+    "content": "跳跃推进器热量"
+  },
+  {
+    "id": "Gear_Articulated_Generic_Heavy.ArticulatedDefense.statusEffects1.Name",
+    "content": "GECM干扰"
+  },
+  {
+    "id": "Gear_Articulated_Generic_Heavy.ArticulatedWalk.statusEffects2.Name",
+    "content": "增压"
+  },
+  {
+    "id": "Gear_Articulated_Generic_Standard.Description.Details",
+    "content": "铰接式跳跃推进器系统是一组精巧的推进器和排气控制装置,使战斗机甲的跳跃距离为代价获得更高的机动性. 专门被设计用于最高55吨的机甲上"
+  },
+  {
+    "id": "Gear_Articulated_Generic_Standard.Description.UIName",
+    "content": "铰接式跳跃推进器(S)"
+  },
+  {
+    "id": "Gear_Articulated_Generic_Standard.Description.Name",
+    "content": "铰接式跳跃推进器(S)"
+  },
+  {
+    "id": "Gear_Articulated_Generic_Standard.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Gear_Articulated_Generic_Standard.StatusEffect-JumpHeat.statusEffects0.Details",
+    "content": "这个跳跃推进器每格产热"
+  },
+  {
+    "id": "Gear_Articulated_Generic_Standard.ArticulatedDefense.statusEffects1.Details",
+    "content": "守护者ECM让这个单位更难被命中"
+  },
+  {
+    "id": "Gear_Articulated_Generic_Standard.ArticulatedWalk.statusEffects2.Details",
+    "content": "增压引擎"
+  },
+  {
+    "id": "Gear_Articulated_Generic_Standard.StatusEffect-JumpHeat.statusEffects0.Name",
+    "content": "跳跃推进器热量"
+  },
+  {
+    "id": "Gear_Articulated_Generic_Standard.ArticulatedDefense.statusEffects1.Name",
+    "content": "GECM干扰"
+  },
+  {
+    "id": "Gear_Articulated_Generic_Standard.ArticulatedWalk.statusEffects2.Name",
+    "content": "增压"
+  },
+  {
+    "id": "Gear_JumpJet_Arm_Heavy.Description.Details",
+    "content": "跳跃推进器将过热的空气的以可控的方式喷出,以推举机甲越过障碍物.此外它们还可以用于执行可怕的\"DFA\"攻击.重型跳跃推进器专门为60-85吨的机甲设计."
+  },
+  {
+    "id": "Gear_JumpJet_Arm_Heavy.Description.UIName",
+    "content": "手臂跳跃推进器(H)"
+  },
+  {
+    "id": "Gear_JumpJet_Arm_Heavy.Description.Name",
+    "content": "重型跳跃推进器(H)"
+  },
+  {
+    "id": "Gear_JumpJet_Arm_Heavy.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Gear_JumpJet_Arm_Heavy.StatusEffect-JumpHeat.statusEffects0.Details",
+    "content": "这个跳跃推进器每格产热"
+  },
+  {
+    "id": "Gear_JumpJet_Arm_Heavy.StatusEffect-JumpAmount.statusEffects1.Details",
+    "content": "最大跳跃推进器量每行走里程"
+  },
+  {
+    "id": "Gear_JumpJet_Arm_Heavy.StatusEffect-JumpHeat.statusEffects0.Name",
+    "content": "跳跃推进器热量"
+  },
+  {
+    "id": "Gear_JumpJet_Arm_Heavy.StatusEffect-JumpAmount.statusEffects1.Name",
+    "content": "跳跃推进器量"
+  },
+  {
+    "id": "Gear_JumpJet_Booster.Description.Details",
+    "content": "这不像是一个跳跃推进器,而更像是绑在自己机甲上聚变核心上的直起式的火箭助推器,它可以将它所附着的任何东西发射起来.它为让一架机甲尽可能容易的向上前进而安装."
+  },
+  {
+    "id": "Gear_JumpJet_Booster.Description.UIName",
+    "content": "喷气助推器(SH)"
+  },
+  {
+    "id": "Gear_JumpJet_Booster.Description.Name",
+    "content": "喷气助推器(SH)"
+  },
+  {
+    "id": "Gear_JumpJet_Booster.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Gear_JumpJet_Booster.StatusEffect-JumpHeat.statusEffects0.Details",
+    "content": "这个跳跃推进器每格产热"
+  },
+  {
+    "id": "Gear_JumpJet_Booster.StatusEffect-JumpAmount.statusEffects1.Details",
+    "content": "最大跳跃推进器量每行走里程"
+  },
+  {
+    "id": "Gear_JumpJet_Booster.SuperchargerWalk.statusEffects2.Details",
+    "content": "增压引擎"
+  },
+  {
+    "id": "Gear_JumpJet_Booster.StatusEffect-JumpHeat.statusEffects0.Name",
+    "content": "跳跃推进器热量"
+  },
+  {
+    "id": "Gear_JumpJet_Booster.StatusEffect-JumpAmount.statusEffects1.Name",
+    "content": "跳跃推进器量"
+  },
+  {
+    "id": "Gear_JumpJet_Booster.SuperchargerWalk.statusEffects2.Name",
+    "content": "增压"
+  },
+  {
+    "id": "Gear_JumpJet_Directional_Assault.Description.Details",
+    "content": "定向跳跃推进器是一种特殊选择,更小的跳跃推进器可以战略性的放置在底盘上,能够对跳跃进行更精细的控制,提升DFA机动.专门被设计用于90吨以上的机甲."
+  },
+  {
+    "id": "Gear_JumpJet_Directional_Assault.Description.UIName",
+    "content": "定向跳跃推进器(A)"
+  },
+  {
+    "id": "Gear_JumpJet_Directional_Assault.Description.Name",
+    "content": "定向跳跃推进器(A)"
+  },
+  {
+    "id": "Gear_JumpJet_Directional_Assault.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Gear_JumpJet_Directional_Assault.StatusEffect-JumpHeat.statusEffects0.Details",
+    "content": "这个跳跃推进器每格产热"
+  },
+  {
+    "id": "Gear_JumpJet_Directional_Assault.StatusEffect-JumpAmount.statusEffects1.Details",
+    "content": "最大跳跃推进器量每行走里程"
+  },
+  {
+    "id": "Gear_JumpJet_Directional_Assault.StatusEffect-Attack_DamageDFA-JJ.statusEffects2.Details",
+    "content": "DAF造成额外10%伤害"
+  },
+  {
+    "id": "Gear_JumpJet_Directional_Assault.StatusEffect-Jump-DamageBoost.statusEffects3.Details",
+    "content": "跳跃后造成伤害增加20%,跳跃距离增加20%"
+  },
+  {
+    "id": "Gear_JumpJet_Directional_Assault.StatusEffect-Attack_DFAACC_JJ.statusEffects4.Details",
+    "content": "DFA减少10%自伤."
+  },
+  {
+    "id": "Gear_JumpJet_Directional_Assault.StatusEffect-JumpHeat.statusEffects0.Name",
+    "content": "跳跃推进器热量"
+  },
+  {
+    "id": "Gear_JumpJet_Directional_Assault.StatusEffect-JumpAmount.statusEffects1.Name",
+    "content": "跳跃推进器量"
+  },
+  {
+    "id": "Gear_JumpJet_Directional_Assault.StatusEffect-Attack_DamageDFA-JJ.statusEffects2.Name",
+    "content": "DAF伤害提升"
+  },
+  {
+    "id": "Gear_JumpJet_Directional_Assault.StatusEffect-Jump-DamageBoost.statusEffects3.Name",
+    "content": "矢量推进套件"
+  },
+  {
+    "id": "Gear_JumpJet_Directional_Assault.StatusEffect-Attack_DFAACC_JJ.statusEffects4.Name",
+    "content": "降低DFA自伤"
+  },
+  {
+    "id": "Gear_JumpJet_Directional_Heavy.Description.Details",
+    "content": "定向跳跃推进器是一种特殊选择,更小的跳跃推进器可以战略性的放置在底盘上,能够对跳跃进行更精细的控制,提升DFA机动.专门被设计用于60-85吨以上的机甲."
+  },
+  {
+    "id": "Gear_JumpJet_Directional_Heavy.Description.UIName",
+    "content": " 定向跳跃推进器(H)"
+  },
+  {
+    "id": "Gear_JumpJet_Directional_Heavy.Description.Name",
+    "content": "定向跳跃推进器(H)"
+  },
+  {
+    "id": "Gear_JumpJet_Directional_Heavy.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Gear_JumpJet_Directional_Heavy.StatusEffect-JumpHeat.statusEffects0.Details",
+    "content": "这个跳跃推进器每格产热"
+  },
+  {
+    "id": "Gear_JumpJet_Directional_Heavy.StatusEffect-JumpAmount.statusEffects1.Details",
+    "content": "最大跳跃推进器量每行走里程"
+  },
+  {
+    "id": "Gear_JumpJet_Directional_Heavy.StatusEffect-Attack_DamageDFA-JJ.statusEffects2.Details",
+    "content": "DAF造成额外10%伤害"
+  },
+  {
+    "id": "Gear_JumpJet_Directional_Heavy.StatusEffect-Jump-DamageBoost.statusEffects3.Details",
+    "content": "跳跃后造成伤害增加20%,跳跃距离增加20%"
+  },
+  {
+    "id": "Gear_JumpJet_Directional_Heavy.StatusEffect-Attack_DFAACC_JJ.statusEffects4.Details",
+    "content": "DFA减少10%自伤."
+  },
+  {
+    "id": "Gear_JumpJet_Directional_Heavy.StatusEffect-JumpHeat.statusEffects0.Name",
+    "content": "跳跃推进器热量"
+  },
+  {
+    "id": "Gear_JumpJet_Directional_Heavy.StatusEffect-JumpAmount.statusEffects1.Name",
+    "content": "跳跃推进器量"
+  },
+  {
+    "id": "Gear_JumpJet_Directional_Heavy.StatusEffect-Attack_DamageDFA-JJ.statusEffects2.Name",
+    "content": "DAF伤害提升"
+  },
+  {
+    "id": "Gear_JumpJet_Directional_Heavy.StatusEffect-Jump-DamageBoost.statusEffects3.Name",
+    "content": "矢量推进套件"
+  },
+  {
+    "id": "Gear_JumpJet_Directional_Heavy.StatusEffect-Attack_DFAACC_JJ.statusEffects4.Name",
+    "content": "降低DFA自伤"
+  },
+  {
+    "id": "Gear_JumpJet_Directional_Standard.Description.Details",
+    "content": "定向跳跃推进器是一种特殊选择,更小的跳跃推进器可以战略性的放置在底盘上,能够对跳跃进行更精细的控制,提升DFA.专门被设计最高55吨上的机甲."
+  },
+  {
+    "id": "Gear_JumpJet_Directional_Standard.Description.UIName",
+    "content": "定向跳跃推进器(S)"
+  },
+  {
+    "id": "Gear_JumpJet_Directional_Standard.Description.Name",
+    "content": "定向跳跃推进器(S)"
+  },
+  {
+    "id": "Gear_JumpJet_Directional_Standard.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Gear_JumpJet_Directional_Standard.StatusEffect-JumpHeat.statusEffects0.Details",
+    "content": "这个跳跃推进器每格产热"
+  },
+  {
+    "id": "Gear_JumpJet_Directional_Standard.StatusEffect-JumpAmount.statusEffects1.Details",
+    "content": "最大跳跃推进器量每行走里程"
+  },
+  {
+    "id": "Gear_JumpJet_Directional_Standard.StatusEffect-Attack_DamageDFA-JJ.statusEffects2.Details",
+    "content": "DAF造成额外10%伤害"
+  },
+  {
+    "id": "Gear_JumpJet_Directional_Standard.StatusEffect-Jump-DamageBoost.statusEffects3.Details",
+    "content": "跳跃后造成伤害增加20%,跳跃距离增加20%"
+  },
+  {
+    "id": "Gear_JumpJet_Directional_Standard.StatusEffect-Attack_DFAACC_JJ.statusEffects4.Details",
+    "content": "DFA减少10%自伤."
+  },
+  {
+    "id": "Gear_JumpJet_Directional_Standard.StatusEffect-JumpHeat.statusEffects0.Name",
+    "content": "跳跃推进器热量"
+  },
+  {
+    "id": "Gear_JumpJet_Directional_Standard.StatusEffect-JumpAmount.statusEffects1.Name",
+    "content": "跳跃推进器量"
+  },
+  {
+    "id": "Gear_JumpJet_Directional_Standard.StatusEffect-Attack_DamageDFA-JJ.statusEffects2.Name",
+    "content": "DAF伤害提升"
+  },
+  {
+    "id": "Gear_JumpJet_Directional_Standard.StatusEffect-Jump-DamageBoost.statusEffects3.Name",
+    "content": "矢量推进套件"
+  },
+  {
+    "id": "Gear_JumpJet_Directional_Standard.StatusEffect-Attack_DFAACC_JJ.statusEffects4.Name",
+    "content": "降低DFA自伤"
+  },
+  {
+    "id": "Gear_JumpJet_Generic_Assault.Description.Details",
+    "content": "跳跃推进器可控的喷射超热空气来推举机甲越过障碍物.还可以用于执行可怕的\"DFA\"攻击.突击式跳跃推进器专门被设计用于90吨以上的机甲"
+  },
+  {
+    "id": "Gear_JumpJet_Generic_Assault.Description.UIName",
+    "content": "跳跃推进器(A)"
+  },
+  {
+    "id": "Gear_JumpJet_Generic_Assault.Description.Name",
+    "content": "突击跳跃推进器(A)"
+  },
+  {
+    "id": "Gear_JumpJet_Generic_Assault.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Gear_JumpJet_Generic_Assault.StatusEffect-JumpHeat.statusEffects0.Details",
+    "content": "这个跳跃推进器每格产热"
+  },
+  {
+    "id": "Gear_JumpJet_Generic_Assault.StatusEffect-JumpAmount.statusEffects1.Details",
+    "content": "最大跳跃推进器量每行走里程"
+  },
+  {
+    "id": "Gear_JumpJet_Generic_Assault.StatusEffect-JumpHeat.statusEffects0.Name",
+    "content": "跳跃推进器热量"
+  },
+  {
+    "id": "Gear_JumpJet_Generic_Assault.StatusEffect-JumpAmount.statusEffects1.Name",
+    "content": "跳跃推进器量"
+  },
+  {
+    "id": "Gear_JumpJet_Generic_Heavy.Description.Details",
+    "content": "跳跃推进器将过热的空气的以可控的方式喷出,以推举机甲越过障碍物.此外它们还可以用于执行可怕的\"DFA\"攻击.重型跳跃推进器专门为60-85吨的机甲设计."
+  },
+  {
+    "id": "Gear_JumpJet_Generic_Heavy.Description.UIName",
+    "content": "跳跃推进器(H)"
+  },
+  {
+    "id": "Gear_JumpJet_Generic_Heavy.Description.Name",
+    "content": "重型跳跃推进器(H)"
+  },
+  {
+    "id": "Gear_JumpJet_Generic_Heavy.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Gear_JumpJet_Generic_Heavy.StatusEffect-JumpHeat.statusEffects0.Details",
+    "content": "这个跳跃推进器每格产热"
+  },
+  {
+    "id": "Gear_JumpJet_Generic_Heavy.StatusEffect-JumpAmount.statusEffects1.Details",
+    "content": "最大跳跃推进器量每行走里程"
+  },
+  {
+    "id": "Gear_JumpJet_Generic_Heavy.StatusEffect-JumpHeat.statusEffects0.Name",
+    "content": "跳跃推进器热量"
+  },
+  {
+    "id": "Gear_JumpJet_Generic_Heavy.StatusEffect-JumpAmount.statusEffects1.Name",
+    "content": "跳跃推进器量"
+  },
+  {
+    "id": "Gear_JumpJet_Generic_Standard.Description.Details",
+    "content": "定向跳跃推进器是一种特殊选择,更小的跳跃推进器可以战略性的放置在底盘上,能够对跳跃进行更精细的控制,提升DFA.标准跳跃推进器专门被为设计最高55吨的机甲."
+  },
+  {
+    "id": "Gear_JumpJet_Generic_Standard.Description.UIName",
+    "content": "跳跃推进器(S)"
+  },
+  {
+    "id": "Gear_JumpJet_Generic_Standard.Description.Name",
+    "content": "标准跳跃推进器(S)"
+  },
+  {
+    "id": "Gear_JumpJet_Generic_Standard.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Gear_JumpJet_Generic_Standard.StatusEffect-JumpHeat.statusEffects0.Details",
+    "content": "这个跳跃推进器每格产热"
+  },
+  {
+    "id": "Gear_JumpJet_Generic_Standard.StatusEffect-JumpAmount.statusEffects1.Details",
+    "content": "最大跳跃推进器量每行走里程"
+  },
+  {
+    "id": "Gear_JumpJet_Generic_Standard.StatusEffect-JumpHeat.statusEffects0.Name",
+    "content": "跳跃推进器热量"
+  },
+  {
+    "id": "Gear_JumpJet_Generic_Standard.StatusEffect-JumpAmount.statusEffects1.Name",
+    "content": "跳跃推进器量"
+  },
+  {
+    "id": "Gear_JumpJet_Improved_Assault.Description.Details",
+    "content": "跳跃推进器可控的喷射超热空气来推举机甲越过障碍物.提高了50%重量但增加15%跳跃距离."
+  },
+  {
+    "id": "Gear_JumpJet_Improved_Assault.Description.UIName",
+    "content": "改良跳跃推进器(A)"
+  },
+  {
+    "id": "Gear_JumpJet_Improved_Assault.Description.Name",
+    "content": "改良跳跃推进器(A)"
+  },
+  {
+    "id": "Gear_JumpJet_Improved_Assault.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Gear_JumpJet_Improved_Assault.StatusEffect-JumpHeat.statusEffects0.Details",
+    "content": "这个跳跃推进器每格产热"
+  },
+  {
+    "id": "Gear_JumpJet_Improved_Assault.StatusEffect-JumpAmount.statusEffects1.Details",
+    "content": "最大跳跃推进器量每行走里程"
+  },
+  {
+    "id": "Gear_JumpJet_Improved_Assault.StatusEffect-JumpHeat.statusEffects0.Name",
+    "content": "跳跃推进器热量"
+  },
+  {
+    "id": "Gear_JumpJet_Improved_Assault.StatusEffect-JumpAmount.statusEffects1.Name",
+    "content": "跳跃推进器量"
+  },
+  {
+    "id": "Gear_JumpJet_Improved_Heavy.Description.Details",
+    "content": "跳跃推进器可控的喷射超热空气来推举机甲越过障碍物.提高了50%重量但增加15%跳跃距离."
+  },
+  {
+    "id": "Gear_JumpJet_Improved_Heavy.Description.UIName",
+    "content": "改良跳跃推进器(H)"
+  },
+  {
+    "id": "Gear_JumpJet_Improved_Heavy.Description.Name",
+    "content": "改良跳跃推进器(H)"
+  },
+  {
+    "id": "Gear_JumpJet_Improved_Heavy.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Gear_JumpJet_Improved_Heavy.StatusEffect-JumpHeat.statusEffects0.Details",
+    "content": "这个跳跃推进器每格产热"
+  },
+  {
+    "id": "Gear_JumpJet_Improved_Heavy.StatusEffect-JumpAmount.statusEffects1.Details",
+    "content": "最大跳跃推进器量每行走里程"
+  },
+  {
+    "id": "Gear_JumpJet_Improved_Heavy.StatusEffect-JumpHeat.statusEffects0.Name",
+    "content": "跳跃推进器热量"
+  },
+  {
+    "id": "Gear_JumpJet_Improved_Heavy.StatusEffect-JumpAmount.statusEffects1.Name",
+    "content": "跳跃推进器量"
+  },
+  {
+    "id": "Gear_JumpJet_Improved_Quad_FrontLeg_Assault.Description.Details",
+    "content": "跳跃推进器可控的喷射超热空气来推举机甲越过障碍物.提高了50%重量但增加15%跳跃距离."
+  },
+  {
+    "id": "Gear_JumpJet_Improved_Quad_FrontLeg_Assault.Description.UIName",
+    "content": "改良四足跳跃推进器(A)"
+  },
+  {
+    "id": "Gear_JumpJet_Improved_Quad_FrontLeg_Assault.Description.Name",
+    "content": "改良四足跳跃推进器(A)"
+  },
+  {
+    "id": "Gear_JumpJet_Improved_Quad_FrontLeg_Assault.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Gear_JumpJet_Improved_Quad_FrontLeg_Assault.StatusEffect-JumpHeat.statusEffects0.Details",
+    "content": "这个跳跃推进器每格产热"
+  },
+  {
+    "id": "Gear_JumpJet_Improved_Quad_FrontLeg_Assault.StatusEffect-JumpAmount.statusEffects1.Details",
+    "content": "最大跳跃推进器量每行走里程"
+  },
+  {
+    "id": "Gear_JumpJet_Improved_Quad_FrontLeg_Assault.StatusEffect-JumpHeat.statusEffects0.Name",
+    "content": "跳跃推进器热量"
+  },
+  {
+    "id": "Gear_JumpJet_Improved_Quad_FrontLeg_Assault.StatusEffect-JumpAmount.statusEffects1.Name",
+    "content": "跳跃推进器量"
+  },
+  {
+    "id": "Gear_JumpJet_Improved_Quad_FrontLeg_Heavy.Description.Details",
+    "content": "跳跃推进器可控的喷射超热空气来推举机甲越过障碍物.提高了50%重量但增加15%跳跃距离."
+  },
+  {
+    "id": "Gear_JumpJet_Improved_Quad_FrontLeg_Heavy.Description.UIName",
+    "content": "改良四足跳跃推进器(H)"
+  },
+  {
+    "id": "Gear_JumpJet_Improved_Quad_FrontLeg_Heavy.Description.Name",
+    "content": "改良四足跳跃推进器(H)"
+  },
+  {
+    "id": "Gear_JumpJet_Improved_Quad_FrontLeg_Heavy.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Gear_JumpJet_Improved_Quad_FrontLeg_Heavy.StatusEffect-JumpHeat.statusEffects0.Details",
+    "content": "这个跳跃推进器每格产热"
+  },
+  {
+    "id": "Gear_JumpJet_Improved_Quad_FrontLeg_Heavy.StatusEffect-JumpAmount.statusEffects1.Details",
+    "content": "最大跳跃推进器量每行走里程"
+  },
+  {
+    "id": "Gear_JumpJet_Improved_Quad_FrontLeg_Heavy.StatusEffect-JumpHeat.statusEffects0.Name",
+    "content": "跳跃推进器热量"
+  },
+  {
+    "id": "Gear_JumpJet_Improved_Quad_FrontLeg_Heavy.StatusEffect-JumpAmount.statusEffects1.Name",
+    "content": "跳跃推进器量"
+  },
+  {
+    "id": "Gear_JumpJet_Improved_Quad_FrontLeg_Standard.Description.Details",
+    "content": "跳跃推进器可控的喷射超热空气来推举机甲越过障碍物.提高了50%重量但增加15%跳跃距离."
+  },
+  {
+    "id": "Gear_JumpJet_Improved_Quad_FrontLeg_Standard.Description.UIName",
+    "content": "改良四足跳跃推进器(S)"
+  },
+  {
+    "id": "Gear_JumpJet_Improved_Quad_FrontLeg_Standard.Description.Name",
+    "content": "改良四足跳跃推进器(S)"
+  },
+  {
+    "id": "Gear_JumpJet_Improved_Quad_FrontLeg_Standard.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Gear_JumpJet_Improved_Quad_FrontLeg_Standard.StatusEffect-JumpHeat.statusEffects0.Details",
+    "content": "这个跳跃推进器每格产热"
+  },
+  {
+    "id": "Gear_JumpJet_Improved_Quad_FrontLeg_Standard.StatusEffect-JumpAmount.statusEffects1.Details",
+    "content": "最大跳跃推进器量每行走里程"
+  },
+  {
+    "id": "Gear_JumpJet_Improved_Quad_FrontLeg_Standard.StatusEffect-JumpHeat.statusEffects0.Name",
+    "content": "跳跃推进器热量"
+  },
+  {
+    "id": "Gear_JumpJet_Improved_Quad_FrontLeg_Standard.StatusEffect-JumpAmount.statusEffects1.Name",
+    "content": "跳跃推进器量"
+  },
+  {
+    "id": "Gear_JumpJet_Improved_Standard.Description.Details",
+    "content": "跳跃推进器可控的喷射超热空气来推举机甲越过障碍物.提高了50%重量但增加15%跳跃距离."
+  },
+  {
+    "id": "Gear_JumpJet_Improved_Standard.Description.UIName",
+    "content": "改良跳跃推进器(S)"
+  },
+  {
+    "id": "Gear_JumpJet_Improved_Standard.Description.Name",
+    "content": "改良跳跃推进器(S)"
+  },
+  {
+    "id": "Gear_JumpJet_Improved_Standard.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Gear_JumpJet_Improved_Standard.StatusEffect-JumpHeat.statusEffects0.Details",
+    "content": "这个跳跃推进器每格产热"
+  },
+  {
+    "id": "Gear_JumpJet_Improved_Standard.StatusEffect-JumpAmount.statusEffects1.Details",
+    "content": "最大跳跃推进器量每行走里程"
+  },
+  {
+    "id": "Gear_JumpJet_Improved_Standard.StatusEffect-JumpHeat.statusEffects0.Name",
+    "content": "跳跃推进器热量"
+  },
+  {
+    "id": "Gear_JumpJet_Improved_Standard.StatusEffect-JumpAmount.statusEffects1.Name",
+    "content": "跳跃推进器量"
+  },
+  {
+    "id": "Gear_JumpJet_Quad_FrontLeg_Assault.Description.Details",
+    "content": "四足机甲专用跳跃推进器"
+  },
+  {
+    "id": "Gear_JumpJet_Quad_FrontLeg_Assault.Description.UIName",
+    "content": "四足腿部跳跃推进器(A)"
+  },
+  {
+    "id": "Gear_JumpJet_Quad_FrontLeg_Assault.Description.Name",
+    "content": "四足腿部跳跃推进器(A)"
+  },
+  {
+    "id": "Gear_JumpJet_Quad_FrontLeg_Assault.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Gear_JumpJet_Quad_FrontLeg_Assault.StatusEffect-JumpHeat.statusEffects0.Details",
+    "content": "这个跳跃推进器每格产热"
+  },
+  {
+    "id": "Gear_JumpJet_Quad_FrontLeg_Assault.StatusEffect-JumpAmount.statusEffects1.Details",
+    "content": "最大跳跃推进器量每行走里程"
+  },
+  {
+    "id": "Gear_JumpJet_Quad_FrontLeg_Assault.StatusEffect-JumpHeat.statusEffects0.Name",
+    "content": "跳跃推进器热量"
+  },
+  {
+    "id": "Gear_JumpJet_Quad_FrontLeg_Assault.StatusEffect-JumpAmount.statusEffects1.Name",
+    "content": "跳跃推进器量"
+  },
+  {
+    "id": "Gear_JumpJet_Quad_FrontLeg_Heavy.Description.Details",
+    "content": "四足机甲专用跳跃推进器"
+  },
+  {
+    "id": "Gear_JumpJet_Quad_FrontLeg_Heavy.Description.UIName",
+    "content": "四足腿部跳跃推进器(H)"
+  },
+  {
+    "id": "Gear_JumpJet_Quad_FrontLeg_Heavy.Description.Name",
+    "content": "四足腿部跳跃推进器(H)"
+  },
+  {
+    "id": "Gear_JumpJet_Quad_FrontLeg_Heavy.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Gear_JumpJet_Quad_FrontLeg_Heavy.StatusEffect-JumpHeat.statusEffects0.Details",
+    "content": "这个跳跃推进器每格产热"
+  },
+  {
+    "id": "Gear_JumpJet_Quad_FrontLeg_Heavy.StatusEffect-JumpAmount.statusEffects1.Details",
+    "content": "最大跳跃推进器量每行走里程"
+  },
+  {
+    "id": "Gear_JumpJet_Quad_FrontLeg_Heavy.StatusEffect-JumpHeat.statusEffects0.Name",
+    "content": "跳跃推进器热量"
+  },
+  {
+    "id": "Gear_JumpJet_Quad_FrontLeg_Heavy.StatusEffect-JumpAmount.statusEffects1.Name",
+    "content": "跳跃推进器量"
+  },
+  {
+    "id": "Gear_JumpJet_Quad_FrontLeg_Standard.Description.Details",
+    "content": "四足机甲专用跳跃推进器"
+  },
+  {
+    "id": "Gear_JumpJet_Quad_FrontLeg_Standard.Description.UIName",
+    "content": "四足腿部跳跃推进器(s)"
+  },
+  {
+    "id": "Gear_JumpJet_Quad_FrontLeg_Standard.Description.Name",
+    "content": "四足腿部跳跃推进器(s)"
+  },
+  {
+    "id": "Gear_JumpJet_Quad_FrontLeg_Standard.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Gear_JumpJet_Quad_FrontLeg_Standard.StatusEffect-JumpHeat.statusEffects0.Details",
+    "content": "这个跳跃推进器每格产热"
+  },
+  {
+    "id": "Gear_JumpJet_Quad_FrontLeg_Standard.StatusEffect-JumpAmount.statusEffects1.Details",
+    "content": "最大跳跃推进器量每行走里程"
+  },
+  {
+    "id": "Gear_JumpJet_Quad_FrontLeg_Standard.StatusEffect-JumpHeat.statusEffects0.Name",
+    "content": "跳跃推进器热量"
+  },
+  {
+    "id": "Gear_JumpJet_Quad_FrontLeg_Standard.StatusEffect-JumpAmount.statusEffects1.Name",
+    "content": "跳跃推进器量"
+  },
+  {
+    "id": "Gear_JumpJet_Superheavy.Description.Details",
+    "content": "这个跳跃推进器是直接从一艘登陆舰上撕下来的,安装在一个超重底盘上.它会提升一切,如果你向上帝祈祷,他有可能会让你站立着陆.需要安装在有喷气助推器."
+  },
+  {
+    "id": "Gear_JumpJet_Superheavy.Description.UIName",
+    "content": "跳跃推进器(SH)"
+  },
+  {
+    "id": "Gear_JumpJet_Superheavy.Description.Name",
+    "content": "超重型跳跃推进器(SH)"
+  },
+  {
+    "id": "Gear_JumpJet_Superheavy.Description.Manufacturer",
+    "content": "实验性"
+  },
+  {
+    "id": "Gear_JumpJet_Superheavy.StatusEffect-Jump_Distance-T3.statusEffects0.Details",
+    "content": "偏翼系统提升30%跳跃推进器跳跃的距离."
+  },
+  {
+    "id": "Gear_JumpJet_Superheavy.StatusEffect-Jump_Distance-T3.statusEffects0.Name",
+    "content": "跳跃距离提升"
+  },
+  {
+    "id": "Gear_LegJet_Assault_Lower.Description.Details",
+    "content": "跳跃推进器可控的喷射超热空气来推举机甲越过障碍物.还可以用于执行可怕的\"DFA\"攻击.突击式跳跃推进器专门被设计用于90吨以上的机甲"
+  },
+  {
+    "id": "Gear_LegJet_Assault_Lower.Description.UIName",
+    "content": "腿部跳跃推进器(A)"
+  },
+  {
+    "id": "Gear_LegJet_Assault_Lower.Description.Name",
+    "content": "突击跳跃推进器(A)"
+  },
+  {
+    "id": "Gear_LegJet_Assault_Lower.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Gear_LegJet_Assault_Lower.StatusEffect-JumpHeat.statusEffects0.Details",
+    "content": "这个跳跃推进器每格产热"
+  },
+  {
+    "id": "Gear_LegJet_Assault_Lower.StatusEffect-JumpHeat.statusEffects0.Name",
+    "content": "跳跃推进器热量"
+  },
+  {
+    "id": "Gear_LegJet_Assault_Upper.Description.Details",
+    "content": "跳跃推进器可控的喷射超热空气来推举机甲越过障碍物.还可以用于执行可怕的\"DFA\"攻击.突击式跳跃推进器专门被设计用于90吨以上的机甲"
+  },
+  {
+    "id": "Gear_LegJet_Assault_Upper.Description.UIName",
+    "content": "腿部跳跃推进器(A)"
+  },
+  {
+    "id": "Gear_LegJet_Assault_Upper.Description.Name",
+    "content": "突击跳跃推进器(A)"
+  },
+  {
+    "id": "Gear_LegJet_Assault_Upper.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Gear_LegJet_Assault_Upper.StatusEffect-JumpHeat.statusEffects0.Details",
+    "content": "这个跳跃推进器每格产热"
+  },
+  {
+    "id": "Gear_LegJet_Assault_Upper.StatusEffect-JumpHeat.statusEffects0.Name",
+    "content": "跳跃推进器热量"
+  },
+  {
+    "id": "Gear_LegJet_Heavy_Lower.Description.Details",
+    "content": "跳跃推进器将过热的空气的以可控的方式喷出,以推举机甲越过障碍物.此外它们还可以用于执行可怕的\"DFA\"攻击.重型跳跃推进器专门为60-85吨的机甲设计."
+  },
+  {
+    "id": "Gear_LegJet_Heavy_Lower.Description.UIName",
+    "content": "腿部跳跃推进器(H)"
+  },
+  {
+    "id": "Gear_LegJet_Heavy_Lower.Description.Name",
+    "content": "重型跳跃推进器(H)"
+  },
+  {
+    "id": "Gear_LegJet_Heavy_Lower.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Gear_LegJet_Heavy_Lower.StatusEffect-JumpHeat.statusEffects0.Details",
+    "content": "这个跳跃推进器每格产热"
+  },
+  {
+    "id": "Gear_LegJet_Heavy_Lower.StatusEffect-JumpHeat.statusEffects0.Name",
+    "content": "跳跃推进器热量"
+  },
+  {
+    "id": "Gear_LegJet_Heavy_Upper.Description.Details",
+    "content": "跳跃推进器将过热的空气的以可控的方式喷出,以推举机甲越过障碍物.此外它们还可以用于执行可怕的\"DFA\"攻击.重型跳跃推进器专门为60-85吨的机甲设计."
+  },
+  {
+    "id": "Gear_LegJet_Heavy_Upper.Description.UIName",
+    "content": "腿部跳跃推进器(H)"
+  },
+  {
+    "id": "Gear_LegJet_Heavy_Upper.Description.Name",
+    "content": "重型跳跃推进器(H)"
+  },
+  {
+    "id": "Gear_LegJet_Heavy_Upper.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Gear_LegJet_Heavy_Upper.StatusEffect-JumpHeat.statusEffects0.Details",
+    "content": "这个跳跃推进器每格产热"
+  },
+  {
+    "id": "Gear_LegJet_Heavy_Upper.StatusEffect-JumpHeat.statusEffects0.Name",
+    "content": "跳跃推进器热量"
+  },
+  {
+    "id": "Gear_LegJet_Queen_Lower.Description.Details",
+    "content": "跳跃推进器可控的喷射超热空气来推举机甲越过障碍物.还可以用于执行可怕的\"DFA\"攻击.突击式跳跃推进器专门被设计用于90吨以上的机甲"
+  },
+  {
+    "id": "Gear_LegJet_Queen_Lower.Description.UIName",
+    "content": "腿部跳跃推进器(A)"
+  },
+  {
+    "id": "Gear_LegJet_Queen_Lower.Description.Name",
+    "content": "突击跳跃推进器(A)"
+  },
+  {
+    "id": "Gear_LegJet_Queen_Lower.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Gear_LegJet_Queen_Lower.StatusEffect-JumpHeatQueen.statusEffects0.Details",
+    "content": "这个跳跃推进器每格产热"
+  },
+  {
+    "id": "Gear_LegJet_Queen_Lower.QueenLegWalk.statusEffects1.Details",
+    "content": "更强的近战和更快的速度"
+  },
+  {
+    "id": "Gear_LegJet_Queen_Lower.StatusEffect-Attack_SelfDamageDFA-T1.statusEffects2.Details",
+    "content": "DFA减少10%自伤."
+  },
+  {
+    "id": "Gear_LegJet_Queen_Lower.StatusEffect-JumpHeatQueen.statusEffects0.Name",
+    "content": "跳跃推进器热量"
+  },
+  {
+    "id": "Gear_LegJet_Queen_Lower.QueenLegWalk.statusEffects1.Name",
+    "content": "TSM激活!"
+  },
+  {
+    "id": "Gear_LegJet_Queen_Lower.StatusEffect-Attack_SelfDamageDFA-T1.statusEffects2.Name",
+    "content": "降低DFA自伤"
+  },
+  {
+    "id": "Gear_LegJet_Queen_Upper.Description.Details",
+    "content": "这些跳跃推进器是几乎是一种另类栩栩如生的生长物,女王可以在疯狂跳跃中冲动向任何目标."
+  },
+  {
+    "id": "Gear_LegJet_Queen_Upper.Description.UIName",
+    "content": "女王大腿"
+  },
+  {
+    "id": "Gear_LegJet_Queen_Upper.Description.Name",
+    "content": "女王跳跃推进器"
+  },
+  {
+    "id": "Gear_LegJet_Queen_Upper.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Gear_LegJet_Queen_Upper.StatusEffect-JumpHeatQueen.statusEffects0.Details",
+    "content": "这个跳跃推进器每格产热"
+  },
+  {
+    "id": "Gear_LegJet_Queen_Upper.QueenLegWalk.statusEffects1.Details",
+    "content": "更强的近战和更快的速度"
+  },
+  {
+    "id": "Gear_LegJet_Queen_Upper.StatusEffect-Attack_SelfDamageDFA-T1.statusEffects2.Details",
+    "content": "DFA减少10%自伤."
+  },
+  {
+    "id": "Gear_LegJet_Queen_Upper.StatusEffect-JumpHeatQueen.statusEffects0.Name",
+    "content": "跳跃推进器热量"
+  },
+  {
+    "id": "Gear_LegJet_Queen_Upper.QueenLegWalk.statusEffects1.Name",
+    "content": "TSM激活!"
+  },
+  {
+    "id": "Gear_LegJet_Queen_Upper.StatusEffect-Attack_SelfDamageDFA-T1.statusEffects2.Name",
+    "content": "降低DFA自伤"
+  },
+  {
+    "id": "Gear_LegJet_Standard_Lower.Description.Details",
+    "content": "跳跃推进器可控的喷射超热空气来推举机甲越过障碍物.还可以用于执行可怕的\"DFA\"攻击.突击式跳跃推进器专门被设计用于最高55吨上的机甲"
+  },
+  {
+    "id": "Gear_LegJet_Standard_Lower.Description.UIName",
+    "content": "腿部跳跃推进器(S)"
+  },
+  {
+    "id": "Gear_LegJet_Standard_Lower.Description.Name",
+    "content": "标准跳跃推进器(S)"
+  },
+  {
+    "id": "Gear_LegJet_Standard_Lower.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Gear_LegJet_Standard_Lower.StatusEffect-JumpHeat.statusEffects0.Details",
+    "content": "这个跳跃推进器每格产热"
+  },
+  {
+    "id": "Gear_LegJet_Standard_Lower.StatusEffect-JumpHeat.statusEffects0.Name",
+    "content": "跳跃推进器热量"
+  },
+  {
+    "id": "Gear_LegJet_Standard_Upper.Description.Details",
+    "content": "跳跃推进器可控的喷射超热空气来推举机甲越过障碍物.还可以用于执行可怕的\"DFA\"攻击.突击式跳跃推进器专门被设计用于最高55吨上的机甲"
+  },
+  {
+    "id": "Gear_LegJet_Standard_Upper.Description.UIName",
+    "content": "腿部跳跃推进器(S)"
+  },
+  {
+    "id": "Gear_LegJet_Standard_Upper.Description.Name",
+    "content": "标准跳跃推进器(S)"
+  },
+  {
+    "id": "Gear_LegJet_Standard_Upper.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Gear_LegJet_Standard_Upper.StatusEffect-JumpHeat.statusEffects0.Details",
+    "content": "这个跳跃推进器每格产热"
+  },
+  {
+    "id": "Gear_LegJet_Standard_Upper.StatusEffect-JumpHeat.statusEffects0.Name",
+    "content": "跳跃推进器热量"
+  }
+]

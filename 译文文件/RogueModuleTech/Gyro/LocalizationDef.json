@@ -1,0 +1,978 @@
+[
+  {
+    "id": "Gear_Gyro_Artillery.Description.Details",
+    "content": "陀螺仪抵消了机甲引擎产生的大量动量,并允许精确机动并从稳定性攻击中恢复.所有机甲都配置了陀螺仪,可以升级以提高性能."
+  },
+  {
+    "id": "Gear_Gyro_Artillery.Description.UIName",
+    "content": "火炮陀螺仪"
+  },
+  {
+    "id": "Gear_Gyro_Artillery.Description.Name",
+    "content": "火炮陀螺仪"
+  },
+  {
+    "id": "Gear_Gyro_Artillery.GyroGenericThreshhold.statusEffects0.Details",
+    "content": "陀螺仪有助于机甲稳定重心"
+  },
+  {
+    "id": "Gear_Gyro_Artillery.StatusEffect_ArtyGyro.statusEffects1.Details",
+    "content": "火炮陀螺仪"
+  },
+  {
+    "id": "Gear_Gyro_Artillery.BracetoFire Reduction Special Stable.statusEffects2.Details",
+    "content": "慷慨激昂"
+  },
+  {
+    "id": "Gear_Gyro_Artillery.GyroGenericThreshhold.statusEffects0.Name",
+    "content": "陀螺仪稳定器"
+  },
+  {
+    "id": "Gear_Gyro_Artillery.StatusEffect_ArtyGyro.statusEffects1.Name",
+    "content": "提升弹道武器命中率"
+  },
+  {
+    "id": "Gear_Gyro_Artillery.BracetoFire Reduction Special Stable.statusEffects2.Name",
+    "content": "降低开火时摔倒机率"
+  },
+  {
+    "id": "Gear_Gyro_Compact.Description.Details",
+    "content": "紧凑型陀螺仪由密度更高但更紧凑的材料和部件制成,以重量的增加换取设备体积的减半. 其主要目的是通过减小尺寸来降低穿甲攻击(TAC)损坏重要部件的可能,与聚变发动机类似,它还具有释放机甲紧张的核心躯干空间的好处. "
+  },
+  {
+    "id": "Gear_Gyro_Compact.Description.UIName",
+    "content": "紧凑陀螺仪"
+  },
+  {
+    "id": "Gear_Gyro_Compact.Description.Name",
+    "content": "紧凑陀螺仪"
+  },
+  {
+    "id": "Gear_Gyro_Compact.CompactGyro.statusEffects0.Details",
+    "content": "稳定阈值增加到60"
+  },
+  {
+    "id": "Gear_Gyro_Compact.CompactGyro.statusEffects0.Name",
+    "content": "更稳定的机甲"
+  },
+  {
+    "id": "Gear_Gyro_Coventry_Mark-75.Description.Details",
+    "content": "陀螺仪抵消了机甲引擎产生的大量动量,并允许精确机动并从稳定性攻击中恢复.所有机甲都配置了陀螺仪,可以升级以提高性能."
+  },
+  {
+    "id": "Gear_Gyro_Coventry_Mark-75.Description.UIName",
+    "content": "近战陀螺仪"
+  },
+  {
+    "id": "Gear_Gyro_Coventry_Mark-75.Description.Name",
+    "content": "考文垂MK75陀螺仪"
+  },
+  {
+    "id": "Gear_Gyro_Coventry_Mark-75.FCS_MeleeAccuracy.statusEffects0.Details",
+    "content": "近战武器精度修正"
+  },
+  {
+    "id": "Gear_Gyro_Coventry_Mark-75.FCS_MeleeAccuracy.statusEffects1.Details",
+    "content": "近战武器精度修正"
+  },
+  {
+    "id": "Gear_Gyro_Coventry_Mark-75.FCS_MeleeAccuracy.statusEffects2.Details",
+    "content": "近战武器精度修正"
+  },
+  {
+    "id": "Gear_Gyro_Coventry_Mark-75.FCS_MeleeAccuracy.statusEffects3.Details",
+    "content": "近战武器精度修正"
+  },
+  {
+    "id": "Gear_Gyro_Coventry_Mark-75.GyroGenericThreshhold.statusEffects4.Details",
+    "content": "陀螺仪有助于机甲稳定重心"
+  },
+  {
+    "id": "Gear_Gyro_Coventry_Mark-75.FCS_MeleeAccuracy.statusEffects0.Name",
+    "content": "近战武器精度修正"
+  },
+  {
+    "id": "Gear_Gyro_Coventry_Mark-75.FCS_MeleeAccuracy.statusEffects1.Name",
+    "content": "近战武器精度修正"
+  },
+  {
+    "id": "Gear_Gyro_Coventry_Mark-75.FCS_MeleeAccuracy.statusEffects2.Name",
+    "content": "近战武器精度修正"
+  },
+  {
+    "id": "Gear_Gyro_Coventry_Mark-75.FCS_MeleeAccuracy.statusEffects3.Name",
+    "content": "近战武器精度修正"
+  },
+  {
+    "id": "Gear_Gyro_Coventry_Mark-75.GyroGenericThreshhold.statusEffects4.Name",
+    "content": "陀螺仪稳定器"
+  },
+  {
+    "id": "Gear_Gyro_Coventry_Mark-85.Description.Details",
+    "content": "陀螺仪抵消了机甲引擎产生的大量动量,并允许精确机动并从稳定性攻击中恢复.所有机甲都配置了陀螺仪,可以升级以提高性能."
+  },
+  {
+    "id": "Gear_Gyro_Coventry_Mark-85.Description.UIName",
+    "content": "近战陀螺仪 +"
+  },
+  {
+    "id": "Gear_Gyro_Coventry_Mark-85.Description.Name",
+    "content": "考文垂MK85陀螺仪"
+  },
+  {
+    "id": "Gear_Gyro_Coventry_Mark-85.GyroMeleeDef.statusEffects0.Details",
+    "content": "守护者ECM让这个单位更难被命中"
+  },
+  {
+    "id": "Gear_Gyro_Coventry_Mark-85.FCS_MeleeAccuracy.statusEffects1.Details",
+    "content": "近战武器精度修正"
+  },
+  {
+    "id": "Gear_Gyro_Coventry_Mark-85.FCS_MeleeAccuracy.statusEffects2.Details",
+    "content": "近战武器精度修正"
+  },
+  {
+    "id": "Gear_Gyro_Coventry_Mark-85.FCS_MeleeAccuracy.statusEffects3.Details",
+    "content": "近战武器精度修正"
+  },
+  {
+    "id": "Gear_Gyro_Coventry_Mark-85.FCS_MeleeAccuracy.statusEffects4.Details",
+    "content": "近战武器精度修正"
+  },
+  {
+    "id": "Gear_Gyro_Coventry_Mark-85.GyroGenericThreshhold.statusEffects5.Details",
+    "content": "陀螺仪有助于机甲稳定重心"
+  },
+  {
+    "id": "Gear_Gyro_Coventry_Mark-85.GyroMeleeDef.statusEffects0.Name",
+    "content": "GECM干扰"
+  },
+  {
+    "id": "Gear_Gyro_Coventry_Mark-85.FCS_MeleeAccuracy.statusEffects1.Name",
+    "content": "近战武器精度修正"
+  },
+  {
+    "id": "Gear_Gyro_Coventry_Mark-85.FCS_MeleeAccuracy.statusEffects2.Name",
+    "content": "近战武器精度修正"
+  },
+  {
+    "id": "Gear_Gyro_Coventry_Mark-85.FCS_MeleeAccuracy.statusEffects3.Name",
+    "content": "近战武器精度修正"
+  },
+  {
+    "id": "Gear_Gyro_Coventry_Mark-85.FCS_MeleeAccuracy.statusEffects4.Name",
+    "content": "近战武器精度修正"
+  },
+  {
+    "id": "Gear_Gyro_Coventry_Mark-85.GyroGenericThreshhold.statusEffects5.Name",
+    "content": "陀螺仪稳定器"
+  },
+  {
+    "id": "Gear_Gyro_Coventry_Mark-95.Description.Details",
+    "content": "陀螺仪抵消了机甲引擎产生的大量动量,并允许精确机动并从稳定性攻击中恢复.所有机甲都配置了陀螺仪,可以升级以提高性能."
+  },
+  {
+    "id": "Gear_Gyro_Coventry_Mark-95.Description.UIName",
+    "content": "近战陀螺仪 + +"
+  },
+  {
+    "id": "Gear_Gyro_Coventry_Mark-95.Description.Name",
+    "content": "考文垂MK95陀螺仪"
+  },
+  {
+    "id": "Gear_Gyro_Coventry_Mark-95.MeleeResistPunch.statusEffects0.Details",
+    "content": "降低即将到来的近战伤害和额外近战伤害."
+  },
+  {
+    "id": "Gear_Gyro_Coventry_Mark-95.MeleeResistPunchStab.statusEffects1.Details",
+    "content": "降低即将到来的近战伤害和额外近战伤害."
+  },
+  {
+    "id": "Gear_Gyro_Coventry_Mark-95.MeleeResistKick.statusEffects2.Details",
+    "content": "降低即将到来的近战伤害和额外近战伤害."
+  },
+  {
+    "id": "Gear_Gyro_Coventry_Mark-95.MeleeResistKickStab.statusEffects3.Details",
+    "content": "降低即将到来的近战伤害和额外近战伤害."
+  },
+  {
+    "id": "Gear_Gyro_Coventry_Mark-95.MeleeResistPhysDmg.statusEffects4.Details",
+    "content": "降低即将到来的近战伤害和额外近战伤害."
+  },
+  {
+    "id": "Gear_Gyro_Coventry_Mark-95.MeleeResistPhysStab.statusEffects5.Details",
+    "content": "降低即将到来的近战伤害和额外近战伤害."
+  },
+  {
+    "id": "Gear_Gyro_Coventry_Mark-95.MeleeResist.statusEffects6.Details",
+    "content": "降低即将到来的近战伤害和额外近战伤害."
+  },
+  {
+    "id": "Gear_Gyro_Coventry_Mark-95.MeleeResistChargeStab.statusEffects7.Details",
+    "content": "降低即将到来的近战伤害和额外近战伤害."
+  },
+  {
+    "id": "Gear_Gyro_Coventry_Mark-95.MeleeResistDFA.statusEffects8.Details",
+    "content": "降低即将到来的近战伤害和额外近战伤害."
+  },
+  {
+    "id": "Gear_Gyro_Coventry_Mark-95.MeleeResistDFAStab.statusEffects9.Details",
+    "content": "降低即将到来的近战伤害和额外近战伤害."
+  },
+  {
+    "id": "Gear_Gyro_Coventry_Mark-95.GyroMeleeDef.statusEffects10.Details",
+    "content": "守护者ECM让这个单位更难被命中"
+  },
+  {
+    "id": "Gear_Gyro_Coventry_Mark-95.GyroGenericThreshhold.statusEffects11.Details",
+    "content": "陀螺仪有助于机甲稳定重心"
+  },
+  {
+    "id": "Gear_Gyro_Coventry_Mark-95.FCS_MeleeAccuracy.statusEffects12.Details",
+    "content": "近战武器精度修正"
+  },
+  {
+    "id": "Gear_Gyro_Coventry_Mark-95.FCS_MeleeAccuracy.statusEffects13.Details",
+    "content": "近战武器精度修正"
+  },
+  {
+    "id": "Gear_Gyro_Coventry_Mark-95.FCS_MeleeAccuracy.statusEffects14.Details",
+    "content": "近战武器精度修正"
+  },
+  {
+    "id": "Gear_Gyro_Coventry_Mark-95.FCS_MeleeAccuracy.statusEffects15.Details",
+    "content": "近战武器精度修正"
+  },
+  {
+    "id": "Gear_Gyro_Coventry_Mark-95.FCS_MeleeAccuracy.statusEffects16.Details",
+    "content": "近战武器精度修正"
+  },
+  {
+    "id": "Gear_Gyro_Coventry_Mark-95.MeleeResistPunch.statusEffects0.Name",
+    "content": "近战击打抵抗"
+  },
+  {
+    "id": "Gear_Gyro_Coventry_Mark-95.MeleeResistPunchStab.statusEffects1.Name",
+    "content": "近战击打稳定伤害抵抗"
+  },
+  {
+    "id": "Gear_Gyro_Coventry_Mark-95.MeleeResistKick.statusEffects2.Name",
+    "content": "近战撞击伤害抵抗"
+  },
+  {
+    "id": "Gear_Gyro_Coventry_Mark-95.MeleeResistKickStab.statusEffects3.Name",
+    "content": "近战踢击稳定伤害抵抗"
+  },
+  {
+    "id": "Gear_Gyro_Coventry_Mark-95.MeleeResistPhysDmg.statusEffects4.Name",
+    "content": "近战实体武器抵抗"
+  },
+  {
+    "id": "Gear_Gyro_Coventry_Mark-95.MeleeResistPhysStab.statusEffects5.Name",
+    "content": "近战实体武器稳定伤害抵抗"
+  },
+  {
+    "id": "Gear_Gyro_Coventry_Mark-95.MeleeResist.statusEffects6.Name",
+    "content": "近战撞击伤害抵抗"
+  },
+  {
+    "id": "Gear_Gyro_Coventry_Mark-95.MeleeResistChargeStab.statusEffects7.Name",
+    "content": "近战撞击稳定伤害抵抗"
+  },
+  {
+    "id": "Gear_Gyro_Coventry_Mark-95.MeleeResistDFA.statusEffects8.Name",
+    "content": "近战DFA抵抗"
+  },
+  {
+    "id": "Gear_Gyro_Coventry_Mark-95.MeleeResistDFAStab.statusEffects9.Name",
+    "content": "近战DFA稳定抵抗"
+  },
+  {
+    "id": "Gear_Gyro_Coventry_Mark-95.GyroMeleeDef.statusEffects10.Name",
+    "content": "GECM干扰"
+  },
+  {
+    "id": "Gear_Gyro_Coventry_Mark-95.GyroGenericThreshhold.statusEffects11.Name",
+    "content": "陀螺仪稳定器"
+  },
+  {
+    "id": "Gear_Gyro_Coventry_Mark-95.FCS_MeleeAccuracy.statusEffects12.Name",
+    "content": "近战武器精度修正"
+  },
+  {
+    "id": "Gear_Gyro_Coventry_Mark-95.FCS_MeleeAccuracy.statusEffects13.Name",
+    "content": "近战武器精度修正"
+  },
+  {
+    "id": "Gear_Gyro_Coventry_Mark-95.FCS_MeleeAccuracy.statusEffects14.Name",
+    "content": "近战武器精度修正"
+  },
+  {
+    "id": "Gear_Gyro_Coventry_Mark-95.FCS_MeleeAccuracy.statusEffects15.Name",
+    "content": "近战武器精度修正"
+  },
+  {
+    "id": "Gear_Gyro_Coventry_Mark-95.FCS_MeleeAccuracy.statusEffects16.Name",
+    "content": "近战武器精度修正"
+  },
+  {
+    "id": "Gear_Gyro_Friedhof_Kite.Description.Details",
+    "content": "陀螺仪抵消了机甲引擎产生的大量动量,并允许精确机动并从稳定性攻击中恢复.所有机甲都配置了陀螺仪,可以升级以提高性能."
+  },
+  {
+    "id": "Gear_Gyro_Friedhof_Kite.Description.UIName",
+    "content": "陀螺仪防御 +"
+  },
+  {
+    "id": "Gear_Gyro_Friedhof_Kite.Description.Name",
+    "content": "墓地鸢陀螺仪"
+  },
+  {
+    "id": "Gear_Gyro_Friedhof_Kite.GainEvasion.statusEffects0.Details",
+    "content": "该单位从移动中获得额外的闪避(直到最大值)."
+  },
+  {
+    "id": "Gear_Gyro_Friedhof_Kite.StatusEffect-Defense_ToHit-T2.statusEffects1.Details",
+    "content": "对该单位的所有攻击提供惩罚."
+  },
+  {
+    "id": "Gear_Gyro_Friedhof_Kite.GyroGenericThreshhold.statusEffects2.Details",
+    "content": "陀螺仪有助于机甲稳定重心"
+  },
+  {
+    "id": "Gear_Gyro_Friedhof_Kite.GainEvasion.statusEffects0.Name",
+    "content": "闪避机动"
+  },
+  {
+    "id": "Gear_Gyro_Friedhof_Kite.StatusEffect-Defense_ToHit-T2.statusEffects1.Name",
+    "content": "更难命中"
+  },
+  {
+    "id": "Gear_Gyro_Friedhof_Kite.GyroGenericThreshhold.statusEffects2.Name",
+    "content": "陀螺仪稳定器"
+  },
+  {
+    "id": "Gear_Gyro_Friedhof_Osprey.Description.Details",
+    "content": "陀螺仪抵消了机甲引擎产生的大量动量,并允许精确机动并从稳定性攻击中恢复.所有机甲都配置了陀螺仪,可以升级以提高性能."
+  },
+  {
+    "id": "Gear_Gyro_Friedhof_Osprey.Description.UIName",
+    "content": "陀螺仪防御"
+  },
+  {
+    "id": "Gear_Gyro_Friedhof_Osprey.Description.Name",
+    "content": "墓地鱼鹰陀螺仪"
+  },
+  {
+    "id": "Gear_Gyro_Friedhof_Osprey.StatusEffect-Defense_ToHit-T1.statusEffects0.Details",
+    "content": "对该单位的所有攻击提供惩罚."
+  },
+  {
+    "id": "Gear_Gyro_Friedhof_Osprey.GyroGenericThreshhold.statusEffects1.Details",
+    "content": "陀螺仪有助于机甲稳定重心"
+  },
+  {
+    "id": "Gear_Gyro_Friedhof_Osprey.StatusEffect-Defense_ToHit-T1.statusEffects0.Name",
+    "content": "更难命中"
+  },
+  {
+    "id": "Gear_Gyro_Friedhof_Osprey.GyroGenericThreshhold.statusEffects1.Name",
+    "content": "陀螺仪稳定器"
+  },
+  {
+    "id": "Gear_Gyro_Friedhof_Sparrow.Description.Details",
+    "content": "陀螺仪抵消了机甲引擎产生的大量动量,并允许精确机动并从稳定性攻击中恢复.所有机甲都配置了陀螺仪,可以升级以提高性能."
+  },
+  {
+    "id": "Gear_Gyro_Friedhof_Sparrow.Description.UIName",
+    "content": "陀螺仪防御 + +"
+  },
+  {
+    "id": "Gear_Gyro_Friedhof_Sparrow.Description.Name",
+    "content": "墓地麻雀陀螺仪"
+  },
+  {
+    "id": "Gear_Gyro_Friedhof_Sparrow.MaxEvasion.statusEffects0.Details",
+    "content": "该单位从移动中获得额外的闪避(直到最大值)."
+  },
+  {
+    "id": "Gear_Gyro_Friedhof_Sparrow.GainEvasion.statusEffects1.Details",
+    "content": "该单位从移动中获得额外的闪避(直到最大值)."
+  },
+  {
+    "id": "Gear_Gyro_Friedhof_Sparrow.StatusEffect-Defense_ToHit-T3.statusEffects2.Details",
+    "content": "对该单位的所有攻击提供惩罚."
+  },
+  {
+    "id": "Gear_Gyro_Friedhof_Sparrow.GyroGenericThreshhold.statusEffects3.Details",
+    "content": "陀螺仪有助于机甲稳定重心"
+  },
+  {
+    "id": "Gear_Gyro_Friedhof_Sparrow.MaxEvasion.statusEffects0.Name",
+    "content": "闪避机动"
+  },
+  {
+    "id": "Gear_Gyro_Friedhof_Sparrow.GainEvasion.statusEffects1.Name",
+    "content": "闪避机动"
+  },
+  {
+    "id": "Gear_Gyro_Friedhof_Sparrow.StatusEffect-Defense_ToHit-T3.statusEffects2.Name",
+    "content": "更难命中"
+  },
+  {
+    "id": "Gear_Gyro_Friedhof_Sparrow.GyroGenericThreshhold.statusEffects3.Name",
+    "content": "陀螺仪稳定器"
+  },
+  {
+    "id": "Gear_Gyro_HeavyDuty.Description.Details",
+    "content": "武士重型陀螺仪比标准提供了更高稳定性,但代价是一些重量."
+  },
+  {
+    "id": "Gear_Gyro_HeavyDuty.Description.UIName",
+    "content": "重型陀螺仪"
+  },
+  {
+    "id": "Gear_Gyro_HeavyDuty.Description.Name",
+    "content": "武士重型陀螺仪"
+  },
+  {
+    "id": "Gear_Gyro_HeavyDuty.GyroSureFoot.statusEffects0.Details",
+    "content": "被动:该单位从剩余的稳定中获得<<警戒>>(减免50%从侧面和前面的远程攻击伤害).提升10%近战伤害."
+  },
+  {
+    "id": "Gear_Gyro_HeavyDuty.SamuraiStabDamageBuff.statusEffects1.Details",
+    "content": "-[AMT]即将到来的稳定伤害"
+  },
+  {
+    "id": "Gear_Gyro_HeavyDuty.HD Gyro.statusEffects2.Details",
+    "content": "提供70稳定并且-20%受到的稳定伤害."
+  },
+  {
+    "id": "Gear_Gyro_HeavyDuty.BracetoFire Reduction Special Stable.statusEffects3.Details",
+    "content": "慷慨激昂"
+  },
+  {
+    "id": "Gear_Gyro_HeavyDuty.GyroSureFoot.statusEffects0.Name",
+    "content": "堡垒"
+  },
+  {
+    "id": "Gear_Gyro_HeavyDuty.SamuraiStabDamageBuff.statusEffects1.Name",
+    "content": "降低即将到来的稳定伤害"
+  },
+  {
+    "id": "Gear_Gyro_HeavyDuty.HD Gyro.statusEffects2.Name",
+    "content": "武士"
+  },
+  {
+    "id": "Gear_Gyro_HeavyDuty.BracetoFire Reduction Special Stable.statusEffects3.Name",
+    "content": "降低开火时摔倒机率"
+  },
+  {
+    "id": "Gear_Gyro_Rawlings_StabiliTrak-10.Description.Details",
+    "content": "陀螺仪抵消了机甲引擎产生的大量动量,并允许精确机动并从稳定性攻击中恢复.所有机甲都配置了陀螺仪,可以升级以提高性能."
+  },
+  {
+    "id": "Gear_Gyro_Rawlings_StabiliTrak-10.Description.UIName",
+    "content": "陀螺仪稳定 +"
+  },
+  {
+    "id": "Gear_Gyro_Rawlings_StabiliTrak-10.Description.Name",
+    "content": "罗林斯(Rawlings)10稳定器陀螺仪"
+  },
+  {
+    "id": "Gear_Gyro_Rawlings_StabiliTrak-10.GyroSureFoot.statusEffects0.Details",
+    "content": "被动:该单位从剩余的稳定中获得<<警戒>>(减免50%从侧面和前面的远程攻击伤害).提升10%近战伤害."
+  },
+  {
+    "id": "Gear_Gyro_Rawlings_StabiliTrak-10.StatusEffect-Defense_StabilityAll-T2.statusEffects1.Details",
+    "content": "-20%即将到来的稳定伤害."
+  },
+  {
+    "id": "Gear_Gyro_Rawlings_StabiliTrak-10.GyroGenericThreshhold.statusEffects2.Details",
+    "content": "陀螺仪有助于机甲稳定重心"
+  },
+  {
+    "id": "Gear_Gyro_Rawlings_StabiliTrak-10.BracetoFire Reduction Special Stable.statusEffects3.Details",
+    "content": "慷慨激昂"
+  },
+  {
+    "id": "Gear_Gyro_Rawlings_StabiliTrak-10.GyroSureFoot.statusEffects0.Name",
+    "content": "堡垒"
+  },
+  {
+    "id": "Gear_Gyro_Rawlings_StabiliTrak-10.StatusEffect-Defense_StabilityAll-T2.statusEffects1.Name",
+    "content": "降低即将到来的稳定伤害"
+  },
+  {
+    "id": "Gear_Gyro_Rawlings_StabiliTrak-10.GyroGenericThreshhold.statusEffects2.Name",
+    "content": "陀螺仪稳定器"
+  },
+  {
+    "id": "Gear_Gyro_Rawlings_StabiliTrak-10.BracetoFire Reduction Special Stable.statusEffects3.Name",
+    "content": "降低开火时摔倒机率"
+  },
+  {
+    "id": "Gear_Gyro_Rawlings_StabiliTrak-15.Description.Details",
+    "content": "陀螺仪抵消了机甲引擎产生的大量动量,并允许精确机动并从稳定性攻击中恢复.所有机甲都配置了陀螺仪,可以升级以提高性能."
+  },
+  {
+    "id": "Gear_Gyro_Rawlings_StabiliTrak-15.Description.UIName",
+    "content": "陀螺仪稳定 + +"
+  },
+  {
+    "id": "Gear_Gyro_Rawlings_StabiliTrak-15.Description.Name",
+    "content": "罗林斯(Rawlings)15稳定器陀螺仪"
+  },
+  {
+    "id": "Gear_Gyro_Rawlings_StabiliTrak-15.GyroSureFoot.statusEffects0.Details",
+    "content": "被动:该单位从剩余的稳定中获得<<警戒>>(减免50%从侧面和前面的远程攻击伤害).提升10%近战伤害."
+  },
+  {
+    "id": "Gear_Gyro_Rawlings_StabiliTrak-15.StatusEffect-Defense_StabilityAll-T3.statusEffects1.Details",
+    "content": "-30%即将到来的稳定伤害"
+  },
+  {
+    "id": "Gear_Gyro_Rawlings_StabiliTrak-15.GyroGenericThreshhold.statusEffects2.Details",
+    "content": "陀螺仪有助于机甲稳定重心"
+  },
+  {
+    "id": "Gear_Gyro_Rawlings_StabiliTrak-15.BracetoFire Reduction Special Stable.statusEffects3.Details",
+    "content": "慷慨激昂"
+  },
+  {
+    "id": "Gear_Gyro_Rawlings_StabiliTrak-15.GyroSureFoot.statusEffects0.Name",
+    "content": "堡垒"
+  },
+  {
+    "id": "Gear_Gyro_Rawlings_StabiliTrak-15.StatusEffect-Defense_StabilityAll-T3.statusEffects1.Name",
+    "content": "降低即将到来的稳定伤害"
+  },
+  {
+    "id": "Gear_Gyro_Rawlings_StabiliTrak-15.GyroGenericThreshhold.statusEffects2.Name",
+    "content": "陀螺仪稳定器"
+  },
+  {
+    "id": "Gear_Gyro_Rawlings_StabiliTrak-15.BracetoFire Reduction Special Stable.statusEffects3.Name",
+    "content": "降低开火时摔倒机率"
+  },
+  {
+    "id": "Gear_Gyro_Rawlings_StabiliTrak-5.Description.Details",
+    "content": "陀螺仪抵消了机甲引擎产生的大量动量,并允许精确机动并从稳定性攻击中恢复.所有机甲都配置了陀螺仪,可以升级以提高性能."
+  },
+  {
+    "id": "Gear_Gyro_Rawlings_StabiliTrak-5.Description.UIName",
+    "content": "陀螺仪稳定"
+  },
+  {
+    "id": "Gear_Gyro_Rawlings_StabiliTrak-5.Description.Name",
+    "content": "罗林斯(Rawlings)5稳定器陀螺仪"
+  },
+  {
+    "id": "Gear_Gyro_Rawlings_StabiliTrak-5.GyroSureFoot.statusEffects0.Details",
+    "content": "被动:该单位从剩余的稳定中获得<<警戒>>(减免50%从侧面和前面的远程攻击伤害).提升10%近战伤害."
+  },
+  {
+    "id": "Gear_Gyro_Rawlings_StabiliTrak-5.StatusEffect-Defense_StabilityAll-T1.statusEffects1.Details",
+    "content": "-10%即将到来的稳定伤害."
+  },
+  {
+    "id": "Gear_Gyro_Rawlings_StabiliTrak-5.GyroGenericThreshhold.statusEffects2.Details",
+    "content": "陀螺仪有助于机甲稳定重心"
+  },
+  {
+    "id": "Gear_Gyro_Rawlings_StabiliTrak-5.BracetoFire Reduction Special Stable.statusEffects3.Details",
+    "content": "慷慨激昂"
+  },
+  {
+    "id": "Gear_Gyro_Rawlings_StabiliTrak-5.GyroSureFoot.statusEffects0.Name",
+    "content": "堡垒"
+  },
+  {
+    "id": "Gear_Gyro_Rawlings_StabiliTrak-5.StatusEffect-Defense_StabilityAll-T1.statusEffects1.Name",
+    "content": "降低即将到来的稳定伤害"
+  },
+  {
+    "id": "Gear_Gyro_Rawlings_StabiliTrak-5.GyroGenericThreshhold.statusEffects2.Name",
+    "content": "陀螺仪稳定器"
+  },
+  {
+    "id": "Gear_Gyro_Rawlings_StabiliTrak-5.BracetoFire Reduction Special Stable.statusEffects3.Name",
+    "content": "降低开火时摔倒机率"
+  },
+  {
+    "id": "Gear_Gyro_Superheavy.Description.Details",
+    "content": "超重型机甲专用重载陀螺仪,更坚固,也能处理更大的动量所增加的压力."
+  },
+  {
+    "id": "Gear_Gyro_Superheavy.Description.UIName",
+    "content": "超重型陀螺仪"
+  },
+  {
+    "id": "Gear_Gyro_Superheavy.Description.Name",
+    "content": "超重型陀螺仪"
+  },
+  {
+    "id": "Gear_Gyro_Superheavy.SHGyro.statusEffects0.Details",
+    "content": "稳定阈值增加到60"
+  },
+  {
+    "id": "Gear_Gyro_Superheavy.GyroGenericMax.statusEffects1.Details",
+    "content": "陀螺仪有助于机甲稳定重心"
+  },
+  {
+    "id": "Gear_Gyro_Superheavy.SHGyro.statusEffects0.Name",
+    "content": "更稳定的机甲"
+  },
+  {
+    "id": "Gear_Gyro_Superheavy.GyroGenericMax.statusEffects1.Name",
+    "content": "陀螺仪稳定器"
+  },
+  {
+    "id": "Gear_Gyro_Superheavy_Compact.Description.Details",
+    "content": "超重型机甲的紧凑版本陀螺仪.先进的设计技术使陀螺仪的尺寸大大缩小,但显著增加其重量."
+  },
+  {
+    "id": "Gear_Gyro_Superheavy_Compact.Description.UIName",
+    "content": "紧凑型陀螺仪(SH)"
+  },
+  {
+    "id": "Gear_Gyro_Superheavy_Compact.Description.Name",
+    "content": "紧凑型陀螺仪(SH)"
+  },
+  {
+    "id": "Gear_Gyro_Superheavy_Compact.SHGyro.statusEffects0.Details",
+    "content": "稳定阈值增加到60"
+  },
+  {
+    "id": "Gear_Gyro_Superheavy_Compact.GyroGenericMax.statusEffects1.Details",
+    "content": "陀螺仪有助于机甲稳定重心"
+  },
+  {
+    "id": "Gear_Gyro_Superheavy_Compact.SHGyro.statusEffects0.Name",
+    "content": "更稳定的机甲"
+  },
+  {
+    "id": "Gear_Gyro_Superheavy_Compact.GyroGenericMax.statusEffects1.Name",
+    "content": "陀螺仪稳定器"
+  },
+  {
+    "id": "Gear_Gyro_Superheavy_HeavyDuty.Description.Details",
+    "content": "超重型机甲的一个额外加强的重载陀螺仪版本.通过让陀螺仪占用更多的空间和重量,机甲的稳定性可以大大提高."
+  },
+  {
+    "id": "Gear_Gyro_Superheavy_HeavyDuty.Description.UIName",
+    "content": "重载型超重陀螺仪"
+  },
+  {
+    "id": "Gear_Gyro_Superheavy_HeavyDuty.Description.Name",
+    "content": "重载型超重陀螺仪"
+  },
+  {
+    "id": "Gear_Gyro_Superheavy_HeavyDuty.GyroSureFoot.statusEffects0.Details",
+    "content": "被动:该单位从剩余的稳定中获得<<警戒>>(减免50%从侧面和前面的远程攻击伤害).提升10%近战伤害."
+  },
+  {
+    "id": "Gear_Gyro_Superheavy_HeavyDuty.SamuraiStabDamageBuff.statusEffects1.Details",
+    "content": "-[AMT]即将到来的稳定伤害"
+  },
+  {
+    "id": "Gear_Gyro_Superheavy_HeavyDuty.BracetoFire Reduction Special Stable.statusEffects2.Details",
+    "content": "慷慨激昂"
+  },
+  {
+    "id": "Gear_Gyro_Superheavy_HeavyDuty.SHGyro.statusEffects3.Details",
+    "content": "稳定阈值增加到100"
+  },
+  {
+    "id": "Gear_Gyro_Superheavy_HeavyDuty.GyroGenericMax.statusEffects4.Details",
+    "content": "陀螺仪有助于机甲稳定重心"
+  },
+  {
+    "id": "Gear_Gyro_Superheavy_HeavyDuty.GyroSureFoot.statusEffects0.Name",
+    "content": "堡垒"
+  },
+  {
+    "id": "Gear_Gyro_Superheavy_HeavyDuty.SamuraiStabDamageBuff.statusEffects1.Name",
+    "content": "降低即将到来的稳定伤害"
+  },
+  {
+    "id": "Gear_Gyro_Superheavy_HeavyDuty.BracetoFire Reduction Special Stable.statusEffects2.Name",
+    "content": "降低开火时摔倒机率"
+  },
+  {
+    "id": "Gear_Gyro_Superheavy_HeavyDuty.SHGyro.statusEffects3.Name",
+    "content": "更稳定的机甲"
+  },
+  {
+    "id": "Gear_Gyro_Superheavy_HeavyDuty.GyroGenericMax.statusEffects4.Name",
+    "content": "陀螺仪稳定器"
+  },
+  {
+    "id": "Gear_Gyro_Superheavy_Omni.Description.Details",
+    "content": "超重型泛用机甲专用重载陀螺仪,更坚固,也能处理更大的动量所增加的压力."
+  },
+  {
+    "id": "Gear_Gyro_Superheavy_Omni.Description.UIName",
+    "content": "泛用型超重型陀螺仪"
+  },
+  {
+    "id": "Gear_Gyro_Superheavy_Omni.Description.Name",
+    "content": "超重型陀螺仪"
+  },
+  {
+    "id": "Gear_Gyro_Superheavy_Omni.SHGyro.statusEffects0.Details",
+    "content": "稳定阈值增加到60"
+  },
+  {
+    "id": "Gear_Gyro_Superheavy_Omni.GyroGenericMax.statusEffects1.Details",
+    "content": "陀螺仪有助于机甲稳定重心"
+  },
+  {
+    "id": "Gear_Gyro_Superheavy_Omni.StatusEffect-getHasBattleArmorMounts.statusEffects2.Details",
+    "content": "可以被战斗装甲安装"
+  },
+  {
+    "id": "Gear_Gyro_Superheavy_Omni.SHGyro.statusEffects0.Name",
+    "content": "更稳定的机甲"
+  },
+  {
+    "id": "Gear_Gyro_Superheavy_Omni.GyroGenericMax.statusEffects1.Name",
+    "content": "陀螺仪稳定器"
+  },
+  {
+    "id": "Gear_Gyro_Superheavy_Omni.StatusEffect-getHasBattleArmorMounts.statusEffects2.Name",
+    "content": "可以被战斗装甲安装"
+  },
+  {
+    "id": "Gear_Gyro_Superheavy_Omni_HeavyDuty.Description.Details",
+    "content": "超重型泛用机甲的一个额外加强的重型陀螺仪版本.通过让陀螺仪占用更多的空间和重量,机甲的稳定性可以大大提高."
+  },
+  {
+    "id": "Gear_Gyro_Superheavy_Omni_HeavyDuty.Description.UIName",
+    "content": "重载型超重泛用陀螺仪"
+  },
+  {
+    "id": "Gear_Gyro_Superheavy_Omni_HeavyDuty.Description.Name",
+    "content": "重载型超重陀螺仪"
+  },
+  {
+    "id": "Gear_Gyro_Superheavy_Omni_HeavyDuty.GyroSureFoot.statusEffects0.Details",
+    "content": "被动:该单位从剩余的稳定中获得<<警戒>>(减免50%从侧面和前面的远程攻击伤害).提升10%近战伤害."
+  },
+  {
+    "id": "Gear_Gyro_Superheavy_Omni_HeavyDuty.SamuraiStabDamageBuff.statusEffects1.Details",
+    "content": "-[AMT]即将到来的稳定伤害"
+  },
+  {
+    "id": "Gear_Gyro_Superheavy_Omni_HeavyDuty.BracetoFire Reduction Special Stable.statusEffects2.Details",
+    "content": "慷慨激昂"
+  },
+  {
+    "id": "Gear_Gyro_Superheavy_Omni_HeavyDuty.SHGyro.statusEffects3.Details",
+    "content": "稳定阈值增加到100"
+  },
+  {
+    "id": "Gear_Gyro_Superheavy_Omni_HeavyDuty.GyroGenericMax.statusEffects4.Details",
+    "content": "陀螺仪有助于机甲稳定重心"
+  },
+  {
+    "id": "Gear_Gyro_Superheavy_Omni_HeavyDuty.StatusEffect-getHasBattleArmorMounts.statusEffects5.Details",
+    "content": "可以被战斗装甲安装"
+  },
+  {
+    "id": "Gear_Gyro_Superheavy_Omni_HeavyDuty.GyroSureFoot.statusEffects0.Name",
+    "content": "堡垒"
+  },
+  {
+    "id": "Gear_Gyro_Superheavy_Omni_HeavyDuty.SamuraiStabDamageBuff.statusEffects1.Name",
+    "content": "降低即将到来的稳定伤害"
+  },
+  {
+    "id": "Gear_Gyro_Superheavy_Omni_HeavyDuty.BracetoFire Reduction Special Stable.statusEffects2.Name",
+    "content": "降低开火时摔倒机率"
+  },
+  {
+    "id": "Gear_Gyro_Superheavy_Omni_HeavyDuty.SHGyro.statusEffects3.Name",
+    "content": "更稳定的机甲"
+  },
+  {
+    "id": "Gear_Gyro_Superheavy_Omni_HeavyDuty.GyroGenericMax.statusEffects4.Name",
+    "content": "陀螺仪稳定器"
+  },
+  {
+    "id": "Gear_Gyro_Superheavy_Omni_HeavyDuty.StatusEffect-getHasBattleArmorMounts.statusEffects5.Name",
+    "content": "可以被战斗装甲安装"
+  },
+  {
+    "id": "Gear_Gyro_Superheavy_Omni_XL.Description.Details",
+    "content": "超重型泛用机甲专用的重载陀螺仪的轻量化版本,更坚固,也能处理更大的动量所增加的压力."
+  },
+  {
+    "id": "Gear_Gyro_Superheavy_Omni_XL.Description.UIName",
+    "content": "泛用超轻型陀螺仪(SH)"
+  },
+  {
+    "id": "Gear_Gyro_Superheavy_Omni_XL.Description.Name",
+    "content": "超重型陀螺仪"
+  },
+  {
+    "id": "Gear_Gyro_Superheavy_Omni_XL.SHGyro.statusEffects0.Details",
+    "content": "稳定阈值增加到60"
+  },
+  {
+    "id": "Gear_Gyro_Superheavy_Omni_XL.GyroGenericMax.statusEffects1.Details",
+    "content": "陀螺仪有助于机甲稳定重心"
+  },
+  {
+    "id": "Gear_Gyro_Superheavy_Omni_XL.StatusEffect-getHasBattleArmorMounts.statusEffects2.Details",
+    "content": "可以被战斗装甲安装"
+  },
+  {
+    "id": "Gear_Gyro_Superheavy_Omni_XL.SHGyro.statusEffects0.Name",
+    "content": "更稳定的机甲"
+  },
+  {
+    "id": "Gear_Gyro_Superheavy_Omni_XL.GyroGenericMax.statusEffects1.Name",
+    "content": "陀螺仪稳定器"
+  },
+  {
+    "id": "Gear_Gyro_Superheavy_Omni_XL.StatusEffect-getHasBattleArmorMounts.statusEffects2.Name",
+    "content": "可以被战斗装甲安装"
+  },
+  {
+    "id": "Gear_Gyro_Superheavy_XL.Description.Details",
+    "content": "超重型机甲专用的陀螺仪的轻量化版本,它将标准陀螺仪的重量和超重型机甲所需要坚固性结合."
+  },
+  {
+    "id": "Gear_Gyro_Superheavy_XL.Description.UIName",
+    "content": "超轻型陀螺仪(SH)"
+  },
+  {
+    "id": "Gear_Gyro_Superheavy_XL.Description.Name",
+    "content": "超轻型陀螺仪(SH)"
+  },
+  {
+    "id": "Gear_Gyro_Superheavy_XL.SHGyro.statusEffects0.Details",
+    "content": "稳定阈值增加到60"
+  },
+  {
+    "id": "Gear_Gyro_Superheavy_XL.GyroGenericMax.statusEffects1.Details",
+    "content": "陀螺仪有助于机甲稳定重心"
+  },
+  {
+    "id": "Gear_Gyro_Superheavy_XL.SHGyro.statusEffects0.Name",
+    "content": "更稳定的机甲"
+  },
+  {
+    "id": "Gear_Gyro_Superheavy_XL.GyroGenericMax.statusEffects1.Name",
+    "content": "陀螺仪稳定器"
+  },
+  {
+    "id": "Gear_Gyro_Superheavy_XXL.Description.Details",
+    "content": "超重型机甲专用的陀螺仪的极端轻量化版本,它将标准陀螺仪的重量和超重型机甲所需要坚固性结合."
+  },
+  {
+    "id": "Gear_Gyro_Superheavy_XXL.Description.UIName",
+    "content": "极轻型陀螺仪(SH)"
+  },
+  {
+    "id": "Gear_Gyro_Superheavy_XXL.Description.Name",
+    "content": "极轻型陀螺仪(SH)"
+  },
+  {
+    "id": "Gear_Gyro_Superheavy_XXL.SHGyro.statusEffects0.Details",
+    "content": "稳定阈值增加到60"
+  },
+  {
+    "id": "Gear_Gyro_Superheavy_XXL.GyroGenericMax.statusEffects1.Details",
+    "content": "陀螺仪有助于机甲稳定重心"
+  },
+  {
+    "id": "Gear_Gyro_Superheavy_XXL.SHGyro.statusEffects0.Name",
+    "content": "更稳定的机甲"
+  },
+  {
+    "id": "Gear_Gyro_Superheavy_XXL.GyroGenericMax.statusEffects1.Name",
+    "content": "陀螺仪稳定器"
+  },
+  {
+    "id": "Gear_Gyro_Ultralight.Description.Details",
+    "content": "特轻型陀螺仪是为了让机甲获得更多负重空间而开发的,代价是更少的稳定."
+  },
+  {
+    "id": "Gear_Gyro_Ultralight.Description.UIName",
+    "content": "特轻型陀螺仪"
+  },
+  {
+    "id": "Gear_Gyro_Ultralight.Description.Name",
+    "content": "恶龙轻型陀螺仪"
+  },
+  {
+    "id": "Gear_Gyro_Ultralight.Ultralightpenalty.statusEffects0.Details",
+    "content": "遭受稳定惩罚."
+  },
+  {
+    "id": "Gear_Gyro_Ultralight.ULPenalty2.statusEffects1.Details",
+    "content": "稳定阈值增加到60"
+  },
+  {
+    "id": "Gear_Gyro_Ultralight.Ultralightpenalty.statusEffects0.Name",
+    "content": "稳定性较差"
+  },
+  {
+    "id": "Gear_Gyro_Ultralight.ULPenalty2.statusEffects1.Name",
+    "content": "更稳定的机甲"
+  },
+  {
+    "id": "Gear_Gyro_XL.Description.Details",
+    "content": "通讯之星开发的超轻型(Exter-Light)XL陀螺仪与超轻型引擎类似,由更轻但更笨重的材料和部件制成,以将陀螺仪的尺寸增加一半,换取其重量减半.同样超轻型陀螺仪也有类似缺点,在摧毁前,只能承受与标准陀螺仪相同的损坏量,其增加的体积加大了任何穿透核心躯干的攻击并使机甲瘫痪的可能性.此外,除非机甲安装紧凑型发动机,否则XL陀螺仪将占用核心躯干的的少量自由空间,迫使原本安装在那里的设备移动到其他位置. "
+  },
+  {
+    "id": "Gear_Gyro_XL.Description.UIName",
+    "content": "超轻型陀螺仪"
+  },
+  {
+    "id": "Gear_Gyro_XL.Description.Name",
+    "content": "超轻型陀螺仪"
+  },
+  {
+    "id": "Gear_Gyro_XL.XLsteady.statusEffects0.Details",
+    "content": "稳定阈值增加到60"
+  },
+  {
+    "id": "Gear_Gyro_XL.XLsteady.statusEffects0.Name",
+    "content": "更稳定的机甲"
+  },
+  {
+    "id": "Gear_Gyro_XXL.Description.Details",
+    "content": "以通迅之星开创性的超轻型陀螺仪为基础,维宁工程和打捞团队成功进一步推进了该技术,进一步减轻了机甲陀螺仪的重量,但将其尺寸扩大了一倍,甚至延伸到侧面躯干."
+  },
+  {
+    "id": "Gear_Gyro_XXL.Description.UIName",
+    "content": "极轻型陀螺仪"
+  },
+  {
+    "id": "Gear_Gyro_XXL.Description.Name",
+    "content": "极轻型陀螺仪"
+  },
+  {
+    "id": "Gear_Gyro_XXL.XLsteady.statusEffects0.Details",
+    "content": "稳定阈值增加到60"
+  },
+  {
+    "id": "Gear_Gyro_XXL.XLsteady.statusEffects0.Name",
+    "content": "更稳定的机甲"
+  },
+  {
+    "id": "Gyro_XXL_Side.Description.Details",
+    "content": "以通迅之星开创性的超轻型陀螺仪为基础,维宁工程和打捞团队成功进一步推进了该技术,进一步减轻了机甲陀螺仪的重量,但将其尺寸扩大了一倍,甚至延伸到侧面躯干."
+  },
+  {
+    "id": "Gyro_XXL_Side.Description.UIName",
+    "content": "极轻型陀螺仪"
+  },
+  {
+    "id": "Gyro_XXL_Side.Description.Name",
+    "content": "极轻型陀螺仪"
+  }
+]

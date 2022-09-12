@@ -1,0 +1,482 @@
+[
+  {
+    "id": "emod_kit_cdhs.Description.Details",
+    "content": "将单散热器(SHS)引擎转换为双层散热器(CDHS)模式,机甲的<b>冷却系统</b>为机甲的内部部件提供冷却,并更改机甲上外部散热器挂载点的适配类型.它不同于引擎的封闭冷却系统."
+  },
+  {
+    "id": "emod_kit_cdhs.Description.UIName",
+    "content": "散热器套件(C)"
+  },
+  {
+    "id": "emod_kit_cdhs.Description.Name",
+    "content": "引擎套件(C)"
+  },
+  {
+    "id": "emod_kit_cdhs_radical.Description.Details",
+    "content": "将单散热器(SHS)引擎转换为氏族双层散热器(CDHS)模式,机甲的<b>冷却系统</b>.激进(Radical)散热器系统提供了像冷却液舱一样的清除余热的能力.然而激进散热器重复使用有失效的可能,特别是连续使用的情况下."
+  },
+  {
+    "id": "emod_kit_cdhs_radical.Description.UIName",
+    "content": "激光散热器套件(C)"
+  },
+  {
+    "id": "emod_kit_cdhs_radical.Description.Name",
+    "content": "双层引擎散热器套件"
+  },
+  {
+    "id": "emod_kit_cdhs_radical.RadicalCooling.CAE0.Details",
+    "content": "激进散热系统彻底的改善了机甲的散热能力"
+  },
+  {
+    "id": "emod_kit_cdhs_radical.RadicalCooling.CAE0.Name",
+    "content": "激进散热器系统"
+  },
+  {
+    "id": "emod_kit_chs.Description.Details",
+    "content": "将单散热器(SHS)引擎转换为双层散热器(CHS)模式,机甲的<b>冷却系统</b>为机甲的内部部件提供冷却,并更改机甲上外部散热器挂载点的适配类型.它不同于引擎的封闭冷却系统."
+  },
+  {
+    "id": "emod_kit_chs.Description.UIName",
+    "content": "紧凑散热器套件"
+  },
+  {
+    "id": "emod_kit_chs.Description.Name",
+    "content": "紧凑型引擎散热器套件(C)"
+  },
+  {
+    "id": "emod_kit_dhs.Description.Details",
+    "content": "将单散热器(SHS)引擎转换为双层散热器(DHS)模式,机甲的<b>冷却系统</b>为机甲的内部部件提供冷却,并更改机甲上外部散热器挂载点的适配类型.它不同于引擎的封闭冷却系统."
+  },
+  {
+    "id": "emod_kit_dhs.Description.UIName",
+    "content": "散热器套件(D)"
+  },
+  {
+    "id": "emod_kit_dhs.Description.Name",
+    "content": "双层引擎散热器套件"
+  },
+  {
+    "id": "emod_kit_dhs_proto.Description.Details",
+    "content": "将单散热器(SHS)引擎转换为原型双层散热器(Prototype DHS)模式,机甲使用该实验型<b>冷却系统</b>可以在发生致命爆炸风险下提升总体冷却表现. <b><color=#099ff2>不稳定!</color></b>"
+  },
+  {
+    "id": "emod_kit_dhs_proto.Description.UIName",
+    "content": "散热器套件(原型)"
+  },
+  {
+    "id": "emod_kit_dhs_proto.Description.Name",
+    "content": "原型双层引擎散热器套件"
+  },
+  {
+    "id": "emod_kit_dhs_proto.PDHSKitHeatGen.statusEffects0.Details",
+    "content": "-10%产热"
+  },
+  {
+    "id": "emod_kit_dhs_proto.PDHSKitHeatGen.statusEffects0.Name",
+    "content": "减少产热"
+  },
+  {
+    "id": "emod_kit_dhs_proto_superheavy.Description.Details",
+    "content": "将单散热器(SHS)引擎转换为原型双层散热器(Prototype DHS)模式,机甲使用该实验型<b>冷却系统</b>可以在发生致命爆炸风险下提升总体冷却表现. <b><color=#099ff2>不稳定!</color></b>"
+  },
+  {
+    "id": "emod_kit_dhs_proto_superheavy.Description.UIName",
+    "content": "散热器套件(原型D)"
+  },
+  {
+    "id": "emod_kit_dhs_proto_superheavy.Description.Name",
+    "content": "原型双层引擎散热器套件"
+  },
+  {
+    "id": "emod_kit_dhs_proto_superheavy.StatusEffect-Heat_GenReduction-PDHSKIT.statusEffects0.Details",
+    "content": "-10%产热"
+  },
+  {
+    "id": "emod_kit_dhs_proto_superheavy.StatusEffect-Heat_GenReduction-PDHSKIT.statusEffects0.Name",
+    "content": "减少产热"
+  },
+  {
+    "id": "emod_kit_lhs.Description.Details",
+    "content": "将单散热器(SHS)引擎转换为激光散热器(LHS)模式,机甲的<b>冷却系统</b>为机甲的内部部件提供冷却,并更改机甲上外部散热器挂载点的适配类型.它不同于引擎的封闭冷却系统.不像普通散热器一样和使用散热片和导热流体来冷却机甲,激光散热器使用激光将热废气转换为高能状态,将气体的红外能量转换为光,然后通过极度光滑的表面将光分流出机甲.功能上与氏族双层散热器没有区别.即使是在外部缺少气体或液体的情况下也能降低弹药的热因爆燃机率,这意味着在真空或更炎热的世界不会像普通单双层散热器那样散热性能下降,同时进入水中或在更冷的世界也不能提升散热能力."
+  },
+  {
+    "id": "emod_kit_lhs.Description.UIName",
+    "content": "激光散热器套件(C)"
+  },
+  {
+    "id": "emod_kit_lhs.Description.Name",
+    "content": "引擎套件(C)"
+  },
+  {
+    "id": "emod_kit_lhs.LHS_Signature_Increase_40.statusEffects0.Details",
+    "content": "激光散热系统提升40%的信号特征"
+  },
+  {
+    "id": "emod_kit_lhs.LHS_Heat_Venting_60.statusEffects1.Details",
+    "content": "激光散热系统排出60热量"
+  },
+  {
+    "id": "emod_kit_lhs.LHS_Signature_Increase_40.statusEffects0.Name",
+    "content": "激光散热器"
+  },
+  {
+    "id": "emod_kit_lhs.LHS_Heat_Venting_60.statusEffects1.Name",
+    "content": "激光散热器"
+  },
+  {
+    "id": "Gear_Coolantflush.Description.Details",
+    "content": "基于和冷却液相同的技术,但内置了一个传感器,可以在极端情况下自动进行冷却液冲刷. <b><color=#099ff2>不稳定!</color></b>. 可以叠加."
+  },
+  {
+    "id": "Gear_Coolantflush.Description.UIName",
+    "content": "冷却液冲刷 X1"
+  },
+  {
+    "id": "Gear_Coolantflush.Description.Name",
+    "content": "冷却液舱"
+  },
+  {
+    "id": "Gear_Coolantflush.CoolantFLUSH.CAE0.Details",
+    "content": "移除20额外热量."
+  },
+  {
+    "id": "Gear_Coolantflush.CoolantFLUSH.CAE0.Name",
+    "content": "冷却液冲刷"
+  },
+  {
+    "id": "Gear_Coolantflush_Clan.Description.Details",
+    "content": "基于和冷却液相同的技术,但内置了一个传感器,可以在极端情况下自动进行冷却液冲刷. <b><color=#099ff2>不稳定!</color></b>. 可以叠加."
+  },
+  {
+    "id": "Gear_Coolantflush_Clan.Description.UIName",
+    "content": "冷却液冲刷 X1(C)"
+  },
+  {
+    "id": "Gear_Coolantflush_Clan.Description.Name",
+    "content": "冷却液舱"
+  },
+  {
+    "id": "Gear_Coolantflush_Clan.CoolantFLUSH.CAE0.Details",
+    "content": "移除20额外热量."
+  },
+  {
+    "id": "Gear_Coolantflush_Clan.CoolantFLUSH.CAE0.Name",
+    "content": "冷却液冲刷"
+  },
+  {
+    "id": "Gear_Coolantpod.Description.Details",
+    "content": "实际上是一个独立的冷却液存储舱,冷却液舱内装有高压二氟二氯甲烷,需要时可以用于直接冲刷接触的的机甲冷却液系统. 冷却液存储舱极易受到武器射击的影响,如果被击中会发生爆炸. <b><color=#099ff2>不稳定!</color></b>. 可叠加."
+  },
+  {
+    "id": "Gear_Coolantpod.Description.UIName",
+    "content": "冷却舱 X1"
+  },
+  {
+    "id": "Gear_Coolantpod.Description.Name",
+    "content": "冷却液舱"
+  },
+  {
+    "id": "Gear_Coolantpod.CoolantPod.CAE0.Details",
+    "content": "移除20额外热量."
+  },
+  {
+    "id": "Gear_Coolantpod.CoolantPod.CAE0.Name",
+    "content": "冷却液舱"
+  },
+  {
+    "id": "Gear_Coolantpod_Clan.Description.Details",
+    "content": "实际上是一个独立的冷却液存储舱,冷却液舱内装有高压二氟二氯甲烷,需要时可以用于直接冲刷接触的的机甲冷却液系统. 冷却液存储舱极易受到武器射击的影响,如果被击中会发生爆炸. <b><color=#099ff2>不稳定!</color></b>. 可叠加."
+  },
+  {
+    "id": "Gear_Coolantpod_Clan.Description.UIName",
+    "content": "冷却舱 X1(C)"
+  },
+  {
+    "id": "Gear_Coolantpod_Clan.Description.Name",
+    "content": "冷却液舱(C)"
+  },
+  {
+    "id": "Gear_Coolantpod_Clan.CoolantPod.CAE0.Details",
+    "content": "移除20额外热量."
+  },
+  {
+    "id": "Gear_Coolantpod_Clan.CoolantPod.CAE0.Name",
+    "content": "冷却液舱"
+  },
+  {
+    "id": "Gear_Coolantpod_Clan_X2.Description.Details",
+    "content": "实际上是一个独立的冷却液存储舱,冷却液舱内装有高压二氟二氯甲烷,需要时可以用于直接冲刷接触的的机甲冷却液系统. 冷却液存储舱极易受到武器射击的影响,如果被击中会发生爆炸. <b><color=#099ff2>不稳定!</color></b>. 可叠加."
+  },
+  {
+    "id": "Gear_Coolantpod_Clan_X2.Description.UIName",
+    "content": "冷却舱 X2(C)"
+  },
+  {
+    "id": "Gear_Coolantpod_Clan_X2.Description.Name",
+    "content": "冷却液舱(C)"
+  },
+  {
+    "id": "Gear_Coolantpod_Clan_X2.CoolantPod.CAE0.Details",
+    "content": "移除20额外热量."
+  },
+  {
+    "id": "Gear_Coolantpod_Clan_X2.CoolantPod.CAE0.Name",
+    "content": "冷却液舱"
+  },
+  {
+    "id": "Gear_Coolantpod_Clan_X3.Description.Details",
+    "content": "实际上是一个独立的冷却液存储舱,冷却液舱内装有高压二氟二氯甲烷,需要时可以用于直接冲刷接触的的机甲冷却液系统. 冷却液存储舱极易受到武器射击的影响,如果被击中会发生爆炸. <b><color=#099ff2>不稳定!</color></b>. 可叠加."
+  },
+  {
+    "id": "Gear_Coolantpod_Clan_X3.Description.UIName",
+    "content": "冷却舱 X3(C)"
+  },
+  {
+    "id": "Gear_Coolantpod_Clan_X3.Description.Name",
+    "content": "冷却液舱(C)"
+  },
+  {
+    "id": "Gear_Coolantpod_Clan_X3.CoolantPod.CAE0.Details",
+    "content": "移除20额外热量."
+  },
+  {
+    "id": "Gear_Coolantpod_Clan_X3.CoolantPod.CAE0.Name",
+    "content": "冷却液舱"
+  },
+  {
+    "id": "Gear_Coolantpod_Clan_X4.Description.Details",
+    "content": "实际上是一个独立的冷却液存储舱,冷却液舱内装有高压二氟二氯甲烷,需要时可以用于直接冲刷接触的的机甲冷却液系统. 冷却液存储舱极易受到武器射击的影响,如果被击中会发生爆炸. <b><color=#099ff2>不稳定!</color></b>. 可叠加."
+  },
+  {
+    "id": "Gear_Coolantpod_Clan_X4.Description.UIName",
+    "content": "冷却舱 X4(C)"
+  },
+  {
+    "id": "Gear_Coolantpod_Clan_X4.Description.Name",
+    "content": "冷却液舱(C)"
+  },
+  {
+    "id": "Gear_Coolantpod_Clan_X4.CoolantPod.CAE0.Details",
+    "content": "移除20额外热量."
+  },
+  {
+    "id": "Gear_Coolantpod_Clan_X4.CoolantPod.CAE0.Name",
+    "content": "冷却液舱"
+  },
+  {
+    "id": "Gear_Coolantpod_Clan_X5.Description.Details",
+    "content": "实际上是一个独立的冷却液存储舱,冷却液舱内装有高压二氟二氯甲烷,需要时可以用于直接冲刷接触的的机甲冷却液系统. 冷却液存储舱极易受到武器射击的影响,如果被击中会发生爆炸. <b><color=#099ff2>不稳定!</color></b>. 可叠加."
+  },
+  {
+    "id": "Gear_Coolantpod_Clan_X5.Description.UIName",
+    "content": "冷却舱 X5(C)"
+  },
+  {
+    "id": "Gear_Coolantpod_Clan_X5.Description.Name",
+    "content": "冷却液舱(C)"
+  },
+  {
+    "id": "Gear_Coolantpod_Clan_X5.CoolantPod.CAE0.Details",
+    "content": "移除20额外热量."
+  },
+  {
+    "id": "Gear_Coolantpod_Clan_X5.CoolantPod.CAE0.Name",
+    "content": "冷却液舱"
+  },
+  {
+    "id": "Gear_Coolantpod_X2.Description.Details",
+    "content": "实际上是一个独立的冷却液存储舱,冷却液舱内装有高压二氟二氯甲烷,需要时可以用于直接冲刷接触的的机甲冷却液系统. 冷却液存储舱极易受到武器射击的影响,如果被击中会发生爆炸. <b><color=#099ff2>不稳定!</color></b>. 可叠加."
+  },
+  {
+    "id": "Gear_Coolantpod_X2.Description.UIName",
+    "content": "冷却舱 X2"
+  },
+  {
+    "id": "Gear_Coolantpod_X2.Description.Name",
+    "content": "冷却液舱"
+  },
+  {
+    "id": "Gear_Coolantpod_X2.CoolantPod.CAE0.Details",
+    "content": "移除20额外热量."
+  },
+  {
+    "id": "Gear_Coolantpod_X2.CoolantPod.CAE0.Name",
+    "content": "冷却液舱"
+  },
+  {
+    "id": "Gear_Coolantpod_X3.Description.Details",
+    "content": "实际上是一个独立的冷却液存储舱,冷却液舱内装有高压二氟二氯甲烷,需要时可以用于直接冲刷接触的的机甲冷却液系统. 冷却液存储舱极易受到武器射击的影响,如果被击中会发生爆炸. <b><color=#099ff2>不稳定!</color></b>. 可叠加."
+  },
+  {
+    "id": "Gear_Coolantpod_X3.Description.UIName",
+    "content": "冷却舱 X3"
+  },
+  {
+    "id": "Gear_Coolantpod_X3.Description.Name",
+    "content": "冷却液舱"
+  },
+  {
+    "id": "Gear_Coolantpod_X3.CoolantPod.CAE0.Details",
+    "content": "移除20额外热量."
+  },
+  {
+    "id": "Gear_Coolantpod_X3.CoolantPod.CAE0.Name",
+    "content": "冷却液舱"
+  },
+  {
+    "id": "Gear_Coolantpod_X4.Description.Details",
+    "content": "实际上是一个独立的冷却液存储舱,冷却液舱内装有高压二氟二氯甲烷,需要时可以用于直接冲刷接触的的机甲冷却液系统. 冷却液存储舱极易受到武器射击的影响,如果被击中会发生爆炸. <b><color=#099ff2>不稳定!</color></b>. 可叠加."
+  },
+  {
+    "id": "Gear_Coolantpod_X4.Description.UIName",
+    "content": "冷却舱 X4"
+  },
+  {
+    "id": "Gear_Coolantpod_X4.Description.Name",
+    "content": "冷却液舱"
+  },
+  {
+    "id": "Gear_Coolantpod_X4.CoolantPod.CAE0.Details",
+    "content": "移除20额外热量."
+  },
+  {
+    "id": "Gear_Coolantpod_X4.CoolantPod.CAE0.Name",
+    "content": "冷却液舱"
+  },
+  {
+    "id": "Gear_Coolantpod_X5.Description.Details",
+    "content": "实际上是一个独立的冷却液存储舱,冷却液舱内装有高压二氟二氯甲烷,需要时可以用于直接冲刷接触的的机甲冷却液系统. 冷却液存储舱极易受到武器射击的影响,如果被击中会发生爆炸. <b><color=#099ff2>不稳定!</color></b>. 可叠加."
+  },
+  {
+    "id": "Gear_Coolantpod_X5.Description.UIName",
+    "content": "冷却舱 X5"
+  },
+  {
+    "id": "Gear_Coolantpod_X5.Description.Name",
+    "content": "冷却液舱"
+  },
+  {
+    "id": "Gear_Coolantpod_X5.CoolantPod.CAE0.Details",
+    "content": "移除20额外热量."
+  },
+  {
+    "id": "Gear_Coolantpod_X5.CoolantPod.CAE0.Name",
+    "content": "冷却液舱"
+  },
+  {
+    "id": "Gear_HeatSink_Compact_Standard.Description.Details",
+    "content": "新阿瓦隆科学研究所开发了所谓紧凑型散热器的原型,两个紧凑型散热器和一个标准散热占用空间相同.不幸的是,与紧凑型发动机和紧凑型陀螺仪一样,使用密度更高但更紧凑的材料会使每个紧凑型散热器重量增加一半,通常将其使用在有空余重量的较重机甲上."
+  },
+  {
+    "id": "Gear_HeatSink_Compact_Standard.Description.UIName",
+    "content": "紧凑型散热器"
+  },
+  {
+    "id": "Gear_HeatSink_Compact_Standard.Description.Name",
+    "content": "紧凑型散热器"
+  },
+  {
+    "id": "Gear_HeatSink_Generic_Double.Description.Details",
+    "content": "双层散热器散热效果是标准散热器的两倍,但体积也增大了.和标准散热器一样,散热效率受周围环境影响,无论正面还是负面."
+  },
+  {
+    "id": "Gear_HeatSink_Generic_Double.Description.UIName",
+    "content": "双层散热器"
+  },
+  {
+    "id": "Gear_HeatSink_Generic_Double.Description.Name",
+    "content": "双层散热器(D)"
+  },
+  {
+    "id": "Gear_HeatSink_Generic_Double_Clan.Description.Details",
+    "content": "双层散热器散热效果是标准散热器的两倍,但体积也增大了.和标准散热器一样,散热效率受周围环境影响,无论正面还是负面."
+  },
+  {
+    "id": "Gear_HeatSink_Generic_Double_Clan.Description.UIName",
+    "content": "双层散热器(C)"
+  },
+  {
+    "id": "Gear_HeatSink_Generic_Double_Clan.Description.Name",
+    "content": "散热器(C)"
+  },
+  {
+    "id": "Gear_HeatSink_Generic_Laser_Clan.Description.Details",
+    "content": "功能上和使用氏族科技的双层散热器相同,即使系统中缺少液体或气体,也能降低弹药爆燃的可能性,这意味着激光散热器在较热的世界也不会普通单层散热器或双层散器一样性能下降,同时也无法通过将散热器放入水中或较冷的天气来提高散热效果."
+  },
+  {
+    "id": "Gear_HeatSink_Generic_Laser_Clan.Description.UIName",
+    "content": "激光散热器(C)"
+  },
+  {
+    "id": "Gear_HeatSink_Generic_Laser_Clan.Description.Name",
+    "content": "激光散热器(C)"
+  },
+  {
+    "id": "Gear_HeatSink_Generic_Laser_Clan.LDHS_Signature_Increase_10.statusEffects0.Details",
+    "content": "激光散热系统提升10%的信号特征"
+  },
+  {
+    "id": "Gear_HeatSink_Generic_Laser_Clan.LHS_Heat_Venting_6.statusEffects1.Details",
+    "content": "激光散热系统排出6热量"
+  },
+  {
+    "id": "Gear_HeatSink_Generic_Laser_Clan.LDHS_Signature_Increase_10.statusEffects0.Name",
+    "content": "激光散热器"
+  },
+  {
+    "id": "Gear_HeatSink_Generic_Laser_Clan.LHS_Heat_Venting_6.statusEffects1.Name",
+    "content": "激光散热器"
+  },
+  {
+    "id": "Gear_HeatSink_Generic_Standard.Description.Details",
+    "content": "散热器积极的排出武器或其他来源产生的热能,防止过度热量堆积造成损害.其效率手周围环境影响.无论正面还是负面."
+  },
+  {
+    "id": "Gear_HeatSink_Generic_Standard.Description.UIName",
+    "content": "散热器"
+  },
+  {
+    "id": "Gear_HeatSink_Generic_Standard.Description.Name",
+    "content": "标准散热器"
+  },
+  {
+    "id": "Gear_HeatSink_Prototype_Double.Description.Details",
+    "content": "这些原型散热器由研究人员豪斯戴维恩创造.与星联和3039年战争后使用的双层散热器不同,这些原型单元更小.为了使实验版可以正常工作,使用了液态重金属而不是更安全SLDF双层散热器的所使用的材料,这也意味者它们高度不稳定.<b><color=#099ff2>不稳定!</color></b>"
+  },
+  {
+    "id": "Gear_HeatSink_Prototype_Double.Description.UIName",
+    "content": "原型双层散热器"
+  },
+  {
+    "id": "Gear_HeatSink_Prototype_Double.Description.Name",
+    "content": "原型散热器(D)"
+  },
+  {
+    "id": "Gear_HeatSink_Prototype_Double.PDHSHeatGen.statusEffects0.Details",
+    "content": "-10%产热"
+  },
+  {
+    "id": "Gear_HeatSink_Prototype_Double.PDHSHeatGen.statusEffects0.Name",
+    "content": "减少产热"
+  },
+  {
+    "id": "Gear_LaserInsulator.Description.Details",
+    "content": "激光隔热体于2575年由人类霸权引入,是一种先进的散热器,首次用于星联防卫部队(SLDF)的奇佩瓦战斗机上.战斗机机翼上的激光舱用坚固、轻质的气凝胶毯将上部结构和核心系统隔离.以非常小的重量提供了相当于两个标准散热器的散热能力,但该系统的主要缺点是,它将热量收集到靠近热源的地方,而不是充当热介质,让热量流过整个机体."
+  },
+  {
+    "id": "Gear_LaserInsulator.Description.UIName",
+    "content": "激光隔热体"
+  },
+  {
+    "id": "Gear_LaserInsulator.Description.Name",
+    "content": "激光隔热体"
+  },
+  {
+    "id": "Gear_LaserInsulator.StatusEffect-Heat_GenReduction-PDHSKIT.statusEffects0.Details",
+    "content": "-10%产热"
+  },
+  {
+    "id": "Gear_LaserInsulator.StatusEffect-Heat_GenReduction-PDHSKIT.statusEffects0.Name",
+    "content": "减少产热"
+  }
+]

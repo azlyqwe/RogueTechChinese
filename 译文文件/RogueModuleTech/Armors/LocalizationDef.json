@@ -1,0 +1,1278 @@
+[
+  {
+    "id": "armorslots_ff_stealth.Description.Details",
+    "content": "赫勒海精简隐身装甲将隐身技术和纤维钢结合在一起,提供卓越的侦查和隐身能力.除头部外每个部位占用2槽位."
+  },
+  {
+    "id": "armorslots_ff_stealth.Description.UIName",
+    "content": "隐身纤维钢"
+  },
+  {
+    "id": "armorslots_ff_stealth.Description.Name",
+    "content": "精简隐身"
+  },
+  {
+    "id": "armorslots_ff_stealth.Description.Manufacturer",
+    "content": "赫勒海"
+  },
+  {
+    "id": "armorslots_ff_stealth.LV_Stealth_Effect.CAE0.Details",
+    "content": "使携带隐身设备的单位更难被发现和侦测"
+  },
+  {
+    "id": "armorslots_ff_stealth.Stealth_Signature_Decrease_Stealth.CAE1.Details",
+    "content": "信号特征状态效果."
+  },
+  {
+    "id": "armorslots_ff_stealth.Stealth_Visibility_Decrease_Stealth.CAE2.Details",
+    "content": "可见性状态效果."
+  },
+  {
+    "id": "armorslots_ff_stealth.Stealth_Heat_Generation_Stealth.CAE3.Details",
+    "content": "增加热量"
+  },
+  {
+    "id": "armorslots_ff_stealth.Stealth_Heat_Capacity_Stealth.CAE4.Details",
+    "content": "降低散热能力"
+  },
+  {
+    "id": "armorslots_ff_stealth.LV_Stealth_Effect.CAE0.Name",
+    "content": "隐身"
+  },
+  {
+    "id": "armorslots_ff_stealth.Stealth_Signature_Decrease_Stealth.CAE1.Name",
+    "content": "减少隐身信号特征"
+  },
+  {
+    "id": "armorslots_ff_stealth.Stealth_Visibility_Decrease_Stealth.CAE2.Name",
+    "content": "降低隐身可见性"
+  },
+  {
+    "id": "armorslots_ff_stealth.Stealth_Heat_Generation_Stealth.CAE3.Name",
+    "content": "增加热量"
+  },
+  {
+    "id": "armorslots_ff_stealth.Stealth_Heat_Capacity_Stealth.CAE4.Name",
+    "content": "降低散热能力"
+  },
+  {
+    "id": "emod_armorslots_antipenetrativeablation.Description.Details",
+    "content": "反侵彻烧蚀装甲是由天龙联合体研制的,专门用于对抗穿甲弹药和串联装药弹头.通过在标准装甲板下方添加第二层'肋'钢来实现.尽管对所有类型的穿甲弹药都有效,但肋钢对标准自动火炮弹药、能量武器或物理攻击没有额外效果."
+  },
+  {
+    "id": "emod_armorslots_antipenetrativeablation.Description.UIName",
+    "content": "反侵彻烧蚀装甲"
+  },
+  {
+    "id": "emod_armorslots_antipenetrativeablation.Description.Name",
+    "content": "反侵彻烧蚀装甲"
+  },
+  {
+    "id": "emod_armorslots_antipenetrativeablation.Description.Manufacturer",
+    "content": "L.A.W."
+  },
+  {
+    "id": "emod_armorslots_antipenetrativeablation.ImpactCritPenalty.statusEffects0.Details",
+    "content": "更快的速度."
+  },
+  {
+    "id": "emod_armorslots_antipenetrativeablation.HardenedCritImmune.statusEffects1.Details",
+    "content": "更快的速度."
+  },
+  {
+    "id": "emod_armorslots_antipenetrativeablation.ImpactCritPenalty.statusEffects0.Name",
+    "content": "冲刺撞击"
+  },
+  {
+    "id": "emod_armorslots_antipenetrativeablation.HardenedCritImmune.statusEffects1.Name",
+    "content": "冲刺撞击"
+  },
+  {
+    "id": "emod_armorslots_ferrosfibrous.Description.Details",
+    "content": "纤维钢(FF)装甲是车辆和战斗机甲使用的特殊类型装甲.使用钢、钛合金和碳纳米管纤维编织而成,提高了装甲板的强度,同等重量下比标准装甲提供了更多的防护,但是占用机甲和车辆的空间也更多."
+  },
+  {
+    "id": "emod_armorslots_ferrosfibrous.Description.UIName",
+    "content": "纤维钢装甲"
+  },
+  {
+    "id": "emod_armorslots_ferrosfibrous.Description.Name",
+    "content": "纤维钢装甲"
+  },
+  {
+    "id": "emod_armorslots_ferrosfibrous.Description.Manufacturer",
+    "content": "L.A.W."
+  },
+  {
+    "id": "emod_armorslots_HeatDissipating.Description.Details",
+    "content": "散热装甲是氏族战斗服使用的耐火装甲的衍生物.由卡佩兰联邦发明,在完好无损的情况下,可以降低开火或燃烧武器对机甲换热系统的影响.和一些特专用装甲不同,它对大多数武器都有效,但装甲体积的增大(来自额外的隔热材料和改进密封剂)导致单位重量下防护能力降低."
+  },
+  {
+    "id": "emod_armorslots_HeatDissipating.Description.UIName",
+    "content": "散热装甲"
+  },
+  {
+    "id": "emod_armorslots_HeatDissipating.Description.Name",
+    "content": "散热装甲"
+  },
+  {
+    "id": "emod_armorslots_HeatDissipating.Description.Manufacturer",
+    "content": "L.A.W."
+  },
+  {
+    "id": "emod_armorslots_HeatDissipating.HeatDamageTaken_Salamander.statusEffects0.Details",
+    "content": "-20%产热"
+  },
+  {
+    "id": "emod_armorslots_HeatDissipating.HeatDamageTaken_Salamander.statusEffects0.Name",
+    "content": "减少产热"
+  },
+  {
+    "id": "emod_armorslots_heavyferrosfibrous.Description.Details",
+    "content": "重型纤维钢(FF)装甲由杜拉莱克斯为天琴同盟国研发,基于内天体对轻型纤维钢的尝试.使用钢、钛合金和碳纳米管纤维编织而成,提高了装甲板的强度,同等重量下比标准装甲提供了更多的防护,但是占用机甲和车辆的空间也更多."
+  },
+  {
+    "id": "emod_armorslots_heavyferrosfibrous.Description.UIName",
+    "content": "重型纤维钢装甲"
+  },
+  {
+    "id": "emod_armorslots_heavyferrosfibrous.Description.Name",
+    "content": "重型纤维钢装甲"
+  },
+  {
+    "id": "emod_armorslots_heavyferrosfibrous.Description.Manufacturer",
+    "content": "杜拉莱克斯"
+  },
+  {
+    "id": "emod_armorslots_impactresistant.Description.Details",
+    "content": "抗冲击装甲最初由天琴同盟国的工程师开发,被索拉里斯VII或其他角斗士战斗世界使用.装甲由互锁环和覆盖在上面的柔性密封剂组成,由类似于坦克履带板的柔性外壳包裹.这些锁环在受到近战武器冲击时会弯曲以缓冲伤害.尽管该装甲对实体近战武器很有效,但活动的装甲也意味着难以在战斗环境中对抗穿甲弹药.占用6槽位."
+  },
+  {
+    "id": "emod_armorslots_impactresistant.Description.UIName",
+    "content": "耐冲击装甲"
+  },
+  {
+    "id": "emod_armorslots_impactresistant.Description.Name",
+    "content": "耐冲击装甲"
+  },
+  {
+    "id": "emod_armorslots_impactresistant.Description.Manufacturer",
+    "content": "索拉里斯"
+  },
+  {
+    "id": "emod_armorslots_impactresistant.MeleeResistPunch.statusEffects0.Details",
+    "content": "降低即将到来的近战伤害和额外近战伤害."
+  },
+  {
+    "id": "emod_armorslots_impactresistant.MeleeResistPunchStab.statusEffects1.Details",
+    "content": "降低即将到来的近战伤害和额外近战伤害."
+  },
+  {
+    "id": "emod_armorslots_impactresistant.MeleeResistKick.statusEffects2.Details",
+    "content": "降低即将到来的近战伤害和额外近战伤害."
+  },
+  {
+    "id": "emod_armorslots_impactresistant.MeleeResistKickStab.statusEffects3.Details",
+    "content": "降低即将到来的近战伤害和额外近战伤害."
+  },
+  {
+    "id": "emod_armorslots_impactresistant.MeleeResistPhysDmg.statusEffects4.Details",
+    "content": "降低即将到来的近战伤害和额外近战伤害."
+  },
+  {
+    "id": "emod_armorslots_impactresistant.MeleeResistPhysStab.statusEffects5.Details",
+    "content": "降低即将到来的近战伤害和额外近战伤害."
+  },
+  {
+    "id": "emod_armorslots_impactresistant.MeleeResist.statusEffects6.Details",
+    "content": "降低即将到来的近战伤害和额外近战伤害."
+  },
+  {
+    "id": "emod_armorslots_impactresistant.MeleeResistChargeStab.statusEffects7.Details",
+    "content": "降低即将到来的近战伤害和额外近战伤害."
+  },
+  {
+    "id": "emod_armorslots_impactresistant.MeleeResistDFA.statusEffects8.Details",
+    "content": "降低即将到来的近战伤害和额外近战伤害."
+  },
+  {
+    "id": "emod_armorslots_impactresistant.MeleeResistDFAStab.statusEffects9.Details",
+    "content": "降低即将到来的近战伤害和额外近战伤害."
+  },
+  {
+    "id": "emod_armorslots_impactresistant.ImpactCritPenalty.statusEffects10.Details",
+    "content": "更快的速度."
+  },
+  {
+    "id": "emod_armorslots_impactresistant.MeleeResistPunch.statusEffects0.Name",
+    "content": "近战击打抵抗"
+  },
+  {
+    "id": "emod_armorslots_impactresistant.MeleeResistPunchStab.statusEffects1.Name",
+    "content": "近战击打稳定伤害抵抗"
+  },
+  {
+    "id": "emod_armorslots_impactresistant.MeleeResistKick.statusEffects2.Name",
+    "content": "近战撞击伤害抵抗"
+  },
+  {
+    "id": "emod_armorslots_impactresistant.MeleeResistKickStab.statusEffects3.Name",
+    "content": "近战踢击稳定伤害抵抗"
+  },
+  {
+    "id": "emod_armorslots_impactresistant.MeleeResistPhysDmg.statusEffects4.Name",
+    "content": "近战实体武器抵抗"
+  },
+  {
+    "id": "emod_armorslots_impactresistant.MeleeResistPhysStab.statusEffects5.Name",
+    "content": "近战实体武器稳定伤害抵抗"
+  },
+  {
+    "id": "emod_armorslots_impactresistant.MeleeResist.statusEffects6.Name",
+    "content": "近战撞击伤害抵抗"
+  },
+  {
+    "id": "emod_armorslots_impactresistant.MeleeResistChargeStab.statusEffects7.Name",
+    "content": "近战撞击稳定伤害抵抗"
+  },
+  {
+    "id": "emod_armorslots_impactresistant.MeleeResistDFA.statusEffects8.Name",
+    "content": "近战DFA抵抗"
+  },
+  {
+    "id": "emod_armorslots_impactresistant.MeleeResistDFAStab.statusEffects9.Name",
+    "content": "近战DFA稳定抵抗"
+  },
+  {
+    "id": "emod_armorslots_impactresistant.ImpactCritPenalty.statusEffects10.Name",
+    "content": "冲刺撞击"
+  },
+  {
+    "id": "emod_armorslots_lightferrosfibrous.Description.Details",
+    "content": "轻型纤维钢(FF)装甲是内天体模仿星联防卫军(SLDF)纤维钢装甲的一种尝试.使用钢、钛合金和碳纳米管纤维编织而成,提高了装甲板的强度,同等重量下比标准装甲提供了更多的防护,但是占用机甲和车辆的空间也更多."
+  },
+  {
+    "id": "emod_armorslots_lightferrosfibrous.Description.UIName",
+    "content": "轻型纤维钢装甲"
+  },
+  {
+    "id": "emod_armorslots_lightferrosfibrous.Description.Name",
+    "content": "轻型纤维钢装甲"
+  },
+  {
+    "id": "emod_armorslots_lightferrosfibrous.Description.Manufacturer",
+    "content": "卡隆"
+  },
+  {
+    "id": "emod_armorslots_stealth.Description.Details",
+    "content": "由卡佩兰联邦开发的隐身装甲相当于星联时代零信号系统.除头部外的每个部位占用1个槽位并且需要ECM."
+  },
+  {
+    "id": "emod_armorslots_stealth.Description.UIName",
+    "content": "隐身装甲"
+  },
+  {
+    "id": "emod_armorslots_stealth.Description.Name",
+    "content": "隐身装甲"
+  },
+  {
+    "id": "emod_armorslots_stealth.Description.Manufacturer",
+    "content": "胜利兵器"
+  },
+  {
+    "id": "emod_armorslots_stealth.LV_Stealth_Effect.CAE0.Details",
+    "content": "使携带隐身设备的单位更难被发现和侦测"
+  },
+  {
+    "id": "emod_armorslots_stealth.Stealth_Signature_Decrease_Stealth.CAE1.Details",
+    "content": "信号特征状态效果."
+  },
+  {
+    "id": "emod_armorslots_stealth.Stealth_Visibility_Decrease_Stealth.CAE2.Details",
+    "content": "可见性状态效果."
+  },
+  {
+    "id": "emod_armorslots_stealth.Stealth_Heat_Generation_Stealth.CAE3.Details",
+    "content": "增加热量"
+  },
+  {
+    "id": "emod_armorslots_stealth.Stealth_Heat_Capacity_Stealth.CAE4.Details",
+    "content": "降低散热能力"
+  },
+  {
+    "id": "emod_armorslots_stealth.LV_Stealth_Effect.CAE0.Name",
+    "content": "隐身"
+  },
+  {
+    "id": "emod_armorslots_stealth.Stealth_Signature_Decrease_Stealth.CAE1.Name",
+    "content": "减少隐身信号特征"
+  },
+  {
+    "id": "emod_armorslots_stealth.Stealth_Visibility_Decrease_Stealth.CAE2.Name",
+    "content": "降低隐身可见性"
+  },
+  {
+    "id": "emod_armorslots_stealth.Stealth_Heat_Generation_Stealth.CAE3.Name",
+    "content": "增加热量"
+  },
+  {
+    "id": "emod_armorslots_stealth.Stealth_Heat_Capacity_Stealth.CAE4.Name",
+    "content": "降低散热能力"
+  },
+  {
+    "id": "emod_armorslots_stealth_CLAN.Description.Details",
+    "content": "见到卡佩兰联邦在氏族入侵时期制造的隐身装甲,氏族科学家学会开始研究并融合氏族科技.主要用于实验低成本隐身单位.占用6槽位并且需要ECM. <b><color=#00ff00>启用CASE</color></b>"
+  },
+  {
+    "id": "emod_armorslots_stealth_CLAN.Description.UIName",
+    "content": "隐身装甲(C)"
+  },
+  {
+    "id": "emod_armorslots_stealth_CLAN.Description.Name",
+    "content": "隐身装甲(C)"
+  },
+  {
+    "id": "emod_armorslots_stealth_CLAN.Description.Manufacturer",
+    "content": "科学家学会"
+  },
+  {
+    "id": "emod_armorslots_stealth_CLAN.LV_Stealth_Effect.CAE0.Details",
+    "content": "使携带隐身设备的单位更难被发现和侦测"
+  },
+  {
+    "id": "emod_armorslots_stealth_CLAN.Stealth_Signature_Decrease_CSTEALTH.CAE1.Details",
+    "content": "信号特征状态效果."
+  },
+  {
+    "id": "emod_armorslots_stealth_CLAN.Stealth_Visibility_Decrease_CSTEALTH.CAE2.Details",
+    "content": "可见性状态效果."
+  },
+  {
+    "id": "emod_armorslots_stealth_CLAN.Stealth_Heat_Generation_CSTEALTH.CAE3.Details",
+    "content": "增加热量"
+  },
+  {
+    "id": "emod_armorslots_stealth_CLAN.Stealth_Heat_Capacity_CSTEALTH.CAE4.Details",
+    "content": "降低散热能力"
+  },
+  {
+    "id": "emod_armorslots_stealth_CLAN.LV_Stealth_Effect.CAE0.Name",
+    "content": "隐身"
+  },
+  {
+    "id": "emod_armorslots_stealth_CLAN.Stealth_Signature_Decrease_CSTEALTH.CAE1.Name",
+    "content": "减少隐身信号特征"
+  },
+  {
+    "id": "emod_armorslots_stealth_CLAN.Stealth_Visibility_Decrease_CSTEALTH.CAE2.Name",
+    "content": "降低隐身可见性"
+  },
+  {
+    "id": "emod_armorslots_stealth_CLAN.Stealth_Heat_Generation_CSTEALTH.CAE3.Name",
+    "content": "增加热量"
+  },
+  {
+    "id": "emod_armorslots_stealth_CLAN.Stealth_Heat_Capacity_CSTEALTH.CAE4.Name",
+    "content": "降低散热能力"
+  },
+  {
+    "id": "emod_armorslots_superheavy_stealth.Description.Details",
+    "content": "超重型隐身装甲由卡佩兰联邦开发,它试图赋予重型机甲隐身能力.占用12槽位并且需要ECM."
+  },
+  {
+    "id": "emod_armorslots_superheavy_stealth.Description.UIName",
+    "content": "超重型隐身装甲"
+  },
+  {
+    "id": "emod_armorslots_superheavy_stealth.Description.Name",
+    "content": "隐身装甲"
+  },
+  {
+    "id": "emod_armorslots_superheavy_stealth.Description.Manufacturer",
+    "content": "胜利兵器"
+  },
+  {
+    "id": "emod_armorslots_superheavy_stealth.LV_Stealth_Effect.CAE0.Details",
+    "content": "使携带隐身设备的单位更难被发现和侦测"
+  },
+  {
+    "id": "emod_armorslots_superheavy_stealth.Stealth_Signature_Decrease_Stealth.CAE1.Details",
+    "content": "信号特征状态效果."
+  },
+  {
+    "id": "emod_armorslots_superheavy_stealth.Stealth_Visibility_Decrease_Stealth.CAE2.Details",
+    "content": "可见性状态效果."
+  },
+  {
+    "id": "emod_armorslots_superheavy_stealth.Stealth_Heat_Generation_Stealth.CAE3.Details",
+    "content": "增加热量"
+  },
+  {
+    "id": "emod_armorslots_superheavy_stealth.Stealth_Heat_Capacity_Stealth.CAE4.Details",
+    "content": "降低散热能力"
+  },
+  {
+    "id": "emod_armorslots_superheavy_stealth.LV_Stealth_Effect.CAE0.Name",
+    "content": "隐身"
+  },
+  {
+    "id": "emod_armorslots_superheavy_stealth.Stealth_Signature_Decrease_Stealth.CAE1.Name",
+    "content": "减少隐身信号特征"
+  },
+  {
+    "id": "emod_armorslots_superheavy_stealth.Stealth_Visibility_Decrease_Stealth.CAE2.Name",
+    "content": "降低隐身可见性"
+  },
+  {
+    "id": "emod_armorslots_superheavy_stealth.Stealth_Heat_Generation_Stealth.CAE3.Name",
+    "content": "增加热量"
+  },
+  {
+    "id": "emod_armorslots_superheavy_stealth.Stealth_Heat_Capacity_Stealth.CAE4.Name",
+    "content": "降低散热能力"
+  },
+  {
+    "id": "emod_armorslots_superheavy_stealth_CLAN.Description.UIName",
+    "content": "超重型隐身装甲(C)"
+  },
+  {
+    "id": "emod_armorslots_superheavy_stealth_CLAN.Description.Name",
+    "content": "超重型隐身装甲(C)"
+  },
+  {
+    "id": "emod_armorslots_superheavy_stealth_CLAN.Description.Manufacturer",
+    "content": "钻石鲨氏族"
+  },
+  {
+    "id": "emod_armorslots_superheavy_stealth_CLAN.LV_Stealth_Effect.CAE0.Details",
+    "content": "使携带隐身设备的单位更难被发现和侦测"
+  },
+  {
+    "id": "emod_armorslots_superheavy_stealth_CLAN.Stealth_Signature_Decrease_Stealth.CAE1.Details",
+    "content": "信号特征状态效果."
+  },
+  {
+    "id": "emod_armorslots_superheavy_stealth_CLAN.Stealth_Visibility_Decrease_Stealth.CAE2.Details",
+    "content": "可见性状态效果."
+  },
+  {
+    "id": "emod_armorslots_superheavy_stealth_CLAN.Stealth_Heat_Generation_Stealth.CAE3.Details",
+    "content": "增加热量"
+  },
+  {
+    "id": "emod_armorslots_superheavy_stealth_CLAN.Stealth_Heat_Capacity_Stealth.CAE4.Details",
+    "content": "降低散热能力"
+  },
+  {
+    "id": "emod_armorslots_superheavy_stealth_CLAN.LV_Stealth_Effect.CAE0.Name",
+    "content": "隐身"
+  },
+  {
+    "id": "emod_armorslots_superheavy_stealth_CLAN.Stealth_Signature_Decrease_Stealth.CAE1.Name",
+    "content": "减少隐身信号特征"
+  },
+  {
+    "id": "emod_armorslots_superheavy_stealth_CLAN.Stealth_Visibility_Decrease_Stealth.CAE2.Name",
+    "content": "降低隐身可见性"
+  },
+  {
+    "id": "emod_armorslots_superheavy_stealth_CLAN.Stealth_Heat_Generation_Stealth.CAE3.Name",
+    "content": "增加热量"
+  },
+  {
+    "id": "emod_armorslots_superheavy_stealth_CLAN.Stealth_Heat_Capacity_Stealth.CAE4.Name",
+    "content": "降低散热能力"
+  },
+  {
+    "id": "Gear_Active_Camouflage.Description.Details",
+    "content": "主动伪装系统能被添加到现有的隐身装甲中,使其获得伪装能力.在除头部外的每个部位占用1位,需要隐身装甲."
+  },
+  {
+    "id": "Gear_Active_Camouflage.Description.UIName",
+    "content": "主动伪装系统"
+  },
+  {
+    "id": "Gear_Active_Camouflage.Description.Name",
+    "content": "主动伪装系统"
+  },
+  {
+    "id": "Gear_Active_Camouflage.Description.Manufacturer",
+    "content": "原型"
+  },
+  {
+    "id": "Gear_Active_Camouflage.LV_MIMETIC.CAE0.Details",
+    "content": "使携带隐身设备的单位更被肉眼看到"
+  },
+  {
+    "id": "Gear_Active_Camouflage.Stealth_Visibility_Decrease_Stealth.CAE1.Details",
+    "content": "可见性状态效果."
+  },
+  {
+    "id": "Gear_Active_Camouflage.Stealth_Heat_Generation_Stealth.CAE2.Details",
+    "content": "增加热量"
+  },
+  {
+    "id": "Gear_Active_Camouflage.Stealth_Heat_Capacity_Stealth.CAE3.Details",
+    "content": "降低散热能力"
+  },
+  {
+    "id": "Gear_Active_Camouflage.LV_MIMETIC.CAE0.Name",
+    "content": "伪装装甲"
+  },
+  {
+    "id": "Gear_Active_Camouflage.Stealth_Visibility_Decrease_Stealth.CAE1.Name",
+    "content": "降低隐身可见性"
+  },
+  {
+    "id": "Gear_Active_Camouflage.Stealth_Heat_Generation_Stealth.CAE2.Name",
+    "content": "增加热量"
+  },
+  {
+    "id": "Gear_Active_Camouflage.Stealth_Heat_Capacity_Stealth.CAE3.Name",
+    "content": "降低散热能力"
+  },
+  {
+    "id": "Gear_armorslots_Hardened.Description.Details",
+    "content": "硬化装甲是一种较厚的装甲类型,它使用了多个叠加的装甲板为抵御敌人的火力提供额外防护.虽然能够承受比标准装甲更多的伤害,但过多的装甲板数量和缺少灵活性使得使用它的任何单位都更难驾驶,事实上,硬化装甲非常重,无法安装在气垫船、VTOL或地效飞行器上.降低即将到来的致命损伤."
+  },
+  {
+    "id": "Gear_armorslots_Hardened.Description.UIName",
+    "content": "硬化装甲"
+  },
+  {
+    "id": "Gear_armorslots_Hardened.Description.Name",
+    "content": "硬化装甲"
+  },
+  {
+    "id": "Gear_armorslots_Hardened.Description.Manufacturer",
+    "content": "NAIS"
+  },
+  {
+    "id": "Gear_armorslots_Hardened.HardenedPenaltyWalk.statusEffects0.Details",
+    "content": "更快的速度."
+  },
+  {
+    "id": "Gear_armorslots_Hardened.HardenedCritImmune.statusEffects1.Details",
+    "content": "更快的速度."
+  },
+  {
+    "id": "Gear_armorslots_Hardened.HardenedPenaltyWalk.statusEffects0.Name",
+    "content": "冲刺撞击"
+  },
+  {
+    "id": "Gear_armorslots_Hardened.HardenedCritImmune.statusEffects1.Name",
+    "content": "冲刺撞击"
+  },
+  {
+    "id": "Gear_armorslots_MimeticArmor.Description.Details",
+    "content": "伪装装甲是零信号系统的前身,它可以让一个单位在视觉上与周围环境融合,使其在战斗中更难以发现和跟踪.在除头部外的每一个部位占1槽位,需要ECM."
+  },
+  {
+    "id": "Gear_armorslots_MimeticArmor.Description.UIName",
+    "content": "伪装装甲"
+  },
+  {
+    "id": "Gear_armorslots_MimeticArmor.Description.Name",
+    "content": "伪装装甲"
+  },
+  {
+    "id": "Gear_armorslots_MimeticArmor.Description.Manufacturer",
+    "content": "原型"
+  },
+  {
+    "id": "Gear_armorslots_MimeticArmor.LV_MIMETIC.CAE0.Details",
+    "content": "使携带隐身设备的单位更被肉眼看到"
+  },
+  {
+    "id": "Gear_armorslots_MimeticArmor.Stealth_Signature_Decrease_Stealth.CAE1.Details",
+    "content": "信号特征状态效果."
+  },
+  {
+    "id": "Gear_armorslots_MimeticArmor.Stealth_Visibility_Decrease_Stealth.CAE2.Details",
+    "content": "可见性状态效果."
+  },
+  {
+    "id": "Gear_armorslots_MimeticArmor.Stealth_Heat_Generation_Stealth.CAE3.Details",
+    "content": "增加热量"
+  },
+  {
+    "id": "Gear_armorslots_MimeticArmor.Stealth_Heat_Capacity_Stealth.CAE4.Details",
+    "content": "降低散热能力"
+  },
+  {
+    "id": "Gear_armorslots_MimeticArmor.LV_MIMETIC.CAE0.Name",
+    "content": "伪装装甲"
+  },
+  {
+    "id": "Gear_armorslots_MimeticArmor.Stealth_Signature_Decrease_Stealth.CAE1.Name",
+    "content": "减少隐身信号特征"
+  },
+  {
+    "id": "Gear_armorslots_MimeticArmor.Stealth_Visibility_Decrease_Stealth.CAE2.Name",
+    "content": "降低隐身可见性"
+  },
+  {
+    "id": "Gear_armorslots_MimeticArmor.Stealth_Heat_Generation_Stealth.CAE3.Name",
+    "content": "增加热量"
+  },
+  {
+    "id": "Gear_armorslots_MimeticArmor.Stealth_Heat_Capacity_Stealth.CAE4.Name",
+    "content": "降低散热能力"
+  },
+  {
+    "id": "Gear_armorslots_NullSignatureSystem.Description.Details",
+    "content": "零信号系统(NSS)是卡佩兰联邦为了重现失落的星联ECM做出的一项努力.升级的隐形装甲可以减少敌人攻击的命中率,以产生热量为代价来降低传感器信号特征.在除头部外每个部位占用1个槽位,需要ECM."
+  },
+  {
+    "id": "Gear_armorslots_NullSignatureSystem.Description.UIName",
+    "content": "零信号系统"
+  },
+  {
+    "id": "Gear_armorslots_NullSignatureSystem.Description.Name",
+    "content": "零信号系统"
+  },
+  {
+    "id": "Gear_armorslots_NullSignatureSystem.Description.Manufacturer",
+    "content": "原型"
+  },
+  {
+    "id": "Gear_armorslots_NullSignatureSystem.LV_Stealth_Effect.CAE0.Details",
+    "content": "使携带隐身设备的单位更难被发现和侦测"
+  },
+  {
+    "id": "Gear_armorslots_NullSignatureSystem.Stealth_Signature_Decrease_Stealth.CAE1.Details",
+    "content": "信号特征状态效果."
+  },
+  {
+    "id": "Gear_armorslots_NullSignatureSystem.Stealth_Heat_Generation_Stealth.CAE2.Details",
+    "content": "增加热量"
+  },
+  {
+    "id": "Gear_armorslots_NullSignatureSystem.Stealth_Heat_Capacity_Stealth.CAE3.Details",
+    "content": "降低散热能力"
+  },
+  {
+    "id": "Gear_armorslots_NullSignatureSystem.LV_Stealth_Effect.CAE0.Name",
+    "content": "隐身"
+  },
+  {
+    "id": "Gear_armorslots_NullSignatureSystem.Stealth_Signature_Decrease_Stealth.CAE1.Name",
+    "content": "减少隐身信号特征"
+  },
+  {
+    "id": "Gear_armorslots_NullSignatureSystem.Stealth_Heat_Generation_Stealth.CAE2.Name",
+    "content": "增加热量"
+  },
+  {
+    "id": "Gear_armorslots_NullSignatureSystem.Stealth_Heat_Capacity_Stealth.CAE3.Name",
+    "content": "降低散热能力"
+  },
+  {
+    "id": "Gear_armorslots_Spiked.Description.Details",
+    "content": "一种典型的抗冲击和硬化装甲的深空外围衍生品,使用了天琴座索拉里斯星尖刺,交错硬化的尖刺在外部覆盖了整部机体,以过高的装甲重量为代价,为最激烈的角斗中带来优势."
+  },
+  {
+    "id": "Gear_armorslots_Spiked.Description.UIName",
+    "content": "尖刺装甲"
+  },
+  {
+    "id": "Gear_armorslots_Spiked.Description.Name",
+    "content": "尖刺装甲"
+  },
+  {
+    "id": "Gear_armorslots_Spiked.Description.Manufacturer",
+    "content": "WANG"
+  },
+  {
+    "id": "Gear_armorslots_Spiked.MeleeResistPunch.statusEffects0.Details",
+    "content": "降低即将到来的近战伤害和额外近战伤害."
+  },
+  {
+    "id": "Gear_armorslots_Spiked.MeleeResistPunchStab.statusEffects1.Details",
+    "content": "降低即将到来的近战伤害和额外近战伤害."
+  },
+  {
+    "id": "Gear_armorslots_Spiked.MeleeResistKick.statusEffects2.Details",
+    "content": "降低即将到来的近战伤害和额外近战伤害."
+  },
+  {
+    "id": "Gear_armorslots_Spiked.MeleeResistKickStab.statusEffects3.Details",
+    "content": "降低即将到来的近战伤害和额外近战伤害."
+  },
+  {
+    "id": "Gear_armorslots_Spiked.MeleeResistPhysDmg.statusEffects4.Details",
+    "content": "降低即将到来的近战伤害和额外近战伤害."
+  },
+  {
+    "id": "Gear_armorslots_Spiked.MeleeResistPhysStab.statusEffects5.Details",
+    "content": "降低即将到来的近战伤害和额外近战伤害."
+  },
+  {
+    "id": "Gear_armorslots_Spiked.MeleeResist.statusEffects6.Details",
+    "content": "降低即将到来的近战伤害和额外近战伤害."
+  },
+  {
+    "id": "Gear_armorslots_Spiked.MeleeResistChargeStab.statusEffects7.Details",
+    "content": "降低即将到来的近战伤害和额外近战伤害."
+  },
+  {
+    "id": "Gear_armorslots_Spiked.MeleeResistDFA.statusEffects8.Details",
+    "content": "降低即将到来的近战伤害和额外近战伤害."
+  },
+  {
+    "id": "Gear_armorslots_Spiked.MeleeResistDFAStab.statusEffects9.Details",
+    "content": "降低即将到来的近战伤害和额外近战伤害."
+  },
+  {
+    "id": "Gear_armorslots_Spiked.SpikedPlatesMelee.statusEffects10.Details",
+    "content": "-20%跳跃距离"
+  },
+  {
+    "id": "Gear_armorslots_Spiked.SpikedPlatesMelee.statusEffects11.Details",
+    "content": "-20%跳跃距离"
+  },
+  {
+    "id": "Gear_armorslots_Spiked.HardenedPenaltyWalk.statusEffects12.Details",
+    "content": "更快的速度."
+  },
+  {
+    "id": "Gear_armorslots_Spiked.HardenedCritImmune.statusEffects13.Details",
+    "content": "更快的速度."
+  },
+  {
+    "id": "Gear_armorslots_Spiked.MeleeResistPunch.statusEffects0.Name",
+    "content": "近战击打抵抗"
+  },
+  {
+    "id": "Gear_armorslots_Spiked.MeleeResistPunchStab.statusEffects1.Name",
+    "content": "近战击打稳定伤害抵抗"
+  },
+  {
+    "id": "Gear_armorslots_Spiked.MeleeResistKick.statusEffects2.Name",
+    "content": "近战撞击伤害抵抗"
+  },
+  {
+    "id": "Gear_armorslots_Spiked.MeleeResistKickStab.statusEffects3.Name",
+    "content": "近战踢击稳定伤害抵抗"
+  },
+  {
+    "id": "Gear_armorslots_Spiked.MeleeResistPhysDmg.statusEffects4.Name",
+    "content": "近战实体武器抵抗"
+  },
+  {
+    "id": "Gear_armorslots_Spiked.MeleeResistPhysStab.statusEffects5.Name",
+    "content": "近战实体武器稳定伤害抵抗"
+  },
+  {
+    "id": "Gear_armorslots_Spiked.MeleeResist.statusEffects6.Name",
+    "content": "近战撞击伤害抵抗"
+  },
+  {
+    "id": "Gear_armorslots_Spiked.MeleeResistChargeStab.statusEffects7.Name",
+    "content": "近战撞击稳定伤害抵抗"
+  },
+  {
+    "id": "Gear_armorslots_Spiked.MeleeResistDFA.statusEffects8.Name",
+    "content": "近战DFA抵抗"
+  },
+  {
+    "id": "Gear_armorslots_Spiked.MeleeResistDFAStab.statusEffects9.Name",
+    "content": "近战DFA稳定抵抗"
+  },
+  {
+    "id": "Gear_armorslots_Spiked.SpikedPlatesMelee.statusEffects10.Name",
+    "content": "跳跃距离"
+  },
+  {
+    "id": "Gear_armorslots_Spiked.SpikedPlatesMelee.statusEffects11.Name",
+    "content": "跳跃距离"
+  },
+  {
+    "id": "Gear_armorslots_Spiked.HardenedPenaltyWalk.statusEffects12.Name",
+    "content": "冲刺撞击"
+  },
+  {
+    "id": "Gear_armorslots_Spiked.HardenedCritImmune.statusEffects13.Name",
+    "content": "冲刺撞击"
+  },
+  {
+    "id": "Gear_armorslots_VoidSignatureSystem.Description.Details",
+    "content": "空白信号系统(VSS)是星联时代系统的混血进化,如变色龙偏光护盾和零信号系统.本质上是战斗服隐身装甲的放大版,空白信号系统在配套的ECM套件的帮助下,保护战斗机甲的存在免受视觉和电信号检测到.在除头部外的部位占用1个槽位."
+  },
+  {
+    "id": "Gear_armorslots_VoidSignatureSystem.Description.UIName",
+    "content": "空白信号系统"
+  },
+  {
+    "id": "Gear_armorslots_VoidSignatureSystem.Description.Name",
+    "content": "空白信号系统"
+  },
+  {
+    "id": "Gear_armorslots_VoidSignatureSystem.Description.Manufacturer",
+    "content": "原型"
+  },
+  {
+    "id": "Gear_armorslots_VoidSignatureSystem.LV_MIMETIC.CAE0.Details",
+    "content": "使携带隐身设备的单位更被肉眼看到"
+  },
+  {
+    "id": "Gear_armorslots_VoidSignatureSystem.Stealth_Signature_Decrease_Stealth.CAE1.Details",
+    "content": "信号特征状态效果."
+  },
+  {
+    "id": "Gear_armorslots_VoidSignatureSystem.Stealth_Visibility_Decrease_Stealth.CAE2.Details",
+    "content": "可见性状态效果."
+  },
+  {
+    "id": "Gear_armorslots_VoidSignatureSystem.Stealth_Heat_Generation_Stealth.CAE3.Details",
+    "content": "增加热量"
+  },
+  {
+    "id": "Gear_armorslots_VoidSignatureSystem.Stealth_Heat_Capacity_Stealth.CAE4.Details",
+    "content": "降低散热能力"
+  },
+  {
+    "id": "Gear_armorslots_VoidSignatureSystem.LV_MIMETIC.CAE0.Name",
+    "content": "伪装装甲"
+  },
+  {
+    "id": "Gear_armorslots_VoidSignatureSystem.Stealth_Signature_Decrease_Stealth.CAE1.Name",
+    "content": "减少隐身信号特征"
+  },
+  {
+    "id": "Gear_armorslots_VoidSignatureSystem.Stealth_Visibility_Decrease_Stealth.CAE2.Name",
+    "content": "降低隐身可见性"
+  },
+  {
+    "id": "Gear_armorslots_VoidSignatureSystem.Stealth_Heat_Generation_Stealth.CAE3.Name",
+    "content": "增加热量"
+  },
+  {
+    "id": "Gear_armorslots_VoidSignatureSystem.Stealth_Heat_Capacity_Stealth.CAE4.Name",
+    "content": "降低散热能力"
+  },
+  {
+    "id": "Gear_Ballistic_Reinforced_Armor.Description.Details",
+    "content": "弹道强化装甲是为了对抗自动加农炮和导弹武器.这种装甲是硬化装甲和反应装甲的组合,可以减少弹道武器和导弹武器的伤害.这种装甲也被称为\"强化\"装甲,但许多技术人员使用\"轻型硬化\"来描述它,它是一种由钢缆网支撑的薄版硬化装甲,能扭曲和捕捉导弹和弹道弹药."
+  },
+  {
+    "id": "Gear_Ballistic_Reinforced_Armor.Description.UIName",
+    "content": "弹道强化装甲"
+  },
+  {
+    "id": "Gear_Ballistic_Reinforced_Armor.Description.Name",
+    "content": "弹道强化装甲"
+  },
+  {
+    "id": "Gear_Ballistic_Reinforced_Armor.Description.Manufacturer",
+    "content": "L.A.W."
+  },
+  {
+    "id": "Gear_Ballistic_Reinforced_Armor.StatusEffect-ReactiveBonus1.statusEffects0.Details",
+    "content": "受到更少的能量伤害."
+  },
+  {
+    "id": "Gear_Ballistic_Reinforced_Armor.StatusEffect-ReactiveBonus2.statusEffects1.Details",
+    "content": "受到更少的能量伤害."
+  },
+  {
+    "id": "Gear_Ballistic_Reinforced_Armor.StatusEffect-ReactiveBonus1.statusEffects0.Name",
+    "content": "反射涂层"
+  },
+  {
+    "id": "Gear_Ballistic_Reinforced_Armor.StatusEffect-ReactiveBonus2.statusEffects1.Name",
+    "content": "反射涂层"
+  },
+  {
+    "id": "Gear_HeavyFerro_VoidSignatureSystem.Description.Details",
+    "content": "空白信号系统(VSS)是星联时代系统的混血进化,如变色龙偏光护盾和零信号系统.本质上是战斗服隐身装甲的放大版,空白信号系统在配套的ECM套件的帮助下,保护战斗机甲的存在免受视觉和电信号检测到.在除头部外的部位占用2个槽位."
+  },
+  {
+    "id": "Gear_HeavyFerro_VoidSignatureSystem.Description.UIName",
+    "content": "重型空白信号系统"
+  },
+  {
+    "id": "Gear_HeavyFerro_VoidSignatureSystem.Description.Name",
+    "content": "空白信号系统"
+  },
+  {
+    "id": "Gear_HeavyFerro_VoidSignatureSystem.Description.Manufacturer",
+    "content": "原型"
+  },
+  {
+    "id": "Gear_HeavyFerro_VoidSignatureSystem.LV_MIMETIC.CAE0.Details",
+    "content": "使携带隐身设备的单位更被肉眼看到"
+  },
+  {
+    "id": "Gear_HeavyFerro_VoidSignatureSystem.Stealth_Signature_Decrease_Stealth.CAE1.Details",
+    "content": "信号特征状态效果."
+  },
+  {
+    "id": "Gear_HeavyFerro_VoidSignatureSystem.Stealth_Visibility_Decrease_Stealth.CAE2.Details",
+    "content": "可见性状态效果."
+  },
+  {
+    "id": "Gear_HeavyFerro_VoidSignatureSystem.Stealth_Heat_Generation_Stealth.CAE3.Details",
+    "content": "增加热量"
+  },
+  {
+    "id": "Gear_HeavyFerro_VoidSignatureSystem.Stealth_Heat_Capacity_Stealth.CAE4.Details",
+    "content": "降低散热能力"
+  },
+  {
+    "id": "Gear_HeavyFerro_VoidSignatureSystem.LV_MIMETIC.CAE0.Name",
+    "content": "伪装装甲"
+  },
+  {
+    "id": "Gear_HeavyFerro_VoidSignatureSystem.Stealth_Signature_Decrease_Stealth.CAE1.Name",
+    "content": "减少隐身信号特征"
+  },
+  {
+    "id": "Gear_HeavyFerro_VoidSignatureSystem.Stealth_Visibility_Decrease_Stealth.CAE2.Name",
+    "content": "降低隐身可见性"
+  },
+  {
+    "id": "Gear_HeavyFerro_VoidSignatureSystem.Stealth_Heat_Generation_Stealth.CAE3.Name",
+    "content": "增加热量"
+  },
+  {
+    "id": "Gear_HeavyFerro_VoidSignatureSystem.Stealth_Heat_Capacity_Stealth.CAE4.Name",
+    "content": "降低散热能力"
+  },
+  {
+    "id": "Gear_Reactive_Plating.Description.Details",
+    "content": "反应装甲(也称燃烧装甲)是一种特殊装甲,使用一系列微型爆炸来减少导弹、自动炮和迫击炮等爆炸性武器攻击的影响.占用10个槽位."
+  },
+  {
+    "id": "Gear_Reactive_Plating.Description.UIName",
+    "content": "反应装甲"
+  },
+  {
+    "id": "Gear_Reactive_Plating.Description.Name",
+    "content": "反应装甲"
+  },
+  {
+    "id": "Gear_Reactive_Plating.Description.Manufacturer",
+    "content": "L.A.W."
+  },
+  {
+    "id": "Gear_Reactive_Plating.StatusEffect-ReactiveBonus1.statusEffects0.Details",
+    "content": "受到更少的能量伤害."
+  },
+  {
+    "id": "Gear_Reactive_Plating.StatusEffect-ReactiveBonus2.statusEffects1.Details",
+    "content": "受到更少的能量伤害."
+  },
+  {
+    "id": "Gear_Reactive_Plating.HardenedCritImmune.statusEffects2.Details",
+    "content": "更快的速度."
+  },
+  {
+    "id": "Gear_Reactive_Plating.StatusEffect-ReactiveBonus1.statusEffects0.Name",
+    "content": "反射涂层"
+  },
+  {
+    "id": "Gear_Reactive_Plating.StatusEffect-ReactiveBonus2.statusEffects1.Name",
+    "content": "反射涂层"
+  },
+  {
+    "id": "Gear_Reactive_Plating.HardenedCritImmune.statusEffects2.Name",
+    "content": "冲刺撞击"
+  },
+  {
+    "id": "Gear_Reflective_Coating.Description.Details",
+    "content": "激光反射装甲可以比其他类型装甲更有效的对付能量武器,减少了安装它机甲所受的能量武器伤害.尽管名称不同,激光反射装甲对所有能量武器都有效,而不仅仅是激光.它对PPC、火焰喷射器、等离子线膛炮和加农炮的防御效果比较差.占用10槽位."
+  },
+  {
+    "id": "Gear_Reflective_Coating.Description.UIName",
+    "content": "反射涂层"
+  },
+  {
+    "id": "Gear_Reflective_Coating.Description.Name",
+    "content": "反射涂层"
+  },
+  {
+    "id": "Gear_Reflective_Coating.Description.Manufacturer",
+    "content": "皇家电弧"
+  },
+  {
+    "id": "Gear_Reflective_Coating.StatusEffect-Reflectivebonus.statusEffects0.Details",
+    "content": "受到更少的能量伤害."
+  },
+  {
+    "id": "Gear_Reflective_Coating.StatusEffect-Reflectivepenalty1.statusEffects1.Details",
+    "content": "受到更少的能量伤害."
+  },
+  {
+    "id": "Gear_Reflective_Coating.StatusEffect-Reflectivepenalty2.statusEffects2.Details",
+    "content": "受到更少的能量伤害."
+  },
+  {
+    "id": "Gear_Reflective_Coating.StatusEffect-Reflectivebonus.statusEffects0.Name",
+    "content": "反射涂层"
+  },
+  {
+    "id": "Gear_Reflective_Coating.StatusEffect-Reflectivepenalty1.statusEffects1.Name",
+    "content": "反射涂层"
+  },
+  {
+    "id": "Gear_Reflective_Coating.StatusEffect-Reflectivepenalty2.statusEffects2.Name",
+    "content": "反射涂层"
+  },
+  {
+    "id": "Gear_Signature_Damper.Description.Details",
+    "content": "与隐身装甲一起开发,可以将该系统添加到伪装装甲中,使其能够抵御大多数传感器的探测器.在除头部外的每个部位占用1槽位.需要伪装装甲."
+  },
+  {
+    "id": "Gear_Signature_Damper.Description.UIName",
+    "content": "信号抑制器"
+  },
+  {
+    "id": "Gear_Signature_Damper.Description.Name",
+    "content": "信号抑制器"
+  },
+  {
+    "id": "Gear_Signature_Damper.Description.Manufacturer",
+    "content": "胜利兵器"
+  },
+  {
+    "id": "Gear_Signature_Damper.LV_Stealth_Effect.CAE0.Details",
+    "content": "使携带隐身设备的单位更难被发现和侦测"
+  },
+  {
+    "id": "Gear_Signature_Damper.Stealth_Signature_Decrease_Stealth.CAE1.Details",
+    "content": "信号特征状态效果."
+  },
+  {
+    "id": "Gear_Signature_Damper.Stealth_Heat_Generation_Stealth.CAE2.Details",
+    "content": "增加热量"
+  },
+  {
+    "id": "Gear_Signature_Damper.Stealth_Heat_Capacity_Stealth.CAE3.Details",
+    "content": "降低散热能力"
+  },
+  {
+    "id": "Gear_Signature_Damper.LV_Stealth_Effect.CAE0.Name",
+    "content": "隐身"
+  },
+  {
+    "id": "Gear_Signature_Damper.Stealth_Signature_Decrease_Stealth.CAE1.Name",
+    "content": "减少隐身信号特征"
+  },
+  {
+    "id": "Gear_Signature_Damper.Stealth_Heat_Generation_Stealth.CAE2.Name",
+    "content": "增加热量"
+  },
+  {
+    "id": "Gear_Signature_Damper.Stealth_Heat_Capacity_Stealth.CAE3.Name",
+    "content": "降低散热能力"
+  },
+  {
+    "id": "Gear_Spall_Liner_Upgrade.Description.Details",
+    "content": "重击可以在不击穿装甲的情况下将装甲内层震成破片.这种强化衬里材料在承受伤害之前会减缓或捕捉这种碎片.有效降低遭受碎甲重击的机率.占用两个槽位."
+  },
+  {
+    "id": "Gear_Spall_Liner_Upgrade.Description.UIName",
+    "content": "防剥落衬层"
+  },
+  {
+    "id": "Gear_Spall_Liner_Upgrade.Description.Name",
+    "content": "防剥落衬层"
+  },
+  {
+    "id": "Gear_Spall_Liner_Upgrade.Description.Manufacturer",
+    "content": "L.A.W."
+  },
+  {
+    "id": "Gear_Spall_Liner_Upgrade.HardenedCritImmune.statusEffects0.Details",
+    "content": "更快的速度."
+  },
+  {
+    "id": "Gear_Spall_Liner_Upgrade.Spall_Liner_Effect2.statusEffects1.Details",
+    "content": "底盘受到更少伤害"
+  },
+  {
+    "id": "Gear_Spall_Liner_Upgrade.HardenedCritImmune.statusEffects0.Name",
+    "content": "冲刺撞击"
+  },
+  {
+    "id": "Gear_Spall_Liner_Upgrade.Spall_Liner_Effect2.statusEffects1.Name",
+    "content": "防剥落衬层"
+  },
+  {
+    "id": "Linked_ActiveCamouflage.Description.Details",
+    "content": "主动伪装系统能被添加到现有的隐身装甲中,使其获得伪装能力.在除头部外的每个部位占用1位,需要隐身装甲."
+  },
+  {
+    "id": "Linked_ActiveCamouflage.Description.UIName",
+    "content": "主动伪装系统"
+  },
+  {
+    "id": "Linked_ActiveCamouflage.Description.Name",
+    "content": "主动伪装系统"
+  },
+  {
+    "id": "Linked_ActiveCamouflage.Description.Manufacturer",
+    "content": "原型"
+  },
+  {
+    "id": "linked_ff_stealth.Description.Details",
+    "content": "赫勒海精简隐身装甲将隐身技术和纤维钢结合在一起,提供卓越的侦查和隐身能力.除头部外每个部位占用2槽位."
+  },
+  {
+    "id": "linked_ff_stealth.Description.UIName",
+    "content": "隐身纤维钢装甲"
+  },
+  {
+    "id": "linked_ff_stealth.Description.Name",
+    "content": "隐身装甲"
+  },
+  {
+    "id": "linked_ff_stealth.Description.Manufacturer",
+    "content": "胜利兵器"
+  },
+  {
+    "id": "Linked_MimeticArmor.Description.Details",
+    "content": "拟态装甲是零信号系统的前身,它可以让一个单位在视觉上与周围环境融合,使其在战斗中更难以发现和跟踪.在除头部外的每一个部位占1槽位,需要ECM."
+  },
+  {
+    "id": "Linked_MimeticArmor.Description.UIName",
+    "content": "拟态装甲"
+  },
+  {
+    "id": "Linked_MimeticArmor.Description.Name",
+    "content": "拟态装甲"
+  },
+  {
+    "id": "Linked_MimeticArmor.Description.Manufacturer",
+    "content": "原型"
+  },
+  {
+    "id": "Linked_NullSignatureSystem.Description.Details",
+    "content": "零信号系统(NSS)是卡普兰为了重现失落的星联ECM做出的一项努力.升级的隐形装甲可以减少敌人攻击的命中率,比以产生热量为代价来减少传感器和信号特征.占用6槽位,需要ECM."
+  },
+  {
+    "id": "Linked_NullSignatureSystem.Description.UIName",
+    "content": "零信号系统"
+  },
+  {
+    "id": "Linked_NullSignatureSystem.Description.Name",
+    "content": "零信号系统"
+  },
+  {
+    "id": "Linked_NullSignatureSystem.Description.Manufacturer",
+    "content": "原型"
+  },
+  {
+    "id": "Linked_SignatureDamper.Description.Details",
+    "content": "与隐身装甲一起开发,可以将该系统添加到拟态装甲中,使其能够抵御大多数传感器的探测.在除头部外的每个部位占用1槽位.需要拟态装甲."
+  },
+  {
+    "id": "Linked_SignatureDamper.Description.UIName",
+    "content": "信号抑制器"
+  },
+  {
+    "id": "Linked_SignatureDamper.Description.Name",
+    "content": "信号抑制器"
+  },
+  {
+    "id": "Linked_SignatureDamper.Description.Manufacturer",
+    "content": "胜利兵器"
+  },
+  {
+    "id": "Linked_stealth.Description.Details",
+    "content": "由卡佩兰联邦开发,隐身装甲是相当于星联时代零信号系统.占用6槽位.需要ECM."
+  },
+  {
+    "id": "Linked_stealth.Description.UIName",
+    "content": "隐身装甲"
+  },
+  {
+    "id": "Linked_stealth.Description.Name",
+    "content": "隐身装甲"
+  },
+  {
+    "id": "Linked_stealth.Description.Manufacturer",
+    "content": "胜利兵器"
+  },
+  {
+    "id": "Linked_stealth_clan.Description.Details",
+    "content": "见到卡佩兰联邦在氏族入侵时期制造的隐身装甲,氏族科学家学会开始研究并融合氏族科技.主要用于实验低成本隐身单位.占用6槽位并且需要ECM. <b><color=#00ff00>启用CASE</color></b>"
+  },
+  {
+    "id": "Linked_stealth_clan.Description.UIName",
+    "content": "隐身装甲(C)"
+  },
+  {
+    "id": "Linked_stealth_clan.Description.Name",
+    "content": "隐身装甲(C)"
+  },
+  {
+    "id": "Linked_stealth_clan.Description.Manufacturer",
+    "content": "科学家学会"
+  },
+  {
+    "id": "Linked_stealth_superheavy.Description.Details",
+    "content": "超重型隐身装甲是由卡佩兰联邦开发的,它试图赋予重型机甲隐身能力.占用12槽位并且需要ECM."
+  },
+  {
+    "id": "Linked_stealth_superheavy.Description.UIName",
+    "content": "超重型隐身装甲"
+  },
+  {
+    "id": "Linked_stealth_superheavy.Description.Name",
+    "content": "隐身装甲"
+  },
+  {
+    "id": "Linked_stealth_superheavy.Description.Manufacturer",
+    "content": "胜利兵器"
+  },
+  {
+    "id": "Linked_stealth_superheavy_CLAN.Description.Details",
+    "content": "超重型隐身装甲是由卡佩兰联邦开发的,它试图赋予重型机甲隐身能力.占用12槽位并且需要ECM."
+  },
+  {
+    "id": "Linked_stealth_superheavy_CLAN.Description.UIName",
+    "content": "超重型隐身装甲(C)"
+  },
+  {
+    "id": "Linked_stealth_superheavy_CLAN.Description.Name",
+    "content": "隐身装甲"
+  },
+  {
+    "id": "Linked_stealth_superheavy_CLAN.Description.Manufacturer",
+    "content": "钻石鲨氏族"
+  },
+  {
+    "id": "Linked_VoidSignatureSystem.Description.Details",
+    "content": "空白信号系统(VSS)是星联时代系统的混血进化,如变色龙偏光护盾和零信号系统.本质上战斗服隐身装甲的放大版,空白信号系统在配套的ECM套件的帮助下,保护战斗机甲的存在免受视觉和电信号检测.占用6槽位.需要ECM"
+  },
+  {
+    "id": "Linked_VoidSignatureSystem.Description.UIName",
+    "content": "空白信号系统"
+  },
+  {
+    "id": "Linked_VoidSignatureSystem.Description.Name",
+    "content": "空白信号系统"
+  },
+  {
+    "id": "Linked_VoidSignatureSystem.Description.Manufacturer",
+    "content": "原型"
+  },
+  {
+    "id": "Linked_VoidSignatureSystem_HF.Description.Details",
+    "content": "空白信号系统(VSS)是星联时代系统的混血进化,如变色龙偏光护盾和零信号系统.本质上战斗服隐身装甲的放大版,空白信号系统在配套的ECM套件的帮助下,保护战斗机甲的存在免受视觉和电信号检测.占用6槽位.需要ECM"
+  },
+  {
+    "id": "Linked_VoidSignatureSystem_HF.Description.UIName",
+    "content": "重型空白信号系统"
+  },
+  {
+    "id": "Linked_VoidSignatureSystem_HF.Description.Name",
+    "content": "空白信号系统"
+  },
+  {
+    "id": "Linked_VoidSignatureSystem_HF.Description.Manufacturer",
+    "content": "原型"
+  }
+]

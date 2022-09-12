@@ -1,0 +1,890 @@
+[
+  {
+    "id": "Gear_TargetingTrackingSystem_AA.Description.Details",
+    "content": "作战电脑是模块化部件,可以添加到瞄准电脑火控系统中,大大增加安装该模块的机甲的作战能力."
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_AA.Description.UIName",
+    "content": "防空瞄准作战电脑"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_AA.Description.Name",
+    "content": "防空作战电脑"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_AA.Description.Manufacturer",
+    "content": "星际军团"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_AA.BC_CALLED_SHOT.statusEffects0.Details",
+    "content": "精确射击双倍可靠"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_AA.AAAFactorMulti.statusEffects1.Details",
+    "content": "防空系数."
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_AA.BC_CALLED_SHOT.statusEffects0.Name",
+    "content": "提升精确射击"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_AA.AAAFactorMulti.statusEffects1.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_ArtemisIV.Description.Details",
+    "content": "作战电脑是模块化部件,可以添加到瞄准电脑火控系统中,大大增加安装该模块的机甲的作战能力."
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_ArtemisIV.Description.UIName",
+    "content": "月神IV作战电脑"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_ArtemisIV.Description.Name",
+    "content": "月神IV作战电脑"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_ArtemisIV.Description.Manufacturer",
+    "content": "哈特福德"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_ArtemisIV.BC_CALLED_SHOT.statusEffects0.Details",
+    "content": "精确射击双倍可靠"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_ArtemisIV.StatusEffect-EnhMS-ClusterBonusLRM.statusEffects1.Details",
+    "content": "大大增加了该单位LRM武器的群组命中,将SRM的稳定伤害提高50%."
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_ArtemisIV.BC_CALLED_SHOT.statusEffects0.Name",
+    "content": "提升精确射击"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_ArtemisIV.StatusEffect-EnhMS-ClusterBonusLRM.statusEffects1.Name",
+    "content": "导弹套件"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_ArtemisV.Description.Details",
+    "content": "作战电脑是模块化部件,可以添加到瞄准电脑火控系统中,大大增加安装该模块的机甲的作战能力."
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_ArtemisV.Description.UIName",
+    "content": "月神V作战电脑"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_ArtemisV.Description.Name",
+    "content": "月神V作战电脑"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_ArtemisV.Description.Manufacturer",
+    "content": "歌利亚"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_ArtemisV.BC_CALLED_SHOT.statusEffects0.Details",
+    "content": "精确射击双倍可靠"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_ArtemisV.StatusEffect-TTSMISSCRIT.statusEffects1.Details",
+    "content": "+3导弹武器攻击命中."
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_ArtemisV.StatusEffect-EnhMS-ClusterBonusLRM.statusEffects2.Details",
+    "content": "大大增加了该单位LRM武器的群组命中,将SRM的稳定伤害提高50%."
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_ArtemisV.BC_CALLED_SHOT.statusEffects0.Name",
+    "content": "提升精确射击"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_ArtemisV.StatusEffect-TTSMISSCRIT.statusEffects1.Name",
+    "content": "提升导弹武器命中"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_ArtemisV.StatusEffect-EnhMS-ClusterBonusLRM.statusEffects2.Name",
+    "content": "导弹套件"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Cluster.Description.Details",
+    "content": "作战电脑是模块化部件,可以添加到瞄准电脑火控系统中,大大增加安装该模块的机甲的作战能力."
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Cluster.Description.UIName",
+    "content": "群组作战电脑"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Cluster.Description.Name",
+    "content": "群组作战电脑"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Cluster.Description.Manufacturer",
+    "content": "MOA工业公司"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Cluster.BC_CALLED_SHOT.statusEffects0.Details",
+    "content": "精确射击双倍可靠"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Cluster.StatusEffect_BCCluster.statusEffects1.Details",
+    "content": "大大增加该单位LRM的集群命中率"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Cluster.BC_CALLED_SHOT.statusEffects0.Name",
+    "content": "提升精确射击"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Cluster.StatusEffect_BCCluster.statusEffects1.Name",
+    "content": "提升激光武器集群命中率"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Crit.Description.Details",
+    "content": "作战电脑是模块化部件,可以添加到瞄准电脑火控系统中,大大增加安装该模块的机甲的作战能力."
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Crit.Description.UIName",
+    "content": "致命损伤作战电脑"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Crit.Description.Name",
+    "content": "致命损伤作战电脑"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Crit.Description.Manufacturer",
+    "content": "星联防卫部队"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Crit.BC_CALLED_SHOT.statusEffects0.Details",
+    "content": "精确射击双倍可靠"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Crit.StatusEffect_BCCRIT.statusEffects1.Details",
+    "content": "+3导弹武器攻击命中."
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Crit.BC_CALLED_SHOT.statusEffects0.Name",
+    "content": "提升精确射击"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Crit.StatusEffect_BCCRIT.statusEffects1.Name",
+    "content": "提升导弹武器命中"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Evasion.Description.Details",
+    "content": "作战电脑是模块化部件,可以添加到瞄准电脑火控系统中,大大增加安装该模块的机甲的作战能力."
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Evasion.Description.UIName",
+    "content": "追踪作战电脑"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Evasion.Description.Name",
+    "content": "闪避作战电脑"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Evasion.Description.Manufacturer",
+    "content": "RISC"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Evasion.BC_CALLED_SHOT.statusEffects0.Details",
+    "content": "精确射击双倍可靠"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Evasion.StatusEffect_TTS_EVASION.statusEffects1.Details",
+    "content": "+2精度,+50%致命损伤率,+30%射程,-50%所有武器最低射程."
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Evasion.BC_CALLED_SHOT.statusEffects0.Name",
+    "content": "提升精确射击"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Evasion.StatusEffect_TTS_EVASION.statusEffects1.Name",
+    "content": "氏族TTS"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_ExtremeRange.Description.Details",
+    "content": "作战电脑是模块化部件,可以添加到瞄准电脑火控系统中,大大增加安装该模块的机甲的作战能力."
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_ExtremeRange.Description.UIName",
+    "content": "增程作战电脑"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_ExtremeRange.Description.Name",
+    "content": "极限射程作战电脑"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_ExtremeRange.Description.Manufacturer",
+    "content": "星联防卫部队"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_ExtremeRange.BC_CALLED_SHOT.statusEffects0.Details",
+    "content": "精确射击双倍可靠"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_ExtremeRange.RangeBracketBonusAccER.statusEffects1.Details",
+    "content": "射程组精度奖励"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_ExtremeRange.BC_CALLED_SHOT.statusEffects0.Name",
+    "content": "提升精确射击"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_ExtremeRange.RangeBracketBonusAccER.statusEffects1.Name",
+    "content": "在射程内奖励精度"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Gunnery.Description.Details",
+    "content": "作战电脑是模块化部件,可以添加到瞄准电脑火控系统中,大大增加安装该模块的机甲的作战能力."
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Gunnery.Description.UIName",
+    "content": "射击学作战电脑"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Gunnery.Description.Name",
+    "content": "射击学作战电脑"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Gunnery.Description.Manufacturer",
+    "content": "卡隆"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Gunnery.BC_CALLED_SHOT.statusEffects0.Details",
+    "content": "精确射击双倍可靠"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Gunnery.StatusEffect_Cockpit_Skill_Gunnery.statusEffects1.Details",
+    "content": "获得射击学增益"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Gunnery.BC_CALLED_SHOT.statusEffects0.Name",
+    "content": "提升精确射击"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Gunnery.StatusEffect_Cockpit_Skill_Gunnery.statusEffects1.Name",
+    "content": "射击学增益"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Guts.Description.Details",
+    "content": "作战电脑是模块化部件,可以添加到瞄准电脑火控系统中,大大增加安装该模块的机甲的作战能力."
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Guts.Description.UIName",
+    "content": "勇气作战电脑"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Guts.Description.Name",
+    "content": "勇气作战电脑"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Guts.Description.Manufacturer",
+    "content": "卡隆"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Guts.BC_CALLED_SHOT.statusEffects0.Details",
+    "content": "精确射击双倍可靠"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Guts.StatusEffect_Cockpit_Skill_Guts.statusEffects1.Details",
+    "content": "获得勇气技能增益"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Guts.BC_CALLED_SHOT.statusEffects0.Name",
+    "content": "提升精确射击"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Guts.StatusEffect_Cockpit_Skill_Guts.statusEffects1.Name",
+    "content": "勇气增益"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Hartford_S2000.Description.Details",
+    "content": "作战电脑是模块化部件,可以添加到瞄准电脑火控系统中,大大增加安装该模块的机甲的作战能力."
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Hartford_S2000.Description.UIName",
+    "content": "导弹作战电脑"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Hartford_S2000.Description.Name",
+    "content": "导弹作战电脑"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Hartford_S2000.Description.Manufacturer",
+    "content": "哈特福德"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Hartford_S2000.BC_CALLED_SHOT.statusEffects0.Details",
+    "content": "精确射击双倍可靠"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Hartford_S2000.StatusEffect_BCMissile.statusEffects1.Details",
+    "content": "+1精度,+25%致命损伤率,+10射程,-50%导弹武器最低射程"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Hartford_S2000.BC_CALLED_SHOT.statusEffects0.Name",
+    "content": "提升精确射击"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Hartford_S2000.StatusEffect_BCMissile.statusEffects1.Name",
+    "content": "导弹武器 TTS"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Headshot.Description.Details",
+    "content": "作战电脑是模块化部件,可以添加到瞄准电脑火控系统中,大大增加安装该模块的机甲的作战能力."
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Headshot.Description.UIName",
+    "content": "头部武器作战电脑"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Headshot.Description.Name",
+    "content": "头部射击作战电脑"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Headshot.Description.Manufacturer",
+    "content": "星联防卫部队"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Headshot.BC_CALLED_SHOT.statusEffects0.Details",
+    "content": "精确射击双倍可靠"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Headshot.TC-Headshot.statusEffects1.Details",
+    "content": "被动:使用单武器攻击时忽略目标的遮蔽和守备状态."
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Headshot.BC_CALLED_SHOT.statusEffects0.Name",
+    "content": "提升精确射击"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Headshot.TC-Headshot.statusEffects1.Name",
+    "content": "突破射击"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Heat.Description.Details",
+    "content": "作战电脑是模块化部件,可以添加到瞄准电脑火控系统中,大大增加安装该模块的机甲的作战能力."
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Heat.Description.UIName",
+    "content": "热效率作战电脑"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Heat.Description.Name",
+    "content": "热效率作战电脑"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Heat.Description.Manufacturer",
+    "content": "星联防卫部队"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Heat.BC_CALLED_SHOT.statusEffects0.Details",
+    "content": "精确射击双倍可靠"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Heat.StatusEffect_BCHeat.statusEffects1.Details",
+    "content": "-15%产热"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Heat.BC_CALLED_SHOT.statusEffects0.Name",
+    "content": "提升精确射击"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Heat.StatusEffect_BCHeat.statusEffects1.Name",
+    "content": "减少产热"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Indirect.Description.Details",
+    "content": "作战电脑是模块化部件,可以添加到瞄准电脑火控系统中,大大增加安装该模块的机甲的作战能力."
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Indirect.Description.UIName",
+    "content": "间瞄战斗电脑"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Indirect.Description.Name",
+    "content": "间瞄战斗电脑"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Indirect.Description.Manufacturer",
+    "content": "卡隆"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Indirect.BC_CALLED_SHOT.statusEffects0.Details",
+    "content": "精确射击双倍可靠"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Indirect.StatusEffect_BCBallistic.statusEffects1.Details",
+    "content": "弹道武器命中提升[AMT]."
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Indirect.BC_CALLED_SHOT.statusEffects0.Name",
+    "content": "提升精确射击"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Indirect.StatusEffect_BCBallistic.statusEffects1.Name",
+    "content": "提升弹道武器命中率"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Jam.Description.Details",
+    "content": "作战电脑是模块化部件,可以添加到瞄准电脑火控系统中,大大增加安装该模块的机甲的作战能力."
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Jam.Description.UIName",
+    "content": "干扰作战电脑"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Jam.Description.Name",
+    "content": "干扰作战电脑"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Jam.Description.Manufacturer",
+    "content": "卡隆"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Jam.BC_CALLED_SHOT.statusEffects0.Details",
+    "content": "精确射击双倍可靠"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Jam.FCS-Recoil.statusEffects1.Details",
+    "content": "降低武器后座"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Jam.BC_CALLED_SHOT.statusEffects0.Name",
+    "content": "提升精确射击"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Jam.FCS-Recoil.statusEffects1.Name",
+    "content": "-2后座"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Kallon_HardLock.Description.Details",
+    "content": "作战电脑是模块化部件,可以添加到瞄准电脑火控系统中,大大增加安装该模块的机甲的作战能力."
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Kallon_HardLock.Description.UIName",
+    "content": "弹道作战电脑"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Kallon_HardLock.Description.Name",
+    "content": "弹道作战电脑"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Kallon_HardLock.Description.Manufacturer",
+    "content": "卡隆"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Kallon_HardLock.BC_CALLED_SHOT.statusEffects0.Details",
+    "content": "精确射击双倍可靠"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Kallon_HardLock.StatusEffect_BCBallistic.statusEffects1.Details",
+    "content": "弹道武器命中提升[AMT]."
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Kallon_HardLock.BC_CALLED_SHOT.statusEffects0.Name",
+    "content": "提升精确射击"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Kallon_HardLock.StatusEffect_BCBallistic.statusEffects1.Name",
+    "content": "提升弹道武器命中率"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_LongRange.Description.Details",
+    "content": "作战电脑是模块化部件,可以添加到瞄准电脑火控系统中,大大增加安装该模块的机甲的作战能力."
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_LongRange.Description.UIName",
+    "content": "远程作战电脑"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_LongRange.Description.Name",
+    "content": "远程作战电脑"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_LongRange.Description.Manufacturer",
+    "content": "星联防卫部队"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_LongRange.BC_CALLED_SHOT.statusEffects0.Details",
+    "content": "精确射击双倍可靠"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_LongRange.RangeBracketBonusAccLR.statusEffects1.Details",
+    "content": "射程组精度奖励"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_LongRange.BC_CALLED_SHOT.statusEffects0.Name",
+    "content": "提升精确射击"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_LongRange.RangeBracketBonusAccLR.statusEffects1.Name",
+    "content": "在射程内奖励精度"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_MedRange.Description.Details",
+    "content": "作战电脑是模块化部件,可以添加到瞄准电脑火控系统中,大大增加安装该模块的机甲的作战能力."
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_MedRange.Description.UIName",
+    "content": "中程作战电脑"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_MedRange.Description.Name",
+    "content": "中程作战电脑"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_MedRange.Description.Manufacturer",
+    "content": "星联防卫部队"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_MedRange.BC_CALLED_SHOT.statusEffects0.Details",
+    "content": "精确射击双倍可靠"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_MedRange.RangeBracketBonusAccMR.statusEffects1.Details",
+    "content": "射程组精度奖励"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_MedRange.BC_CALLED_SHOT.statusEffects0.Name",
+    "content": "提升精确射击"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_MedRange.RangeBracketBonusAccMR.statusEffects1.Name",
+    "content": "在射程内奖励精度"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_MinRange.Description.Details",
+    "content": "作战电脑是模块化部件,可以添加到瞄准电脑火控系统中,大大增加安装该模块的机甲的作战能力."
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_MinRange.Description.UIName",
+    "content": "极近程作战电脑"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_MinRange.Description.Name",
+    "content": "极近程作战电脑"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_MinRange.Description.Manufacturer",
+    "content": "星联防卫部队"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_MinRange.BC_CALLED_SHOT.statusEffects0.Details",
+    "content": "精确射击双倍可靠"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_MinRange.RangeBracketBonusAccMinR.statusEffects1.Details",
+    "content": "射程组精度奖励"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_MinRange.BC_CALLED_SHOT.statusEffects0.Name",
+    "content": "提升精确射击"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_MinRange.RangeBracketBonusAccMinR.statusEffects1.Name",
+    "content": "在射程内奖励精度"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_MultiTrack.Description.Details",
+    "content": "作战电脑是模块化部件,可以添加到瞄准电脑火控系统中,大大增加安装该模块的机甲的作战能力."
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_MultiTrack.Description.UIName",
+    "content": "多追踪作战电脑"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_MultiTrack.Description.Name",
+    "content": "多追踪作战电脑"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_MultiTrack.Description.Manufacturer",
+    "content": "星联防卫部队"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_MultiTrack.BC_CALLED_SHOT.statusEffects0.Details",
+    "content": "精确射击双倍可靠"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_MultiTrack.IRAllowMultiTargetEffect.statusEffects1.Details",
+    "content": "启用多目标."
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_MultiTrack.BC_CALLED_SHOT.statusEffects0.Name",
+    "content": "提升精确射击"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_MultiTrack.IRAllowMultiTargetEffect.statusEffects1.Name",
+    "content": "红外多目标"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Optics.Description.Details",
+    "content": "作战电脑是模块化部件,可以添加到瞄准电脑火控系统中,大大增加安装该模块的机甲的作战能力."
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Optics.Description.UIName",
+    "content": "光学作战电脑"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Optics.Description.Name",
+    "content": "光学作战电脑"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Optics.Description.Manufacturer",
+    "content": "米切尔"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Optics.BC_CALLED_SHOT.statusEffects0.Details",
+    "content": "精确射击双倍可靠"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Optics.NightVision.statusEffects1.Details",
+    "content": "被动:开启夜视"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Optics.Zoom Vision Effect.statusEffects2.Details",
+    "content": "射程组精度奖励"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Optics.Heat Vision Effect.statusEffects3.Details",
+    "content": "热奖励精度"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Optics.BC_CALLED_SHOT.statusEffects0.Name",
+    "content": "提升精确射击"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Optics.NightVision.statusEffects1.Name",
+    "content": "夜视模式"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Optics.Zoom Vision Effect.statusEffects2.Name",
+    "content": "在射程内奖励精度"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Optics.Heat Vision Effect.statusEffects3.Name",
+    "content": "奖励精度对抗热"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Piloting.Description.Details",
+    "content": "作战电脑是模块化部件,可以添加到瞄准电脑火控系统中,大大增加安装该模块的机甲的作战能力."
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Piloting.Description.UIName",
+    "content": "驾驶作战电脑"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Piloting.Description.Name",
+    "content": "驾驶作战电脑"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Piloting.Description.Manufacturer",
+    "content": "卡隆"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Piloting.BC_CALLED_SHOT.statusEffects0.Details",
+    "content": "精确射击双倍可靠"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Piloting.StatusEffect_Cockpit_Skill_Piloting.statusEffects1.Details",
+    "content": "驾驶技能增益"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Piloting.BC_CALLED_SHOT.statusEffects0.Name",
+    "content": "提升精确射击"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Piloting.StatusEffect_Cockpit_Skill_Piloting.statusEffects1.Name",
+    "content": "驾驶增益"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Range.Description.Details",
+    "content": "作战电脑是模块化部件,可以添加到瞄准电脑火控系统中,大大增加安装该模块的机甲的作战能力."
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Range.Description.UIName",
+    "content": "范围作战电脑"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Range.Description.Name",
+    "content": "范围作战电脑"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Range.Description.Manufacturer",
+    "content": "远火"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Range.BC_CALLED_SHOT.statusEffects0.Details",
+    "content": "精确射击双倍可靠"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Range.StatusEffect_BCRANGE_MIN.statusEffects1.Details",
+    "content": "该单位发射增程LRM."
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Range.StatusEffect_BCRANGE_SHORT.statusEffects2.Details",
+    "content": "DF Minrange by50m"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Range.StatusEffect_BCRANGE_MEDIUM.statusEffects3.Details",
+    "content": "DF Minrange by50m"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Range.StatusEffect_BCRANGE_LONG.statusEffects4.Details",
+    "content": "DF Minrange by50m"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Range.StatusEffect_BCRANGE_MAX.statusEffects5.Details",
+    "content": "DF Minrange by50m"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Range.BC_CALLED_SHOT.statusEffects0.Name",
+    "content": "提升精确射击"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Range.StatusEffect_BCRANGE_MIN.statusEffects1.Name",
+    "content": "TTS3NRGMINRANGE"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Range.StatusEffect_BCRANGE_SHORT.statusEffects2.Name",
+    "content": "TTS3NRGSHORTRANGE"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Range.StatusEffect_BCRANGE_MEDIUM.statusEffects3.Name",
+    "content": "TTS3NRGMEDRANGE"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Range.StatusEffect_BCRANGE_LONG.statusEffects4.Name",
+    "content": "TTS3NRGLONGRANGE"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Range.StatusEffect_BCRANGE_MAX.statusEffects5.Name",
+    "content": "TTS3NRGMAXRANGE"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_RCA_InstaTrac-XII.Description.Details",
+    "content": "作战电脑是模块化部件,可以添加到瞄准电脑火控系统中,大大增加安装该模块的机甲的作战能力."
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_RCA_InstaTrac-XII.Description.UIName",
+    "content": "能量作战电脑"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_RCA_InstaTrac-XII.Description.Name",
+    "content": "能量作战电脑"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_RCA_InstaTrac-XII.Description.Manufacturer",
+    "content": "RCA"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_RCA_InstaTrac-XII.BC_CALLED_SHOT.statusEffects0.Details",
+    "content": "精确射击双倍可靠"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_RCA_InstaTrac-XII.StatusEffect_BCEnergy.statusEffects1.Details",
+    "content": "+1能量武器精度"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_RCA_InstaTrac-XII.BC_CALLED_SHOT.statusEffects0.Name",
+    "content": "提升精确射击"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_RCA_InstaTrac-XII.StatusEffect_BCEnergy.statusEffects1.Name",
+    "content": "能量武器作战电脑"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Recoil.Description.Details",
+    "content": "作战电脑是模块化部件,可以添加到瞄准电脑火控系统中,大大增加安装该模块的机甲的作战能力."
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Recoil.Description.UIName",
+    "content": "后座作战电脑"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Recoil.Description.Name",
+    "content": "后座力作战电脑"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Recoil.Description.Manufacturer",
+    "content": "卡隆"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Recoil.BC_CALLED_SHOT.statusEffects0.Details",
+    "content": "精确射击双倍可靠"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Recoil.StatusEffect_BCBallistic.statusEffects1.Details",
+    "content": "弹道武器命中提升[AMT]."
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Recoil.BC_CALLED_SHOT.statusEffects0.Name",
+    "content": "提升精确射击"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Recoil.StatusEffect_BCBallistic.statusEffects1.Name",
+    "content": "提升弹道武器命中率"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_ShortRange.Description.Details",
+    "content": "作战电脑是模块化部件,可以添加到瞄准电脑火控系统中,大大增加安装该模块的机甲的作战能力."
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_ShortRange.Description.UIName",
+    "content": "近程作战电脑"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_ShortRange.Description.Name",
+    "content": "近程作战电脑"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_ShortRange.Description.Manufacturer",
+    "content": "星联防卫部队"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_ShortRange.BC_CALLED_SHOT.statusEffects0.Details",
+    "content": "精确射击双倍可靠"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_ShortRange.RangeBracketBonusAccSR.statusEffects1.Details",
+    "content": "射程组精度奖励"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_ShortRange.BC_CALLED_SHOT.statusEffects0.Name",
+    "content": "提升精确射击"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_ShortRange.RangeBracketBonusAccSR.statusEffects1.Name",
+    "content": "在射程内奖励精度"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Tactics.Description.Details",
+    "content": "作战电脑是模块化部件,可以添加到瞄准电脑火控系统中,大大增加安装该模块的机甲的作战能力."
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Tactics.Description.UIName",
+    "content": "战术作战电脑"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Tactics.Description.Name",
+    "content": "战术作战电脑"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Tactics.Description.Manufacturer",
+    "content": "卡隆"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Tactics.BC_CALLED_SHOT.statusEffects0.Details",
+    "content": "精确射击双倍可靠"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Tactics.StatusEffect_Cockpit_Skill_Tactics.statusEffects1.Details",
+    "content": "战术技能增益"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Tactics.BC_CALLED_SHOT.statusEffects0.Name",
+    "content": "提升精确射击"
+  },
+  {
+    "id": "Gear_TargetingTrackingSystem_Tactics.StatusEffect_Cockpit_Skill_Tactics.statusEffects1.Name",
+    "content": "战术增益"
+  }
+]

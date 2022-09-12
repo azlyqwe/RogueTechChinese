@@ -1,0 +1,322 @@
+[
+  {
+    "id": "Weapon_Artillery_ArrowIV.Description.Details",
+    "content": "箭IV是一种独立的、基于导弹的火炮系统,目的是增强长汤姆(Long Tom)和狙击手(Sniper)等常规系统.它最初是在2600年由人类霸权引入,并成为星联防御部队的主要装备.尽管在星联崩溃后箭IV的技术失传,但它在3044年被卡佩兰联邦的工程师们从海姆(Helm)记忆核心中恢复.\n\n<b><color=#ffcc00>使用箭IV弹药</color></b>."
+  },
+  {
+    "id": "Weapon_Artillery_ArrowIV.Description.UIName",
+    "content": "箭IV"
+  },
+  {
+    "id": "Weapon_Artillery_ArrowIV.Description.Name",
+    "content": "箭IV"
+  },
+  {
+    "id": "Weapon_Artillery_ArrowIV.Description.Manufacturer",
+    "content": "WOB"
+  },
+  {
+    "id": "Weapon_Artillery_ArrowIV_CLAN.Description.Details",
+    "content": "箭IV是一种独立的、基于导弹的火炮系统,目的是增强长汤姆(Long Tom)和狙击手(Sniper)等常规系统.它最初是在2600年由人类霸权引入,并成为星联防御部队的主要装备.尽管在星联崩溃后箭IV的技术失传,但它在3044年被卡佩兰联邦的工程师们从海姆(Helm)记忆核心中恢复.\n\n<b><color=#ffcc00>使用箭IV弹药</color></b>."
+  },
+  {
+    "id": "Weapon_Artillery_ArrowIV_CLAN.Description.UIName",
+    "content": "箭IV(C)"
+  },
+  {
+    "id": "Weapon_Artillery_ArrowIV_CLAN.Description.Name",
+    "content": "箭IV(C)"
+  },
+  {
+    "id": "Weapon_Artillery_ArrowIV_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_Artillery_ArrowIV_Oneshot.Description.Details",
+    "content": "箭IV是一种独立的、基于导弹的火炮系统,目的是增强长汤姆(Long Tom)和狙击手(Sniper)等常规系统.它最初是在2600年由人类霸权引入的,并成为星联防御部队的主要装备.尽管在星联崩溃后箭IV的技术失传,但它在3044年被卡佩兰联邦的工程师们从海姆(Helm)记忆核心中恢复."
+  },
+  {
+    "id": "Weapon_Artillery_ArrowIV_Oneshot.Description.UIName",
+    "content": "箭IV(OS)"
+  },
+  {
+    "id": "Weapon_Artillery_ArrowIV_Oneshot.Description.Name",
+    "content": "箭IV"
+  },
+  {
+    "id": "Weapon_Artillery_ArrowIV_Oneshot.Description.Manufacturer",
+    "content": "WOB"
+  },
+  {
+    "id": "Weapon_Artillery_LONGTOM.Description.Details",
+    "content": "长汤姆(Long Tom)大炮是阿姆斯特朗工业公司设计的最大常规炮弹.它是LT-MOB-25移动长汤姆炮车的主要武器,作为移动长汤姆而被人熟知.\n\n<b><color=#ffcc00>使用长汤姆弹药</color></b>."
+  },
+  {
+    "id": "Weapon_Artillery_LONGTOM.Description.UIName",
+    "content": "长汤姆大炮"
+  },
+  {
+    "id": "Weapon_Artillery_LONGTOM.Description.Name",
+    "content": "长汤姆大炮"
+  },
+  {
+    "id": "Weapon_Artillery_LONGTOM.Description.Manufacturer",
+    "content": "GM"
+  },
+  {
+    "id": "Weapon_Artillery_LONGTOM_Cannon.Description.Details",
+    "content": "长汤姆加农炮是长汤姆大炮的缩小版,被设计作为机载间接火力武器.长汤姆加农炮可以安装在机甲、作战车辆和航空战斗机上,是同名火炮的短管版本.\n\n<b><color=#ffcc00>使用长汤姆弹药</color></b>."
+  },
+  {
+    "id": "Weapon_Artillery_LONGTOM_Cannon.Description.UIName",
+    "content": "长汤姆加农炮"
+  },
+  {
+    "id": "Weapon_Artillery_LONGTOM_Cannon.Description.Name",
+    "content": "长汤姆加农炮"
+  },
+  {
+    "id": "Weapon_Artillery_LONGTOM_Cannon.Description.Manufacturer",
+    "content": "GM"
+  },
+  {
+    "id": "Weapon_Artillery_SNIPER.Description.Details",
+    "content": "狙击手线膛火炮是阿姆斯特朗工业公司设计的长口径火炮的较小版近亲.作为内天体第二大威力的管状火炮,狙击手可以用一次攻击就摧毁大多数轻型和中型战斗机甲.\n\n<b><color=#ffcc00>使用狙击弹药</color></b>."
+  },
+  {
+    "id": "Weapon_Artillery_SNIPER.Description.UIName",
+    "content": "狙击火炮"
+  },
+  {
+    "id": "Weapon_Artillery_SNIPER.Description.Name",
+    "content": "狙击火炮"
+  },
+  {
+    "id": "Weapon_Artillery_SNIPER.Description.Manufacturer",
+    "content": "GM"
+  },
+  {
+    "id": "Weapon_Artillery_SNIPER_Cannon.Description.Details",
+    "content": "狙击手线膛火炮是阿姆斯特朗工业公司设计的长口径火炮的较小版近亲.作为内天体第二大威力的管状火炮,狙击手可以用一次攻击就摧毁大多数轻型和中型战斗机甲.\n\n<b><color=#ffcc00>使用狙击弹药</color></b>."
+  },
+  {
+    "id": "Weapon_Artillery_SNIPER_Cannon.Description.UIName",
+    "content": "狙击加农炮"
+  },
+  {
+    "id": "Weapon_Artillery_SNIPER_Cannon.Description.Name",
+    "content": "狙击加农炮"
+  },
+  {
+    "id": "Weapon_Artillery_SNIPER_Cannon.Description.Manufacturer",
+    "content": "GM"
+  },
+  {
+    "id": "Weapon_Artillery_SNIPER_Cannon.WeaponEffect-SelfknockdownCheck_OnFire.statusEffects0.Details",
+    "content": "慷慨激昂"
+  },
+  {
+    "id": "Weapon_Artillery_SNIPER_Cannon.WeaponEffect-SelfknockdownCheck_OnFire.statusEffects0.Name",
+    "content": "慷慨激昂"
+  },
+  {
+    "id": "Weapon_Artillery_THUMPER.Description.Details",
+    "content": "敲击者(Thumper)火炮是最小的常规火炮,有效射程为10.5公里.虽然是一种有效的野战火炮武器,但敲击者最为人熟知的可能是它作为星联防御部队雷神炮车上的主炮,以及的雷神敲击者的仿制品.\n\n<b><color=#ffcc00>使用敲击者弹药</color></b>."
+  },
+  {
+    "id": "Weapon_Artillery_THUMPER.Description.UIName",
+    "content": "敲击者火炮"
+  },
+  {
+    "id": "Weapon_Artillery_THUMPER.Description.Name",
+    "content": "敲击者火炮"
+  },
+  {
+    "id": "Weapon_Artillery_THUMPER.Description.Manufacturer",
+    "content": "GM"
+  },
+  {
+    "id": "Weapon_Artillery_THUMPER_Cannon.Description.Details",
+    "content": "敲击者加农炮是敲击者火炮的缩小版,能够直接开火.当安装在战斗机甲、作战车辆和航空战斗机上时,它比同类火炮提供更近距离的炮击支持.本质上,敲击者加农炮是敲击者火的短管版,它像汽车炮一样向敌人发射炮弹.\n\n<b><color=#ffcc00>使用敲击者弹药</color></b>."
+  },
+  {
+    "id": "Weapon_Artillery_THUMPER_Cannon.Description.UIName",
+    "content": "敲击者加农炮"
+  },
+  {
+    "id": "Weapon_Artillery_THUMPER_Cannon.Description.Name",
+    "content": "敲击者火炮"
+  },
+  {
+    "id": "Weapon_Artillery_THUMPER_Cannon.Description.Manufacturer",
+    "content": "GM"
+  },
+  {
+    "id": "Weapon_Autocannon_Arty_Hellstorm.Description.Details",
+    "content": "是的,老大,这是一门装有RAC馈线的榴弹炮,你想让我说什么?这是典型的海盗技术而且我们甚至不知道他们想做什么!\n\n<b><color=#ffcc00>使用地狱风暴弹药</color></b>."
+  },
+  {
+    "id": "Weapon_Autocannon_Arty_Hellstorm.Description.UIName",
+    "content": "地狱风暴火炮"
+  },
+  {
+    "id": "Weapon_Autocannon_Arty_Hellstorm.Description.Name",
+    "content": "榴弹加农炮"
+  },
+  {
+    "id": "Weapon_Autocannon_Arty_Hellstorm.Description.Manufacturer",
+    "content": "方案"
+  },
+  {
+    "id": "Weapon_Autocannon_Arty_Hellstorm.HeatDamageTakenSoftCapMultiplier.statusEffects0.Details",
+    "content": "-1%热伤害"
+  },
+  {
+    "id": "Weapon_Autocannon_Arty_Hellstorm.HeatDamageTakenSoftCapMultiplier.statusEffects0.Name",
+    "content": "3%热软限额"
+  },
+  {
+    "id": "Weapon_CruiseMissile50.Description.Details",
+    "content": "CM/50是恒星联邦在3060年代开发的巡航导弹(CM)家族中最小的一种,但它却是一种毁灭性的战争武器.CM/50是一种真正的重型导弹,其战斗部完全可以一击摧毁较小的机甲和固定目标.然而,这种武器巨大的体积和简直荒谬的弹药重量限制了它的大规模装备.到目前为止,只有卡尔基巡航导弹发射器超重型坦装备了CM/50. \n\n <b><color=#ffcc00>使用CM/50弹药</color></b>."
+  },
+  {
+    "id": "Weapon_CruiseMissile50.Description.UIName",
+    "content": "巡航导弹CM/50"
+  },
+  {
+    "id": "Weapon_CruiseMissile50.Description.Name",
+    "content": "巡航导弹CM/50"
+  },
+  {
+    "id": "Weapon_CruiseMissile50.Description.Manufacturer",
+    "content": "NAIS"
+  },
+  {
+    "id": "Weapon_Gauss_RAILGUN.Description.Details",
+    "content": "轨道炮是一种从战舰武器改装而来的大型武器,可用于战斗机甲.氏族技术允许这种大型武器适配相对较小的空间.这种强大的武器只需要一次准确的射击就可以摧毁敌人的机甲,但只有少数机甲可以装备.\n\n<b><color=#ffcc00>使用轨道炮弹药</color></b> \n\n<b><color=#ffcc00>CASE保护</color></b>"
+  },
+  {
+    "id": "Weapon_Gauss_RAILGUN.Description.UIName",
+    "content": "轨道炮(C)"
+  },
+  {
+    "id": "Weapon_Gauss_RAILGUN.Description.Name",
+    "content": "轨道炮(C)"
+  },
+  {
+    "id": "Weapon_Gauss_RAILGUN.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_Gauss_RAILGUN.WeaponEffect-SelfknockdownCheck_OnFire.statusEffects0.Details",
+    "content": "慷慨激昂"
+  },
+  {
+    "id": "Weapon_Gauss_RAILGUN.WeaponEffect-SelfknockdownCheck_OnFire.statusEffects0.Name",
+    "content": "慷慨激昂"
+  },
+  {
+    "id": "Weapon_Gauss_RAILGUN_SLDF.Description.Details",
+    "content": "轨道炮是一种从战舰武器改装而来的大型武器,可用于战斗机甲.这种原始的星联防卫军时代的轨道炮更重,并配备了升级的电容器,在被摧毁时会爆炸.非常重和大,只能在最大的战斗机甲上安装.\n\n<b><color=#ffcc00>使用轨道炮高斯弹药</color></b>."
+  },
+  {
+    "id": "Weapon_Gauss_RAILGUN_SLDF.Description.UIName",
+    "content": "轨道炮"
+  },
+  {
+    "id": "Weapon_Gauss_RAILGUN_SLDF.Description.Name",
+    "content": "轨道炮"
+  },
+  {
+    "id": "Weapon_Gauss_RAILGUN_SLDF.Description.Manufacturer",
+    "content": "星联防卫部队"
+  },
+  {
+    "id": "Weapon_Gauss_RAILGUN_SLDF.WeaponEffect-SelfknockdownCheck_OnFire.statusEffects0.Details",
+    "content": "慷慨激昂"
+  },
+  {
+    "id": "Weapon_Gauss_RAILGUN_SLDF.WeaponEffect-SelfknockdownCheck_OnFire.statusEffects0.Name",
+    "content": "慷慨激昂"
+  },
+  {
+    "id": "Weapon_Laser_TAG_AIV.Description.Details",
+    "content": "目标寻获装备(TAG)接驳到附近的箭IV支持系统,并在精确打击中调用."
+  },
+  {
+    "id": "Weapon_Laser_TAG_AIV.Description.UIName",
+    "content": "箭IV目标寻获装备"
+  },
+  {
+    "id": "Weapon_Laser_TAG_AIV.Description.Name",
+    "content": "目标寻获装备"
+  },
+  {
+    "id": "Weapon_Laser_TAG_AIV.Description.Manufacturer",
+    "content": "RISC"
+  },
+  {
+    "id": "Weapon_Laser_TAG_Barrage.Description.Details",
+    "content": "该目标寻获装备被重新布线,以调用附近火炮的支援火力,用一系列弹药向目标发射炮弹"
+  },
+  {
+    "id": "Weapon_Laser_TAG_Barrage.Description.UIName",
+    "content": "火力网目标寻获装备"
+  },
+  {
+    "id": "Weapon_Laser_TAG_Barrage.Description.Name",
+    "content": "目标寻获装备"
+  },
+  {
+    "id": "Weapon_Laser_TAG_Barrage.Description.Manufacturer",
+    "content": "NAIS"
+  },
+  {
+    "id": "Weapon_Rifle_Howitzer.Description.Details",
+    "content": "需要提醒你的邻居注意噪音吗?在喧闹的小镇上多花点钱?买不起一个花哨的长汤姆吗?别在看了,我们QuicSell公司为你带来最好的武器,我们的榴弹炮2000直接来自于地球并基于著名的天琴座设计.\n\n<b><color=#ffcc00>使用中型线膛弹药</color></b>"
+  },
+  {
+    "id": "Weapon_Rifle_Howitzer.Description.UIName",
+    "content": "榴弹炮2000"
+  },
+  {
+    "id": "Weapon_Rifle_Howitzer.Description.Name",
+    "content": "榴弹加农炮"
+  },
+  {
+    "id": "Weapon_Rifle_Howitzer.Description.Manufacturer",
+    "content": "Quicsell"
+  },
+  {
+    "id": "Weapon_SawedOff_THUMPER.Description.Details",
+    "content": "敲击者(Thumper)火炮是最小的常规火炮,有效射程为10.5公里.虽然是一种有效的野战火炮武器,但敲击者最为人熟知的可能是它作为星联防御部队雷神炮车上的主炮,以及的雷神敲击者的仿制品.\n\n<b><color=#ffcc00>使用敲击者弹药</color></b>."
+  },
+  {
+    "id": "Weapon_SawedOff_THUMPER.Description.UIName",
+    "content": "短管敲击者"
+  },
+  {
+    "id": "Weapon_SawedOff_THUMPER.Description.Name",
+    "content": "敲击者火炮"
+  },
+  {
+    "id": "Weapon_SawedOff_THUMPER.Description.Manufacturer",
+    "content": "SOD"
+  },
+  {
+    "id": "Weapon_TBM_Thunderstorm.Description.Details",
+    "content": "雷霆风暴是使用霹雳火导弹作为火炮的一次实验.它独特的支架系统可以在每次齐射时装填并发射任何尺寸的全重量霹雳火导弹.\n\n <B><color=#ffcc00>可以使用TBOLT20,TBOLTM15,TBOLTM10,TBOLTM5弹药</color></b>."
+  },
+  {
+    "id": "Weapon_TBM_Thunderstorm.Description.UIName",
+    "content": "雷霆风暴"
+  },
+  {
+    "id": "Weapon_TBM_Thunderstorm.Description.Name",
+    "content": "雷霆风暴"
+  },
+  {
+    "id": "Weapon_TBM_Thunderstorm.Description.Manufacturer",
+    "content": "NAIS"
+  }
+]

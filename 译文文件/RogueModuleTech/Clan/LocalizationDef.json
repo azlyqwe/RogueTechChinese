@@ -1,0 +1,2810 @@
+[
+  {
+    "id": "emod_engineslots_cxl_center.Description.Details",
+    "content": "超轻量化聚变引擎在机械结构上类似于标准聚变引擎,但使用了更轻的辐射屏蔽材料.超轻量化聚变引擎重量只有标准型的50%.氏族聚变引擎比标准型体积大了66%并且侵入了战斗机甲的两侧躯干."
+  },
+  {
+    "id": "emod_engineslots_cxl_center.Description.UIName",
+    "content": "超轻型引擎(C)"
+  },
+  {
+    "id": "emod_engineslots_cxl_center.Description.Name",
+    "content": "超轻型引擎(C)"
+  },
+  {
+    "id": "emod_engineslots_cxl_center.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "emod_engineslots_cxxl_center.Description.Details",
+    "content": "氏族极端轻量化聚变引擎在机械结构上类似于标准聚变引擎,但使用了更轻的辐射屏蔽材料.轻量化聚变引擎重量只有标准型的三分之一,但是侵入了战斗机甲的两侧躯干并且产生额外的废热."
+  },
+  {
+    "id": "emod_engineslots_cxxl_center.Description.UIName",
+    "content": "极轻型引擎(C)"
+  },
+  {
+    "id": "emod_engineslots_cxxl_center.Description.Name",
+    "content": "极轻型引擎(C)"
+  },
+  {
+    "id": "emod_engineslots_cxxl_center.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Weapon_Autocannon_AC10_CE.Description.Details",
+    "content": "早期的氏族弹道武器得益于先进的冶金和构造技术,使这些经典的战争武器变的更轻、更紧凑.使用小口径武器射击让氏族工程师也能够可靠的快速开火.\n\n<b><color=#ffcc00>使用AC10弹药</color></b>."
+  },
+  {
+    "id": "Weapon_Autocannon_AC10_CE.Description.UIName",
+    "content": "改进AC/10(CE)"
+  },
+  {
+    "id": "Weapon_Autocannon_AC10_CE.Description.Name",
+    "content": "改进AC/10(CE)"
+  },
+  {
+    "id": "Weapon_Autocannon_AC10_CE.Description.Manufacturer",
+    "content": "氏族增强"
+  },
+  {
+    "id": "Weapon_Autocannon_AC10_CE.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Autocannon_AC10_CE.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Autocannon_AC10_LBX_CE.Description.Details",
+    "content": "LB-X的早期氏族原型也在克朗代克行动期间进行了测试.虽然其与现代内天体制造的同类产品相比,其效率稍低,体积稍大,但这些自动炮为后来被称为氏族标准的产品铺平了道路.\n\n<b><color=#ffcc00>使用LBX10弹药</color></b>."
+  },
+  {
+    "id": "Weapon_Autocannon_AC10_LBX_CE.Description.UIName",
+    "content": "LBX AC/10(CE)"
+  },
+  {
+    "id": "Weapon_Autocannon_AC10_LBX_CE.Description.Name",
+    "content": "LBX AC/10(CE)"
+  },
+  {
+    "id": "Weapon_Autocannon_AC10_LBX_CE.Description.Manufacturer",
+    "content": "氏族原型"
+  },
+  {
+    "id": "Weapon_Autocannon_AC10_LBX_CE.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Autocannon_AC10_LBX_CE.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Autocannon_AC10_Ultra_CE.Description.Details",
+    "content": "在克朗代克行动期间,超级自动炮的原型版本在氏族中的使用都很有限.与这个时代的其他武器一样,现代\"氏族规格\"版本的演变直到征服五角世界和黄金世纪的黎明后才完成.\n\n<b><color=#ffcc00>使用UAC10弹药</color></b>. "
+  },
+  {
+    "id": "Weapon_Autocannon_AC10_Ultra_CE.Description.UIName",
+    "content": "UAC/10(CE)"
+  },
+  {
+    "id": "Weapon_Autocannon_AC10_Ultra_CE.Description.Name",
+    "content": "UAC/10(CE)"
+  },
+  {
+    "id": "Weapon_Autocannon_AC10_Ultra_CE.Description.Manufacturer",
+    "content": "氏族原型"
+  },
+  {
+    "id": "Weapon_Autocannon_AC10_Ultra_CE.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Autocannon_AC10_Ultra_CE.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Autocannon_AC20_CE.Description.Details",
+    "content": "早期的氏族弹道武器得益于先进的冶金和构造技术,使这些经典的战争武器变的更轻、更紧凑.使用小口径武器射击让氏族工程师也能够可靠的快速开火.\n\n<b><color=#ffcc00>使用AC20弹药</color></b>."
+  },
+  {
+    "id": "Weapon_Autocannon_AC20_CE.Description.UIName",
+    "content": "改进AC/20(CE)"
+  },
+  {
+    "id": "Weapon_Autocannon_AC20_CE.Description.Name",
+    "content": "改进AC/20(CE)"
+  },
+  {
+    "id": "Weapon_Autocannon_AC20_CE.Description.Manufacturer",
+    "content": "氏族增强"
+  },
+  {
+    "id": "Weapon_Autocannon_AC20_LBX_CE.Description.Details",
+    "content": "LB-X的早期氏族原型也在克朗代克行动期间进行了测试.虽然其与现代内天体制造的同类产品相比,其效率稍低,体积稍大,但这些自动炮为后来被称为氏族标准的产品铺平了道路.\n\n<b><color=#ffcc00>使用LBX20弹药</color></b>."
+  },
+  {
+    "id": "Weapon_Autocannon_AC20_LBX_CE.Description.UIName",
+    "content": "LBX AC/20(CE)"
+  },
+  {
+    "id": "Weapon_Autocannon_AC20_LBX_CE.Description.Name",
+    "content": "LBX AC/20(CE)"
+  },
+  {
+    "id": "Weapon_Autocannon_AC20_LBX_CE.Description.Manufacturer",
+    "content": "氏族原型"
+  },
+  {
+    "id": "Weapon_Autocannon_AC20_Ultra_CE.Description.Details",
+    "content": "在克朗代克行动期间,超级自动炮的原型版本在氏族中的使用都很有限.与这个时代的其他武器一样,现代\"氏族规格\"版本的演变直到征服五角世界和黄金世纪的黎明后才完成.\n\n<b><color=#ffcc00>使用UAC20弹药</color></b>. "
+  },
+  {
+    "id": "Weapon_Autocannon_AC20_Ultra_CE.Description.UIName",
+    "content": "UAC/20(CE)"
+  },
+  {
+    "id": "Weapon_Autocannon_AC20_Ultra_CE.Description.Name",
+    "content": "UAC/20(CE)"
+  },
+  {
+    "id": "Weapon_Autocannon_AC20_Ultra_CE.Description.Manufacturer",
+    "content": "氏族原型"
+  },
+  {
+    "id": "Weapon_Autocannon_AC2_CE.Description.Details",
+    "content": "早期的氏族弹道武器得益于先进的冶金和构造技术,使这些经典的战争武器变的更轻、更紧凑.使用小口径武器射击让氏族工程师也能够可靠的快速开火.\n\n<b><color=#ffcc00>使用AC2弹药</color></b>."
+  },
+  {
+    "id": "Weapon_Autocannon_AC2_CE.Description.UIName",
+    "content": "改进AC/2(CE)"
+  },
+  {
+    "id": "Weapon_Autocannon_AC2_CE.Description.Name",
+    "content": "改进AC/2(CE)"
+  },
+  {
+    "id": "Weapon_Autocannon_AC2_CE.Description.Manufacturer",
+    "content": "氏族增强"
+  },
+  {
+    "id": "Weapon_Autocannon_AC2_CE.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Autocannon_AC2_CE.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Autocannon_AC2_LBX_CE.Description.Details",
+    "content": "LB-X的早期氏族原型也在克朗代克行动期间进行了测试.虽然其与现代内天体制造的同类产品相比,其效率稍低,体积稍大,但这些自动炮为后来被称为氏族标准的产品铺平了道路.\n\n<b><color=#ffcc00>使用LBX2弹药</color></b>."
+  },
+  {
+    "id": "Weapon_Autocannon_AC2_LBX_CE.Description.UIName",
+    "content": "LBX AC/2(CE)"
+  },
+  {
+    "id": "Weapon_Autocannon_AC2_LBX_CE.Description.Name",
+    "content": "LBX AC/2(CE)"
+  },
+  {
+    "id": "Weapon_Autocannon_AC2_LBX_CE.Description.Manufacturer",
+    "content": "氏族原型"
+  },
+  {
+    "id": "Weapon_Autocannon_AC2_LBX_CE.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Autocannon_AC2_LBX_CE.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Autocannon_AC2_Ultra_CE.Description.Details",
+    "content": "在克朗代克行动期间,超级自动炮的原型版本在氏族中的使用都很有限.与这个时代的其他武器一样,现代\"氏族规格\"版本的演变直到征服五角世界和黄金世纪的黎明后才完成.\n\n<b><color=#ffcc00>使用UAC2弹药</color></b>. "
+  },
+  {
+    "id": "Weapon_Autocannon_AC2_Ultra_CE.Description.UIName",
+    "content": "UAC/2(CE)"
+  },
+  {
+    "id": "Weapon_Autocannon_AC2_Ultra_CE.Description.Name",
+    "content": "UAC/2(CE)"
+  },
+  {
+    "id": "Weapon_Autocannon_AC2_Ultra_CE.Description.Manufacturer",
+    "content": "氏族原型"
+  },
+  {
+    "id": "Weapon_Autocannon_AC2_Ultra_CE.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Autocannon_AC2_Ultra_CE.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Autocannon_AC5_CE.Description.Details",
+    "content": "早期的氏族弹道武器得益于先进的冶金和构造技术,使这些经典的战争武器变的更轻、更紧凑.使用小口径武器射击让氏族工程师也能够可靠的快速开火.\n\n<b><color=#ffcc00>使用AC5弹药</color></b>."
+  },
+  {
+    "id": "Weapon_Autocannon_AC5_CE.Description.UIName",
+    "content": "改进AC/5(CE)"
+  },
+  {
+    "id": "Weapon_Autocannon_AC5_CE.Description.Name",
+    "content": "改进AC/5(CE)"
+  },
+  {
+    "id": "Weapon_Autocannon_AC5_CE.Description.Manufacturer",
+    "content": "氏族增强"
+  },
+  {
+    "id": "Weapon_Autocannon_AC5_CE.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Autocannon_AC5_CE.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Autocannon_AC5_LBX_CE.Description.Details",
+    "content": "LB-X的早期氏族原型也在克朗代克行动期间进行了测试.虽然其与现代内天体制造的同类产品相比,其效率稍低,体积稍大,但这些自动炮为后来被称为氏族标准的产品铺平了道路.\n\n<b><color=#ffcc00>使用LBX5弹药</color></b>."
+  },
+  {
+    "id": "Weapon_Autocannon_AC5_LBX_CE.Description.UIName",
+    "content": "LBX AC/5(CE)"
+  },
+  {
+    "id": "Weapon_Autocannon_AC5_LBX_CE.Description.Name",
+    "content": "LBX AC/5(CE)"
+  },
+  {
+    "id": "Weapon_Autocannon_AC5_LBX_CE.Description.Manufacturer",
+    "content": "氏族原型"
+  },
+  {
+    "id": "Weapon_Autocannon_AC5_LBX_CE.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Autocannon_AC5_LBX_CE.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Autocannon_AC5_Ultra_CE.Description.Details",
+    "content": "在克朗代克行动期间,超级自动炮的原型版本在氏族中的使用都很有限.与这个时代的其他武器一样,现代\"氏族规格\"版本的演变直到征服五角世界和黄金世纪的黎明后才完成.\n\n<b><color=#ffcc00>使用UAC5弹药</color></b>. "
+  },
+  {
+    "id": "Weapon_Autocannon_AC5_Ultra_CE.Description.UIName",
+    "content": "UAC/5(CE)"
+  },
+  {
+    "id": "Weapon_Autocannon_AC5_Ultra_CE.Description.Name",
+    "content": "UAC/5(CE)"
+  },
+  {
+    "id": "Weapon_Autocannon_AC5_Ultra_CE.Description.Manufacturer",
+    "content": "氏族原型"
+  },
+  {
+    "id": "Weapon_Autocannon_AC5_Ultra_CE.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Autocannon_AC5_Ultra_CE.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Enhanced_PPCER_CLAN.Description.Details",
+    "content": "由狼獾氏族早期开发的增程型粒子投射加农炮(ER PPC)或增强ER PPC是原始ER PPC和氏族最终版本的一个中间点.它的伤害阈值比最初的ER PPC高20%,但两者在其他方面是相同的."
+  },
+  {
+    "id": "Weapon_Enhanced_PPCER_CLAN.Description.UIName",
+    "content": "增强增程粒子炮(C)"
+  },
+  {
+    "id": "Weapon_Enhanced_PPCER_CLAN.Description.Name",
+    "content": "增程粒子炮(C)"
+  },
+  {
+    "id": "Weapon_Enhanced_PPCER_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_Enhanced_PPCER_CLAN.AbilityDefPPC.statusEffects0.Details",
+    "content": "电磁干扰降低传感器效率."
+  },
+  {
+    "id": "Weapon_Enhanced_PPCER_CLAN.AAAFactor.statusEffects1.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Enhanced_PPCER_CLAN.AbilityDefPPC.statusEffects0.Name",
+    "content": "传感器效率降低"
+  },
+  {
+    "id": "Weapon_Enhanced_PPCER_CLAN.AAAFactor.statusEffects1.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Gauss_CE.Description.Details",
+    "content": "氏族技术几乎无法提高标准高斯线膛炮的性能,使其超越星联时期的荣耀,但改进版仍然证明了克伦斯基的弟子是如何沿着这条道路前进的.\n\n<b><color=#ffcc00>使用高斯弹药</color></b>\n\n<b><color=#099ff2>不稳定!</color></b>."
+  },
+  {
+    "id": "Weapon_Gauss_CE.Description.UIName",
+    "content": "改进型高斯线膛炮(CE)"
+  },
+  {
+    "id": "Weapon_Gauss_CE.Description.Name",
+    "content": "高斯线膛炮(CE)"
+  },
+  {
+    "id": "Weapon_Gauss_CE.Description.Manufacturer",
+    "content": "氏族改进"
+  },
+  {
+    "id": "Weapon_Gauss_CE.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Gauss_CE.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_LargeLaserPulse_CE.Description.Details",
+    "content": "早期氏族使用的改进型激光包括标准大型激光和大型脉冲激光.工程和机甲加工技术的进步使这些武器在不损失性能的情况下比以前更轻."
+  },
+  {
+    "id": "Weapon_LargeLaserPulse_CE.Description.UIName",
+    "content": "改进大型脉冲激光(CE)"
+  },
+  {
+    "id": "Weapon_LargeLaserPulse_CE.Description.Name",
+    "content": "大型脉冲激光(CE)"
+  },
+  {
+    "id": "Weapon_LargeLaserPulse_CE.Description.Manufacturer",
+    "content": "氏族改进"
+  },
+  {
+    "id": "Weapon_LargeLaserPulse_CE.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_LargeLaserPulse_CE.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_LargeLaser_CE.Description.Details",
+    "content": "早期氏族使用的改进型激光包括标准大型激光和大型脉冲激光.工程和机甲加工技术的进步使这些武器在不损失性能的情况下比以前更轻."
+  },
+  {
+    "id": "Weapon_LargeLaser_CE.Description.UIName",
+    "content": "改进大型激光(CE)"
+  },
+  {
+    "id": "Weapon_LargeLaser_CE.Description.Name",
+    "content": "改进大型激光(CE)"
+  },
+  {
+    "id": "Weapon_LargeLaser_CE.Description.Manufacturer",
+    "content": "氏族改进"
+  },
+  {
+    "id": "Weapon_LargeLaser_CE.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_LargeLaser_CE.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_LRM10_CE.Description.Details",
+    "content": "作为一个小型化的奇迹,氏族将其LRM发射器的重量减少了一半,并在一定程度上减少了体积.进一步的改进将创造出熟悉的氏族LRM,无需在预定射程之间切换."
+  },
+  {
+    "id": "Weapon_LRM10_CE.Description.UIName",
+    "content": "改进LRM10(CE)"
+  },
+  {
+    "id": "Weapon_LRM10_CE.Description.Name",
+    "content": "改进LRM10(CE)"
+  },
+  {
+    "id": "Weapon_LRM10_CE.Description.Manufacturer",
+    "content": "氏族增强"
+  },
+  {
+    "id": "Weapon_LRM10_CE.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_LRM10_CE.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_LRM15_CE.Description.Details",
+    "content": "作为一个小型化的奇迹,氏族将其LRM发射器的重量减少了一半,并在一定程度上减少了体积.进一步的改进将创造出熟悉的氏族LRM,无需在预定射程之间切换."
+  },
+  {
+    "id": "Weapon_LRM15_CE.Description.UIName",
+    "content": "改进LRM15(CE)"
+  },
+  {
+    "id": "Weapon_LRM15_CE.Description.Name",
+    "content": "改进LRM15(CE)"
+  },
+  {
+    "id": "Weapon_LRM15_CE.Description.Manufacturer",
+    "content": "氏族增强"
+  },
+  {
+    "id": "Weapon_LRM15_CE.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_LRM15_CE.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_LRM20_CE.Description.Details",
+    "content": "作为一个小型化的奇迹,氏族将其LRM发射器的重量减少了一半,并在一定程度上减少了体积.进一步的改进将创造出熟悉的氏族LRM,无需在预定射程之间切换."
+  },
+  {
+    "id": "Weapon_LRM20_CE.Description.UIName",
+    "content": "改进LRM20(CE)"
+  },
+  {
+    "id": "Weapon_LRM20_CE.Description.Name",
+    "content": "改进LRM20(CE)"
+  },
+  {
+    "id": "Weapon_LRM20_CE.Description.Manufacturer",
+    "content": "氏族增强"
+  },
+  {
+    "id": "Weapon_LRM20_CE.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_LRM20_CE.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_LRM5_CE.Description.Details",
+    "content": "作为一个小型化的奇迹,氏族将其LRM发射器的重量减少了一半,并在一定程度上减少了体积.进一步的改进将创造出熟悉的氏族LRM,无需在预定射程之间切换."
+  },
+  {
+    "id": "Weapon_LRM5_CE.Description.UIName",
+    "content": "改进LRM5(CE)"
+  },
+  {
+    "id": "Weapon_LRM5_CE.Description.Name",
+    "content": "改进LRM5(CE)"
+  },
+  {
+    "id": "Weapon_LRM5_CE.Description.Manufacturer",
+    "content": "氏族增强"
+  },
+  {
+    "id": "Weapon_LRM5_CE.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_LRM5_CE.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_MediumLaserER_CE.Description.Details",
+    "content": "先进激光技术是氏族最先掌握的技术之一,但在克朗代克行动期间,新系统的测试仍在进行中.直到返回五角星系期间,才有了可用的中小型激光的实验版本."
+  },
+  {
+    "id": "Weapon_MediumLaserER_CE.Description.UIName",
+    "content": "中型增程激光(CE)"
+  },
+  {
+    "id": "Weapon_MediumLaserER_CE.Description.Name",
+    "content": "中型增程激光(CE)"
+  },
+  {
+    "id": "Weapon_MediumLaserER_CE.Description.Manufacturer",
+    "content": "氏族原型"
+  },
+  {
+    "id": "Weapon_PPC_CE.Description.Details",
+    "content": "起源氏族改进了粒子炮,消除了最小的射程,减小了尺寸和重量,但牺牲了电磁干扰效果."
+  },
+  {
+    "id": "Weapon_PPC_CE.Description.UIName",
+    "content": "改进粒子炮(CE)"
+  },
+  {
+    "id": "Weapon_PPC_CE.Description.Name",
+    "content": "改进粒子炮(CE)"
+  },
+  {
+    "id": "Weapon_PPC_CE.Description.Manufacturer",
+    "content": "氏族增强"
+  },
+  {
+    "id": "Weapon_PPC_CE.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_PPC_CE.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_SmallLaserER_CE.Description.Details",
+    "content": "先进激光技术是氏族最先掌握的技术之一,但在克朗代克行动期间,新系统的测试仍在进行中.直到返回五角星系期间,才有了可用的中小型激光的实验版本."
+  },
+  {
+    "id": "Weapon_SmallLaserER_CE.Description.UIName",
+    "content": "小型增程激光(CE)"
+  },
+  {
+    "id": "Weapon_SmallLaserER_CE.Description.Name",
+    "content": "小型增程激光(CE)"
+  },
+  {
+    "id": "Weapon_SmallLaserER_CE.Description.Manufacturer",
+    "content": "氏族原型"
+  },
+  {
+    "id": "Weapon_SRM2_CE.Description.Details",
+    "content": "早期的氏族武器制造者使用更强力的发射机制,将SRM的有效射程提高了三分之一,并且发射器本身的重量和尺寸与最初的同类产品大致相同."
+  },
+  {
+    "id": "Weapon_SRM2_CE.Description.UIName",
+    "content": "改进SRM2(CE)"
+  },
+  {
+    "id": "Weapon_SRM2_CE.Description.Name",
+    "content": "改进SRM2(CE)"
+  },
+  {
+    "id": "Weapon_SRM2_CE.Description.Manufacturer",
+    "content": "氏族增强"
+  },
+  {
+    "id": "Weapon_SRM2_STREAK_CE.Description.Details",
+    "content": "在星联大出走的最后几年,星联防卫军的研究人员和武器制造者试图增加迅捷SRM发射器的尺寸,以容纳4个或6个导弹.然而他们只取得了一些有限的成果,最后真正的突破要到等到黄金世纪初期,当时氏族的科学家攻克了迅捷SRM的瞄准和制导系统尺寸过大的问题.在克朗代克行动期间,迅捷SRM4和SRM6的实验版本数量非常有限.\n\n<b><color=#ffcc00>使用迅捷SRM弹药/color></b>."
+  },
+  {
+    "id": "Weapon_SRM2_STREAK_CE.Description.UIName",
+    "content": "迅捷SRM2(CE)"
+  },
+  {
+    "id": "Weapon_SRM2_STREAK_CE.Description.Name",
+    "content": "迅捷SRM2(CE)"
+  },
+  {
+    "id": "Weapon_SRM2_STREAK_CE.Description.Manufacturer",
+    "content": "氏族原型"
+  },
+  {
+    "id": "Weapon_SRM4_CE.Description.Details",
+    "content": "早期的氏族武器制造者使用更强力的发射机制,将SRM的有效射程提高了三分之一,并且发射器本身的重量和尺寸与最初的同类产品大致相同."
+  },
+  {
+    "id": "Weapon_SRM4_CE.Description.UIName",
+    "content": "改进SRM4(CE)"
+  },
+  {
+    "id": "Weapon_SRM4_CE.Description.Name",
+    "content": "改进SRM4(CE)"
+  },
+  {
+    "id": "Weapon_SRM4_CE.Description.Manufacturer",
+    "content": "氏族增强"
+  },
+  {
+    "id": "Weapon_SRM4_STREAK_CE.Description.Details",
+    "content": "在星联大出走的最后几年,星联防卫军的研究人员和武器制造者试图增加迅捷SRM发射器的尺寸,以容纳4个或6个导弹.然而他们只取得了一些有限的成果,最后真正的突破要到等到黄金世纪初期,当时氏族的科学家攻克了迅捷SRM的瞄准和制导系统尺寸过大的问题.在克朗代克行动期间,迅捷SRM4和SRM6的实验版本数量非常有限.\n\n<b><color=#ffcc00>使用迅捷SRM弹药/color></b>."
+  },
+  {
+    "id": "Weapon_SRM4_STREAK_CE.Description.UIName",
+    "content": "迅捷SRM4(CE)"
+  },
+  {
+    "id": "Weapon_SRM4_STREAK_CE.Description.Name",
+    "content": "迅捷SRM4(CE)"
+  },
+  {
+    "id": "Weapon_SRM4_STREAK_CE.Description.Manufacturer",
+    "content": "氏族原型"
+  },
+  {
+    "id": "Weapon_SRM6_CE.Description.Details",
+    "content": "早期的氏族武器制造者使用更强力的发射机制,将SRM的有效射程提高了三分之一,并且发射器本身的重量和尺寸与最初的同类产品大致相同."
+  },
+  {
+    "id": "Weapon_SRM6_CE.Description.UIName",
+    "content": "改进SRM6(CE)"
+  },
+  {
+    "id": "Weapon_SRM6_CE.Description.Name",
+    "content": "改进SRM6(CE)"
+  },
+  {
+    "id": "Weapon_SRM6_CE.Description.Manufacturer",
+    "content": "氏族增强"
+  },
+  {
+    "id": "Weapon_SRM6_STREAK_CE.Description.Details",
+    "content": "在星联大出走的最后几年,星联防卫军的研究人员和武器制造者试图增加迅捷SRM发射器的尺寸,以容纳4个或6个导弹.然而他们只取得了一些有限的成果,最后真正的突破要到等到黄金世纪初期,当时氏族的科学家攻克了迅捷SRM的瞄准和制导系统尺寸过大的问题.在克朗代克行动期间,迅捷SRM4和SRM6的实验版本数量非常有限.\n\n<b><color=#ffcc00>使用迅捷SRM弹药/color></b>."
+  },
+  {
+    "id": "Weapon_SRM6_STREAK_CE.Description.UIName",
+    "content": "迅捷SRM6(CE)"
+  },
+  {
+    "id": "Weapon_SRM6_STREAK_CE.Description.Name",
+    "content": "迅捷SRM6(CE)"
+  },
+  {
+    "id": "Weapon_SRM6_STREAK_CE.Description.Manufacturer",
+    "content": "氏族原型"
+  },
+  {
+    "id": "emod_armorslots_clanferrolamellor.Description.Details",
+    "content": "纹层钢被雪鸦氏族的科学家创造,以雪鸦氏族战舰上的碳化钢装甲为技术基础.按比例缩小,以便可以在机甲、空天战斗机和坦克上使用,实验性纹层钢改进了防护,性能甚至超越了纤维钢装甲.<b><color=#00ff00>启用CASE</color></b>"
+  },
+  {
+    "id": "emod_armorslots_clanferrolamellor.Description.UIName",
+    "content": "纹层钢装甲(C)"
+  },
+  {
+    "id": "emod_armorslots_clanferrolamellor.Description.Name",
+    "content": "纹层钢装甲(C)"
+  },
+  {
+    "id": "emod_armorslots_clanferrolamellor.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "emod_armorslots_clanferrolamellor.StatusEffect-CFL.statusEffects0.Details",
+    "content": "-20%即将受到的伤害."
+  },
+  {
+    "id": "emod_armorslots_clanferrolamellor.HardenedCritImmune.statusEffects1.Details",
+    "content": "更快的速度."
+  },
+  {
+    "id": "emod_armorslots_clanferrolamellor.StatusEffect-CFL.statusEffects0.Name",
+    "content": "降低受到的伤害"
+  },
+  {
+    "id": "emod_armorslots_clanferrolamellor.HardenedCritImmune.statusEffects1.Name",
+    "content": "冲刺撞击"
+  },
+  {
+    "id": "emod_armorslots_clanferrosfibrous.Description.Details",
+    "content": "氏族纤维钢(cFF)装甲是车辆和战斗机甲使用的特殊类型装甲.使用钢、钛合金和碳纳米管纤维编织而成,提高了装甲板的强度,同等重量下比标准装甲提供了更多的防护,但是占用机甲和车辆的空间也更多.<b><color=#00ff00>启用CASE</color></b>"
+  },
+  {
+    "id": "emod_armorslots_clanferrosfibrous.Description.UIName",
+    "content": "纤维钢装甲(C)"
+  },
+  {
+    "id": "emod_armorslots_clanferrosfibrous.Description.Name",
+    "content": "纤维钢装甲(C)"
+  },
+  {
+    "id": "emod_armorslots_clanferrosfibrous.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "emod_armorslots_clanglazed.Description.Details",
+    "content": "起源于碧玉鹰氏族的一项实验,这种'釉面'或'反光'装甲融合了天琴同盟国的先进反射涂层技术,提高了对能量武器的抵抗力. <b><color=#00ff00>启用CASE</color></b>"
+  },
+  {
+    "id": "emod_armorslots_clanglazed.Description.UIName",
+    "content": "釉面装甲(C)"
+  },
+  {
+    "id": "emod_armorslots_clanglazed.Description.Name",
+    "content": "釉面装甲(C)"
+  },
+  {
+    "id": "emod_armorslots_clanglazed.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "emod_armorslots_clanglazed.StatusEffect-Reflectivebonus.statusEffects0.Details",
+    "content": "受到更少的能量伤害."
+  },
+  {
+    "id": "emod_armorslots_clanglazed.StatusEffect-Reflectivepenalty1.statusEffects1.Details",
+    "content": "受到更少的能量伤害."
+  },
+  {
+    "id": "emod_armorslots_clanglazed.StatusEffect-Reflectivepenalty2.statusEffects2.Details",
+    "content": "受到更少的能量伤害."
+  },
+  {
+    "id": "emod_armorslots_clanglazed.StatusEffect-Reflectivebonus.statusEffects0.Name",
+    "content": "反射涂层"
+  },
+  {
+    "id": "emod_armorslots_clanglazed.StatusEffect-Reflectivepenalty1.statusEffects1.Name",
+    "content": "反射涂层"
+  },
+  {
+    "id": "emod_armorslots_clanglazed.StatusEffect-Reflectivepenalty2.statusEffects2.Name",
+    "content": "反射涂层"
+  },
+  {
+    "id": "emod_armorslots_clanHeatDissipating.Description.Details",
+    "content": "散热装甲是氏族战斗服的使用的耐火装甲的衍生物.由卡佩兰联邦发明,在完好无损的情况下,可以降低开火或燃烧武器对机甲换热系统的影响.和一些特专用装甲不同,它对大多数武器都有效,但装甲体积的增大(来自额外的隔热材料和改进密封剂)导致单位重量下防护能力降低.氏族变体拥有更好的散热效果并且<b><color=#00ff00>启用CASE</color></b>"
+  },
+  {
+    "id": "emod_armorslots_clanHeatDissipating.Description.UIName",
+    "content": "散热装甲(C)"
+  },
+  {
+    "id": "emod_armorslots_clanHeatDissipating.Description.Name",
+    "content": "散热装甲(C)"
+  },
+  {
+    "id": "emod_armorslots_clanHeatDissipating.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "emod_armorslots_clanHeatDissipating.HeatDamageTaken_Salamander.statusEffects0.Details",
+    "content": "-20%产热"
+  },
+  {
+    "id": "emod_armorslots_clanHeatDissipating.HeatDamageTaken_Salamander.statusEffects0.Name",
+    "content": "减少产热"
+  },
+  {
+    "id": "emod_armorslots_clanheavyferrosfibrous.Description.Details",
+    "content": "氏族重型纤维钢装甲(cFF)是一种被车辆和战斗机甲使用的特殊类型装甲.是研究纤维钢时的衍生产品,最初由于体积过大而被放弃,但相同重量下它提供了更好的防护.<b><color=#00ff00>启用CASE</color></b>."
+  },
+  {
+    "id": "emod_armorslots_clanheavyferrosfibrous.Description.UIName",
+    "content": "重型纤维钢装甲(C)"
+  },
+  {
+    "id": "emod_armorslots_clanheavyferrosfibrous.Description.Name",
+    "content": "重型纤维钢装甲(C)"
+  },
+  {
+    "id": "emod_armorslots_clanheavyferrosfibrous.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "emod_clancase2.Description.Details",
+    "content": "氏族CASE II和实验性FIS CASE II相似,但重量只有前者的一半.当发生内部爆炸时,CASE II将其对内部结构的伤害降低到5点.<b><color=#00ff00>需要氏族装甲</color></b>"
+  },
+  {
+    "id": "emod_clancase2.Description.UIName",
+    "content": "C.A.S.E. II(C)"
+  },
+  {
+    "id": "emod_clancase2.Description.Name",
+    "content": "C.A.S.E. II(C)"
+  },
+  {
+    "id": "emod_clancase2.Description.Manufacturer",
+    "content": "特雷尔希尔"
+  },
+  {
+    "id": "emod_structureslots_clanendocomposite.Description.Details",
+    "content": "氏族版本的复合内构钢最初由天琴座的人发明.最大区别是它降低2槽位占用.\r\n\r\n精确的添加<b>3</b>复合内构钢(C)槽位,以使你内部结构重量降低到原本的<b>75%</b>."
+  },
+  {
+    "id": "emod_structureslots_clanendocomposite.Description.UIName",
+    "content": "复合内构钢(C)"
+  },
+  {
+    "id": "emod_structureslots_clanendocomposite.Description.Name",
+    "content": "内构钢结构"
+  },
+  {
+    "id": "emod_structureslots_clanendocomposite.Description.Manufacturer",
+    "content": "考文垂"
+  },
+  {
+    "id": "emod_structureslots_clanendosteel.Description.Details",
+    "content": "有人类霸权于2487年开发,并在氏族出走后得到改进,氏族内构钢是专门作为战斗机甲骨架设计的.在零重力技术下将高密度钢和低密度的铝和钛均匀混合,单位重量下强度是标准骨架材料的两倍,以使地盘重量减半,但体积增加了.\r\n\r\n占用<b>7</b>内构钢槽位,以使你内部结构的重量<b>减半</b>."
+  },
+  {
+    "id": "emod_structureslots_clanendosteel.Description.UIName",
+    "content": "内构钢结构(C)"
+  },
+  {
+    "id": "emod_structureslots_clanendosteel.Description.Name",
+    "content": "内构钢结构(C)"
+  },
+  {
+    "id": "emod_structureslots_clanendosteel.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Gear_Angel_ECM_Clan.Description.Details",
+    "content": "天使ECM的氏族版本,由巨人蝎氏族开发.他们利用小而高效的氏族技术的优势,设法将其尺寸缩小到与守护者ECM相同,但成本大大增加."
+  },
+  {
+    "id": "Gear_Angel_ECM_Clan.Description.UIName",
+    "content": "天使ECM(C)"
+  },
+  {
+    "id": "Gear_Angel_ECM_Clan.Description.Name",
+    "content": "天使ECM"
+  },
+  {
+    "id": "Gear_Angel_ECM_Clan.Description.Manufacturer",
+    "content": "巨人蝎"
+  },
+  {
+    "id": "Gear_Angel_ECM_Clan.ECMPassiveShield.CAE0.Details",
+    "content": "被动ECM保护"
+  },
+  {
+    "id": "Gear_Angel_ECM_Clan.ECMPassiveJam.CAE1.Details",
+    "content": "被动干扰保护"
+  },
+  {
+    "id": "Gear_Angel_ECM_Clan.ECMPassiveShield.CAE0.Name",
+    "content": "ECM被动护罩"
+  },
+  {
+    "id": "Gear_Angel_ECM_Clan.ECMPassiveJam.CAE1.Name",
+    "content": "ECM被动干扰"
+  },
+  {
+    "id": "Gear_AP_CLAN.Description.Details",
+    "content": "猎兔犬主动探测器(BAP)是一套增强技术,当接入通用电子传感器时,装备的单位能够检测和区分除常规步兵外的其他战场单位,无论他们是伪装或关闭.氏族从未'失去'过这项技术,但在完善该概念设备时放弃了'猎兔犬'的名字."
+  },
+  {
+    "id": "Gear_AP_CLAN.Description.UIName",
+    "content": "主动探测器(C)"
+  },
+  {
+    "id": "Gear_AP_CLAN.Description.Name",
+    "content": "主动探测器"
+  },
+  {
+    "id": "Gear_AP_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Gear_AP_CLAN.LV_PROBE_CARRIER.statusEffects0.Details",
+    "content": "降低隐身和ECM护罩单元的效果"
+  },
+  {
+    "id": "Gear_AP_CLAN.LV_ADVANCED_SENSORS.statusEffects1.Details",
+    "content": "提供敌军单位的详细信息"
+  },
+  {
+    "id": "Gear_AP_CLAN.BAProbe.statusEffects2.Details",
+    "content": "增加视野/传感器"
+  },
+  {
+    "id": "Gear_AP_CLAN.Blood-Spotting_Gain-T1.statusEffects3.Details",
+    "content": "+50m侦测距离"
+  },
+  {
+    "id": "Gear_AP_CLAN.MineFieldDetection.statusEffects4.Details",
+    "content": "探测雷场"
+  },
+  {
+    "id": "Gear_AP_CLAN.LV_PROBE_CARRIER.statusEffects0.Name",
+    "content": "主动探测器(被动)"
+  },
+  {
+    "id": "Gear_AP_CLAN.LV_ADVANCED_SENSORS.statusEffects1.Name",
+    "content": "先进传感器"
+  },
+  {
+    "id": "Gear_AP_CLAN.BAProbe.statusEffects2.Name",
+    "content": "猎兔犬探测器"
+  },
+  {
+    "id": "Gear_AP_CLAN.Blood-Spotting_Gain-T1.statusEffects3.Name",
+    "content": "提升侦测距离"
+  },
+  {
+    "id": "Gear_AP_CLAN.MineFieldDetection.statusEffects4.Name",
+    "content": "主动探测器(被动)"
+  },
+  {
+    "id": "Gear_Guardian_ECM_CLAN.Description.Details",
+    "content": "守护者ECM套件于2597年由人类霸权的约翰斯顿工业公司推出.旨在干扰制导武器、瞄准电脑和通讯系统,守护者通常用发射宽频信号的方法来干扰雷达、红外、紫外、磁扫描和声呐传感器,进而保护盟友免受此类设备的影响."
+  },
+  {
+    "id": "Gear_Guardian_ECM_CLAN.Description.UIName",
+    "content": "守护者ECM(C)"
+  },
+  {
+    "id": "Gear_Guardian_ECM_CLAN.Description.Name",
+    "content": "守护者ECM(C)"
+  },
+  {
+    "id": "Gear_Guardian_ECM_CLAN.Description.Manufacturer",
+    "content": "约翰斯顿"
+  },
+  {
+    "id": "Gear_Guardian_ECM_CLAN.ECMPassiveShield.CAE0.Details",
+    "content": "被动ECM保护"
+  },
+  {
+    "id": "Gear_Guardian_ECM_CLAN.ECMPassiveJam.CAE1.Details",
+    "content": "被动干扰保护"
+  },
+  {
+    "id": "Gear_Guardian_ECM_CLAN.ECMPassiveShield.CAE0.Name",
+    "content": "ECM被动护罩"
+  },
+  {
+    "id": "Gear_Guardian_ECM_CLAN.ECMPassiveJam.CAE1.Name",
+    "content": "ECM被动干扰"
+  },
+  {
+    "id": "Gear_LIGHT_AP_CLAN.Description.Details",
+    "content": "猎兔犬主动探测器(BAP)是一套增强技术,当接入通用电子传感器时,装备的单位能够检测和区分除常规步兵外的其他战场单位,无论他们是伪装或关闭.氏族从未'失去'过这项技术,但在完善该概念设备时放弃了'猎兔犬'的名字."
+  },
+  {
+    "id": "Gear_LIGHT_AP_CLAN.Description.UIName",
+    "content": "轻型主动探测器(C)"
+  },
+  {
+    "id": "Gear_LIGHT_AP_CLAN.Description.Name",
+    "content": "轻型主动探测器"
+  },
+  {
+    "id": "Gear_LIGHT_AP_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Gear_LIGHT_AP_CLAN.LV_PROBE_CARRIER.statusEffects0.Details",
+    "content": "降低隐身和ECM护罩单元的效果"
+  },
+  {
+    "id": "Gear_LIGHT_AP_CLAN.LV_ADVANCED_SENSORS.statusEffects1.Details",
+    "content": "提供敌军单位的详细信息"
+  },
+  {
+    "id": "Gear_LIGHT_AP_CLAN.BAProbe.statusEffects2.Details",
+    "content": "增加视野/传感器"
+  },
+  {
+    "id": "Gear_LIGHT_AP_CLAN.Blood-Spotting_Gain-T1.statusEffects3.Details",
+    "content": "+50m侦测距离"
+  },
+  {
+    "id": "Gear_LIGHT_AP_CLAN.MineFieldDetection.statusEffects4.Details",
+    "content": "探测雷场"
+  },
+  {
+    "id": "Gear_LIGHT_AP_CLAN.LV_PROBE_CARRIER.statusEffects0.Name",
+    "content": "主动探测器(被动)"
+  },
+  {
+    "id": "Gear_LIGHT_AP_CLAN.LV_ADVANCED_SENSORS.statusEffects1.Name",
+    "content": "先进传感器"
+  },
+  {
+    "id": "Gear_LIGHT_AP_CLAN.BAProbe.statusEffects2.Name",
+    "content": "猎兔犬探测器"
+  },
+  {
+    "id": "Gear_LIGHT_AP_CLAN.Blood-Spotting_Gain-T1.statusEffects3.Name",
+    "content": "提升侦测距离"
+  },
+  {
+    "id": "Gear_LIGHT_AP_CLAN.MineFieldDetection.statusEffects4.Name",
+    "content": "主动探测器(被动)"
+  },
+  {
+    "id": "Gear_MASC_CLAN.Description.Details",
+    "content": "由人类霸权于2740年引入,人工肌肉加速信号电路(MASC)是一种可以让机甲以两倍其普通行走速度移动的装备.然而标准腿部机构不是为这种压力制造的.长时间使用MASC系统可能会损坏机甲腿部机构.虽然这不太可能使机甲瘫痪,但腿部机构被摧毁的危险足以让机甲战士谨慎的在战斗中使用.<b><color=#099ff2>可激活:失败时对腿部造成伤害和严重损伤</color></b>."
+  },
+  {
+    "id": "Gear_MASC_CLAN.Description.UIName",
+    "content": "M.A.S.C.(C)"
+  },
+  {
+    "id": "Gear_MASC_CLAN.Description.Name",
+    "content": "M.A.S.C.(C)"
+  },
+  {
+    "id": "Gear_MASC_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Gear_MASC_CLAN.MASCWalk.CAE0.Details",
+    "content": "人工肌肉加速信号电路(MASC)"
+  },
+  {
+    "id": "Gear_MASC_CLAN.MASCWalk.CAE0.Name",
+    "content": "MASC"
+  },
+  {
+    "id": "Gear_Nova_CEWS.Description.Details",
+    "content": "氏族的科学家听说了内天体使用的C3系统后,开发了超新星(Nova)氏族复合电子战套件(CEWS).通过将看门狗(Watchdog)氏族复合电子战套件(CEWS)和C3系统相结合,他们创造了一种可以找到敌人,在ECM范围内隐藏使用它的单位,并向其他友军单位提供目标数据的工具.此外,超新星CEWS不需要预先拥有C3能力:它可以在运行中编程,以增强友军火力. "
+  },
+  {
+    "id": "Gear_Nova_CEWS.Description.UIName",
+    "content": "超新星CEWS(C)"
+  },
+  {
+    "id": "Gear_Nova_CEWS.Description.Name",
+    "content": "超新星CEWS(C)"
+  },
+  {
+    "id": "Gear_Nova_CEWS.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Gear_Nova_CEWS.C3Nova.statusEffects0.Details",
+    "content": "当队友移动时显示他们的视野"
+  },
+  {
+    "id": "Gear_Nova_CEWS.C3_AI.statusEffects1.Details",
+    "content": "当队友移动时显示他们的视野"
+  },
+  {
+    "id": "Gear_Nova_CEWS.MineFieldDetection.statusEffects2.Details",
+    "content": "探测雷场"
+  },
+  {
+    "id": "Gear_Nova_CEWS.LV_PROBE_CARRIER.statusEffects3.Details",
+    "content": "降低隐身和ECM护罩单元的效果"
+  },
+  {
+    "id": "Gear_Nova_CEWS.LV_ADVANCED_SENSORS.statusEffects4.Details",
+    "content": "提供敌军单位的详细信息"
+  },
+  {
+    "id": "Gear_Nova_CEWS.AdvancedProbeSensor.statusEffects5.Details",
+    "content": "增加 视野/传感器效率/健康."
+  },
+  {
+    "id": "Gear_Nova_CEWS.AdvancedProbeSight.statusEffects6.Details",
+    "content": "+50m侦测距离"
+  },
+  {
+    "id": "Gear_Nova_CEWS.ECMPassiveShield.statusEffects7.Details",
+    "content": "被动ECM保护"
+  },
+  {
+    "id": "Gear_Nova_CEWS.ECMPassiveJam.statusEffects8.Details",
+    "content": "被动干扰保护"
+  },
+  {
+    "id": "Gear_Nova_CEWS.LV_Shares_Vision.statusEffects9.Details",
+    "content": "当队友移动时显示他们的视野"
+  },
+  {
+    "id": "Gear_Nova_CEWS.C3Nova.statusEffects0.Name",
+    "content": "超新星C3"
+  },
+  {
+    "id": "Gear_Nova_CEWS.C3_AI.statusEffects1.Name",
+    "content": "C3 AI"
+  },
+  {
+    "id": "Gear_Nova_CEWS.MineFieldDetection.statusEffects2.Name",
+    "content": "主动探测器(被动)"
+  },
+  {
+    "id": "Gear_Nova_CEWS.LV_PROBE_CARRIER.statusEffects3.Name",
+    "content": "主动探测器(被动)"
+  },
+  {
+    "id": "Gear_Nova_CEWS.LV_ADVANCED_SENSORS.statusEffects4.Name",
+    "content": "先进传感器"
+  },
+  {
+    "id": "Gear_Nova_CEWS.AdvancedProbeSensor.statusEffects5.Name",
+    "content": "探测传感器"
+  },
+  {
+    "id": "Gear_Nova_CEWS.AdvancedProbeSight.statusEffects6.Name",
+    "content": "探测器视野"
+  },
+  {
+    "id": "Gear_Nova_CEWS.ECMPassiveShield.statusEffects7.Name",
+    "content": "ECM被动护罩"
+  },
+  {
+    "id": "Gear_Nova_CEWS.ECMPassiveJam.statusEffects8.Name",
+    "content": "ECM被动干扰"
+  },
+  {
+    "id": "Gear_Nova_CEWS.LV_Shares_Vision.statusEffects9.Name",
+    "content": "视野共享"
+  },
+  {
+    "id": "Gear_Watchdog_EWS.Description.Details",
+    "content": "看门犬复合电子战系统(CEWS)结合了氏族中最好的主动探测系统和增强型电子对抗套件.通过在一个设备中执行两个系统的功能,看门狗使氏族泛用机甲能够安装额外的武器或装甲."
+  },
+  {
+    "id": "Gear_Watchdog_EWS.Description.UIName",
+    "content": "看门狗套件(C)"
+  },
+  {
+    "id": "Gear_Watchdog_EWS.Description.Name",
+    "content": "看门狗套件(C)"
+  },
+  {
+    "id": "Gear_Watchdog_EWS.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Gear_Watchdog_EWS.MineFieldDetection.statusEffects0.Details",
+    "content": "探测雷场"
+  },
+  {
+    "id": "Gear_Watchdog_EWS.LV_PROBE_CARRIER.statusEffects1.Details",
+    "content": "降低隐身和ECM护罩单元的效果"
+  },
+  {
+    "id": "Gear_Watchdog_EWS.LV_ADVANCED_SENSORS.statusEffects2.Details",
+    "content": "提供敌军单位的详细信息"
+  },
+  {
+    "id": "Gear_Watchdog_EWS.AdvancedProbeSensor.statusEffects3.Details",
+    "content": "增加 视野/传感器效率/健康."
+  },
+  {
+    "id": "Gear_Watchdog_EWS.AdvancedProbeSight.statusEffects4.Details",
+    "content": "+50m侦测距离"
+  },
+  {
+    "id": "Gear_Watchdog_EWS.ECMPassiveShield.statusEffects5.Details",
+    "content": "被动ECM保护"
+  },
+  {
+    "id": "Gear_Watchdog_EWS.ECMPassiveJam.statusEffects6.Details",
+    "content": "被动干扰保护"
+  },
+  {
+    "id": "Gear_Watchdog_EWS.MineFieldDetection.statusEffects0.Name",
+    "content": "主动探测器(被动)"
+  },
+  {
+    "id": "Gear_Watchdog_EWS.LV_PROBE_CARRIER.statusEffects1.Name",
+    "content": "主动探测器(被动)"
+  },
+  {
+    "id": "Gear_Watchdog_EWS.LV_ADVANCED_SENSORS.statusEffects2.Name",
+    "content": "先进传感器"
+  },
+  {
+    "id": "Gear_Watchdog_EWS.AdvancedProbeSensor.statusEffects3.Name",
+    "content": "探测传感器"
+  },
+  {
+    "id": "Gear_Watchdog_EWS.AdvancedProbeSight.statusEffects4.Name",
+    "content": "探测器视野"
+  },
+  {
+    "id": "Gear_Watchdog_EWS.ECMPassiveShield.statusEffects5.Name",
+    "content": "ECM被动护罩"
+  },
+  {
+    "id": "Gear_Watchdog_EWS.ECMPassiveJam.statusEffects6.Name",
+    "content": "ECM被动干扰"
+  },
+  {
+    "id": "Weapon_Array_MicroLaserER_CLAN.Description.Details",
+    "content": "微型增程激光是传统激光武器的一种非常紧凑的版本.该阵列将4个微型增程激光合成一个"
+  },
+  {
+    "id": "Weapon_Array_MicroLaserER_CLAN.Description.UIName",
+    "content": "微型增程激光阵列(C)"
+  },
+  {
+    "id": "Weapon_Array_MicroLaserER_CLAN.Description.Name",
+    "content": "微型增程激光(C)"
+  },
+  {
+    "id": "Weapon_Array_MicroLaserER_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_Array_MicroLaserPulse_CLAN.Description.Details",
+    "content": "微型脉冲激光是由烟虎氏族(与微型增程激光一起)设计的,主要用于其原人机甲.该阵列结合了3个微型脉冲激光.它可以集中发射,轻松融化任何装甲."
+  },
+  {
+    "id": "Weapon_Array_MicroLaserPulse_CLAN.Description.UIName",
+    "content": "微型脉冲激光阵列(C)"
+  },
+  {
+    "id": "Weapon_Array_MicroLaserPulse_CLAN.Description.Name",
+    "content": "微型脉冲激光(C)"
+  },
+  {
+    "id": "Weapon_Array_MicroLaserPulse_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_Autocannon_AC10_LBX_CLAN.Description.Details",
+    "content": "由卢巴林弹道公司为人类霸权开发的LB-X自动炮是标准和相对原始的自动炮的衍生品.该公司利用先进材料,仅需稍微稍微增加体积即可减轻武器重量,可以将其与先进水星VII瞄准系统配合,以提高其射程.\n\n<b><color=#ffcc00>使用LBX10弹药</color></b>."
+  },
+  {
+    "id": "Weapon_Autocannon_AC10_LBX_CLAN.Description.UIName",
+    "content": "LBX AC/10(C)"
+  },
+  {
+    "id": "Weapon_Autocannon_AC10_LBX_CLAN.Description.Name",
+    "content": "LBX AC/10(C)"
+  },
+  {
+    "id": "Weapon_Autocannon_AC10_LBX_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_Autocannon_AC10_LBX_CLAN.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Autocannon_AC10_LBX_CLAN.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Autocannon_AC10_Ultra_CLAN.Description.Details",
+    "content": "UAC/10是战斗中最强大、最高效的武器之一,以其强大的伤害和击倒对手的能力而闻名. 与所有自动火炮武器一样,UAC/10也会受到连射后座力的影响.\n\n<b><color=#ffcc00>使用UAC10弹药</color></b>. "
+  },
+  {
+    "id": "Weapon_Autocannon_AC10_Ultra_CLAN.Description.UIName",
+    "content": "UAC/10(C)"
+  },
+  {
+    "id": "Weapon_Autocannon_AC10_Ultra_CLAN.Description.Name",
+    "content": "UAC/10(C)"
+  },
+  {
+    "id": "Weapon_Autocannon_AC10_Ultra_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_Autocannon_AC10_Ultra_CLAN.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Autocannon_AC10_Ultra_CLAN.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Autocannon_AC20_LBX_CLAN.Description.Details",
+    "content": "由卢巴林弹道公司为人类霸权开发的LB-X自动炮是标准和相对原始的自动炮的衍生品.该公司利用先进材料,仅需稍微稍微增加体积即可减轻武器重量,可以将其与先进水星VII瞄准系统配合,以提高其射程.\n\n<b><color=#ffcc00>使用LBX20弹药</color></b>."
+  },
+  {
+    "id": "Weapon_Autocannon_AC20_LBX_CLAN.Description.UIName",
+    "content": "LBX AC/20(C)"
+  },
+  {
+    "id": "Weapon_Autocannon_AC20_LBX_CLAN.Description.Name",
+    "content": "LBX AC/20(C)"
+  },
+  {
+    "id": "Weapon_Autocannon_AC20_LBX_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_Autocannon_AC20_Ultra_CLAN.Description.Details",
+    "content": "就基础伤害而言,UAC/20是战场之王,它比其他的任何武器都更具杀伤力.然而,这是以重量、射程和严重受限的弹药为代价.与所有自动加农炮武器一样,UAC20在连续射击后也会受后座力影响. \n\n<b><color=#ffcc00>使用UAC20弹药</color></b> "
+  },
+  {
+    "id": "Weapon_Autocannon_AC20_Ultra_CLAN.Description.UIName",
+    "content": "UAC/20(C)"
+  },
+  {
+    "id": "Weapon_Autocannon_AC20_Ultra_CLAN.Description.Name",
+    "content": "UAC/20(C)"
+  },
+  {
+    "id": "Weapon_Autocannon_AC20_Ultra_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_Autocannon_AC2_LBX_CLAN.Description.Details",
+    "content": "由卢巴林弹道公司为人类霸权开发的LB-X自动炮是标准和相对原始的自动炮的衍生品.该公司利用先进材料,仅需稍微稍微增加体积即可减轻武器重量,可以将其与先进水星VII瞄准系统配合,以提高其射程.\n\n<b><color=#ffcc00>使用LBX2弹药</color></b>."
+  },
+  {
+    "id": "Weapon_Autocannon_AC2_LBX_CLAN.Description.UIName",
+    "content": "LBX AC/2(C)"
+  },
+  {
+    "id": "Weapon_Autocannon_AC2_LBX_CLAN.Description.Name",
+    "content": "LBX AC/2(C)"
+  },
+  {
+    "id": "Weapon_Autocannon_AC2_LBX_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_Autocannon_AC2_LBX_CLAN.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Autocannon_AC2_LBX_CLAN.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Autocannon_AC2_Ultra_CLAN.Description.Details",
+    "content": "UAC/2用于远距离支援火力,以低产热和单位重量下大弹药量造成中等伤害.与所有自动火炮武器一样,UAC/2也会受到连射后座力的影响.\n\n<b><color=#ffcc00>使用UAC2弹药</color></b>. "
+  },
+  {
+    "id": "Weapon_Autocannon_AC2_Ultra_CLAN.Description.UIName",
+    "content": "UAC/2(C)"
+  },
+  {
+    "id": "Weapon_Autocannon_AC2_Ultra_CLAN.Description.Name",
+    "content": "UAC/2(C)"
+  },
+  {
+    "id": "Weapon_Autocannon_AC2_Ultra_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_Autocannon_AC2_Ultra_CLAN.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Autocannon_AC2_Ultra_CLAN.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Autocannon_AC5_LBX_CLAN.Description.Details",
+    "content": "由卢巴林弹道公司为人类霸权开发的LB-X自动炮是标准和相对原始的自动炮的衍生品.该公司利用先进材料,仅需稍微稍微增加体积即可减轻武器重量,可以将其与先进水星VII瞄准系统配合,以提高其射程.\n\n<b><color=#ffcc00>使用LBX5弹药</color></b>."
+  },
+  {
+    "id": "Weapon_Autocannon_AC5_LBX_CLAN.Description.UIName",
+    "content": "LBX AC/5(C)"
+  },
+  {
+    "id": "Weapon_Autocannon_AC5_LBX_CLAN.Description.Name",
+    "content": "LBX AC/5(C)"
+  },
+  {
+    "id": "Weapon_Autocannon_AC5_LBX_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_Autocannon_AC5_LBX_CLAN.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Autocannon_AC5_LBX_CLAN.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Autocannon_AC5_Ultra_CLAN.Description.Details",
+    "content": "超级自动炮的射速是普通自动炮的两倍,重量、体积和热量只是适度增加.UAC5定位为远程武器. \n\n<b><color=#ffcc00>使用UAC5弹药</color></b> "
+  },
+  {
+    "id": "Weapon_Autocannon_AC5_Ultra_CLAN.Description.UIName",
+    "content": "UAC/5(C)"
+  },
+  {
+    "id": "Weapon_Autocannon_AC5_Ultra_CLAN.Description.Name",
+    "content": "UAC/5(C)"
+  },
+  {
+    "id": "Weapon_Autocannon_AC5_Ultra_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_Autocannon_AC5_Ultra_CLAN.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Autocannon_AC5_Ultra_CLAN.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Flamer_ER_CLAN.Description.Details",
+    "content": "增程喷火器(ER 喷火器)是一种射程更远的,威力更弱的聚变喷火器.由碧玉鹰氏族开发,并由恒星联邦引入到内天体,增程喷火器使用更紧密的磁线圈和更窄的枪口直径来增加武器的射程."
+  },
+  {
+    "id": "Weapon_Flamer_ER_CLAN.Description.UIName",
+    "content": "增程喷火器(C)"
+  },
+  {
+    "id": "Weapon_Flamer_ER_CLAN.Description.Name",
+    "content": "喷火器(C)"
+  },
+  {
+    "id": "Weapon_Flamer_ER_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_Flamer_ER_CLAN.HeatDamageTakenSoftCapMultiplier.statusEffects0.Details",
+    "content": "-1%热伤害"
+  },
+  {
+    "id": "Weapon_Flamer_ER_CLAN.HeatDamageTakenSoftCapMultiplier.statusEffects0.Name",
+    "content": "4%热软限额"
+  },
+  {
+    "id": "Weapon_Flamer_Flamer_CLAN.Description.Details",
+    "content": "喷火器的独特之处在于,它不造成物理伤害,而是排出过热的等离子体,增加目标大量热量.如果操作得当,这可以阻止敌人的回击,甚至让目标单位因过热而停机."
+  },
+  {
+    "id": "Weapon_Flamer_Flamer_CLAN.Description.UIName",
+    "content": "喷火器(C)"
+  },
+  {
+    "id": "Weapon_Flamer_Flamer_CLAN.Description.Name",
+    "content": "喷火器(C)"
+  },
+  {
+    "id": "Weapon_Flamer_Flamer_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_Flamer_Flamer_CLAN.HeatDamageTakenSoftCapMultiplier.statusEffects0.Details",
+    "content": "-1%热伤害"
+  },
+  {
+    "id": "Weapon_Flamer_Flamer_CLAN.HeatDamageTakenSoftCapMultiplier.statusEffects0.Name",
+    "content": "4%热软限额"
+  },
+  {
+    "id": "Weapon_Flamer_Heavy_Clan.Description.Details",
+    "content": "重型喷火器是由碧玉鹰氏族在复兴行动中遇到大型步兵编队后开发的.它比旧的车载型喷火器更重,但体积更小,在射程和让目标过热方面也有轻微改进.\n\n<b><color=#F79232>使用重型喷火器弹药</color></b>."
+  },
+  {
+    "id": "Weapon_Flamer_Heavy_Clan.Description.UIName",
+    "content": "重型喷火器"
+  },
+  {
+    "id": "Weapon_Flamer_Heavy_Clan.Description.Name",
+    "content": "重型喷火器"
+  },
+  {
+    "id": "Weapon_Flamer_Heavy_Clan.Description.Manufacturer",
+    "content": "贾德法尔孔"
+  },
+  {
+    "id": "Weapon_Gauss_Gauss_CLAN.Description.Details",
+    "content": "高斯线膛炮使用电磁电荷以极高的速度发射金属子弹,单靠动能造成巨大的伤害.<b><color=#099ff2>不稳定!</color></b>"
+  },
+  {
+    "id": "Weapon_Gauss_Gauss_CLAN.Description.UIName",
+    "content": "高斯线膛炮(C)"
+  },
+  {
+    "id": "Weapon_Gauss_Gauss_CLAN.Description.Name",
+    "content": "高斯线膛炮(C)"
+  },
+  {
+    "id": "Weapon_Gauss_Gauss_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_Gauss_Gauss_CLAN.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Gauss_Gauss_CLAN.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Gauss_HAG20_CLAN.Description.Details",
+    "content": "高频突击高斯线膛炮是由地狱马氏族开发的高斯线膛炮的变体.为了保持技术领先,他们希望使用与重型高斯线膛炮类似的设计原则,然而最后,地狱马科学家使用一系列电容器和发射管来发射大量小口径子弹.\n\n<b><color=#ffcc00>使用超高斯弹药</color></b> \n\n<b><color=#099ff2>不稳定!</color></b>"
+  },
+  {
+    "id": "Weapon_Gauss_HAG20_CLAN.Description.UIName",
+    "content": "高斯线膛炮HA20(C)"
+  },
+  {
+    "id": "Weapon_Gauss_HAG20_CLAN.Description.Name",
+    "content": "高斯线膛炮HA20(C)"
+  },
+  {
+    "id": "Weapon_Gauss_HAG20_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_Gauss_HAG20_CLAN.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Gauss_HAG20_CLAN.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Gauss_HAG30_CLAN.Description.Details",
+    "content": "高频突击高斯线膛炮是由地狱马氏族开发的高斯线膛炮的变体.为了保持技术领先,他们希望使用与重型高斯线膛炮类似的设计原则,然而最后,地狱马科学家使用一系列电容器和发射管来发射大量小口径子弹.\n\n<b><color=#ffcc00>使用超高斯弹药</color></b> \n\n<b><color=#099ff2>不稳定!</color></b>"
+  },
+  {
+    "id": "Weapon_Gauss_HAG30_CLAN.Description.UIName",
+    "content": "高斯线膛炮HA30(C)"
+  },
+  {
+    "id": "Weapon_Gauss_HAG30_CLAN.Description.Name",
+    "content": "高斯线膛炮HA30(C)"
+  },
+  {
+    "id": "Weapon_Gauss_HAG30_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_Gauss_HAG30_CLAN.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Gauss_HAG30_CLAN.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Gauss_HAG40_CLAN.Description.Details",
+    "content": "高频突击高斯线膛炮是由地狱马氏族开发的高斯线膛炮的变体.为了保持技术领先,他们希望使用与重型高斯线膛炮类似的设计原则,然而最后,地狱马科学家使用一系列电容器和发射管来发射大量小口径子弹.\n\n<b><color=#ffcc00>使用超高斯弹药</color></b> \n\n<b><color=#099ff2>不稳定!</color></b>"
+  },
+  {
+    "id": "Weapon_Gauss_HAG40_CLAN.Description.UIName",
+    "content": "高斯线膛炮HA40(C)"
+  },
+  {
+    "id": "Weapon_Gauss_HAG40_CLAN.Description.Name",
+    "content": "高斯线膛炮HA40(C)"
+  },
+  {
+    "id": "Weapon_Gauss_HAG40_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_Gauss_HAG40_CLAN.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Gauss_HAG40_CLAN.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Gauss_Magshot_Clan.Description.Details",
+    "content": "由碧玉鹰开发的人员杀伤高斯线膛炮是一种缩小的高斯线膛炮,用于对抗常规步兵和战斗装甲.<b><color=#F79232>使用马格射弹弹药</color></b>.<b><color=#099ff2>不稳定!</color></b>"
+  },
+  {
+    "id": "Weapon_Gauss_Magshot_Clan.Description.UIName",
+    "content": "AP高斯步枪"
+  },
+  {
+    "id": "Weapon_Gauss_Magshot_Clan.Description.Name",
+    "content": "马格射弹步枪"
+  },
+  {
+    "id": "Weapon_Gauss_Magshot_Clan.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_Laser_HeavyLargeLaser_CLAN.Description.Details",
+    "content": "星蝰氏族开发了重型激光以造成更大的伤害.但产热也增加.此外,会干扰战斗机甲的传感器,意味者大型重激光将受到+1命中修正惩罚."
+  },
+  {
+    "id": "Weapon_Laser_HeavyLargeLaser_CLAN.Description.UIName",
+    "content": "大型重激光(C)"
+  },
+  {
+    "id": "Weapon_Laser_HeavyLargeLaser_CLAN.Description.Name",
+    "content": "大型重激光(C)"
+  },
+  {
+    "id": "Weapon_Laser_HeavyLargeLaser_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_Laser_HeavyLargeLaser_CLAN.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Laser_HeavyLargeLaser_CLAN.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Laser_HeavyMediumLaser_CLAN.Description.Details",
+    "content": "星蝰氏族为了造成更大的伤害开发了重型激光器.但产热也增加.此外,会干扰战斗机甲的传感器,意味者中型重激光将受到+1命中修正惩罚."
+  },
+  {
+    "id": "Weapon_Laser_HeavyMediumLaser_CLAN.Description.UIName",
+    "content": "中型重激光(C)"
+  },
+  {
+    "id": "Weapon_Laser_HeavyMediumLaser_CLAN.Description.Name",
+    "content": "中型重激光(C)"
+  },
+  {
+    "id": "Weapon_Laser_HeavyMediumLaser_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_Laser_HeavySmallLaser_CLAN.Description.Details",
+    "content": "星蝰氏族为了造成更大的伤害开发了重型激光器.但产热也增加.此外,会干扰战斗机甲的传感器,意味者小型重激光将受到+1命中修正惩罚."
+  },
+  {
+    "id": "Weapon_Laser_HeavySmallLaser_CLAN.Description.UIName",
+    "content": "小型重激光(C)"
+  },
+  {
+    "id": "Weapon_Laser_HeavySmallLaser_CLAN.Description.Name",
+    "content": "小型重激光(C)"
+  },
+  {
+    "id": "Weapon_Laser_HeavySmallLaser_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_Laser_ImprovedHeavyLargeLaser_CLAN.Description.Details",
+    "content": "在星蝰氏族引入重激光后,其他氏族开始复制或改进它们.巨人蝎氏族是第一引入并有效改进重型激光的氏族,但权衡后仍有一些战士无法接受它,其中最主要的原因是,如果受到致命伤害,它可能会爆炸,就像高斯线膛炮一样."
+  },
+  {
+    "id": "Weapon_Laser_ImprovedHeavyLargeLaser_CLAN.Description.UIName",
+    "content": "改进大型重激光(C)"
+  },
+  {
+    "id": "Weapon_Laser_ImprovedHeavyLargeLaser_CLAN.Description.Name",
+    "content": "改进大型重激光(C)"
+  },
+  {
+    "id": "Weapon_Laser_ImprovedHeavyLargeLaser_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_Laser_ImprovedHeavyLargeLaser_CLAN.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Laser_ImprovedHeavyLargeLaser_CLAN.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Laser_ImprovedHeavyMediumLaser_CLAN.Description.Details",
+    "content": "在星蝰氏族引入重激光后,其他氏族开始复制或改进它们.巨人蝎氏族是第一引入并有效改进重型激光的氏族,但权衡后仍有一些战士无法接受它,其中最主要的原因是,如果受到致命伤害,它可能会爆炸,就像高斯线膛炮一样."
+  },
+  {
+    "id": "Weapon_Laser_ImprovedHeavyMediumLaser_CLAN.Description.UIName",
+    "content": "改进中型重激光(C)"
+  },
+  {
+    "id": "Weapon_Laser_ImprovedHeavyMediumLaser_CLAN.Description.Name",
+    "content": "改进中型重激光(C)"
+  },
+  {
+    "id": "Weapon_Laser_ImprovedHeavyMediumLaser_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_Laser_ImprovedHeavySmallLaser_CLAN.Description.Details",
+    "content": "在星蝰氏族引入重激光后,其他氏族开始复制或改进它们.巨人蝎氏族是第一引入并有效改进重型激光的氏族,但权衡后仍有一些战士无法接受它,其中最主要的原因是,如果受到致命伤害,它可能会爆炸,就像高斯线膛炮一样."
+  },
+  {
+    "id": "Weapon_Laser_ImprovedHeavySmallLaser_CLAN.Description.UIName",
+    "content": "改进小型重激光(C)"
+  },
+  {
+    "id": "Weapon_Laser_ImprovedHeavySmallLaser_CLAN.Description.Name",
+    "content": "改进小型重激光(C)"
+  },
+  {
+    "id": "Weapon_Laser_ImprovedHeavySmallLaser_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_Laser_LargeLaserERPulse_CLAN.Description.Details",
+    "content": "狼氏族的技术人员对创造一种具有更远射程的改进脉冲激光很感兴趣.和他们只是将更多的能量注入标准脉冲激光中的内天体同行不同,狼氏族技术人员将其脉冲和增程激光的最佳特性结合起来,创造了增程脉冲激光系列."
+  },
+  {
+    "id": "Weapon_Laser_LargeLaserERPulse_CLAN.Description.UIName",
+    "content": "大型增程脉冲激光(C)"
+  },
+  {
+    "id": "Weapon_Laser_LargeLaserERPulse_CLAN.Description.Name",
+    "content": "大型增程脉冲激光(C)"
+  },
+  {
+    "id": "Weapon_Laser_LargeLaserERPulse_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_Laser_LargeLaserERPulse_CLAN.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Laser_LargeLaserERPulse_CLAN.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Laser_LargeLaserER_CLAN.Description.Details",
+    "content": "对标准大型激光器的改进,以大量发热为代价增程激光器拓展了他们的有效射程."
+  },
+  {
+    "id": "Weapon_Laser_LargeLaserER_CLAN.Description.UIName",
+    "content": "大型增程激光(C)"
+  },
+  {
+    "id": "Weapon_Laser_LargeLaserER_CLAN.Description.Name",
+    "content": "大型增程激光(C)"
+  },
+  {
+    "id": "Weapon_Laser_LargeLaserER_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_Laser_LargeLaserER_CLAN.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Laser_LargeLaserER_CLAN.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Laser_LargeLaserPulse_CLAN.Description.Details",
+    "content": "对标准激光的改进,大型脉冲激光使用光脉冲而不是单光束.这获得了更好的精度和更强的破坏,但热量和重量也大大增加了."
+  },
+  {
+    "id": "Weapon_Laser_LargeLaserPulse_CLAN.Description.UIName",
+    "content": "大型脉冲激光(C)"
+  },
+  {
+    "id": "Weapon_Laser_LargeLaserPulse_CLAN.Description.Name",
+    "content": "大型脉冲激光(C)"
+  },
+  {
+    "id": "Weapon_Laser_LargeLaserPulse_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_Laser_LargeLaserPulse_CLAN.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Laser_LargeLaserPulse_CLAN.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Laser_LargeLaser_Chemical_CLAN.Description.Details",
+    "content": "化学激光并不完全是一项新发明,而是对超光速旅行之前的地球激光武器的重新开发,这种武器依靠化学过程产生完成发射所需的能量.\n\n<b><color=#ffcc00>使用大型化学激光弹药.</color></b>"
+  },
+  {
+    "id": "Weapon_Laser_LargeLaser_Chemical_CLAN.Description.UIName",
+    "content": "大型化学激光(C)"
+  },
+  {
+    "id": "Weapon_Laser_LargeLaser_Chemical_CLAN.Description.Name",
+    "content": "大型化学激光"
+  },
+  {
+    "id": "Weapon_Laser_LargeLaser_Chemical_CLAN.Description.Manufacturer",
+    "content": "地狱马"
+  },
+  {
+    "id": "Weapon_Laser_LargeLaser_Chemical_CLAN.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Laser_LargeLaser_Chemical_CLAN.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Laser_Light_TAG_CLAN.Description.Details",
+    "content": "虽然在破坏性的继承战争中氏族离开了内天体,但氏族保留了目标寻获装备(TAG),但由于其文化注重个人荣誉而非其他配角,很少使用它们."
+  },
+  {
+    "id": "Weapon_Laser_Light_TAG_CLAN.Description.UIName",
+    "content": "轻型TAG(C)"
+  },
+  {
+    "id": "Weapon_Laser_Light_TAG_CLAN.Description.Name",
+    "content": "轻型TAG(C)"
+  },
+  {
+    "id": "Weapon_Laser_Light_TAG_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_Laser_Light_TAG_CLAN.PainterEffect.statusEffects0.Details",
+    "content": "目标被寻获+1命中."
+  },
+  {
+    "id": "Weapon_Laser_Light_TAG_CLAN.PainterEffect2.statusEffects1.Details",
+    "content": "目标寻获装备增加可见性"
+  },
+  {
+    "id": "Weapon_Laser_Light_TAG_CLAN.StatusEffect-TAG-IndicatorVFX.statusEffects2.Details",
+    "content": "TAG效果的视觉指示器"
+  },
+  {
+    "id": "Weapon_Laser_Light_TAG_CLAN.PainterEffect.statusEffects0.Name",
+    "content": "获取目标"
+  },
+  {
+    "id": "Weapon_Laser_Light_TAG_CLAN.PainterEffect2.statusEffects1.Name",
+    "content": "检测到"
+  },
+  {
+    "id": "Weapon_Laser_Light_TAG_CLAN.StatusEffect-TAG-IndicatorVFX.statusEffects2.Name",
+    "content": "目标寻获装备已标记"
+  },
+  {
+    "id": "Weapon_Laser_MediumLaserERPulse_CLAN.Description.Details",
+    "content": "狼氏族的技术人员对创造一种具有更远射程的改进脉冲激光很感兴趣.和他们只是将更多的能量注入标准脉冲激光中的内天体同行不同,狼氏族技术人员将其脉冲和增程激光的最佳特性结合起来,创造了增程脉冲激光系列."
+  },
+  {
+    "id": "Weapon_Laser_MediumLaserERPulse_CLAN.Description.UIName",
+    "content": "中型增程脉冲激光(C)"
+  },
+  {
+    "id": "Weapon_Laser_MediumLaserERPulse_CLAN.Description.Name",
+    "content": "中型增程脉冲激光(C)"
+  },
+  {
+    "id": "Weapon_Laser_MediumLaserERPulse_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_Laser_MediumLaserER_CLAN.Description.Details",
+    "content": "对标准中型激光的改进,中型增程激光以大量发热为代价拓展了其射程."
+  },
+  {
+    "id": "Weapon_Laser_MediumLaserER_CLAN.Description.UIName",
+    "content": "中型增程激光(C)"
+  },
+  {
+    "id": "Weapon_Laser_MediumLaserER_CLAN.Description.Name",
+    "content": "中型增程激光(C)"
+  },
+  {
+    "id": "Weapon_Laser_MediumLaserER_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_Laser_MediumLaserPulse_CLAN.Description.Details",
+    "content": "对标准中型激光的改进,中型脉冲激光使用光脉冲而不是单束光.这可以获得更好精度和更高的威力,但也增加了产热和重量."
+  },
+  {
+    "id": "Weapon_Laser_MediumLaserPulse_CLAN.Description.UIName",
+    "content": "中型脉冲激光(C)"
+  },
+  {
+    "id": "Weapon_Laser_MediumLaserPulse_CLAN.Description.Name",
+    "content": "中型脉冲激光(C)"
+  },
+  {
+    "id": "Weapon_Laser_MediumLaserPulse_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_Laser_MediumLaser_Chemical_CLAN.Description.Details",
+    "content": "化学激光并不完全是一项新发明,而是对超光速旅行之前的地球激光武器的重新开发,这种武器依靠化学过程产生完成发射所需的能量.\n\n<b><color=#ffcc00>使用中型化学激光弹药.</color></b>"
+  },
+  {
+    "id": "Weapon_Laser_MediumLaser_Chemical_CLAN.Description.UIName",
+    "content": "中型化学激光(C)"
+  },
+  {
+    "id": "Weapon_Laser_MediumLaser_Chemical_CLAN.Description.Name",
+    "content": "中型化学激光"
+  },
+  {
+    "id": "Weapon_Laser_MediumLaser_Chemical_CLAN.Description.Manufacturer",
+    "content": "地狱马"
+  },
+  {
+    "id": "Weapon_Laser_MicroLaserER_CLAN.Description.Details",
+    "content": "微型增程激光是传统增程激光的一种非常紧凑的版本.这种激光武器由烟虎氏族专门开发,用于非常轻的作战单位."
+  },
+  {
+    "id": "Weapon_Laser_MicroLaserER_CLAN.Description.UIName",
+    "content": "微型增程激光(C)"
+  },
+  {
+    "id": "Weapon_Laser_MicroLaserER_CLAN.Description.Name",
+    "content": "微型增程激光(C)"
+  },
+  {
+    "id": "Weapon_Laser_MicroLaserER_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_Laser_MicroLaserPulse_CLAN.Description.Details",
+    "content": "微型脉冲激光是由烟虎氏族(与微型增程激光一起)设计的,主要用于其原人机甲.从发明那天起,它就传播到所有氏族."
+  },
+  {
+    "id": "Weapon_Laser_MicroLaserPulse_CLAN.Description.UIName",
+    "content": "微型脉冲激光(C)"
+  },
+  {
+    "id": "Weapon_Laser_MicroLaserPulse_CLAN.Description.Name",
+    "content": "微型脉冲激光(C)"
+  },
+  {
+    "id": "Weapon_Laser_MicroLaserPulse_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_Laser_SmallLaserERPulse_CLAN.Description.Details",
+    "content": "狼氏族的技术人员对创造一种具有更远射程的改进脉冲激光很感兴趣.和他们只是将更多的能量注入标准脉冲激光中的内天体同行不同,狼氏族技术人员将其脉冲和增程激光的最佳特性结合起来,创造了增程脉冲激光系列."
+  },
+  {
+    "id": "Weapon_Laser_SmallLaserERPulse_CLAN.Description.UIName",
+    "content": "小型增程脉冲激光(C)"
+  },
+  {
+    "id": "Weapon_Laser_SmallLaserERPulse_CLAN.Description.Name",
+    "content": "小型增程脉冲激光(C)"
+  },
+  {
+    "id": "Weapon_Laser_SmallLaserERPulse_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_Laser_SmallLaserER_CLAN.Description.Details",
+    "content": "对标准小型激光的改进,小型增程激光以产生更多热量为代价,增加了有效射程."
+  },
+  {
+    "id": "Weapon_Laser_SmallLaserER_CLAN.Description.UIName",
+    "content": "小型增程激光(C)"
+  },
+  {
+    "id": "Weapon_Laser_SmallLaserER_CLAN.Description.Name",
+    "content": "小型增程激光(C)"
+  },
+  {
+    "id": "Weapon_Laser_SmallLaserER_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_Laser_SmallLaserPulse_CLAN.Description.Details",
+    "content": "对标准小型激光的改进,小型脉冲激光使用光脉冲而不是单束光. 这可以获得更好精度和更高的威力,但也增加了产热和重量."
+  },
+  {
+    "id": "Weapon_Laser_SmallLaserPulse_CLAN.Description.UIName",
+    "content": "小型脉冲激光(C)"
+  },
+  {
+    "id": "Weapon_Laser_SmallLaserPulse_CLAN.Description.Name",
+    "content": "小型脉冲激光(C)"
+  },
+  {
+    "id": "Weapon_Laser_SmallLaserPulse_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_Laser_SmallLaser_Chemical_CLAN.Description.Details",
+    "content": "化学激光并不完全是一项新发明,而是对超光速旅行之前的地球激光武器的重新开发,这种武器依靠化学过程产生完成发射所需的能量.\n\n<b><color=#ffcc00>使用小型化学激光弹药</color></b>."
+  },
+  {
+    "id": "Weapon_Laser_SmallLaser_Chemical_CLAN.Description.UIName",
+    "content": "小型化学激光(C)"
+  },
+  {
+    "id": "Weapon_Laser_SmallLaser_Chemical_CLAN.Description.Name",
+    "content": "小型化学激光"
+  },
+  {
+    "id": "Weapon_Laser_SmallLaser_Chemical_CLAN.Description.Manufacturer",
+    "content": "地狱马"
+  },
+  {
+    "id": "Weapon_LRM_ATM12_CLAN.Description.Details",
+    "content": "先进战术导弹系统(ATM)由丛林狼氏族开发,允许其使用者在三种不同类型的弹药之间进行选择.ATM还包括一个完整的月神IV火控系统.\n\n<b><color=#ffcc00>使用ATM弹药</color></b>."
+  },
+  {
+    "id": "Weapon_LRM_ATM12_CLAN.Description.UIName",
+    "content": "ATM12(C)"
+  },
+  {
+    "id": "Weapon_LRM_ATM12_CLAN.Description.Name",
+    "content": "ATM12(C)"
+  },
+  {
+    "id": "Weapon_LRM_ATM12_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_LRM_ATM12_CLAN.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_LRM_ATM12_CLAN.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_LRM_ATM3_CLAN.Description.Details",
+    "content": "先进战术导弹系统(ATM)由丛林狼氏族开发,允许其使用者在三种不同类型的弹药之间进行选择.ATM还包括一个完整的月神IV火控系统.\n\n<b><color=#ffcc00>使用ATM弹药</color></b>."
+  },
+  {
+    "id": "Weapon_LRM_ATM3_CLAN.Description.UIName",
+    "content": "ATM3(C)"
+  },
+  {
+    "id": "Weapon_LRM_ATM3_CLAN.Description.Name",
+    "content": "ATM3(C)"
+  },
+  {
+    "id": "Weapon_LRM_ATM3_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_LRM_ATM3_CLAN.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_LRM_ATM3_CLAN.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_LRM_ATM6_CLAN.Description.Details",
+    "content": "先进战术导弹系统(ATM)由丛林狼氏族开发,允许其使用者在三种不同类型的弹药之间进行选择.ATM还包括一个完整的月神IV火控系统.\n\n<b><color=#ffcc00>使用ATM弹药</color></b>."
+  },
+  {
+    "id": "Weapon_LRM_ATM6_CLAN.Description.UIName",
+    "content": "ATM6(C)"
+  },
+  {
+    "id": "Weapon_LRM_ATM6_CLAN.Description.Name",
+    "content": "ATM6(C)"
+  },
+  {
+    "id": "Weapon_LRM_ATM6_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_LRM_ATM6_CLAN.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_LRM_ATM6_CLAN.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_LRM_ATM9_CLAN.Description.Details",
+    "content": "先进战术导弹系统(ATM)由丛林狼氏族开发,允许其使用者在三种不同类型的弹药之间进行选择.ATM还包括一个完整的月神IV火控系统.\n\n<b><color=#ffcc00>使用ATM弹药</color></b>."
+  },
+  {
+    "id": "Weapon_LRM_ATM9_CLAN.Description.UIName",
+    "content": "ATM9(C)"
+  },
+  {
+    "id": "Weapon_LRM_ATM9_CLAN.Description.Name",
+    "content": "ATM9(C)"
+  },
+  {
+    "id": "Weapon_LRM_ATM9_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_LRM_ATM9_CLAN.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_LRM_ATM9_CLAN.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_LRM_iATM12_CLAN.Description.Details",
+    "content": "改进型先进战术导弹系统(iATM)由协会开发.和先进战术导弹系统(ATM)一样,iATM系统也可以使用多种类型弹药,并包括先进的瞄准选项.而与ATM不同的是iATM使用迅捷SRM式制导系统来提高精度.\n\n<b><color=#ffcc00>使用iATM弹药</color></b>."
+  },
+  {
+    "id": "Weapon_LRM_iATM12_CLAN.Description.UIName",
+    "content": "iATM12(C)"
+  },
+  {
+    "id": "Weapon_LRM_iATM12_CLAN.Description.Name",
+    "content": "iATM12(C)"
+  },
+  {
+    "id": "Weapon_LRM_iATM12_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_LRM_iATM12_CLAN.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_LRM_iATM12_CLAN.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_LRM_iATM3_CLAN.Description.Details",
+    "content": "改进型先进战术导弹系统(iATM)由协会开发.和先进战术导弹系统(ATM)一样,iATM系统也可以使用多种类型弹药,并包括先进的瞄准选项.\n\n<b><color=#ffcc00>使用iATM弹药</color></b>"
+  },
+  {
+    "id": "Weapon_LRM_iATM3_CLAN.Description.UIName",
+    "content": "iATM3(C)"
+  },
+  {
+    "id": "Weapon_LRM_iATM3_CLAN.Description.Name",
+    "content": "ATM3(C)"
+  },
+  {
+    "id": "Weapon_LRM_iATM3_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_LRM_iATM3_CLAN.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_LRM_iATM3_CLAN.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_LRM_iATM6_CLAN.Description.Details",
+    "content": "改进型先进战术导弹系统(iATM)由协会开发.和先进战术导弹系统(ATM)一样,iATM系统也可以使用多种类型弹药,并包括先进的瞄准选项.而与ATM不同的是iATM使用迅捷SRM式制导系统来提高精度.\n\n<b><color=#ffcc00>使用iATM弹药</color></b>."
+  },
+  {
+    "id": "Weapon_LRM_iATM6_CLAN.Description.UIName",
+    "content": "iATM6(C)"
+  },
+  {
+    "id": "Weapon_LRM_iATM6_CLAN.Description.Name",
+    "content": "iATM6(C)"
+  },
+  {
+    "id": "Weapon_LRM_iATM6_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_LRM_iATM6_CLAN.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_LRM_iATM6_CLAN.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_LRM_iATM9_CLAN.Description.Details",
+    "content": "改进型先进战术导弹系统(iATM)由协会开发.和先进战术导弹系统(ATM)一样,iATM系统也可以使用多种类型弹药,并包括先进的瞄准选项.而与ATM不同的是iATM使用迅捷SRM式制导系统来提高精度.\n\n<b><color=#ffcc00>使用iATM弹药</color></b>."
+  },
+  {
+    "id": "Weapon_LRM_iATM9_CLAN.Description.UIName",
+    "content": "iATM9(C)"
+  },
+  {
+    "id": "Weapon_LRM_iATM9_CLAN.Description.Name",
+    "content": "iATM9(C)"
+  },
+  {
+    "id": "Weapon_LRM_iATM9_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_LRM_iATM9_CLAN.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_LRM_iATM9_CLAN.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_LRM_LRM10_CLAN.Description.Details",
+    "content": "远程导弹发射器(LRM)10安装在大多数单位上时起到了辅助火力作用,通过低热耗和弹药消耗来平衡相当低的伤害.与所有LRM一样,LRM10能够在侦察单位帮助下越过障碍物和地形间瞄射击.LRM可以通过使用专用弹药担任多种角色. \n\n<b><color=#ffcc00>使用氏族LRM弹药.</color></b>"
+  },
+  {
+    "id": "Weapon_LRM_LRM10_CLAN.Description.UIName",
+    "content": "LRM10(C)"
+  },
+  {
+    "id": "Weapon_LRM_LRM10_CLAN.Description.Name",
+    "content": "LRM10(C)"
+  },
+  {
+    "id": "Weapon_LRM_LRM10_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_LRM_LRM10_CLAN.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_LRM_LRM10_CLAN.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_LRM_LRM10_STREAK.Description.Details",
+    "content": "迅捷(Streak)LRM将迅捷制导系统与标准LRM发射器结合在一起.迅捷LRM由狼氏族技术人员开发,作为沙利文·科加可汗的振兴计划的一部分,将原始的迅捷弹药与LRM射程相结合.尽管成功了,但迅捷LRM的重量是氏族标准LRM的两倍(相当于一个内天体标准发射器).迅捷LRM不能使用任何替代弹药类型或增强制导系统.由于迅捷LRM需要视线来锁定目标,因此它失去了任何间瞄射击的能力.\n\n<b><color=#ffcc00>使用迅捷LRM弹药</color></b>."
+  },
+  {
+    "id": "Weapon_LRM_LRM10_STREAK.Description.UIName",
+    "content": "迅捷LRM10(C)"
+  },
+  {
+    "id": "Weapon_LRM_LRM10_STREAK.Description.Name",
+    "content": "LRM10(C)"
+  },
+  {
+    "id": "Weapon_LRM_LRM10_STREAK.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_LRM_LRM10_STREAK.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_LRM_LRM10_STREAK.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_LRM_LRM15_CLAN.Description.Details",
+    "content": "LRM15远程导弹(LRM)架在远距射程上造成巨大的破坏和稳定性影响,通常成对出现在间接火力支援单位上.与所有LRM一样,LRM15能够在侦察单位帮助下越过障碍物和地形间瞄射击.LRM可以通过使用专用弹药担任多种角色. \n\n<b><color=#ffcc00>使用氏族LRM弹药.</color></b>"
+  },
+  {
+    "id": "Weapon_LRM_LRM15_CLAN.Description.UIName",
+    "content": "LRM15(C)"
+  },
+  {
+    "id": "Weapon_LRM_LRM15_CLAN.Description.Name",
+    "content": "LRM15(C)"
+  },
+  {
+    "id": "Weapon_LRM_LRM15_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_LRM_LRM15_CLAN.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_LRM_LRM15_CLAN.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_LRM_LRM15_STREAK.Description.Details",
+    "content": "迅捷(Streak)LRM将迅捷制导系统与标准LRM发射器结合在一起.迅捷LRM由狼氏族技术人员开发,作为沙利文·科加可汗的振兴计划的一部分,将原始的迅捷弹药与LRM射程相结合.尽管成功了,但迅捷LRM的重量是氏族标准LRM的两倍(相当于一个内天体标准发射器).迅捷LRM不能使用任何替代弹药类型或增强制导系统.由于迅捷LRM需要视线来锁定目标,因此它失去了任何间瞄射击的能力.\n\n<b><color=#ffcc00>使用迅捷LRM弹药</color></b>."
+  },
+  {
+    "id": "Weapon_LRM_LRM15_STREAK.Description.UIName",
+    "content": "迅捷LRM15(C)"
+  },
+  {
+    "id": "Weapon_LRM_LRM15_STREAK.Description.Name",
+    "content": "LRM15(C)"
+  },
+  {
+    "id": "Weapon_LRM_LRM15_STREAK.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_LRM_LRM15_STREAK.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_LRM_LRM15_STREAK.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_LRM_LRM20_CLAN.Description.Details",
+    "content": "LRM20远程导弹(LRM)架通常作为较重单位的辅助武器,在适宜的射程可以造成相当大的伤害. 使用弹药一口口咬向目标.与所有LRM一样,LRM20能够在侦察单位帮助下越过障碍物和地形间瞄射击.LRM可以通过使用专用弹药担任多种角色. \n\n<b><color=#ffcc00>使用氏族LRM弹药.</color></b>"
+  },
+  {
+    "id": "Weapon_LRM_LRM20_CLAN.Description.UIName",
+    "content": "LRM20(C)"
+  },
+  {
+    "id": "Weapon_LRM_LRM20_CLAN.Description.Name",
+    "content": "LRM20(C)"
+  },
+  {
+    "id": "Weapon_LRM_LRM20_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_LRM_LRM20_CLAN.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_LRM_LRM20_CLAN.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_LRM_LRM20_STREAK.Description.Details",
+    "content": "迅捷(Streak)LRM将迅捷制导系统与标准LRM发射器结合在一起.迅捷LRM由狼氏族技术人员开发,作为沙利文·科加可汗的振兴计划的一部分,将原始的迅捷弹药与LRM射程相结合.尽管成功了,但迅捷LRM的重量是氏族标准LRM的两倍(相当于一个内天体标准发射器).迅捷LRM不能使用任何替代弹药类型或增强制导系统.由于迅捷LRM需要视线来锁定目标,因此它失去了任何间瞄射击的能力.\n\n<b><color=#ffcc00>使用迅捷LRM弹药</color></b>."
+  },
+  {
+    "id": "Weapon_LRM_LRM20_STREAK.Description.UIName",
+    "content": "迅捷LRM20(C)"
+  },
+  {
+    "id": "Weapon_LRM_LRM20_STREAK.Description.Name",
+    "content": "LRM20(C)"
+  },
+  {
+    "id": "Weapon_LRM_LRM20_STREAK.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_LRM_LRM20_STREAK.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_LRM_LRM20_STREAK.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_LRM_LRM5_CLAN.Description.Details",
+    "content": "LRM5是远程导弹中最小的一种,效率很高,往往用作骚扰武器.与所有LRM一样,LRM5能够在侦察单位帮助下越过障碍物和地形间瞄射击.LRM可以通过使用专用弹药担任多种角色. \n\n<b><color=#ffcc00>使用氏族LRM弹药.</color></b>"
+  },
+  {
+    "id": "Weapon_LRM_LRM5_CLAN.Description.UIName",
+    "content": "LRM5(C)"
+  },
+  {
+    "id": "Weapon_LRM_LRM5_CLAN.Description.Name",
+    "content": "LRM5(C)"
+  },
+  {
+    "id": "Weapon_LRM_LRM5_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_LRM_LRM5_CLAN.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_LRM_LRM5_CLAN.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_LRM_LRM5_STREAK.Description.Details",
+    "content": "迅捷(Streak)LRM将迅捷制导系统与标准LRM发射器结合在一起.迅捷LRM由狼氏族技术人员开发,作为沙利文·科加可汗的振兴计划的一部分,将原始的迅捷弹药与LRM射程相结合.尽管成功了,但迅捷LRM的重量是氏族标准LRM的两倍(相当于一个内天体标准发射器).迅捷LRM不能使用任何替代弹药类型或增强制导系统.由于迅捷LRM需要视线来锁定目标,因此它失去了任何间瞄射击的能力.\n\n<b><color=#ffcc00>使用迅捷LRM弹药</color></b>."
+  },
+  {
+    "id": "Weapon_LRM_LRM5_STREAK.Description.UIName",
+    "content": "迅捷LRM5(C)"
+  },
+  {
+    "id": "Weapon_LRM_LRM5_STREAK.Description.Name",
+    "content": "LRM5(C)"
+  },
+  {
+    "id": "Weapon_LRM_LRM5_STREAK.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_LRM_LRM5_STREAK.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_LRM_LRM5_STREAK.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_MachineGun_ARRAY_CLAN.Description.Details",
+    "content": "机枪阵列是多支机枪连接在一起同时开火,由4支机枪组成.氏族版本在更高的开火频率下也不容易卡壳.\n\n<b><color=#ffcc00>使用机枪弹药</color></b>. "
+  },
+  {
+    "id": "Weapon_MachineGun_ARRAY_CLAN.Description.UIName",
+    "content": "机枪阵列(C)"
+  },
+  {
+    "id": "Weapon_MachineGun_ARRAY_CLAN.Description.Name",
+    "content": "机枪阵列"
+  },
+  {
+    "id": "Weapon_MachineGun_ARRAY_CLAN.Description.Manufacturer",
+    "content": "斯佩里·勃朗宁"
+  },
+  {
+    "id": "Weapon_MachineGun_ARRAY_HEAVY_CLAN.Description.Details",
+    "content": "机枪阵列是多支机枪连接在一起同时开火,由3支重机枪组成.氏族版本在更高的开火频率下也不容易卡壳.\n\n<b><color=#ffcc00>使用重机枪弹药</color></b> <b><color=#00ffff>左键点击 数量/伤害 以切换射击模式</color> </b>"
+  },
+  {
+    "id": "Weapon_MachineGun_ARRAY_HEAVY_CLAN.Description.UIName",
+    "content": "重机枪阵列(C)"
+  },
+  {
+    "id": "Weapon_MachineGun_ARRAY_HEAVY_CLAN.Description.Name",
+    "content": "重机枪阵列"
+  },
+  {
+    "id": "Weapon_MachineGun_ARRAY_HEAVY_CLAN.Description.Manufacturer",
+    "content": "斯佩里·勃朗宁"
+  },
+  {
+    "id": "Weapon_MachineGun_ARRAY_LIGHT_CLAN.Description.Details",
+    "content": "机枪阵列是多支机枪连接在一起同时开火,由4支轻机枪组成.氏族版本在更高的开火频率下也不容易卡壳.\n\n<b><color=#ffcc00>使用轻机枪弹药</color></b> <b><color=#00ffff>左键点击 数量/伤害 以切换射击模式</color> </b>"
+  },
+  {
+    "id": "Weapon_MachineGun_ARRAY_LIGHT_CLAN.Description.UIName",
+    "content": "轻机枪阵列(C)"
+  },
+  {
+    "id": "Weapon_MachineGun_ARRAY_LIGHT_CLAN.Description.Name",
+    "content": "轻机枪阵列"
+  },
+  {
+    "id": "Weapon_MachineGun_ARRAY_LIGHT_CLAN.Description.Manufacturer",
+    "content": "斯佩里·勃朗宁"
+  },
+  {
+    "id": "Weapon_MachineGun_HEAVY_CLAN.Description.Details",
+    "content": "顾名思义,重机枪(HMG)与其说是机枪(MG),不如说是自动榴弹发射器.重机枪造成的伤害更大,穿透和摧毁关键部件的机会更大,但重量是普通机枪的两倍,并且存在后座问题.\n\n<b><color=#ffcc00>使用重机枪弹药</color></b>. "
+  },
+  {
+    "id": "Weapon_MachineGun_HEAVY_CLAN.Description.UIName",
+    "content": "重机枪(C)"
+  },
+  {
+    "id": "Weapon_MachineGun_HEAVY_CLAN.Description.Name",
+    "content": "重机枪(C)"
+  },
+  {
+    "id": "Weapon_MachineGun_HEAVY_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_MachineGun_LIGHT_CLAN.Description.Details",
+    "content": "轻机枪发射小口径炮弹,但拥有比标准机枪更高的射速和更大的射程.\n\n<b><color=#ffcc00>使用轻机枪弹药</color></b>. "
+  },
+  {
+    "id": "Weapon_MachineGun_LIGHT_CLAN.Description.UIName",
+    "content": "轻机枪(C)"
+  },
+  {
+    "id": "Weapon_MachineGun_LIGHT_CLAN.Description.Name",
+    "content": "轻机枪(C)"
+  },
+  {
+    "id": "Weapon_MachineGun_LIGHT_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_MachineGun_MachineGun_CLAN.Description.Details",
+    "content": "机枪(MG)造成的伤害非常低,射程非常有限,并且依赖于不稳定的弹药.\n\n<b><color=#ffcc00>使用机枪弹药</color></b>. "
+  },
+  {
+    "id": "Weapon_MachineGun_MachineGun_CLAN.Description.UIName",
+    "content": "机枪(C)"
+  },
+  {
+    "id": "Weapon_MachineGun_MachineGun_CLAN.Description.Name",
+    "content": "机枪(C)"
+  },
+  {
+    "id": "Weapon_MachineGun_MachineGun_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_MachineGun_MachineGun_CLANDual.Description.Details",
+    "content": "机枪(MG)造成的伤害非常低,射程非常有限,并且依赖于不稳定的弹药.这个只是将两个普通机枪焊接在一起,只占用一个挂载点.\n\n<b><color=#ffcc00>使用机枪弹药</color></b>. "
+  },
+  {
+    "id": "Weapon_MachineGun_MachineGun_CLANDual.Description.UIName",
+    "content": "双管机枪(C)"
+  },
+  {
+    "id": "Weapon_MachineGun_MachineGun_CLANDual.Description.Name",
+    "content": "双管机枪(C)"
+  },
+  {
+    "id": "Weapon_MachineGun_MachineGun_CLANDual.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_MECHMORTAR_2_CLAN.Description.Details",
+    "content": "基于步兵几个世纪以来使用的武器,机甲迫击炮能够以高弧度发射一枚小炮弹落在目标上. 虽然机甲迫击炮是人类霸权发明的,但到了2835年,继承战争已将其变为历史.随着反导系统的重新引入,工程师们重新提出了机甲迫击炮的概念.迫击炮使用的弹药,尽管通常是有限制导,但在测试中没有被AMS系统摧毁.迫击炮的弹药适应性也很强,可以使用多种类型弹药.\n\n<b><color=#ffcc00>使用迫击炮弹药</color></b>"
+  },
+  {
+    "id": "Weapon_MECHMORTAR_2_CLAN.Description.UIName",
+    "content": "迫击炮MTR/2(C)"
+  },
+  {
+    "id": "Weapon_MECHMORTAR_2_CLAN.Description.Name",
+    "content": "迫击炮MTR/2"
+  },
+  {
+    "id": "Weapon_MECHMORTAR_2_CLAN.Description.Manufacturer",
+    "content": "勇士"
+  },
+  {
+    "id": "Weapon_MECHMORTAR_4_CLAN.Description.Details",
+    "content": "基于步兵几个世纪以来使用的武器,机甲迫击炮能够以高弧度发射一枚小炮弹落在目标上. 虽然机甲迫击炮是人类霸权发明的,但到了2835年,继承战争已将其变为历史.随着反导系统的重新引入,工程师们重新提出了机甲迫击炮的概念.迫击炮使用的弹药,尽管通常是有限制导,但在测试中没有被AMS系统摧毁.迫击炮的弹药适应性也很强,可以使用多种类型弹药.\n\n<b><color=#ffcc00>使用迫击炮弹药</color></b>"
+  },
+  {
+    "id": "Weapon_MECHMORTAR_4_CLAN.Description.UIName",
+    "content": "迫击炮MTR/4(C)"
+  },
+  {
+    "id": "Weapon_MECHMORTAR_4_CLAN.Description.Name",
+    "content": "迫击炮MTR/4"
+  },
+  {
+    "id": "Weapon_MECHMORTAR_4_CLAN.Description.Manufacturer",
+    "content": "独眼巨人公司"
+  },
+  {
+    "id": "Weapon_MECHMORTAR_6_CLAN.Description.Details",
+    "content": "基于步兵几个世纪以来使用的武器,机甲迫击炮能够以高弧度发射一枚小炮弹落在目标上. 虽然机甲迫击炮是人类霸权发明的,但到了2835年,继承战争已将其变为历史.随着反导系统的重新引入,工程师们重新提出了机甲迫击炮的概念.迫击炮使用的弹药,尽管通常是有限制导,但在测试中没有被AMS系统摧毁.迫击炮的弹药适应性也很强,可以使用多种类型弹药.\n\n<b><color=#ffcc00>使用迫击炮弹药</color></b>"
+  },
+  {
+    "id": "Weapon_MECHMORTAR_6_CLAN.Description.UIName",
+    "content": "迫击炮MTR/6(C)"
+  },
+  {
+    "id": "Weapon_MECHMORTAR_6_CLAN.Description.Name",
+    "content": "迫击炮MTR/6"
+  },
+  {
+    "id": "Weapon_MECHMORTAR_6_CLAN.Description.Manufacturer",
+    "content": "谷神星金属"
+  },
+  {
+    "id": "Weapon_MECHMORTAR_8_CLAN.Description.Details",
+    "content": "基于步兵几个世纪以来使用的武器,机甲迫击炮能够以高弧度发射一枚小炮弹落在目标上. 虽然机甲迫击炮是人类霸权发明的,但到了2835年,继承战争已将其变为历史.随着反导系统的重新引入,工程师们重新提出了机甲迫击炮的概念.迫击炮使用的弹药,尽管通常是有限制导,但在测试中没有被AMS系统摧毁.迫击炮的弹药适应性也很强,可以使用多种类型弹药.\n\n<b><color=#ffcc00>使用迫击炮弹药</color></b>"
+  },
+  {
+    "id": "Weapon_MECHMORTAR_8_CLAN.Description.UIName",
+    "content": "迫击炮MTR/8(C)"
+  },
+  {
+    "id": "Weapon_MECHMORTAR_8_CLAN.Description.Name",
+    "content": "迫击炮MTR/8"
+  },
+  {
+    "id": "Weapon_MECHMORTAR_8_CLAN.Description.Manufacturer",
+    "content": "赫勒海"
+  },
+  {
+    "id": "Weapon_PLASMA_CLAN.Description.Details",
+    "content": "这个等离子加农炮将一个\"等离子泡沫\"弹药加速并加热到激发态,将其转换为等离子体发射,产生巨大的动能和热冲击.和卡佩兰版本不同,氏族科学家专注于热效应,使等离子炮对目标造成的热伤害几乎是卡佩兰版本的两倍.<b><color=#099ff2>不稳定!</color></b> \n\n<b><color=#ffcc00>使用等离子弹药</color></b>"
+  },
+  {
+    "id": "Weapon_PLASMA_CLAN.Description.UIName",
+    "content": "等离子加农炮(C)"
+  },
+  {
+    "id": "Weapon_PLASMA_CLAN.Description.Name",
+    "content": "等离子加农炮(C)"
+  },
+  {
+    "id": "Weapon_PLASMA_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_PLASMA_CLAN.PLASMA-Effect.statusEffects0.Details",
+    "content": "高能残渣使散热效率-20%."
+  },
+  {
+    "id": "Weapon_PLASMA_CLAN.PLASMA-Effect.statusEffects0.Name",
+    "content": "等离子残渣"
+  },
+  {
+    "id": "Weapon_PPCER_CAPACITATOR_CLAN.Description.Details",
+    "content": "结合了电容器的增程粒子炮.启用电容器可以增加伤害,但也会产生巨量的热量."
+  },
+  {
+    "id": "Weapon_PPCER_CAPACITATOR_CLAN.Description.UIName",
+    "content": "电容器增程粒子炮(C)"
+  },
+  {
+    "id": "Weapon_PPCER_CAPACITATOR_CLAN.Description.Name",
+    "content": "增程粒子炮+CAP(C)"
+  },
+  {
+    "id": "Weapon_PPCER_CAPACITATOR_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_PPCER_CAPACITATOR_CLAN.AbilityDefPPC.statusEffects0.Details",
+    "content": "电磁干扰降低传感器效率."
+  },
+  {
+    "id": "Weapon_PPCER_CAPACITATOR_CLAN.AAAFactor.statusEffects1.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_PPCER_CAPACITATOR_CLAN.AbilityDefPPC.statusEffects0.Name",
+    "content": "传感器效率降低"
+  },
+  {
+    "id": "Weapon_PPCER_CAPACITATOR_CLAN.AAAFactor.statusEffects1.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_PPCER_CLAN.Description.Details",
+    "content": "作为对标准粒子炮的改进,增程粒子炮以难以置信的发热为代价,极大的拓展了其有效射程.增程粒子炮还产生了轻微的电磁场,降低了其攻击目标的瞄准能力."
+  },
+  {
+    "id": "Weapon_PPCER_CLAN.Description.UIName",
+    "content": "增程粒子炮(C)"
+  },
+  {
+    "id": "Weapon_PPCER_CLAN.Description.Name",
+    "content": "增程粒子炮(C)"
+  },
+  {
+    "id": "Weapon_PPCER_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_PPCER_CLAN.AbilityDefPPC.statusEffects0.Details",
+    "content": "电磁干扰降低传感器效率."
+  },
+  {
+    "id": "Weapon_PPCER_CLAN.AAAFactor.statusEffects1.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_PPCER_CLAN.AbilityDefPPC.statusEffects0.Name",
+    "content": "传感器效率降低"
+  },
+  {
+    "id": "Weapon_PPCER_CLAN.AAAFactor.statusEffects1.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Rotary_Autocannon_2_CLAN.Description.Details",
+    "content": "转轮式自动炮(RAC)仅在一定程度上基于自动炮.虽然它们有相同的口径,但其发射能力是其标准同类的六倍,使其造成的伤害甚至是超级自动炮的三倍.同时,发射每增加一次,自动炮产生的热量也会增加,并增加发生卡壳的可能性.氏族变体以增加体积为代价增加了射程.\n\n<b><color=#ffcc00>使用RAC2弹药</color></b>. "
+  },
+  {
+    "id": "Weapon_Rotary_Autocannon_2_CLAN.Description.UIName",
+    "content": "RAC/2(C)"
+  },
+  {
+    "id": "Weapon_Rotary_Autocannon_2_CLAN.Description.Name",
+    "content": "RAC2(C)"
+  },
+  {
+    "id": "Weapon_Rotary_Autocannon_2_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_Rotary_Autocannon_2_CLAN.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Rotary_Autocannon_2_CLAN.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Rotary_Autocannon_5_CLAN.Description.Details",
+    "content": "转轮式自动炮仅在一定程度上基于自动炮.虽然它们有相同的口径,但其发射能力是其标准同类的六倍,使其造成的伤害甚至是超级自动炮的三倍.同时,发射每增加一次,自动炮产生的热量也会增加,并增加发生卡壳的可能性.和超级自动炮一样,转轮自动炮无法使用特殊弹药.氏族变体以增加体积为代价增加了射程.\n\n<b><color=#ffcc00>使用RAC5弹药</color></b>. "
+  },
+  {
+    "id": "Weapon_Rotary_Autocannon_5_CLAN.Description.UIName",
+    "content": "RAC/5(C)"
+  },
+  {
+    "id": "Weapon_Rotary_Autocannon_5_CLAN.Description.Name",
+    "content": "RAC5(C)"
+  },
+  {
+    "id": "Weapon_Rotary_Autocannon_5_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_Rotary_Autocannon_5_CLAN.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Rotary_Autocannon_5_CLAN.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_SRM_SRM2_CLAN.Description.Details",
+    "content": "SRM2是一种小型的短程导弹发射器,造成伤害很小,但在重量、空间、热量或弹药消耗方面几乎不需要任何成本.与其他武器相比,所有SRM2射击的命中率高于平均水平.  \n\n<b><color=#ffcc00>使用氏族近程导弹弹药</color></b>"
+  },
+  {
+    "id": "Weapon_SRM_SRM2_CLAN.Description.UIName",
+    "content": "SRM2(C)"
+  },
+  {
+    "id": "Weapon_SRM_SRM2_CLAN.Description.Name",
+    "content": "SRM2(C)"
+  },
+  {
+    "id": "Weapon_SRM_SRM2_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_SRM_SRM2_STREAK_CLAN.Description.Details",
+    "content": "迅捷(Streak)SMR2发射器是一种原型SRM,使用先进的主动制导系统来跟踪目标,但代价是产热和重量增加\n\n<b><color=#ffcc00>使用迅捷SRM弹药</color></b>."
+  },
+  {
+    "id": "Weapon_SRM_SRM2_STREAK_CLAN.Description.UIName",
+    "content": "迅捷SRM2(C)"
+  },
+  {
+    "id": "Weapon_SRM_SRM2_STREAK_CLAN.Description.Name",
+    "content": "迅捷SRM2(C)"
+  },
+  {
+    "id": "Weapon_SRM_SRM2_STREAK_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_SRM_SRM4_CLAN.Description.Details",
+    "content": "作为近程导弹的中型发射器,SRM4除了其固有的近程和对弹药的需求外,其受到的负面影响较少.与其他武器相比,所有SRM4射击的命中率高于平均水平. \n\n<b><color=#ffcc00>使用氏族近程导弹弹药</color></b>"
+  },
+  {
+    "id": "Weapon_SRM_SRM4_CLAN.Description.UIName",
+    "content": "SRM4(C)"
+  },
+  {
+    "id": "Weapon_SRM_SRM4_CLAN.Description.Name",
+    "content": "SRM4(C)"
+  },
+  {
+    "id": "Weapon_SRM_SRM4_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_SRM_SRM4_STREAK_CLAN.Description.Details",
+    "content": "迅捷(Streak)SMR4发射器是一种原型SRM,使用先进的主动制导系统来跟踪目标,但代价是产热和重量增加.\n\n<b><color=#ffcc00>使用迅捷SRM弹药</color></b>."
+  },
+  {
+    "id": "Weapon_SRM_SRM4_STREAK_CLAN.Description.UIName",
+    "content": "迅捷SRM4(C)"
+  },
+  {
+    "id": "Weapon_SRM_SRM4_STREAK_CLAN.Description.Name",
+    "content": "迅捷SRM4(C)"
+  },
+  {
+    "id": "Weapon_SRM_SRM4_STREAK_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_SRM_SRM4_STREAK_CLAN_IOS.Description.Details",
+    "content": "迅捷(Streak)SMR4发射器是一种原型SRM,使用先进的主动制导系统来跟踪目标,但代价是产热和重量增加.\n\n<b><color=#ffcc00>使用迅捷SRM弹药</color></b>."
+  },
+  {
+    "id": "Weapon_SRM_SRM4_STREAK_CLAN_IOS.Description.UIName",
+    "content": "迅捷SRM4(C-IOS)"
+  },
+  {
+    "id": "Weapon_SRM_SRM4_STREAK_CLAN_IOS.Description.Name",
+    "content": "迅捷SRM4(C)"
+  },
+  {
+    "id": "Weapon_SRM_SRM4_STREAK_CLAN_IOS.Description.Manufacturer",
+    "content": "新星猫氏族"
+  },
+  {
+    "id": "Weapon_SRM_SRM6_CLAN.Description.Details",
+    "content": "SRM6是目前可用的最大型短程导弹发射器,具有相当大的威力,同时重量轻.与其他武器相比,所有SRM6射击的命中率高于平均水平.  \n\n<b><color=#ffcc00>使用氏族近程导弹弹药</color></b>"
+  },
+  {
+    "id": "Weapon_SRM_SRM6_CLAN.Description.UIName",
+    "content": "SRM6(C)"
+  },
+  {
+    "id": "Weapon_SRM_SRM6_CLAN.Description.Name",
+    "content": "SRM6(C)"
+  },
+  {
+    "id": "Weapon_SRM_SRM6_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_SRM_SRM6_STREAK_CLAN.Description.Details",
+    "content": "迅捷(Streak)SRM6发射器是一种原型SRM,使用先进的主动制导系统来跟踪目标,但代价是产热和重量增加.\n\n<b><color=#ffcc00>使用迅捷SRM弹药</color></b>."
+  },
+  {
+    "id": "Weapon_SRM_SRM6_STREAK_CLAN.Description.UIName",
+    "content": "迅捷SRM6(C)"
+  },
+  {
+    "id": "Weapon_SRM_SRM6_STREAK_CLAN.Description.Name",
+    "content": "迅捷SRM6(C)"
+  },
+  {
+    "id": "Weapon_SRM_SRM6_STREAK_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_SRM_SRM_NARC_CLAN.Description.Details",
+    "content": "该发射器发射一个单独的NARC信标,将其黏附到敌人身上,并向所有友军武器发射定位信号."
+  },
+  {
+    "id": "Weapon_SRM_SRM_NARC_CLAN.Description.UIName",
+    "content": "NARC发射器(C)"
+  },
+  {
+    "id": "Weapon_SRM_SRM_NARC_CLAN.Description.Name",
+    "content": "NARC发射器(C)"
+  },
+  {
+    "id": "Weapon_SRM_SRM_NARC_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  }
+]

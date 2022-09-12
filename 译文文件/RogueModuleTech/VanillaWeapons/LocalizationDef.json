@@ -1,0 +1,2186 @@
+[
+  {
+    "id": "Weapon_Autocannon_AC10_0-STOCK.Description.Details",
+    "content": "AC/10是战斗中最强大、最有效的武器之一,其以强大的伤害和击倒对手的能力而闻名.与所有自动加农炮武器一样,AC/10也会受到持续开火后座的影响.\n\n<b><color=#ffcc00>使用AC10弹药</color></b>."
+  },
+  {
+    "id": "Weapon_Autocannon_AC10_0-STOCK.Description.UIName",
+    "content": "AC/10"
+  },
+  {
+    "id": "Weapon_Autocannon_AC10_0-STOCK.Description.Name",
+    "content": "AC/10"
+  },
+  {
+    "id": "Weapon_Autocannon_AC10_0-STOCK.Description.Manufacturer",
+    "content": "西式"
+  },
+  {
+    "id": "Weapon_Autocannon_AC10_0-STOCK.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Autocannon_AC10_0-STOCK.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Autocannon_AC10_1-Defiance.Description.Details",
+    "content": "AC/10是战斗中最强大、最有效的武器之一,其以强大的伤害和击倒对手的能力而闻名.与所有自动加农炮武器一样,AC/10也会受到持续开火后座的影响.\n\n<b><color=#ffcc00>使用AC10弹药</color></b>."
+  },
+  {
+    "id": "Weapon_Autocannon_AC10_1-Defiance.Description.UIName",
+    "content": "反抗军AC/10"
+  },
+  {
+    "id": "Weapon_Autocannon_AC10_1-Defiance.Description.Name",
+    "content": "反抗军AC/10"
+  },
+  {
+    "id": "Weapon_Autocannon_AC10_1-Defiance.Description.Manufacturer",
+    "content": "反抗军"
+  },
+  {
+    "id": "Weapon_Autocannon_AC10_1-Defiance.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Autocannon_AC10_1-Defiance.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Autocannon_AC10_1-Imperator.Description.Details",
+    "content": "AC/10是战斗中最强大、最有效的武器之一,其以强大的伤害和击倒对手的能力而闻名.与所有自动加农炮武器一样,AC/10也会受到持续开火后座的影响.\n\n<b><color=#ffcc00>使用AC10弹药</color></b>."
+  },
+  {
+    "id": "Weapon_Autocannon_AC10_1-Imperator.Description.UIName",
+    "content": "统治者AC/10"
+  },
+  {
+    "id": "Weapon_Autocannon_AC10_1-Imperator.Description.Name",
+    "content": "统治者AC/10"
+  },
+  {
+    "id": "Weapon_Autocannon_AC10_1-Imperator.Description.Manufacturer",
+    "content": "统治者"
+  },
+  {
+    "id": "Weapon_Autocannon_AC10_1-Imperator.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Autocannon_AC10_1-Imperator.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Autocannon_AC10_1-Kali_Yama.Description.Details",
+    "content": "AC/10是战斗中最强大、最有效的武器之一,其以强大的伤害和击倒对手的能力而闻名.与所有自动加农炮武器一样,AC/10也会受到持续开火后座的影响.\n\n<b><color=#ffcc00>使用AC10弹药</color></b>."
+  },
+  {
+    "id": "Weapon_Autocannon_AC10_1-Kali_Yama.Description.UIName",
+    "content": "卡利山AC/10"
+  },
+  {
+    "id": "Weapon_Autocannon_AC10_1-Kali_Yama.Description.Name",
+    "content": "卡利山AC/10"
+  },
+  {
+    "id": "Weapon_Autocannon_AC10_1-Kali_Yama.Description.Manufacturer",
+    "content": "卡利山"
+  },
+  {
+    "id": "Weapon_Autocannon_AC10_1-Kali_Yama.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Autocannon_AC10_1-Kali_Yama.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Autocannon_AC10_1-Mydron.Description.Details",
+    "content": "AC/10是战斗中最强大、最有效的武器之一,其以强大的伤害和击倒对手的能力而闻名.与所有自动加农炮武器一样,AC/10也会受到持续开火后座的影响.\n\n<b><color=#ffcc00>使用AC10弹药</color></b>."
+  },
+  {
+    "id": "Weapon_Autocannon_AC10_1-Mydron.Description.UIName",
+    "content": "麦德龙AC/10"
+  },
+  {
+    "id": "Weapon_Autocannon_AC10_1-Mydron.Description.Name",
+    "content": "麦德龙AC/10"
+  },
+  {
+    "id": "Weapon_Autocannon_AC10_1-Mydron.Description.Manufacturer",
+    "content": "麦德龙"
+  },
+  {
+    "id": "Weapon_Autocannon_AC10_1-Mydron.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Autocannon_AC10_1-Mydron.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Autocannon_AC10_2-Federated.Description.Details",
+    "content": "AC/10是战斗中最强大、最有效的武器之一,其以强大的伤害和击倒对手的能力而闻名.与所有自动加农炮武器一样,AC/10也会受到持续开火后座的影响.\n\n<b><color=#ffcc00>使用AC10弹药</color></b>."
+  },
+  {
+    "id": "Weapon_Autocannon_AC10_2-Federated.Description.UIName",
+    "content": "联邦AC/10"
+  },
+  {
+    "id": "Weapon_Autocannon_AC10_2-Federated.Description.Name",
+    "content": "联邦AC/10"
+  },
+  {
+    "id": "Weapon_Autocannon_AC10_2-Federated.Description.Manufacturer",
+    "content": "Federated"
+  },
+  {
+    "id": "Weapon_Autocannon_AC10_2-Federated.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Autocannon_AC10_2-Federated.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Autocannon_AC20_0-STOCK.Description.Details",
+    "content": "就基础伤害而言,AC/20是战场之王,它比其他的任何武器都更具杀伤力.然而,这是以重量、射程和严重受限的弹药为代价.与所有自动加农炮武器一样,AC20在连续射击后也会受后座力影响.\n\n<b><color=#ffcc00>使用AC20弹药</color></b>."
+  },
+  {
+    "id": "Weapon_Autocannon_AC20_0-STOCK.Description.UIName",
+    "content": "AC/20"
+  },
+  {
+    "id": "Weapon_Autocannon_AC20_0-STOCK.Description.Name",
+    "content": "AC/20"
+  },
+  {
+    "id": "Weapon_Autocannon_AC20_0-STOCK.Description.Manufacturer",
+    "content": "卡利山"
+  },
+  {
+    "id": "Weapon_Autocannon_AC20_1-Defiance.Description.Details",
+    "content": "就基础伤害而言,AC/20是战场之王,它比其他的任何武器都更具杀伤力.然而,这是以重量、射程和严重受限的弹药为代价.与所有自动加农炮武器一样,AC20在连续射击后也会受后座力影响.\n\n<b><color=#ffcc00>使用AC20弹药</color></b>."
+  },
+  {
+    "id": "Weapon_Autocannon_AC20_1-Defiance.Description.UIName",
+    "content": "反抗军AC/20"
+  },
+  {
+    "id": "Weapon_Autocannon_AC20_1-Defiance.Description.Name",
+    "content": "反抗军AC/20"
+  },
+  {
+    "id": "Weapon_Autocannon_AC20_1-Defiance.Description.Manufacturer",
+    "content": "反抗军"
+  },
+  {
+    "id": "Weapon_Autocannon_AC20_1-Federated.Description.Details",
+    "content": "就基础伤害而言,AC/20是战场之王,它比其他的任何武器都更具杀伤力.然而,这是以重量、射程和严重受限的弹药为代价.与所有自动加农炮武器一样,AC20在连续射击后也会受后座力影响.\n\n<b><color=#ffcc00>使用AC20弹药</color></b>."
+  },
+  {
+    "id": "Weapon_Autocannon_AC20_1-Federated.Description.UIName",
+    "content": "联邦AC/20"
+  },
+  {
+    "id": "Weapon_Autocannon_AC20_1-Federated.Description.Name",
+    "content": "联邦AC/20"
+  },
+  {
+    "id": "Weapon_Autocannon_AC20_1-Federated.Description.Manufacturer",
+    "content": "Federated"
+  },
+  {
+    "id": "Weapon_Autocannon_AC20_1-Imperator.Description.Details",
+    "content": "就基础伤害而言,AC/20是战场之王,它比其他的任何武器都更具杀伤力.然而,这是以重量、射程和严重受限的弹药为代价.与所有自动加农炮武器一样,AC20在连续射击后也会受后座力影响.\n\n<b><color=#ffcc00>使用AC20弹药</color></b>."
+  },
+  {
+    "id": "Weapon_Autocannon_AC20_1-Imperator.Description.UIName",
+    "content": "统治者AC/20"
+  },
+  {
+    "id": "Weapon_Autocannon_AC20_1-Imperator.Description.Name",
+    "content": "统治者AC/20"
+  },
+  {
+    "id": "Weapon_Autocannon_AC20_1-Imperator.Description.Manufacturer",
+    "content": "统治者"
+  },
+  {
+    "id": "Weapon_Autocannon_AC20_1-Mydron.Description.Details",
+    "content": "就基础伤害而言,AC/20是战场之王,它比其他的任何武器都更具杀伤力.然而,这是以重量、射程和严重受限的弹药为代价.与所有自动加农炮武器一样,AC20在连续射击后也会受后座力影响.\n\n<b><color=#ffcc00>使用AC20弹药</color></b>."
+  },
+  {
+    "id": "Weapon_Autocannon_AC20_1-Mydron.Description.UIName",
+    "content": "麦德龙AC/20"
+  },
+  {
+    "id": "Weapon_Autocannon_AC20_1-Mydron.Description.Name",
+    "content": "麦德龙AC/20"
+  },
+  {
+    "id": "Weapon_Autocannon_AC20_1-Mydron.Description.Manufacturer",
+    "content": "麦德龙"
+  },
+  {
+    "id": "Weapon_Autocannon_AC20_2-Kali_Yama.Description.Details",
+    "content": "就基础伤害而言,AC/20是战场之王,它比其他的任何武器都更具杀伤力.然而,这是以重量、射程和严重受限的弹药为代价.与所有自动加农炮武器一样,AC20在连续射击后也会受后座力影响.\n\n<b><color=#ffcc00>使用AC20弹药</color></b>."
+  },
+  {
+    "id": "Weapon_Autocannon_AC20_2-Kali_Yama.Description.UIName",
+    "content": "卡利山AC/20"
+  },
+  {
+    "id": "Weapon_Autocannon_AC20_2-Kali_Yama.Description.Name",
+    "content": "卡利山AC/20"
+  },
+  {
+    "id": "Weapon_Autocannon_AC20_2-Kali_Yama.Description.Manufacturer",
+    "content": "卡利山"
+  },
+  {
+    "id": "Weapon_Autocannon_AC2_0-STOCK.Description.Details",
+    "content": "AC/2用于远距离支援火力,以低热和大量的每吨弹药造成中等伤害.\n\n<b><color=#ffcc00>使用AC2弹药</color></b>."
+  },
+  {
+    "id": "Weapon_Autocannon_AC2_0-STOCK.Description.UIName",
+    "content": "AC/2"
+  },
+  {
+    "id": "Weapon_Autocannon_AC2_0-STOCK.Description.Name",
+    "content": "AC/2"
+  },
+  {
+    "id": "Weapon_Autocannon_AC2_0-STOCK.Description.Manufacturer",
+    "content": "GM"
+  },
+  {
+    "id": "Weapon_Autocannon_AC2_0-STOCK.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Autocannon_AC2_0-STOCK.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Autocannon_AC2_1-Defiance.Description.Details",
+    "content": "AC/2用于远距离支援火力,以低热和大量的每吨弹药造成中等伤害.\n\n<b><color=#ffcc00>使用AC2弹药</color></b>."
+  },
+  {
+    "id": "Weapon_Autocannon_AC2_1-Defiance.Description.UIName",
+    "content": "反抗军AC/2"
+  },
+  {
+    "id": "Weapon_Autocannon_AC2_1-Defiance.Description.Name",
+    "content": "反抗军AC/2"
+  },
+  {
+    "id": "Weapon_Autocannon_AC2_1-Defiance.Description.Manufacturer",
+    "content": "反抗军"
+  },
+  {
+    "id": "Weapon_Autocannon_AC2_1-Defiance.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Autocannon_AC2_1-Defiance.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Autocannon_AC2_1-Federated.Description.Details",
+    "content": "AC/2用于远距离支援火力,以低热和大量的每吨弹药造成中等伤害.\n\n<b><color=#ffcc00>使用AC2弹药</color></b>."
+  },
+  {
+    "id": "Weapon_Autocannon_AC2_1-Federated.Description.UIName",
+    "content": "联邦AC/2"
+  },
+  {
+    "id": "Weapon_Autocannon_AC2_1-Federated.Description.Name",
+    "content": "联邦AC/2"
+  },
+  {
+    "id": "Weapon_Autocannon_AC2_1-Federated.Description.Manufacturer",
+    "content": "Federated"
+  },
+  {
+    "id": "Weapon_Autocannon_AC2_1-Federated.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Autocannon_AC2_1-Federated.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Autocannon_AC2_1-Kali_Yama.Description.Details",
+    "content": "AC/2用于远距离支援火力,以低热和大量的每吨弹药造成中等伤害.\n\n<b><color=#ffcc00>使用AC2弹药</color></b>."
+  },
+  {
+    "id": "Weapon_Autocannon_AC2_1-Kali_Yama.Description.UIName",
+    "content": "卡利山AC/2"
+  },
+  {
+    "id": "Weapon_Autocannon_AC2_1-Kali_Yama.Description.Name",
+    "content": "卡利山AC/2"
+  },
+  {
+    "id": "Weapon_Autocannon_AC2_1-Kali_Yama.Description.Manufacturer",
+    "content": "卡利山"
+  },
+  {
+    "id": "Weapon_Autocannon_AC2_1-Kali_Yama.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Autocannon_AC2_1-Kali_Yama.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Autocannon_AC2_1-Mydron.Description.Details",
+    "content": "AC/2用于远距离支援火力,以低热和大量的每吨弹药造成中等伤害.\n\n<b><color=#ffcc00>使用AC2弹药</color></b>."
+  },
+  {
+    "id": "Weapon_Autocannon_AC2_1-Mydron.Description.UIName",
+    "content": "麦德龙AC/2"
+  },
+  {
+    "id": "Weapon_Autocannon_AC2_1-Mydron.Description.Name",
+    "content": "麦德龙AC/2"
+  },
+  {
+    "id": "Weapon_Autocannon_AC2_1-Mydron.Description.Manufacturer",
+    "content": "麦德龙"
+  },
+  {
+    "id": "Weapon_Autocannon_AC2_1-Mydron.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Autocannon_AC2_1-Mydron.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Autocannon_AC2_2-Imperator.Description.Details",
+    "content": "AC/2用于远距离支援火力,以低热和大量的每吨弹药造成中等伤害.\n\n<b><color=#ffcc00>使用AC2弹药</color></b>."
+  },
+  {
+    "id": "Weapon_Autocannon_AC2_2-Imperator.Description.UIName",
+    "content": "统治者AC/2"
+  },
+  {
+    "id": "Weapon_Autocannon_AC2_2-Imperator.Description.Name",
+    "content": "统治者AC/2"
+  },
+  {
+    "id": "Weapon_Autocannon_AC2_2-Imperator.Description.Manufacturer",
+    "content": "统治者"
+  },
+  {
+    "id": "Weapon_Autocannon_AC2_2-Imperator.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Autocannon_AC2_2-Imperator.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Autocannon_AC5_0-STOCK.Description.Details",
+    "content": "AC5是一种灵活的武器,它在射程、功率和性能间取得了平衡. 这些武器通常在中型机甲上才能被发现,是其可靠伤害的主要来源.与所有自动火炮武器一样,AC5在连续射击后也会受到后座的影响.\n\n<b><color=#ffcc00>使用AC5弹药</color></b>."
+  },
+  {
+    "id": "Weapon_Autocannon_AC5_0-STOCK.Description.UIName",
+    "content": "AC/5"
+  },
+  {
+    "id": "Weapon_Autocannon_AC5_0-STOCK.Description.Name",
+    "content": "AC/5"
+  },
+  {
+    "id": "Weapon_Autocannon_AC5_0-STOCK.Description.Manufacturer",
+    "content": "GM"
+  },
+  {
+    "id": "Weapon_Autocannon_AC5_0-STOCK.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Autocannon_AC5_0-STOCK.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Autocannon_AC5_1-Defiance.Description.Details",
+    "content": "AC5是一种灵活的武器,它在射程、功率和性能间取得了平衡. 这些武器通常在中型机甲上才能被发现,是其可靠伤害的主要来源.与所有自动火炮武器一样,AC5在连续射击后也会受到后座的影响.\n\n<b><color=#ffcc00>使用AC5弹药</color></b>."
+  },
+  {
+    "id": "Weapon_Autocannon_AC5_1-Defiance.Description.UIName",
+    "content": "反抗军AC/5"
+  },
+  {
+    "id": "Weapon_Autocannon_AC5_1-Defiance.Description.Name",
+    "content": "反抗军AC/5"
+  },
+  {
+    "id": "Weapon_Autocannon_AC5_1-Defiance.Description.Manufacturer",
+    "content": "反抗军"
+  },
+  {
+    "id": "Weapon_Autocannon_AC5_1-Defiance.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Autocannon_AC5_1-Defiance.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Autocannon_AC5_1-Federated.Description.Details",
+    "content": "AC5是一种灵活的武器,它在射程、功率和性能间取得了平衡. 这些武器通常在中型机甲上才能被发现,是其可靠伤害的主要来源.与所有自动火炮武器一样,AC5在连续射击后也会受到后座的影响.\n\n<b><color=#ffcc00>使用AC5弹药</color></b>."
+  },
+  {
+    "id": "Weapon_Autocannon_AC5_1-Federated.Description.UIName",
+    "content": "联邦AC/5"
+  },
+  {
+    "id": "Weapon_Autocannon_AC5_1-Federated.Description.Name",
+    "content": "联邦AC/5"
+  },
+  {
+    "id": "Weapon_Autocannon_AC5_1-Federated.Description.Manufacturer",
+    "content": "Federated"
+  },
+  {
+    "id": "Weapon_Autocannon_AC5_1-Federated.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Autocannon_AC5_1-Federated.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Autocannon_AC5_1-Imperator.Description.Details",
+    "content": "AC5是一种灵活的武器,它在射程、功率和性能间取得了平衡. 这些武器通常在中型机甲上才能被发现,是其可靠伤害的主要来源.与所有自动火炮武器一样,AC5在连续射击后也会受到后座的影响.\n\n<b><color=#ffcc00>使用AC5弹药</color></b>."
+  },
+  {
+    "id": "Weapon_Autocannon_AC5_1-Imperator.Description.UIName",
+    "content": "统治者AC/5"
+  },
+  {
+    "id": "Weapon_Autocannon_AC5_1-Imperator.Description.Name",
+    "content": "统治者AC/5"
+  },
+  {
+    "id": "Weapon_Autocannon_AC5_1-Imperator.Description.Manufacturer",
+    "content": "统治者"
+  },
+  {
+    "id": "Weapon_Autocannon_AC5_1-Imperator.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Autocannon_AC5_1-Imperator.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Autocannon_AC5_1-Kali_Yama.Description.Details",
+    "content": "AC5是一种灵活的武器,它在射程、功率和性能间取得了平衡. 这些武器通常在中型机甲上才能被发现,是其可靠伤害的主要来源.与所有自动火炮武器一样,AC5在连续射击后也会受到后座的影响.\n\n<b><color=#ffcc00>使用AC5弹药</color></b>."
+  },
+  {
+    "id": "Weapon_Autocannon_AC5_1-Kali_Yama.Description.UIName",
+    "content": "卡利山AC/5"
+  },
+  {
+    "id": "Weapon_Autocannon_AC5_1-Kali_Yama.Description.Name",
+    "content": "卡利山AC/5"
+  },
+  {
+    "id": "Weapon_Autocannon_AC5_1-Kali_Yama.Description.Manufacturer",
+    "content": "卡利山"
+  },
+  {
+    "id": "Weapon_Autocannon_AC5_1-Kali_Yama.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Autocannon_AC5_1-Kali_Yama.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Autocannon_AC5_2-Mydron.Description.Details",
+    "content": "AC5是一种灵活的武器,它在射程、功率和性能间取得了平衡. 这些武器通常在中型机甲上才能被发现,是其可靠伤害的主要来源.与所有自动火炮武器一样,AC5在连续射击后也会受到后座的影响.\n\n<b><color=#ffcc00>使用AC5弹药</color></b>."
+  },
+  {
+    "id": "Weapon_Autocannon_AC5_2-Mydron.Description.UIName",
+    "content": "麦德龙AC/5"
+  },
+  {
+    "id": "Weapon_Autocannon_AC5_2-Mydron.Description.Name",
+    "content": "麦德龙AC/5"
+  },
+  {
+    "id": "Weapon_Autocannon_AC5_2-Mydron.Description.Manufacturer",
+    "content": "麦德龙"
+  },
+  {
+    "id": "Weapon_Autocannon_AC5_2-Mydron.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Autocannon_AC5_2-Mydron.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Flamer_Flamer_0-STOCK.Description.Details",
+    "content": "喷火器的独特之处在于,它不造成物理伤害,而是排出过热的等离子体,增加目标大量热量.如果操作得当,这和阻止敌人的回击,甚至让目标单位因过热而死机."
+  },
+  {
+    "id": "Weapon_Flamer_Flamer_0-STOCK.Description.UIName",
+    "content": "喷火器"
+  },
+  {
+    "id": "Weapon_Flamer_Flamer_0-STOCK.Description.Name",
+    "content": "喷火器"
+  },
+  {
+    "id": "Weapon_Flamer_Flamer_0-STOCK.Description.Manufacturer",
+    "content": "天窗"
+  },
+  {
+    "id": "Weapon_Flamer_Flamer_0-STOCK.HeatDamageTakenSoftCapMultiplier.statusEffects0.Details",
+    "content": "-1%热伤害"
+  },
+  {
+    "id": "Weapon_Flamer_Flamer_0-STOCK.HeatDamageTakenSoftCapMultiplier.statusEffects0.Name",
+    "content": "4%热软限额"
+  },
+  {
+    "id": "Weapon_Flamer_Flamer_1-Hotshot.Description.Details",
+    "content": "喷火器的独特之处在于,它不造成物理伤害,而是排出过热的等离子体,增加目标大量热量.如果操作得当,这可以阻止敌人的回击,甚至让目标单位因过热而停机."
+  },
+  {
+    "id": "Weapon_Flamer_Flamer_1-Hotshot.Description.UIName",
+    "content": "激射喷火器"
+  },
+  {
+    "id": "Weapon_Flamer_Flamer_1-Hotshot.Description.Name",
+    "content": "激射喷火器"
+  },
+  {
+    "id": "Weapon_Flamer_Flamer_1-Hotshot.Description.Manufacturer",
+    "content": "能人"
+  },
+  {
+    "id": "Weapon_Flamer_Flamer_1-Hotshot.HeatDamageTakenSoftCapMultiplier.statusEffects0.Details",
+    "content": "-1%热伤害"
+  },
+  {
+    "id": "Weapon_Flamer_Flamer_1-Hotshot.HeatDamageTakenSoftCapMultiplier.statusEffects0.Name",
+    "content": "4%热软限额"
+  },
+  {
+    "id": "Weapon_Gauss_Gauss_0-STOCK.Description.Details",
+    "content": "高斯线膛炮使用电磁电荷以极高的速度发射金属子弹,单靠动能造成巨大的伤害.\n\n<b><color=#ffcc00>使用高斯弹药</color></b>\n\n<b><color=#099ff2>不稳定!</color></b>"
+  },
+  {
+    "id": "Weapon_Gauss_Gauss_0-STOCK.Description.UIName",
+    "content": "高斯线膛炮"
+  },
+  {
+    "id": "Weapon_Gauss_Gauss_0-STOCK.Description.Name",
+    "content": "高斯线膛炮"
+  },
+  {
+    "id": "Weapon_Gauss_Gauss_0-STOCK.Description.Manufacturer",
+    "content": "SCI"
+  },
+  {
+    "id": "Weapon_Gauss_Gauss_0-STOCK.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Gauss_Gauss_0-STOCK.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Gauss_Gauss_1-M7.Description.Details",
+    "content": "高斯线膛炮使用电磁电荷以极高的速度发射金属子弹,单靠动能造成巨大的伤害.和自动炮不同,高斯线膛炮不会受到射击后座率的影响,并具有基线精度奖励.\n\n<b><color=#ffcc00>使用高斯弹药</color></b>\n\n<b><color=#099ff2>不稳定!</color></b>"
+  },
+  {
+    "id": "Weapon_Gauss_Gauss_1-M7.Description.UIName",
+    "content": "高斯线膛炮M7"
+  },
+  {
+    "id": "Weapon_Gauss_Gauss_1-M7.Description.Name",
+    "content": "高斯线膛炮"
+  },
+  {
+    "id": "Weapon_Gauss_Gauss_1-M7.Description.Manufacturer",
+    "content": "SCI"
+  },
+  {
+    "id": "Weapon_Gauss_Gauss_1-M7.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Gauss_Gauss_1-M7.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Gauss_Gauss_2-M9.Description.Details",
+    "content": "高斯线膛炮使用电磁电荷以极高的速度发射金属子弹,单靠动能造成巨大的伤害.和自动炮不同,高斯线膛炮不会受到射击后座率的影响,并具有基线精度奖励.\n\n<b><color=#ffcc00>使用高斯弹药</color></b>\n\n<b><color=#099ff2>不稳定!</color></b>"
+  },
+  {
+    "id": "Weapon_Gauss_Gauss_2-M9.Description.UIName",
+    "content": "高斯线膛炮M9"
+  },
+  {
+    "id": "Weapon_Gauss_Gauss_2-M9.Description.Name",
+    "content": "高斯线膛炮"
+  },
+  {
+    "id": "Weapon_Gauss_Gauss_2-M9.Description.Manufacturer",
+    "content": "SCI"
+  },
+  {
+    "id": "Weapon_Gauss_Gauss_2-M9.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Gauss_Gauss_2-M9.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Laser_LargeLaserER_0-STOCK.Description.Details",
+    "content": "对标准大型激光器的改进,以大量发热为代价增程激光器拓展了他们的有效射程."
+  },
+  {
+    "id": "Weapon_Laser_LargeLaserER_0-STOCK.Description.UIName",
+    "content": "大型增程激光"
+  },
+  {
+    "id": "Weapon_Laser_LargeLaserER_0-STOCK.Description.Name",
+    "content": "大型增程激光"
+  },
+  {
+    "id": "Weapon_Laser_LargeLaserER_0-STOCK.Description.Manufacturer",
+    "content": "SCI"
+  },
+  {
+    "id": "Weapon_Laser_LargeLaserER_0-STOCK.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Laser_LargeLaserER_0-STOCK.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Laser_LargeLaserER_1-Blankenburg25.Description.Details",
+    "content": "对标准大型激光器的改进,以大量发热为代价增程激光器拓展了他们的有效射程."
+  },
+  {
+    "id": "Weapon_Laser_LargeLaserER_1-Blankenburg25.Description.UIName",
+    "content": "布兰肯堡大型增程激光"
+  },
+  {
+    "id": "Weapon_Laser_LargeLaserER_1-Blankenburg25.Description.Name",
+    "content": "布兰肯堡大型增程激光"
+  },
+  {
+    "id": "Weapon_Laser_LargeLaserER_1-Blankenburg25.Description.Manufacturer",
+    "content": "布兰肯堡"
+  },
+  {
+    "id": "Weapon_Laser_LargeLaserER_1-Blankenburg25.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Laser_LargeLaserER_1-Blankenburg25.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Laser_LargeLaserER_2-BlazeFire.Description.Details",
+    "content": "对标准大型激光器的改进,以大量发热为代价增程激光器拓展了他们的有效射程."
+  },
+  {
+    "id": "Weapon_Laser_LargeLaserER_2-BlazeFire.Description.UIName",
+    "content": "烈火大型增程激光"
+  },
+  {
+    "id": "Weapon_Laser_LargeLaserER_2-BlazeFire.Description.Name",
+    "content": "烈火大型增程激光"
+  },
+  {
+    "id": "Weapon_Laser_LargeLaserER_2-BlazeFire.Description.Manufacturer",
+    "content": "烈焰"
+  },
+  {
+    "id": "Weapon_Laser_LargeLaserER_2-BlazeFire.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Laser_LargeLaserER_2-BlazeFire.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Laser_LargeLaserPulse_0-STOCK.Description.Details",
+    "content": "对标准激光的改进,大型脉冲激光使用光脉冲而不是单光束.这获得了更好的精度和更强的破坏,但热量和重量也大大增加了."
+  },
+  {
+    "id": "Weapon_Laser_LargeLaserPulse_0-STOCK.Description.UIName",
+    "content": "大型脉冲激光"
+  },
+  {
+    "id": "Weapon_Laser_LargeLaserPulse_0-STOCK.Description.Name",
+    "content": "大型脉冲激光"
+  },
+  {
+    "id": "Weapon_Laser_LargeLaserPulse_0-STOCK.Description.Manufacturer",
+    "content": "Blankenburg"
+  },
+  {
+    "id": "Weapon_Laser_LargeLaserPulse_1-Thunderbolt12.Description.Details",
+    "content": "对标准激光的改进,大型脉冲激光使用光脉冲而不是单光束.这获得了更好的精度和更强的破坏,但热量和重量也大大增加了."
+  },
+  {
+    "id": "Weapon_Laser_LargeLaserPulse_1-Thunderbolt12.Description.UIName",
+    "content": "霹雳火大型脉冲激光"
+  },
+  {
+    "id": "Weapon_Laser_LargeLaserPulse_1-Thunderbolt12.Description.Name",
+    "content": "霹雳火大型脉冲激光"
+  },
+  {
+    "id": "Weapon_Laser_LargeLaserPulse_1-Thunderbolt12.Description.Manufacturer",
+    "content": "霹雳火12"
+  },
+  {
+    "id": "Weapon_Laser_LargeLaserPulse_2-Exostar.Description.Details",
+    "content": "对标准激光的改进,大型脉冲激光使用光脉冲而不是单光束.这获得了更好的精度和更强的破坏,但热量和重量也大大增加了."
+  },
+  {
+    "id": "Weapon_Laser_LargeLaserPulse_2-Exostar.Description.UIName",
+    "content": "外星辰大型脉冲激光"
+  },
+  {
+    "id": "Weapon_Laser_LargeLaserPulse_2-Exostar.Description.Name",
+    "content": "外星辰大型脉冲激光"
+  },
+  {
+    "id": "Weapon_Laser_LargeLaserPulse_2-Exostar.Description.Manufacturer",
+    "content": "外星辰"
+  },
+  {
+    "id": "Weapon_Laser_LargeLaser_0-STOCK.Description.Details",
+    "content": "大型激光具有强大的杀伤、射程和紧凑性.但会产生大量热量."
+  },
+  {
+    "id": "Weapon_Laser_LargeLaser_0-STOCK.Description.UIName",
+    "content": "大型激光"
+  },
+  {
+    "id": "Weapon_Laser_LargeLaser_0-STOCK.Description.Name",
+    "content": "大型激光"
+  },
+  {
+    "id": "Weapon_Laser_LargeLaser_0-STOCK.Description.Manufacturer",
+    "content": "克虏伯"
+  },
+  {
+    "id": "Weapon_Laser_LargeLaser_0-STOCK.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Laser_LargeLaser_0-STOCK.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Laser_LargeLaser_1-Diverse_Optics.Description.Details",
+    "content": "大型激光具有强大的杀伤、射程和紧凑性.但会产生大量热量."
+  },
+  {
+    "id": "Weapon_Laser_LargeLaser_1-Diverse_Optics.Description.UIName",
+    "content": "多样化光学大型激光"
+  },
+  {
+    "id": "Weapon_Laser_LargeLaser_1-Diverse_Optics.Description.Name",
+    "content": "多样化光学大型激光"
+  },
+  {
+    "id": "Weapon_Laser_LargeLaser_1-Diverse_Optics.Description.Manufacturer",
+    "content": "混合光学"
+  },
+  {
+    "id": "Weapon_Laser_LargeLaser_1-Diverse_Optics.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Laser_LargeLaser_1-Diverse_Optics.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Laser_LargeLaser_1-ExoStar.Description.Details",
+    "content": "大型激光具有强大的杀伤、射程和紧凑性.但会产生大量热量."
+  },
+  {
+    "id": "Weapon_Laser_LargeLaser_1-ExoStar.Description.UIName",
+    "content": "外星辰大型激光"
+  },
+  {
+    "id": "Weapon_Laser_LargeLaser_1-ExoStar.Description.Name",
+    "content": "外星辰大型激光"
+  },
+  {
+    "id": "Weapon_Laser_LargeLaser_1-ExoStar.Description.Manufacturer",
+    "content": "外星辰"
+  },
+  {
+    "id": "Weapon_Laser_LargeLaser_1-ExoStar.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Laser_LargeLaser_1-ExoStar.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Laser_LargeLaser_1-Intek.Description.Details",
+    "content": "大型激光具有强大的杀伤、射程和紧凑性.但会产生大量热量."
+  },
+  {
+    "id": "Weapon_Laser_LargeLaser_1-Intek.Description.UIName",
+    "content": "英泰克大型激光"
+  },
+  {
+    "id": "Weapon_Laser_LargeLaser_1-Intek.Description.Name",
+    "content": "英泰克大型激光"
+  },
+  {
+    "id": "Weapon_Laser_LargeLaser_1-Intek.Description.Manufacturer",
+    "content": "Intek"
+  },
+  {
+    "id": "Weapon_Laser_LargeLaser_1-Intek.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Laser_LargeLaser_1-Intek.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Laser_LargeLaser_2-Magna.Description.Details",
+    "content": "大型激光具有强大的杀伤、射程和紧凑性.但会产生大量热量."
+  },
+  {
+    "id": "Weapon_Laser_LargeLaser_2-Magna.Description.UIName",
+    "content": "麦格纳大型激光"
+  },
+  {
+    "id": "Weapon_Laser_LargeLaser_2-Magna.Description.Name",
+    "content": "麦格纳大型激光"
+  },
+  {
+    "id": "Weapon_Laser_LargeLaser_2-Magna.Description.Manufacturer",
+    "content": "麦格纳"
+  },
+  {
+    "id": "Weapon_Laser_LargeLaser_2-Magna.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Laser_LargeLaser_2-Magna.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Laser_MediumLaserER_0-STOCK.Description.Details",
+    "content": "对标准中型激光的改进,中型增程激光以大量发热为代价拓展了其射程."
+  },
+  {
+    "id": "Weapon_Laser_MediumLaserER_0-STOCK.Description.UIName",
+    "content": "中型增程激光"
+  },
+  {
+    "id": "Weapon_Laser_MediumLaserER_0-STOCK.Description.Name",
+    "content": "中型增程激光"
+  },
+  {
+    "id": "Weapon_Laser_MediumLaserER_0-STOCK.Description.Manufacturer",
+    "content": "SCI"
+  },
+  {
+    "id": "Weapon_Laser_MediumLaserER_1-MagnaVI.Description.Details",
+    "content": "对标准中型激光的改进,中型增程激光以大量发热为代价拓展了其射程."
+  },
+  {
+    "id": "Weapon_Laser_MediumLaserER_1-MagnaVI.Description.UIName",
+    "content": "麦格纳中型增程激光"
+  },
+  {
+    "id": "Weapon_Laser_MediumLaserER_1-MagnaVI.Description.Name",
+    "content": "麦格纳中型增程激光"
+  },
+  {
+    "id": "Weapon_Laser_MediumLaserER_1-MagnaVI.Description.Manufacturer",
+    "content": "麦格纳"
+  },
+  {
+    "id": "Weapon_Laser_MediumLaserER_2-BrightBloom.Description.Details",
+    "content": "对标准中型激光的改进,中型增程激光以大量发热为代价拓展了其射程."
+  },
+  {
+    "id": "Weapon_Laser_MediumLaserER_2-BrightBloom.Description.UIName",
+    "content": "璀璨之花中型增程激光"
+  },
+  {
+    "id": "Weapon_Laser_MediumLaserER_2-BrightBloom.Description.Name",
+    "content": "璀璨之花中型增程激光"
+  },
+  {
+    "id": "Weapon_Laser_MediumLaserER_2-BrightBloom.Description.Manufacturer",
+    "content": "璀璨激光"
+  },
+  {
+    "id": "Weapon_Laser_MediumLaserPulse_0-STOCK.Description.Details",
+    "content": "对标准中型激光的改进,中型脉冲激光使用光脉冲而不是单束光.这可以获得更好精度和更高的威力,但也增加了产热和重量."
+  },
+  {
+    "id": "Weapon_Laser_MediumLaserPulse_0-STOCK.Description.UIName",
+    "content": "中型脉冲激光"
+  },
+  {
+    "id": "Weapon_Laser_MediumLaserPulse_0-STOCK.Description.Name",
+    "content": "中型脉冲激光"
+  },
+  {
+    "id": "Weapon_Laser_MediumLaserPulse_0-STOCK.Description.Manufacturer",
+    "content": "耙-IV"
+  },
+  {
+    "id": "Weapon_Laser_MediumLaserPulse_1-RakerIV.Description.Details",
+    "content": "对标准中型激光的改进,中型脉冲激光使用光脉冲而不是单束光.这可以获得更好精度和更高的威力,但也增加了产热和重量."
+  },
+  {
+    "id": "Weapon_Laser_MediumLaserPulse_1-RakerIV.Description.UIName",
+    "content": "耙中型脉冲激光"
+  },
+  {
+    "id": "Weapon_Laser_MediumLaserPulse_1-RakerIV.Description.Name",
+    "content": "耙中型脉冲激光"
+  },
+  {
+    "id": "Weapon_Laser_MediumLaserPulse_1-RakerIV.Description.Manufacturer",
+    "content": "耙IV"
+  },
+  {
+    "id": "Weapon_Laser_MediumLaserPulse_2-Magna400P.Description.Details",
+    "content": "对标准中型激光的改进,中型脉冲激光使用光脉冲而不是单束光.这可以获得更好精度和更高的威力,但也增加了产热和重量."
+  },
+  {
+    "id": "Weapon_Laser_MediumLaserPulse_2-Magna400P.Description.UIName",
+    "content": "麦格纳中型脉冲激光"
+  },
+  {
+    "id": "Weapon_Laser_MediumLaserPulse_2-Magna400P.Description.Name",
+    "content": "麦格纳中型脉冲激光"
+  },
+  {
+    "id": "Weapon_Laser_MediumLaserPulse_2-Magna400P.Description.Manufacturer",
+    "content": "SCI"
+  },
+  {
+    "id": "Weapon_Laser_MediumLaser_0-STOCK.Description.Details",
+    "content": "中型激光的重量轻,且据有相当大的伤害.因此,在战场上的大多数单位上都至少装备一台."
+  },
+  {
+    "id": "Weapon_Laser_MediumLaser_0-STOCK.Description.UIName",
+    "content": "中型激光"
+  },
+  {
+    "id": "Weapon_Laser_MediumLaser_0-STOCK.Description.Name",
+    "content": "中型激光"
+  },
+  {
+    "id": "Weapon_Laser_MediumLaser_0-STOCK.Description.Manufacturer",
+    "content": "地狱"
+  },
+  {
+    "id": "Weapon_Laser_MediumLaser_1-ExoStar.Description.Details",
+    "content": "中型激光的重量轻,且据有相当大的伤害.因此,在战场上的大多数单位上都至少装备一台."
+  },
+  {
+    "id": "Weapon_Laser_MediumLaser_1-ExoStar.Description.UIName",
+    "content": "外星辰中型激光"
+  },
+  {
+    "id": "Weapon_Laser_MediumLaser_1-ExoStar.Description.Name",
+    "content": "外星辰中型激光"
+  },
+  {
+    "id": "Weapon_Laser_MediumLaser_1-ExoStar.Description.Manufacturer",
+    "content": "外星辰"
+  },
+  {
+    "id": "Weapon_Laser_MediumLaser_1-Intek.Description.Details",
+    "content": "中型激光的重量轻,且据有相当大的伤害.因此,在战场上的大多数单位上都至少装备一台."
+  },
+  {
+    "id": "Weapon_Laser_MediumLaser_1-Intek.Description.UIName",
+    "content": "英泰克中型激光"
+  },
+  {
+    "id": "Weapon_Laser_MediumLaser_1-Intek.Description.Name",
+    "content": "英泰克中型激光"
+  },
+  {
+    "id": "Weapon_Laser_MediumLaser_1-Intek.Description.Manufacturer",
+    "content": "Intek"
+  },
+  {
+    "id": "Weapon_Laser_MediumLaser_1-Magna.Description.Details",
+    "content": "中型激光的重量轻,且据有相当大的伤害.因此,在战场上的大多数单位上都至少装备一台."
+  },
+  {
+    "id": "Weapon_Laser_MediumLaser_1-Magna.Description.UIName",
+    "content": "麦格纳中型激光"
+  },
+  {
+    "id": "Weapon_Laser_MediumLaser_1-Magna.Description.Name",
+    "content": "麦格纳中型激光"
+  },
+  {
+    "id": "Weapon_Laser_MediumLaser_1-Magna.Description.Manufacturer",
+    "content": "麦格纳"
+  },
+  {
+    "id": "Weapon_Laser_MediumLaser_2-Diverse_Optics.Description.Details",
+    "content": "中型激光的重量轻,且据有相当大的伤害.因此,在战场上的大多数单位上都至少装备一台."
+  },
+  {
+    "id": "Weapon_Laser_MediumLaser_2-Diverse_Optics.Description.UIName",
+    "content": "多重光学中型激光"
+  },
+  {
+    "id": "Weapon_Laser_MediumLaser_2-Diverse_Optics.Description.Name",
+    "content": "多重光学中型激光"
+  },
+  {
+    "id": "Weapon_Laser_MediumLaser_2-Diverse_Optics.Description.Manufacturer",
+    "content": "混合光学"
+  },
+  {
+    "id": "Weapon_Laser_SmallLaserER_0-STOCK.Description.Details",
+    "content": "对标准小型激光的改进,小型增程激光以产生更多热量为代价,增加了有效射程. "
+  },
+  {
+    "id": "Weapon_Laser_SmallLaserER_0-STOCK.Description.UIName",
+    "content": "小型增程激光"
+  },
+  {
+    "id": "Weapon_Laser_SmallLaserER_0-STOCK.Description.Name",
+    "content": "小型增程激光"
+  },
+  {
+    "id": "Weapon_Laser_SmallLaserER_0-STOCK.Description.Manufacturer",
+    "content": "SCI"
+  },
+  {
+    "id": "Weapon_Laser_SmallLaserER_1-Diverse_Optics.Description.Details",
+    "content": "对标准小型激光的改进,小型增程激光以产生更多热量为代价,增加了有效射程. "
+  },
+  {
+    "id": "Weapon_Laser_SmallLaserER_1-Diverse_Optics.Description.UIName",
+    "content": "多重光学小型增程激光"
+  },
+  {
+    "id": "Weapon_Laser_SmallLaserER_1-Diverse_Optics.Description.Name",
+    "content": "多重光学小型增程激光"
+  },
+  {
+    "id": "Weapon_Laser_SmallLaserER_1-Diverse_Optics.Description.Manufacturer",
+    "content": "混合光学"
+  },
+  {
+    "id": "Weapon_Laser_SmallLaserER_2-BlazeFire.Description.Details",
+    "content": "对标准小型激光的改进,小型增程激光以产生更多热量为代价,增加了有效射程. "
+  },
+  {
+    "id": "Weapon_Laser_SmallLaserER_2-BlazeFire.Description.UIName",
+    "content": "烈火小型增程激光"
+  },
+  {
+    "id": "Weapon_Laser_SmallLaserER_2-BlazeFire.Description.Name",
+    "content": "烈火小型增程激光"
+  },
+  {
+    "id": "Weapon_Laser_SmallLaserER_2-BlazeFire.Description.Manufacturer",
+    "content": "烈焰"
+  },
+  {
+    "id": "Weapon_Laser_SmallLaserPulse_0-STOCK.Description.Details",
+    "content": "对标准小型激光的改进,小型脉冲激光使用光脉冲而不是单束光. 这可以获得更好精度和更高的威力,但也增加了产热和重量. "
+  },
+  {
+    "id": "Weapon_Laser_SmallLaserPulse_0-STOCK.Description.UIName",
+    "content": "小型脉冲激光"
+  },
+  {
+    "id": "Weapon_Laser_SmallLaserPulse_0-STOCK.Description.Name",
+    "content": "小型脉冲激光"
+  },
+  {
+    "id": "Weapon_Laser_SmallLaserPulse_0-STOCK.Description.Manufacturer",
+    "content": "朝霞"
+  },
+  {
+    "id": "Weapon_Laser_SmallLaserPulse_1-Maxell.Description.Details",
+    "content": "对标准小型激光的改进,小型脉冲激光使用光脉冲而不是单束光. 这可以获得更好精度和更高的威力,但也增加了产热和重量. "
+  },
+  {
+    "id": "Weapon_Laser_SmallLaserPulse_1-Maxell.Description.UIName",
+    "content": "麦克塞尔小型脉冲激光"
+  },
+  {
+    "id": "Weapon_Laser_SmallLaserPulse_1-Maxell.Description.Name",
+    "content": "麦克塞尔小型脉冲激光"
+  },
+  {
+    "id": "Weapon_Laser_SmallLaserPulse_1-Maxell.Description.Manufacturer",
+    "content": "麦克塞尔金属"
+  },
+  {
+    "id": "Weapon_Laser_SmallLaserPulse_2-Magna200P.Description.Details",
+    "content": "对标准小型激光的改进,小型脉冲激光使用光脉冲而不是单束光. 这可以获得更好精度和更高的威力,但也增加了产热和重量. "
+  },
+  {
+    "id": "Weapon_Laser_SmallLaserPulse_2-Magna200P.Description.UIName",
+    "content": "麦格纳小型脉冲激光"
+  },
+  {
+    "id": "Weapon_Laser_SmallLaserPulse_2-Magna200P.Description.Name",
+    "content": "麦格纳小型脉冲激光"
+  },
+  {
+    "id": "Weapon_Laser_SmallLaserPulse_2-Magna200P.Description.Manufacturer",
+    "content": "麦格纳"
+  },
+  {
+    "id": "Weapon_Laser_SmallLaser_0-STOCK.Description.Details",
+    "content": "小型激光重量和发射低,伤害却非常优秀,但其射程却极为有限."
+  },
+  {
+    "id": "Weapon_Laser_SmallLaser_0-STOCK.Description.UIName",
+    "content": "小型激光"
+  },
+  {
+    "id": "Weapon_Laser_SmallLaser_0-STOCK.Description.Name",
+    "content": "小型激光"
+  },
+  {
+    "id": "Weapon_Laser_SmallLaser_0-STOCK.Description.Manufacturer",
+    "content": "麦克塞尔"
+  },
+  {
+    "id": "Weapon_Laser_SmallLaser_1-Diverse_Optics.Description.Details",
+    "content": "小型激光重量和发射低,伤害却非常优秀,但其射程却极为有限."
+  },
+  {
+    "id": "Weapon_Laser_SmallLaser_1-Diverse_Optics.Description.UIName",
+    "content": "多重光学小型激光"
+  },
+  {
+    "id": "Weapon_Laser_SmallLaser_1-Diverse_Optics.Description.Name",
+    "content": "多重光学小型激光"
+  },
+  {
+    "id": "Weapon_Laser_SmallLaser_1-Diverse_Optics.Description.Manufacturer",
+    "content": "混合光学"
+  },
+  {
+    "id": "Weapon_Laser_SmallLaser_1-ExoStar.Description.Details",
+    "content": "小型激光重量和发射低,伤害却非常优秀,但其射程却极为有限."
+  },
+  {
+    "id": "Weapon_Laser_SmallLaser_1-ExoStar.Description.UIName",
+    "content": "外星辰小型激光"
+  },
+  {
+    "id": "Weapon_Laser_SmallLaser_1-ExoStar.Description.Name",
+    "content": "外星辰小型激光"
+  },
+  {
+    "id": "Weapon_Laser_SmallLaser_1-ExoStar.Description.Manufacturer",
+    "content": "外星辰"
+  },
+  {
+    "id": "Weapon_Laser_SmallLaser_1-Magna.Description.Details",
+    "content": "小型激光重量和发射低,伤害却非常优秀,但其射程却极为有限."
+  },
+  {
+    "id": "Weapon_Laser_SmallLaser_1-Magna.Description.UIName",
+    "content": "麦格纳小型激光"
+  },
+  {
+    "id": "Weapon_Laser_SmallLaser_1-Magna.Description.Name",
+    "content": "麦格纳小型激光"
+  },
+  {
+    "id": "Weapon_Laser_SmallLaser_1-Magna.Description.Manufacturer",
+    "content": "麦格纳"
+  },
+  {
+    "id": "Weapon_Laser_SmallLaser_2-Intek.Description.Details",
+    "content": "小型激光重量和发射低,伤害却非常优秀,但其射程却极为有限."
+  },
+  {
+    "id": "Weapon_Laser_SmallLaser_2-Intek.Description.UIName",
+    "content": "英泰克小型激光"
+  },
+  {
+    "id": "Weapon_Laser_SmallLaser_2-Intek.Description.Name",
+    "content": "英泰克小型激光"
+  },
+  {
+    "id": "Weapon_Laser_SmallLaser_2-Intek.Description.Manufacturer",
+    "content": "Intek"
+  },
+  {
+    "id": "Weapon_LRM_LRM10_0-STOCK.Description.Details",
+    "content": "远程导弹发射器(LRM)10安装在大多数单位上时起到了辅助火力作用,通过低热耗和弹药消耗来平衡相当低的伤害. 与所有LRM一样,LRM10能够在侦察单位帮助下越过障碍物和地形间瞄射击.LRM可以通过使用专用弹药承担多种角色.\n\n<b><color=#00ffff>左击射击模式可以切换到热负合模式(HL).HL导弹没有最低射程,但可能会失火,损坏发射器</color></b>"
+  },
+  {
+    "id": "Weapon_LRM_LRM10_0-STOCK.Description.UIName",
+    "content": "LRM10"
+  },
+  {
+    "id": "Weapon_LRM_LRM10_0-STOCK.Description.Name",
+    "content": "LRM10"
+  },
+  {
+    "id": "Weapon_LRM_LRM10_0-STOCK.Description.Manufacturer",
+    "content": "杰克逊"
+  },
+  {
+    "id": "Weapon_LRM_LRM10_0-STOCK.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_LRM_LRM10_0-STOCK.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_LRM_LRM10_1-Delta.Description.Details",
+    "content": "远程导弹发射器(LRM)10安装在大多数单位上时起到了辅助火力作用,通过低热耗和弹药消耗来平衡相当低的伤害. 与所有LRM一样,LRM10能够在侦察单位帮助下越过障碍物和地形间瞄射击.LRM可以通过使用专用弹药承担多种角色.\n\n<b><color=#00ffff>左击射击模式可以切换到热负合模式(HL).HL导弹没有最低射程,但可能会失火,损坏发射器</color></b>"
+  },
+  {
+    "id": "Weapon_LRM_LRM10_1-Delta.Description.UIName",
+    "content": "德耳塔LRM10"
+  },
+  {
+    "id": "Weapon_LRM_LRM10_1-Delta.Description.Name",
+    "content": "德耳塔LRM10"
+  },
+  {
+    "id": "Weapon_LRM_LRM10_1-Delta.Description.Manufacturer",
+    "content": "δ"
+  },
+  {
+    "id": "Weapon_LRM_LRM10_1-Delta.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_LRM_LRM10_1-Delta.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_LRM_LRM10_1-LongFire.Description.Details",
+    "content": "远程导弹发射器(LRM)10安装在大多数单位上时起到了辅助火力作用,通过低热耗和弹药消耗来平衡相当低的伤害. 与所有LRM一样,LRM10能够在侦察单位帮助下越过障碍物和地形间瞄射击.LRM可以通过使用专用弹药承担多种角色.\n\n<b><color=#00ffff>左击射击模式可以切换到热负合模式(HL).HL导弹没有最低射程,但可能会失火,损坏发射器</color></b>"
+  },
+  {
+    "id": "Weapon_LRM_LRM10_1-LongFire.Description.UIName",
+    "content": "远火LRM10"
+  },
+  {
+    "id": "Weapon_LRM_LRM10_1-LongFire.Description.Name",
+    "content": "远火LRM10"
+  },
+  {
+    "id": "Weapon_LRM_LRM10_1-LongFire.Description.Manufacturer",
+    "content": "长枪"
+  },
+  {
+    "id": "Weapon_LRM_LRM10_1-LongFire.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_LRM_LRM10_1-LongFire.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_LRM_LRM10_1-Telos.Description.Details",
+    "content": "远程导弹发射器(LRM)10安装在大多数单位上时起到了辅助火力作用,通过低热耗和弹药消耗来平衡相当低的伤害. 与所有LRM一样,LRM10能够在侦察单位帮助下越过障碍物和地形间瞄射击.LRM可以通过使用专用弹药承担多种角色.\n\n<b><color=#00ffff>左击射击模式可以切换到热负合模式(HL).HL导弹没有最低射程,但可能会失火,损坏发射器</color></b>"
+  },
+  {
+    "id": "Weapon_LRM_LRM10_1-Telos.Description.UIName",
+    "content": "泰洛斯LRM10"
+  },
+  {
+    "id": "Weapon_LRM_LRM10_1-Telos.Description.Name",
+    "content": "泰洛斯LRM10"
+  },
+  {
+    "id": "Weapon_LRM_LRM10_1-Telos.Description.Manufacturer",
+    "content": "Telos"
+  },
+  {
+    "id": "Weapon_LRM_LRM10_1-Telos.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_LRM_LRM10_1-Telos.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_LRM_LRM10_2-Zeus.Description.Details",
+    "content": "远程导弹发射器(LRM)10安装在大多数单位上时起到了辅助火力作用,通过低热耗和弹药消耗来平衡相当低的伤害. 与所有LRM一样,LRM10能够在侦察单位帮助下越过障碍物和地形间瞄射击.LRM可以通过使用专用弹药承担多种角色.\n\n<b><color=#00ffff>左击射击模式可以切换到热负合模式(HL).HL导弹没有最低射程,但可能会失火,损坏发射器</color></b>"
+  },
+  {
+    "id": "Weapon_LRM_LRM10_2-Zeus.Description.UIName",
+    "content": "宙斯LRM10"
+  },
+  {
+    "id": "Weapon_LRM_LRM10_2-Zeus.Description.Name",
+    "content": "宙斯LRM10"
+  },
+  {
+    "id": "Weapon_LRM_LRM10_2-Zeus.Description.Manufacturer",
+    "content": "Zeus"
+  },
+  {
+    "id": "Weapon_LRM_LRM10_2-Zeus.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_LRM_LRM10_2-Zeus.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_LRM_LRM15_0-STOCK.Description.Details",
+    "content": "LRM15远程导弹(LRM)架在远距射程上造成巨大的破坏和稳定性影响,通常成对出现在间接火力支援单位上. 与所有LRM一样,LRM15能够在侦察单位帮助下越过障碍物和地形间瞄射击.\n\n<b><color=#00ffff>左击射击模式可以切换到热负合模式(HL).HL导弹没有最低射程,但可能会失火,损坏发射器</color> </b>."
+  },
+  {
+    "id": "Weapon_LRM_LRM15_0-STOCK.Description.UIName",
+    "content": "LRM15"
+  },
+  {
+    "id": "Weapon_LRM_LRM15_0-STOCK.Description.Name",
+    "content": "LRM15"
+  },
+  {
+    "id": "Weapon_LRM_LRM15_0-STOCK.Description.Manufacturer",
+    "content": "Irian"
+  },
+  {
+    "id": "Weapon_LRM_LRM15_0-STOCK.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_LRM_LRM15_0-STOCK.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_LRM_LRM15_1-Delta.Description.Details",
+    "content": "LRM15远程导弹(LRM)架在远距射程上造成巨大的破坏和稳定性影响,通常成对出现在间接火力支援单位上. 与所有LRM一样,LRM15能够在侦察单位帮助下越过障碍物和地形间瞄射击.\n\n<b><color=#00ffff>左击射击模式可以切换到热负合模式(HL).HL导弹没有最低射程,但可能会失火,损坏发射器</color> </b>."
+  },
+  {
+    "id": "Weapon_LRM_LRM15_1-Delta.Description.UIName",
+    "content": "德耳塔LRM15"
+  },
+  {
+    "id": "Weapon_LRM_LRM15_1-Delta.Description.Name",
+    "content": "德耳塔LRM15"
+  },
+  {
+    "id": "Weapon_LRM_LRM15_1-Delta.Description.Manufacturer",
+    "content": "δ"
+  },
+  {
+    "id": "Weapon_LRM_LRM15_1-Delta.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_LRM_LRM15_1-Delta.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_LRM_LRM15_1-LongFire.Description.Details",
+    "content": "LRM15远程导弹(LRM)架在远距射程上造成巨大的破坏和稳定性影响,通常成对出现在间接火力支援单位上. 与所有LRM一样,LRM15能够在侦察单位帮助下越过障碍物和地形间瞄射击.\n\n<b><color=#00ffff>左击射击模式可以切换到热负合模式(HL).HL导弹没有最低射程,但可能会失火,损坏发射器</color> </b>."
+  },
+  {
+    "id": "Weapon_LRM_LRM15_1-LongFire.Description.UIName",
+    "content": "远火LRM15"
+  },
+  {
+    "id": "Weapon_LRM_LRM15_1-LongFire.Description.Name",
+    "content": "远火LRM15"
+  },
+  {
+    "id": "Weapon_LRM_LRM15_1-LongFire.Description.Manufacturer",
+    "content": "长枪"
+  },
+  {
+    "id": "Weapon_LRM_LRM15_1-LongFire.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_LRM_LRM15_1-LongFire.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_LRM_LRM15_1-Telos.Description.Details",
+    "content": "LRM15远程导弹(LRM)架在远距射程上造成巨大的破坏和稳定性影响,通常成对出现在间接火力支援单位上. 与所有LRM一样,LRM15能够在侦察单位帮助下越过障碍物和地形间瞄射击.\n\n<b><color=#00ffff>左击射击模式可以切换到热负合模式(HL).HL导弹没有最低射程,但可能会失火,损坏发射器</color> </b>."
+  },
+  {
+    "id": "Weapon_LRM_LRM15_1-Telos.Description.UIName",
+    "content": "泰洛斯LRM15"
+  },
+  {
+    "id": "Weapon_LRM_LRM15_1-Telos.Description.Name",
+    "content": "泰洛斯LRM15"
+  },
+  {
+    "id": "Weapon_LRM_LRM15_1-Telos.Description.Manufacturer",
+    "content": "Telos"
+  },
+  {
+    "id": "Weapon_LRM_LRM15_1-Telos.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_LRM_LRM15_1-Telos.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_LRM_LRM15_2-Zeus.Description.Details",
+    "content": "LRM15远程导弹(LRM)架在远距射程上造成巨大的破坏和稳定性影响,通常成对出现在间接火力支援单位上. 与所有LRM一样,LRM15能够在侦察单位帮助下越过障碍物和地形间瞄射击.\n\n<b><color=#00ffff>左击射击模式可以切换到热负合模式(HL).HL导弹没有最低射程,但可能会失火,损坏发射器</color> </b>."
+  },
+  {
+    "id": "Weapon_LRM_LRM15_2-Zeus.Description.UIName",
+    "content": "宙斯LRM15"
+  },
+  {
+    "id": "Weapon_LRM_LRM15_2-Zeus.Description.Name",
+    "content": "宙斯LRM15"
+  },
+  {
+    "id": "Weapon_LRM_LRM15_2-Zeus.Description.Manufacturer",
+    "content": "Zeus"
+  },
+  {
+    "id": "Weapon_LRM_LRM15_2-Zeus.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_LRM_LRM15_2-Zeus.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_LRM_LRM20_0-STOCK.Description.Details",
+    "content": "LRM20远程导弹(LRM)架通常作为较重单位的辅助武器,在适宜的射程可以造成相当大的伤害. 使用弹药一口口咬向目标. 与所有LRM一样,LRM20能够在侦察单位帮助下越过障碍物和地形间瞄射击.LRM可以通过使用专用弹药承担多种角色.\n\n<b><color=#00ffff>左击射击模式可以切换到热负合模式(HL).HL导弹没有最低射程,但可能会失火,损坏发射器</color> </b>."
+  },
+  {
+    "id": "Weapon_LRM_LRM20_0-STOCK.Description.UIName",
+    "content": "LRM20"
+  },
+  {
+    "id": "Weapon_LRM_LRM20_0-STOCK.Description.Name",
+    "content": "LRM20"
+  },
+  {
+    "id": "Weapon_LRM_LRM20_0-STOCK.Description.Manufacturer",
+    "content": "杰克逊"
+  },
+  {
+    "id": "Weapon_LRM_LRM20_0-STOCK.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_LRM_LRM20_0-STOCK.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_LRM_LRM20_1-Delta.Description.Details",
+    "content": "LRM20远程导弹(LRM)架通常作为较重单位的辅助武器,在适宜的射程可以造成相当大的伤害. 使用弹药一口口咬向目标. 与所有LRM一样,LRM20能够在侦察单位帮助下越过障碍物和地形间瞄射击.LRM可以通过使用专用弹药承担多种角色.\n\n<b><color=#00ffff>左击射击模式可以切换到热负合模式(HL).HL导弹没有最低射程,但可能会失火,损坏发射器</color> </b>."
+  },
+  {
+    "id": "Weapon_LRM_LRM20_1-Delta.Description.UIName",
+    "content": "德耳塔LRM20"
+  },
+  {
+    "id": "Weapon_LRM_LRM20_1-Delta.Description.Name",
+    "content": "德耳塔LRM20"
+  },
+  {
+    "id": "Weapon_LRM_LRM20_1-Delta.Description.Manufacturer",
+    "content": "δ"
+  },
+  {
+    "id": "Weapon_LRM_LRM20_1-Delta.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_LRM_LRM20_1-Delta.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_LRM_LRM20_1-LongFire.Description.Details",
+    "content": "LRM20远程导弹(LRM)架通常作为较重单位的辅助武器,在适宜的射程可以造成相当大的伤害. 使用弹药一口口咬向目标. 与所有LRM一样,LRM20能够在侦察单位帮助下越过障碍物和地形间瞄射击.LRM可以通过使用专用弹药承担多种角色.\n\n<b><color=#00ffff>左击射击模式可以切换到热负合模式(HL).HL导弹没有最低射程,但可能会失火,损坏发射器</color> </b>."
+  },
+  {
+    "id": "Weapon_LRM_LRM20_1-LongFire.Description.UIName",
+    "content": "远火LRM20"
+  },
+  {
+    "id": "Weapon_LRM_LRM20_1-LongFire.Description.Name",
+    "content": "远火LRM20"
+  },
+  {
+    "id": "Weapon_LRM_LRM20_1-LongFire.Description.Manufacturer",
+    "content": "长枪"
+  },
+  {
+    "id": "Weapon_LRM_LRM20_1-LongFire.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_LRM_LRM20_1-LongFire.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_LRM_LRM20_1-Telos.Description.Details",
+    "content": "LRM20远程导弹(LRM)架通常作为较重单位的辅助武器,在适宜的射程可以造成相当大的伤害. 使用弹药一口口咬向目标. 与所有LRM一样,LRM20能够在侦察单位帮助下越过障碍物和地形间瞄射击.LRM可以通过使用专用弹药承担多种角色.\n\n<b><color=#00ffff>左击射击模式可以切换到热负合模式(HL).HL导弹没有最低射程,但可能会失火,损坏发射器</color> </b>."
+  },
+  {
+    "id": "Weapon_LRM_LRM20_1-Telos.Description.UIName",
+    "content": "泰洛斯LRM20"
+  },
+  {
+    "id": "Weapon_LRM_LRM20_1-Telos.Description.Name",
+    "content": "泰洛斯LRM20"
+  },
+  {
+    "id": "Weapon_LRM_LRM20_1-Telos.Description.Manufacturer",
+    "content": "Telos"
+  },
+  {
+    "id": "Weapon_LRM_LRM20_1-Telos.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_LRM_LRM20_1-Telos.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_LRM_LRM20_2-Zeus.Description.Details",
+    "content": "LRM20远程导弹(LRM)架通常作为较重单位的辅助武器,在适宜的射程可以造成相当大的伤害. 使用弹药一口口咬向目标. 与所有LRM一样,LRM20能够在侦察单位帮助下越过障碍物和地形间瞄射击.LRM可以通过使用专用弹药承担多种角色.\n\n<b><color=#00ffff>左击射击模式可以切换到热负合模式(HL).HL导弹没有最低射程,但可能会失火,损坏发射器</color> </b>."
+  },
+  {
+    "id": "Weapon_LRM_LRM20_2-Zeus.Description.UIName",
+    "content": "宙斯LRM20"
+  },
+  {
+    "id": "Weapon_LRM_LRM20_2-Zeus.Description.Name",
+    "content": "宙斯LRM20"
+  },
+  {
+    "id": "Weapon_LRM_LRM20_2-Zeus.Description.Manufacturer",
+    "content": "Zeus"
+  },
+  {
+    "id": "Weapon_LRM_LRM20_2-Zeus.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_LRM_LRM20_2-Zeus.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_LRM_LRM5_0-STOCK.Description.Details",
+    "content": "LRM是远程导弹中最小的一种,效率很高,往往用作骚扰武器. 与所有LRM一样,LRM5能够在侦察单位帮助下越过障碍物和地形间瞄射击.LRM可以通过使用专用弹药承担多种角色.\n\n<b><color=#00ffff>左击射击模式可以切换到热负合模式(HL).HL导弹没有最低射程,但可能会失火,损坏发射器</color></b>."
+  },
+  {
+    "id": "Weapon_LRM_LRM5_0-STOCK.Description.UIName",
+    "content": "LRM5"
+  },
+  {
+    "id": "Weapon_LRM_LRM5_0-STOCK.Description.Name",
+    "content": "LRM5"
+  },
+  {
+    "id": "Weapon_LRM_LRM5_0-STOCK.Description.Manufacturer",
+    "content": "Irian"
+  },
+  {
+    "id": "Weapon_LRM_LRM5_0-STOCK.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_LRM_LRM5_0-STOCK.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_LRM_LRM5_1-Delta.Description.Details",
+    "content": "LRM是远程导弹中最小的一种,效率很高,往往用作骚扰武器. 与所有LRM一样,LRM5能够在侦察单位帮助下越过障碍物和地形间瞄射击.LRM可以通过使用专用弹药承担多种角色.\n\n<b><color=#00ffff>左击射击模式可以切换到热负合模式(HL).HL导弹没有最低射程,但可能会失火,损坏发射器</color></b>."
+  },
+  {
+    "id": "Weapon_LRM_LRM5_1-Delta.Description.UIName",
+    "content": "德耳塔LRM5"
+  },
+  {
+    "id": "Weapon_LRM_LRM5_1-Delta.Description.Name",
+    "content": "德耳塔LRM5"
+  },
+  {
+    "id": "Weapon_LRM_LRM5_1-Delta.Description.Manufacturer",
+    "content": "δ"
+  },
+  {
+    "id": "Weapon_LRM_LRM5_1-Delta.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_LRM_LRM5_1-Delta.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_LRM_LRM5_1-LongFire.Description.Details",
+    "content": "LRM是远程导弹中最小的一种,效率很高,往往用作骚扰武器. 与所有LRM一样,LRM5能够在侦察单位帮助下越过障碍物和地形间瞄射击.LRM可以通过使用专用弹药承担多种角色.\n\n<b><color=#00ffff>左击射击模式可以切换到热负合模式(HL).HL导弹没有最低射程,但可能会失火,损坏发射器</color></b>."
+  },
+  {
+    "id": "Weapon_LRM_LRM5_1-LongFire.Description.UIName",
+    "content": "远火LRM5"
+  },
+  {
+    "id": "Weapon_LRM_LRM5_1-LongFire.Description.Name",
+    "content": "远火LRM5"
+  },
+  {
+    "id": "Weapon_LRM_LRM5_1-LongFire.Description.Manufacturer",
+    "content": "长枪"
+  },
+  {
+    "id": "Weapon_LRM_LRM5_1-LongFire.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_LRM_LRM5_1-LongFire.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_LRM_LRM5_1-Telos.Description.Details",
+    "content": "LRM是远程导弹中最小的一种,效率很高,往往用作骚扰武器. 与所有LRM一样,LRM5能够在侦察单位帮助下越过障碍物和地形间瞄射击.LRM可以通过使用专用弹药承担多种角色.\n\n<b><color=#00ffff>左击射击模式可以切换到热负合模式(HL).HL导弹没有最低射程,但可能会失火,损坏发射器</color></b>."
+  },
+  {
+    "id": "Weapon_LRM_LRM5_1-Telos.Description.UIName",
+    "content": "泰洛斯LRM5"
+  },
+  {
+    "id": "Weapon_LRM_LRM5_1-Telos.Description.Name",
+    "content": "泰洛斯LRM5"
+  },
+  {
+    "id": "Weapon_LRM_LRM5_1-Telos.Description.Manufacturer",
+    "content": "Telos"
+  },
+  {
+    "id": "Weapon_LRM_LRM5_1-Telos.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_LRM_LRM5_1-Telos.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_LRM_LRM5_2-Zeus.Description.Details",
+    "content": "LRM是远程导弹中最小的一种,效率很高,往往用作骚扰武器. 与所有LRM一样,LRM5能够在侦察单位帮助下越过障碍物和地形间瞄射击.LRM可以通过使用专用弹药承担多种角色.\n\n<b><color=#00ffff>左击射击模式可以切换到热负合模式(HL).HL导弹没有最低射程,但可能会失火,损坏发射器</color></b>."
+  },
+  {
+    "id": "Weapon_LRM_LRM5_2-Zeus.Description.UIName",
+    "content": "宙斯LRM5"
+  },
+  {
+    "id": "Weapon_LRM_LRM5_2-Zeus.Description.Name",
+    "content": "宙斯LRM5"
+  },
+  {
+    "id": "Weapon_LRM_LRM5_2-Zeus.Description.Manufacturer",
+    "content": "Zeus"
+  },
+  {
+    "id": "Weapon_LRM_LRM5_2-Zeus.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_LRM_LRM5_2-Zeus.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_MachineGun_MachineGun_0-STOCK.Description.Details",
+    "content": "机枪造成的伤害非常低,射程非常有限,并且依赖于不稳定的弹药. 然而,当他们撞击已剥去装甲的目标时,造成严重损伤的机率大大增加.\n\n<b><color=#ffcc00>使用机枪弹药</color></b>. "
+  },
+  {
+    "id": "Weapon_MachineGun_MachineGun_0-STOCK.Description.UIName",
+    "content": "机枪"
+  },
+  {
+    "id": "Weapon_MachineGun_MachineGun_0-STOCK.Description.Name",
+    "content": "机枪"
+  },
+  {
+    "id": "Weapon_MachineGun_MachineGun_0-STOCK.Description.Manufacturer",
+    "content": "斯佩里·勃朗宁"
+  },
+  {
+    "id": "Weapon_PPC_PPCER_0-STOCK.Description.Details",
+    "content": "作为对标准PPC的改进,增程PPC以难以置信的发热为代价,极大的拓展了其有效射程. 增程PPC还产生了轻微的电磁场,降低了其攻击目标的瞄准能力."
+  },
+  {
+    "id": "Weapon_PPC_PPCER_0-STOCK.Description.UIName",
+    "content": "增程粒子炮"
+  },
+  {
+    "id": "Weapon_PPC_PPCER_0-STOCK.Description.Name",
+    "content": "增程粒子炮"
+  },
+  {
+    "id": "Weapon_PPC_PPCER_0-STOCK.Description.Manufacturer",
+    "content": "孔星际"
+  },
+  {
+    "id": "Weapon_PPC_PPCER_0-STOCK.AbilityDefPPC.statusEffects0.Details",
+    "content": "电磁干扰降低传感器效率."
+  },
+  {
+    "id": "Weapon_PPC_PPCER_0-STOCK.AAAFactor.statusEffects1.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_PPC_PPCER_0-STOCK.AbilityDefPPC.statusEffects0.Name",
+    "content": "传感器削弱"
+  },
+  {
+    "id": "Weapon_PPC_PPCER_0-STOCK.AAAFactor.statusEffects1.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_PPC_PPCER_1-MagnaFirestar.Description.Details",
+    "content": "作为对标准PPC的改进,增程PPC以难以置信的发热为代价,极大的拓展了其有效射程. 增程PPC还产生了轻微的电磁场,降低了其攻击目标的瞄准能力."
+  },
+  {
+    "id": "Weapon_PPC_PPCER_1-MagnaFirestar.Description.UIName",
+    "content": "麦格纳增程粒子炮"
+  },
+  {
+    "id": "Weapon_PPC_PPCER_1-MagnaFirestar.Description.Name",
+    "content": "麦格纳增程粒子炮"
+  },
+  {
+    "id": "Weapon_PPC_PPCER_1-MagnaFirestar.Description.Manufacturer",
+    "content": "麦格纳"
+  },
+  {
+    "id": "Weapon_PPC_PPCER_1-MagnaFirestar.AbilityDefPPC.statusEffects0.Details",
+    "content": "电磁干扰降低传感器效率."
+  },
+  {
+    "id": "Weapon_PPC_PPCER_1-MagnaFirestar.AAAFactor.statusEffects1.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_PPC_PPCER_1-MagnaFirestar.AbilityDefPPC.statusEffects0.Name",
+    "content": "传感器削弱"
+  },
+  {
+    "id": "Weapon_PPC_PPCER_1-MagnaFirestar.AAAFactor.statusEffects1.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_PPC_PPCER_2-TiegartMagnum.Description.Details",
+    "content": "作为对标准PPC的改进,增程PPC以难以置信的发热为代价,极大的拓展了其有效射程. 增程PPC还产生了轻微的电磁场,降低了其攻击目标的瞄准能力."
+  },
+  {
+    "id": "Weapon_PPC_PPCER_2-TiegartMagnum.Description.UIName",
+    "content": "蒂加特增程粒子炮"
+  },
+  {
+    "id": "Weapon_PPC_PPCER_2-TiegartMagnum.Description.Name",
+    "content": "蒂加特增程粒子炮"
+  },
+  {
+    "id": "Weapon_PPC_PPCER_2-TiegartMagnum.Description.Manufacturer",
+    "content": "Tiegart"
+  },
+  {
+    "id": "Weapon_PPC_PPCER_2-TiegartMagnum.AbilityDefPPC.statusEffects0.Details",
+    "content": "电磁干扰降低传感器效率."
+  },
+  {
+    "id": "Weapon_PPC_PPCER_2-TiegartMagnum.AAAFactor.statusEffects1.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_PPC_PPCER_2-TiegartMagnum.AbilityDefPPC.statusEffects0.Name",
+    "content": "传感器削弱"
+  },
+  {
+    "id": "Weapon_PPC_PPCER_2-TiegartMagnum.AAAFactor.statusEffects1.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_PPC_PPC_0-STOCK.Description.Details",
+    "content": "粒子投射炮(PPC)向目标发射通电电流,对目标造成巨大破坏和稳定影响. 然而,这伴随着强烈的发热和笨重的体积重量. PPC还会产生轻微的电磁场,降低其目标的瞄准能力.\n\n<b><color=#00ffff>在战斗中左键点击以切换到场抑制器关闭(FIOFF)模式,没有最低射程惩罚,但可能失火</color></b>."
+  },
+  {
+    "id": "Weapon_PPC_PPC_0-STOCK.Description.UIName",
+    "content": "粒子炮"
+  },
+  {
+    "id": "Weapon_PPC_PPC_0-STOCK.Description.Name",
+    "content": "粒子炮"
+  },
+  {
+    "id": "Weapon_PPC_PPC_0-STOCK.Description.Manufacturer",
+    "content": "麦格纳"
+  },
+  {
+    "id": "Weapon_PPC_PPC_0-STOCK.AbilityDefPPC.statusEffects0.Details",
+    "content": "电磁干扰降低传感器效率."
+  },
+  {
+    "id": "Weapon_PPC_PPC_0-STOCK.AAAFactor.statusEffects1.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_PPC_PPC_0-STOCK.AbilityDefPPC.statusEffects0.Name",
+    "content": "传感器削弱"
+  },
+  {
+    "id": "Weapon_PPC_PPC_0-STOCK.AAAFactor.statusEffects1.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_PPC_PPC_1-Ceres_Arms.Description.Details",
+    "content": "粒子投射炮(PPC)向目标发射通电电流,对目标造成巨大破坏和稳定影响. 然而,这伴随着强烈的发热和笨重的体积重量. PPC还会产生轻微的电磁场,降低其目标的瞄准能力.\n\n<b><color=#00ffff>在战斗中左键点击以切换到场抑制器关闭(FIOFF)模式,没有最低射程惩罚,但可能失火</color></b>."
+  },
+  {
+    "id": "Weapon_PPC_PPC_1-Ceres_Arms.Description.UIName",
+    "content": "谷神(Ceres)粉碎者PPC"
+  },
+  {
+    "id": "Weapon_PPC_PPC_1-Ceres_Arms.Description.Name",
+    "content": "谷神(Ceres)武装PPC"
+  },
+  {
+    "id": "Weapon_PPC_PPC_1-Ceres_Arms.Description.Manufacturer",
+    "content": "谷神星武装"
+  },
+  {
+    "id": "Weapon_PPC_PPC_1-Ceres_Arms.AbilityDefPPC.statusEffects0.Details",
+    "content": "电磁干扰降低传感器效率."
+  },
+  {
+    "id": "Weapon_PPC_PPC_1-Ceres_Arms.AAAFactor.statusEffects1.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_PPC_PPC_1-Ceres_Arms.AbilityDefPPC.statusEffects0.Name",
+    "content": "传感器削弱"
+  },
+  {
+    "id": "Weapon_PPC_PPC_1-Ceres_Arms.AAAFactor.statusEffects1.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_PPC_PPC_1-Donal.Description.Details",
+    "content": "粒子投射炮(PPC)向目标发射通电电流,对目标造成巨大破坏和稳定影响. 然而,这伴随着强烈的发热和笨重的体积重量. PPC还会产生轻微的电磁场,降低其目标的瞄准能力.\n\n<b><color=#00ffff>在战斗中左键点击以切换到场抑制器关闭(FIOFF)模式,没有最低射程惩罚,但可能失火</color></b>."
+  },
+  {
+    "id": "Weapon_PPC_PPC_1-Donal.Description.UIName",
+    "content": "多纳尔PPC"
+  },
+  {
+    "id": "Weapon_PPC_PPC_1-Donal.Description.Name",
+    "content": "多纳尔PPC"
+  },
+  {
+    "id": "Weapon_PPC_PPC_1-Donal.Description.Manufacturer",
+    "content": "多纳尔"
+  },
+  {
+    "id": "Weapon_PPC_PPC_1-Donal.AbilityDefPPC.statusEffects0.Details",
+    "content": "电磁干扰降低传感器效率."
+  },
+  {
+    "id": "Weapon_PPC_PPC_1-Donal.AAAFactor.statusEffects1.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_PPC_PPC_1-Donal.AbilityDefPPC.statusEffects0.Name",
+    "content": "传感器削弱"
+  },
+  {
+    "id": "Weapon_PPC_PPC_1-Donal.AAAFactor.statusEffects1.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_PPC_PPC_1-Tiegart.Description.Details",
+    "content": "粒子投射炮(PPC)向目标发射通电电流,对目标造成巨大破坏和稳定影响. 然而,这伴随着强烈的发热和笨重的体积重量. PPC还会产生轻微的电磁场,降低其目标的瞄准能力.\n\n<b><color=#00ffff>在战斗中左键点击以切换到场抑制器关闭(FIOFF)模式,没有最低射程惩罚,但可能失火</color></b>."
+  },
+  {
+    "id": "Weapon_PPC_PPC_1-Tiegart.Description.UIName",
+    "content": "蒂加特PPC"
+  },
+  {
+    "id": "Weapon_PPC_PPC_1-Tiegart.Description.Name",
+    "content": "蒂加特PPC"
+  },
+  {
+    "id": "Weapon_PPC_PPC_1-Tiegart.Description.Manufacturer",
+    "content": "Tiegart"
+  },
+  {
+    "id": "Weapon_PPC_PPC_1-Tiegart.AbilityDefPPC.statusEffects0.Details",
+    "content": "电磁干扰降低传感器效率."
+  },
+  {
+    "id": "Weapon_PPC_PPC_1-Tiegart.AAAFactor.statusEffects1.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_PPC_PPC_1-Tiegart.AbilityDefPPC.statusEffects0.Name",
+    "content": "传感器削弱"
+  },
+  {
+    "id": "Weapon_PPC_PPC_1-Tiegart.AAAFactor.statusEffects1.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_PPC_PPC_3-Defiance.Description.Details",
+    "content": "粒子投射炮(PPC)向目标发射通电电流,对目标造成巨大破坏和稳定影响. 然而,这伴随着强烈的发热和笨重的体积重量. PPC还会产生轻微的电磁场,降低其目标的瞄准能力.\n\n<b><color=#00ffff>在战斗中左键点击以切换到场抑制器关闭(FIOFF)模式,没有最低射程惩罚,但可能失火</color></b>."
+  },
+  {
+    "id": "Weapon_PPC_PPC_3-Defiance.Description.UIName",
+    "content": "反抗军PPC"
+  },
+  {
+    "id": "Weapon_PPC_PPC_3-Defiance.Description.Name",
+    "content": "反抗军PPC"
+  },
+  {
+    "id": "Weapon_PPC_PPC_3-Defiance.Description.Manufacturer",
+    "content": "反抗军"
+  },
+  {
+    "id": "Weapon_PPC_PPC_3-Defiance.AbilityDefPPC.statusEffects0.Details",
+    "content": "电磁干扰降低传感器效率."
+  },
+  {
+    "id": "Weapon_PPC_PPC_3-Defiance.AAAFactor.statusEffects1.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_PPC_PPC_3-Defiance.AbilityDefPPC.statusEffects0.Name",
+    "content": "传感器削弱"
+  },
+  {
+    "id": "Weapon_PPC_PPC_3-Defiance.AAAFactor.statusEffects1.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_SRM_SRM2_0-STOCK.Description.Details",
+    "content": "SRM2是一种小型的短程导弹发射器,造成伤害很小,但在重量、空间、热量或弹药消耗方面几乎不需要任何成本. 与其他武器相比,所有SRM2射击的命中率高于平均水平."
+  },
+  {
+    "id": "Weapon_SRM_SRM2_0-STOCK.Description.UIName",
+    "content": "SRM2"
+  },
+  {
+    "id": "Weapon_SRM_SRM2_0-STOCK.Description.Name",
+    "content": "SRM2"
+  },
+  {
+    "id": "Weapon_SRM_SRM2_0-STOCK.Description.Manufacturer",
+    "content": "Holly"
+  },
+  {
+    "id": "Weapon_SRM_SRM2_1-Holly.Description.Details",
+    "content": "SRM2是一种小型的短程导弹发射器,造成伤害很小,但在重量、空间、热量或弹药消耗方面几乎不需要任何成本. 与其他武器相比,所有SRM2射击的命中率高于平均水平."
+  },
+  {
+    "id": "Weapon_SRM_SRM2_1-Holly.Description.UIName",
+    "content": "冬青SRM2"
+  },
+  {
+    "id": "Weapon_SRM_SRM2_1-Holly.Description.Name",
+    "content": "冬青SRM2"
+  },
+  {
+    "id": "Weapon_SRM_SRM2_1-Holly.Description.Manufacturer",
+    "content": "Holly"
+  },
+  {
+    "id": "Weapon_SRM_SRM2_1-Irian.Description.Details",
+    "content": "SRM2是一种小型的短程导弹发射器,造成伤害很小,但在重量、空间、热量或弹药消耗方面几乎不需要任何成本. 与其他武器相比,所有SRM2射击的命中率高于平均水平."
+  },
+  {
+    "id": "Weapon_SRM_SRM2_1-Irian.Description.UIName",
+    "content": "伊里安SRM2"
+  },
+  {
+    "id": "Weapon_SRM_SRM2_1-Irian.Description.Name",
+    "content": "伊里安SRM2"
+  },
+  {
+    "id": "Weapon_SRM_SRM2_1-Irian.Description.Manufacturer",
+    "content": "Irian"
+  },
+  {
+    "id": "Weapon_SRM_SRM2_2-Valiant.Description.Details",
+    "content": "SRM2是一种小型的短程导弹发射器,造成伤害很小,但在重量、空间、热量或弹药消耗方面几乎不需要任何成本. 与其他武器相比,所有SRM2射击的命中率高于平均水平."
+  },
+  {
+    "id": "Weapon_SRM_SRM2_2-Valiant.Description.UIName",
+    "content": "勇者SRM2"
+  },
+  {
+    "id": "Weapon_SRM_SRM2_2-Valiant.Description.Name",
+    "content": "勇者SRM2"
+  },
+  {
+    "id": "Weapon_SRM_SRM2_2-Valiant.Description.Manufacturer",
+    "content": "Valiant"
+  },
+  {
+    "id": "Weapon_SRM_SRM4_0-STOCK.Description.Details",
+    "content": "作为近程导弹的中型发射器,SRM4除了其固有的近程和对弹药的需求外,其受到的负面影响较少. 与其他武器相比,所有SRM4射击的命中率高于平均水平."
+  },
+  {
+    "id": "Weapon_SRM_SRM4_0-STOCK.Description.UIName",
+    "content": "SRM4"
+  },
+  {
+    "id": "Weapon_SRM_SRM4_0-STOCK.Description.Name",
+    "content": "SRM4"
+  },
+  {
+    "id": "Weapon_SRM_SRM4_0-STOCK.Description.Manufacturer",
+    "content": "塔尔赫斯"
+  },
+  {
+    "id": "Weapon_SRM_SRM4_1-Holly.Description.Details",
+    "content": "作为近程导弹的中型发射器,SRM4除了其固有的近程和对弹药的需求外,其受到的负面影响较少. 与其他武器相比,所有SRM4射击的命中率高于平均水平."
+  },
+  {
+    "id": "Weapon_SRM_SRM4_1-Holly.Description.UIName",
+    "content": "冬青SRM4"
+  },
+  {
+    "id": "Weapon_SRM_SRM4_1-Holly.Description.Name",
+    "content": "冬青SRM4"
+  },
+  {
+    "id": "Weapon_SRM_SRM4_1-Holly.Description.Manufacturer",
+    "content": "Holly"
+  },
+  {
+    "id": "Weapon_SRM_SRM4_1-Irian.Description.Details",
+    "content": "作为近程导弹的中型发射器,SRM4除了其固有的近程和对弹药的需求外,其受到的负面影响较少. 与其他武器相比,所有SRM4射击的命中率高于平均水平."
+  },
+  {
+    "id": "Weapon_SRM_SRM4_1-Irian.Description.UIName",
+    "content": "伊里安SRM4"
+  },
+  {
+    "id": "Weapon_SRM_SRM4_1-Irian.Description.Name",
+    "content": "伊里安SRM4"
+  },
+  {
+    "id": "Weapon_SRM_SRM4_1-Irian.Description.Manufacturer",
+    "content": "Irian"
+  },
+  {
+    "id": "Weapon_SRM_SRM4_2-Valiant.Description.Details",
+    "content": "作为近程导弹的中型发射器,SRM4除了其固有的近程和对弹药的需求外,其受到的负面影响较少. 与其他武器相比,所有SRM4射击的命中率高于平均水平."
+  },
+  {
+    "id": "Weapon_SRM_SRM4_2-Valiant.Description.UIName",
+    "content": "勇者SRM4"
+  },
+  {
+    "id": "Weapon_SRM_SRM4_2-Valiant.Description.Name",
+    "content": "勇者SRM4"
+  },
+  {
+    "id": "Weapon_SRM_SRM4_2-Valiant.Description.Manufacturer",
+    "content": "Valiant"
+  },
+  {
+    "id": "Weapon_SRM_SRM6_0-STOCK.Description.Details",
+    "content": "SRM6是目前可用的最大型短程导弹发射器,具有相当大的威力,同时重量轻. 与其他武器相比,所有SRM6射击的命中率高于平均水平."
+  },
+  {
+    "id": "Weapon_SRM_SRM6_0-STOCK.Description.UIName",
+    "content": "SRM6"
+  },
+  {
+    "id": "Weapon_SRM_SRM6_0-STOCK.Description.Name",
+    "content": "SRM6"
+  },
+  {
+    "id": "Weapon_SRM_SRM6_0-STOCK.Description.Manufacturer",
+    "content": "塔尔赫斯"
+  },
+  {
+    "id": "Weapon_SRM_SRM6_1-Holly.Description.Details",
+    "content": "SRM6是目前可用的最大型短程导弹发射器,具有相当大的威力,同时重量轻. 与其他武器相比,所有SRM6射击的命中率高于平均水平."
+  },
+  {
+    "id": "Weapon_SRM_SRM6_1-Holly.Description.UIName",
+    "content": "冬青SRM6"
+  },
+  {
+    "id": "Weapon_SRM_SRM6_1-Holly.Description.Name",
+    "content": "冬青SRM6"
+  },
+  {
+    "id": "Weapon_SRM_SRM6_1-Holly.Description.Manufacturer",
+    "content": "Holly"
+  },
+  {
+    "id": "Weapon_SRM_SRM6_1-Irian.Description.Details",
+    "content": "SRM6是目前可用的最大型短程导弹发射器,具有相当大的威力,同时重量轻. 与其他武器相比,所有SRM6射击的命中率高于平均水平."
+  },
+  {
+    "id": "Weapon_SRM_SRM6_1-Irian.Description.UIName",
+    "content": "伊里安SRM6"
+  },
+  {
+    "id": "Weapon_SRM_SRM6_1-Irian.Description.Name",
+    "content": "伊里安SRM6"
+  },
+  {
+    "id": "Weapon_SRM_SRM6_1-Irian.Description.Manufacturer",
+    "content": "Irian"
+  },
+  {
+    "id": "Weapon_SRM_SRM6_2-Valiant.Description.Details",
+    "content": "SRM6是目前可用的最大型短程导弹发射器,具有相当大的威力,同时重量轻. 与其他武器相比,所有SRM6射击的命中率高于平均水平."
+  },
+  {
+    "id": "Weapon_SRM_SRM6_2-Valiant.Description.UIName",
+    "content": "勇者SRM6"
+  },
+  {
+    "id": "Weapon_SRM_SRM6_2-Valiant.Description.Name",
+    "content": "勇者SRM6"
+  },
+  {
+    "id": "Weapon_SRM_SRM6_2-Valiant.Description.Manufacturer",
+    "content": "Valiant"
+  }
+]

@@ -1,0 +1,3158 @@
+[
+  {
+    "id": "default_armorslots_clanferrolamellor.Description.Details",
+    "content": "纹层钢被雪鸦氏族的科学家创造,以雪鸦氏族战舰上的碳化钢装甲为技术基础.按比例缩小,以便可以在机甲、空天战斗机和坦克上使用,实验性纹层钢改进了防护,性能甚至超越了纤维钢装甲.<b><color=#00ff00>启用CASE</color></b>"
+  },
+  {
+    "id": "default_armorslots_clanferrolamellor.Description.UIName",
+    "content": "纹层钢装甲(C)"
+  },
+  {
+    "id": "default_armorslots_clanferrolamellor.Description.Name",
+    "content": "纹层钢装甲(C)"
+  },
+  {
+    "id": "default_armorslots_clanferrolamellor.Description.Manufacturer",
+    "content": "雪鸦氏族"
+  },
+  {
+    "id": "default_armorslots_clanferrolamellor.StatusEffect-CFL.statusEffects0.Details",
+    "content": "-20%即将受到的伤害."
+  },
+  {
+    "id": "default_armorslots_clanferrolamellor.HardenedCritImmune.statusEffects1.Details",
+    "content": "更快的速度."
+  },
+  {
+    "id": "default_armorslots_clanferrolamellor.StatusEffect-CFL.statusEffects0.Name",
+    "content": "降低受到的伤害"
+  },
+  {
+    "id": "default_armorslots_clanferrolamellor.HardenedCritImmune.statusEffects1.Name",
+    "content": "冲刺撞击"
+  },
+  {
+    "id": "default_armorslots_clanferrosfibrous.Description.Details",
+    "content": "氏族纤维钢(cFF)装甲是车辆和战斗机甲使用的特殊类型装甲.使用钢、钛合金和碳纳米管纤维编织而成,提高了装甲板的强度,同等重量下比标准装甲提供了更多的防护,但是占用机甲和车辆的空间也更多.<b><color=#00ff00>启用CASE</color></b>"
+  },
+  {
+    "id": "default_armorslots_clanferrosfibrous.Description.UIName",
+    "content": "纤维钢装甲(C)"
+  },
+  {
+    "id": "default_armorslots_clanferrosfibrous.Description.Name",
+    "content": "纤维钢装甲(C)"
+  },
+  {
+    "id": "default_armorslots_clanferrosfibrous.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "default_armor_industrial.Description.Details",
+    "content": "虽然功能上和标准战斗机甲的装甲类似,但重型工业装甲经过专门加强,以便机甲可以安全的获得三倍强化人工肌肉(TSM)的增强."
+  },
+  {
+    "id": "default_armor_industrial.Description.UIName",
+    "content": "重型工业装甲"
+  },
+  {
+    "id": "default_armor_industrial.Description.Name",
+    "content": "重型工业装甲"
+  },
+  {
+    "id": "default_armor_industrial.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "default_armor_industrial_superheavy.Description.Details",
+    "content": "虽然功能上和标准战斗机甲的装甲类似,但重型工业装甲经过专门加强,以便机甲可以安全的获得三倍强化人工肌肉(TSM)的增强."
+  },
+  {
+    "id": "default_armor_industrial_superheavy.Description.UIName",
+    "content": "超重型工业装甲"
+  },
+  {
+    "id": "default_armor_industrial_superheavy.Description.Name",
+    "content": "重型工业装甲"
+  },
+  {
+    "id": "default_armor_industrial_superheavy.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "default_structureslots_clanendosteel.Description.Details",
+    "content": "由人类霸权于2487年开发,并在氏族出走后得到改进,氏族内构钢是专门作为战斗机甲骨架设计的.在零重力技术下将高密度钢和低密度的铝和钛均匀混合,单位重量下强度是标准骨架材料的两倍,以使地盘重量减半,但体积增加了.\r\n\r\n占用<b>7</b>内构钢槽位,以使你内部结构的重量<b>减半</b>."
+  },
+  {
+    "id": "default_structureslots_clanendosteel.Description.UIName",
+    "content": "内构钢结构(C)"
+  },
+  {
+    "id": "default_structureslots_clanendosteel.Description.Name",
+    "content": "内构钢结构(C)"
+  },
+  {
+    "id": "default_structureslots_clanendosteel.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "emod_armorslots_clstandard.Description.Details",
+    "content": "和标准战斗机甲装甲几乎完全一样,但氏族装甲采用了C.A.S.E.技术.<b><color=#00ff00>启用CASE</color></b>"
+  },
+  {
+    "id": "emod_armorslots_clstandard.Description.UIName",
+    "content": "标准装甲(C)"
+  },
+  {
+    "id": "emod_armorslots_clstandard.Description.Name",
+    "content": "标准装甲(C)"
+  },
+  {
+    "id": "emod_armorslots_clstandard.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "emod_armorslots_standard.Description.Details",
+    "content": "标准战斗机甲装甲有多层材料组成,以为不同类型场景提供保护和支持.第一层是经过晶体重排和辐射处理的极硬钛合金,但也非常脆.第二层是陶瓷立方氮化硼和人造碳纳米管的结合,以支撑上面的钢层.这两层之下是用于提供支撑的钛合金蜂窝结构和一层使机甲能安全的在真空和水下操作的聚合物自密封剂."
+  },
+  {
+    "id": "emod_armorslots_standard.Description.UIName",
+    "content": "标准装甲"
+  },
+  {
+    "id": "emod_armorslots_standard.Description.Name",
+    "content": "标准装甲"
+  },
+  {
+    "id": "emod_armorslots_standard.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "emod_arm_part_hand.Description.Details",
+    "content": "伺服机构是战斗装甲肢体的一个组件,由关节、人工肌肉纤维和肌肉运动控制单元组成."
+  },
+  {
+    "id": "emod_arm_part_hand.Description.UIName",
+    "content": "标准手部机构"
+  },
+  {
+    "id": "emod_arm_part_hand.Description.Name",
+    "content": "标准手部机构"
+  },
+  {
+    "id": "emod_arm_part_hand.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "emod_arm_part_hand.ActuatorStandUp.statusEffects0.Details",
+    "content": "伺服机构提高了站立的机会"
+  },
+  {
+    "id": "emod_arm_part_hand.ActuatorStandUp.statusEffects0.Name",
+    "content": "完整的机构"
+  },
+  {
+    "id": "emod_arm_part_lower.Description.Details",
+    "content": "伺服机构是战斗装甲肢体的一个组件,由关节、人工肌肉纤维和肌肉运动控制单元组成."
+  },
+  {
+    "id": "emod_arm_part_lower.Description.UIName",
+    "content": "标准小臂机构"
+  },
+  {
+    "id": "emod_arm_part_lower.Description.Name",
+    "content": "小臂机构"
+  },
+  {
+    "id": "emod_arm_part_lower.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "emod_arm_part_lower.Punch_Damage_Base.statusEffects0.Details",
+    "content": "伤害修正"
+  },
+  {
+    "id": "emod_arm_part_lower.Punch_Damage_Base.statusEffects1.Details",
+    "content": "伤害修正"
+  },
+  {
+    "id": "emod_arm_part_lower.Hand_MeleeAttacks_Punch.statusEffects2.Details",
+    "content": "近战武器精度修正"
+  },
+  {
+    "id": "emod_arm_part_lower.ActuatorStandUp.statusEffects3.Details",
+    "content": "伺服机构提高了站立的机会"
+  },
+  {
+    "id": "emod_arm_part_lower.Status-LowerAccuracy-{location}.statusEffects4.Details",
+    "content": "+1臂装精度"
+  },
+  {
+    "id": "emod_arm_part_lower.Punch_Damage_Base.statusEffects0.Name",
+    "content": "基础击打伤害"
+  },
+  {
+    "id": "emod_arm_part_lower.Punch_Damage_Base.statusEffects1.Name",
+    "content": "基础击打伤害"
+  },
+  {
+    "id": "emod_arm_part_lower.Hand_MeleeAttacks_Punch.statusEffects2.Name",
+    "content": "近战武器精度修正"
+  },
+  {
+    "id": "emod_arm_part_lower.ActuatorStandUp.statusEffects3.Name",
+    "content": "完整的机构"
+  },
+  {
+    "id": "emod_arm_part_lower.Status-LowerAccuracy-{location}.statusEffects4.Name",
+    "content": "小臂精度"
+  },
+  {
+    "id": "emod_arm_part_shoulder.Description.Details",
+    "content": "伺服机构是战斗装甲肢体的一个组件,由关节、人工肌肉纤维和肌肉运动控制单元组成."
+  },
+  {
+    "id": "emod_arm_part_shoulder.Description.UIName",
+    "content": "标准肩部机构"
+  },
+  {
+    "id": "emod_arm_part_shoulder.Description.Name",
+    "content": "标准肩部机构"
+  },
+  {
+    "id": "emod_arm_part_shoulder.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "emod_arm_part_shoulder.ActuatorStandUp.statusEffects0.Details",
+    "content": "伺服机构提高了站立的机会"
+  },
+  {
+    "id": "emod_arm_part_shoulder.ActuatorStandUp.statusEffects0.Name",
+    "content": "完整的机构"
+  },
+  {
+    "id": "emod_arm_part_upper.Description.Details",
+    "content": "伺服机构是战斗装甲肢体的一个组件,由关节、人工肌肉纤维和肌肉运动控制单元组成."
+  },
+  {
+    "id": "emod_arm_part_upper.Description.UIName",
+    "content": "标准大臂机构"
+  },
+  {
+    "id": "emod_arm_part_upper.Description.Name",
+    "content": "标准大臂机构"
+  },
+  {
+    "id": "emod_arm_part_upper.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "emod_arm_part_upper.ActuatorStandUp.statusEffects0.Details",
+    "content": "伺服机构提高了站立的机会"
+  },
+  {
+    "id": "emod_arm_part_upper.ActuatorStandUp.statusEffects0.Name",
+    "content": "完整的机构"
+  },
+  {
+    "id": "emod_leg_foot.Description.Details",
+    "content": "伺服机构是战斗装甲肢体的一个组件,由关节、人工肌肉纤维和肌肉运动控制单元组成."
+  },
+  {
+    "id": "emod_leg_foot.Description.UIName",
+    "content": "标准脚部机构"
+  },
+  {
+    "id": "emod_leg_foot.Description.Name",
+    "content": "标准脚部机构"
+  },
+  {
+    "id": "emod_leg_foot.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "emod_leg_foot.ActuatorStandUp.statusEffects0.Details",
+    "content": "伺服机构提高了站立的机会"
+  },
+  {
+    "id": "emod_leg_foot.ActuatorStandUp.statusEffects0.Name",
+    "content": "完整的机构"
+  },
+  {
+    "id": "emod_leg_hip.Description.Details",
+    "content": "伺服机构是战斗装甲肢体的一个组件,由关节、人工肌肉纤维和肌肉运动控制单元组成."
+  },
+  {
+    "id": "emod_leg_hip.Description.UIName",
+    "content": "标准髋部机构"
+  },
+  {
+    "id": "emod_leg_hip.Description.Name",
+    "content": "标准髋部机构"
+  },
+  {
+    "id": "emod_leg_hip.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "emod_leg_hip.ActuatorStandUp.statusEffects0.Details",
+    "content": "伺服机构提高了站立的机会"
+  },
+  {
+    "id": "emod_leg_hip.ActuatorStandUp.statusEffects0.Name",
+    "content": "完整的机构"
+  },
+  {
+    "id": "emod_leg_lower.Description.Details",
+    "content": "伺服机构是战斗装甲肢体的一个组件,由关节、人工肌肉纤维和肌肉运动控制单元组成."
+  },
+  {
+    "id": "emod_leg_lower.Description.UIName",
+    "content": "标准小腿机构"
+  },
+  {
+    "id": "emod_leg_lower.Description.Name",
+    "content": "标准小腿机构"
+  },
+  {
+    "id": "emod_leg_lower.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "emod_leg_lower.ActuatorStandUp.statusEffects0.Details",
+    "content": "伺服机构提高了站立的机会"
+  },
+  {
+    "id": "emod_leg_lower.ActuatorStandUp.statusEffects0.Name",
+    "content": "完整的机构"
+  },
+  {
+    "id": "emod_leg_upper.Description.Details",
+    "content": "伺服机构是战斗装甲肢体的一个组件,由关节、人工肌肉纤维和肌肉运动控制单元组成."
+  },
+  {
+    "id": "emod_leg_upper.Description.UIName",
+    "content": "标准大腿机构"
+  },
+  {
+    "id": "emod_leg_upper.Description.Name",
+    "content": "标准大腿机构"
+  },
+  {
+    "id": "emod_leg_upper.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "emod_leg_upper.ActuatorStandUp.statusEffects0.Details",
+    "content": "伺服机构提高了站立的机会"
+  },
+  {
+    "id": "emod_leg_upper.ActuatorStandUp.statusEffects0.Name",
+    "content": "完整的机构"
+  },
+  {
+    "id": "emod_structureslots_industrial.Description.Details",
+    "content": "工业机甲底盘和战斗机甲的底盘类似,但使用了更重更低效的材料和更笨重的人工肌肉束,这使的生产出的底盘重量是同类战斗机甲底盘的两倍重,对武器攻击的抵御效果很低,但更适合体力劳动,产成本也更低."
+  },
+  {
+    "id": "emod_structureslots_industrial.Description.UIName",
+    "content": "工业化结构"
+  },
+  {
+    "id": "emod_structureslots_industrial.Description.Name",
+    "content": "工业化结构"
+  },
+  {
+    "id": "emod_structureslots_industrial.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "emod_structureslots_standard.Description.Details",
+    "content": "机甲的内部结构由安装好所有组件的骨架结构组成,机甲的标准内构重量为其最大吨位的10%."
+  },
+  {
+    "id": "emod_structureslots_standard.Description.UIName",
+    "content": "标准结构"
+  },
+  {
+    "id": "emod_structureslots_standard.Description.Name",
+    "content": "标准结构"
+  },
+  {
+    "id": "emod_structureslots_standard.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Gear_armorslots_Primitive.Description.Details",
+    "content": "在战争年代被开发出来,原始装甲被引入了起源战斗机甲'麦基'中.这种装甲性能不如星联和继承战争时期使用的装甲."
+  },
+  {
+    "id": "Gear_armorslots_Primitive.Description.UIName",
+    "content": "原始装甲"
+  },
+  {
+    "id": "Gear_armorslots_Primitive.Description.Name",
+    "content": "原始装甲"
+  },
+  {
+    "id": "Gear_armorslots_Primitive.Description.Manufacturer",
+    "content": "地球工厂"
+  },
+  {
+    "id": "Gear_armorslots_Spiked_default.Description.Details",
+    "content": "一种典型的抗冲击和硬化装甲的深空外围衍生品,使用了天琴座索拉里斯星尖刺,交错硬化的尖刺在外部覆盖了整部机体,以更重的装甲重量为代价,为最激烈的争斗中带来优势."
+  },
+  {
+    "id": "Gear_armorslots_Spiked_default.Description.UIName",
+    "content": "尖刺装甲"
+  },
+  {
+    "id": "Gear_armorslots_Spiked_default.Description.Name",
+    "content": "尖刺装甲"
+  },
+  {
+    "id": "Gear_armorslots_Spiked_default.Description.Manufacturer",
+    "content": "WANG"
+  },
+  {
+    "id": "Gear_armorslots_Spiked_default.MeleeResistPunch.statusEffects0.Details",
+    "content": "降低即将到来的近战伤害和额外近战伤害."
+  },
+  {
+    "id": "Gear_armorslots_Spiked_default.MeleeResistPunchStab.statusEffects1.Details",
+    "content": "降低即将到来的近战伤害和额外近战伤害."
+  },
+  {
+    "id": "Gear_armorslots_Spiked_default.MeleeResistKick.statusEffects2.Details",
+    "content": "降低即将到来的近战伤害和额外近战伤害."
+  },
+  {
+    "id": "Gear_armorslots_Spiked_default.MeleeResistKickStab.statusEffects3.Details",
+    "content": "降低即将到来的近战伤害和额外近战伤害."
+  },
+  {
+    "id": "Gear_armorslots_Spiked_default.MeleeResistPhysDmg.statusEffects4.Details",
+    "content": "降低即将到来的近战伤害和额外近战伤害."
+  },
+  {
+    "id": "Gear_armorslots_Spiked_default.MeleeResistPhysStab.statusEffects5.Details",
+    "content": "降低即将到来的近战伤害和额外近战伤害."
+  },
+  {
+    "id": "Gear_armorslots_Spiked_default.MeleeResist.statusEffects6.Details",
+    "content": "降低即将到来的近战伤害和额外近战伤害."
+  },
+  {
+    "id": "Gear_armorslots_Spiked_default.MeleeResistChargeStab.statusEffects7.Details",
+    "content": "降低即将到来的近战伤害和额外近战伤害."
+  },
+  {
+    "id": "Gear_armorslots_Spiked_default.MeleeResistDFA.statusEffects8.Details",
+    "content": "降低即将到来的近战伤害和额外近战伤害."
+  },
+  {
+    "id": "Gear_armorslots_Spiked_default.MeleeResistDFAStab.statusEffects9.Details",
+    "content": "降低即将到来的近战伤害和额外近战伤害."
+  },
+  {
+    "id": "Gear_armorslots_Spiked_default.SpikedPlatesMelee.statusEffects10.Details",
+    "content": "-20%跳跃距离"
+  },
+  {
+    "id": "Gear_armorslots_Spiked_default.SpikedPlatesMelee.statusEffects11.Details",
+    "content": "-20%跳跃距离"
+  },
+  {
+    "id": "Gear_armorslots_Spiked_default.HardenedPenaltyWalk.statusEffects12.Details",
+    "content": "更快的速度."
+  },
+  {
+    "id": "Gear_armorslots_Spiked_default.HardenedCritImmune.statusEffects13.Details",
+    "content": "更快的速度."
+  },
+  {
+    "id": "Gear_armorslots_Spiked_default.MeleeResistPunch.statusEffects0.Name",
+    "content": "近战击打抵抗"
+  },
+  {
+    "id": "Gear_armorslots_Spiked_default.MeleeResistPunchStab.statusEffects1.Name",
+    "content": "近战击打稳定伤害抵抗"
+  },
+  {
+    "id": "Gear_armorslots_Spiked_default.MeleeResistKick.statusEffects2.Name",
+    "content": "近战撞击伤害抵抗"
+  },
+  {
+    "id": "Gear_armorslots_Spiked_default.MeleeResistKickStab.statusEffects3.Name",
+    "content": "近战踢击稳定伤害抵抗"
+  },
+  {
+    "id": "Gear_armorslots_Spiked_default.MeleeResistPhysDmg.statusEffects4.Name",
+    "content": "近战实体武器抵抗"
+  },
+  {
+    "id": "Gear_armorslots_Spiked_default.MeleeResistPhysStab.statusEffects5.Name",
+    "content": "近战实体武器稳定伤害抵抗"
+  },
+  {
+    "id": "Gear_armorslots_Spiked_default.MeleeResist.statusEffects6.Name",
+    "content": "近战撞击伤害抵抗"
+  },
+  {
+    "id": "Gear_armorslots_Spiked_default.MeleeResistChargeStab.statusEffects7.Name",
+    "content": "近战撞击稳定伤害抵抗"
+  },
+  {
+    "id": "Gear_armorslots_Spiked_default.MeleeResistDFA.statusEffects8.Name",
+    "content": "近战DFA抵抗"
+  },
+  {
+    "id": "Gear_armorslots_Spiked_default.MeleeResistDFAStab.statusEffects9.Name",
+    "content": "近战DFA稳定抵抗"
+  },
+  {
+    "id": "Gear_armorslots_Spiked_default.SpikedPlatesMelee.statusEffects10.Name",
+    "content": "跳跃距离"
+  },
+  {
+    "id": "Gear_armorslots_Spiked_default.SpikedPlatesMelee.statusEffects11.Name",
+    "content": "跳跃距离"
+  },
+  {
+    "id": "Gear_armorslots_Spiked_default.HardenedPenaltyWalk.statusEffects12.Name",
+    "content": "冲刺撞击"
+  },
+  {
+    "id": "Gear_armorslots_Spiked_default.HardenedCritImmune.statusEffects13.Name",
+    "content": "冲刺撞击"
+  },
+  {
+    "id": "Gear_Cockpit_CLAN_Standard.Description.Details",
+    "content": "一个氏族规格标准座舱,安装了先进的传感器和瞄准系统."
+  },
+  {
+    "id": "Gear_Cockpit_CLAN_Standard.Description.UIName",
+    "content": "标准座舱(C)"
+  },
+  {
+    "id": "Gear_Cockpit_CLAN_Standard.Description.Name",
+    "content": "标准座舱(C)"
+  },
+  {
+    "id": "Gear_Cockpit_CLAN_Standard.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Gear_Cockpit_CLAN_Standard.StatusEffect_Cockpit_Skill_Gunnery.statusEffects0.Details",
+    "content": "获得射击学增益"
+  },
+  {
+    "id": "Gear_Cockpit_CLAN_Standard.CockpitBleed.statusEffects1.Details",
+    "content": "失血速度 x 0.6"
+  },
+  {
+    "id": "Gear_Cockpit_CLAN_Standard.StatusEffect_Cockpit_Skill_Gunnery.statusEffects0.Name",
+    "content": "射击学增益"
+  },
+  {
+    "id": "Gear_Cockpit_CLAN_Standard.CockpitBleed.statusEffects1.Name",
+    "content": "降低失血速度"
+  },
+  {
+    "id": "Gear_Cockpit_Generic_Standard.Description.Details",
+    "content": "所有的机甲都装备了可以通过升级来提升表现的座舱和生命支持系统."
+  },
+  {
+    "id": "Gear_Cockpit_Generic_Standard.Description.UIName",
+    "content": "标准座舱"
+  },
+  {
+    "id": "Gear_Cockpit_Generic_Standard.Description.Name",
+    "content": "标准座舱"
+  },
+  {
+    "id": "Gear_Cockpit_Generic_Standard.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Gear_Cockpit_Generic_Standard.CockpitBleed.statusEffects0.Details",
+    "content": "失血速度 x 0.6"
+  },
+  {
+    "id": "Gear_Cockpit_Generic_Standard.CockpitBleed.statusEffects0.Name",
+    "content": "降低失血速度"
+  },
+  {
+    "id": "Gear_Cockpit_LifeSupportA_Standard.Description.Details",
+    "content": "战斗机甲的座舱是密封加压的,并装有维生系统.机甲内含有有限的空气和水.如果机甲外有空气或水,则可以通过过滤系统无限量供应新鲜氧气."
+  },
+  {
+    "id": "Gear_Cockpit_LifeSupportA_Standard.Description.UIName",
+    "content": "生命支持-A"
+  },
+  {
+    "id": "Gear_Cockpit_LifeSupportA_Standard.Description.Name",
+    "content": "维生系统A"
+  },
+  {
+    "id": "Gear_Cockpit_LifeSupportA_Standard.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Gear_Cockpit_LifeSupportB_Standard.Description.Details",
+    "content": "战斗机甲的座舱是密封加压的,并装有维生系统. 机甲内含有有限的空气和水. 如果机甲外有空气或水,则可以通过过滤系统无限量供应新鲜氧气"
+  },
+  {
+    "id": "Gear_Cockpit_LifeSupportB_Standard.Description.UIName",
+    "content": "生命支持-B"
+  },
+  {
+    "id": "Gear_Cockpit_LifeSupportB_Standard.Description.Name",
+    "content": "生命支持B"
+  },
+  {
+    "id": "Gear_Cockpit_LifeSupportB_Standard.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Gear_Cockpit_Primitive.Description.Details",
+    "content": "原始座舱功能上和现代座舱相似,但由于使用了更笨重的部件,其重量为5吨而不是3吨.它没有弹射座椅,传感器甚至比现在的工业机甲还差."
+  },
+  {
+    "id": "Gear_Cockpit_Primitive.Description.UIName",
+    "content": "原始座舱"
+  },
+  {
+    "id": "Gear_Cockpit_Primitive.Description.Name",
+    "content": "原始座舱"
+  },
+  {
+    "id": "Gear_Cockpit_Primitive.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Gear_Cockpit_Primitive.StatusEffect_Cockpit_Skill_Piloting.statusEffects0.Details",
+    "content": "驾驶技能增益"
+  },
+  {
+    "id": "Gear_Cockpit_Primitive.PrimitiveCockpitEject.statusEffects1.Details",
+    "content": "被动:使用单武器攻击时忽略目标的遮蔽和警戒状态."
+  },
+  {
+    "id": "Gear_Cockpit_Primitive.StatusEffect_Cockpit_Skill_Piloting.statusEffects0.Name",
+    "content": "驾驶增益"
+  },
+  {
+    "id": "Gear_Cockpit_Primitive.PrimitiveCockpitEject.statusEffects1.Name",
+    "content": "没有弹射"
+  },
+  {
+    "id": "Gear_Cockpit_SLDF_Standard.Description.Details",
+    "content": "星联防卫部队(SLDF)标准规格座舱,配有弹道装甲和冷却套件."
+  },
+  {
+    "id": "Gear_Cockpit_SLDF_Standard.Description.UIName",
+    "content": "SLDF标准座舱"
+  },
+  {
+    "id": "Gear_Cockpit_SLDF_Standard.Description.Name",
+    "content": "SLDF标准座舱  "
+  },
+  {
+    "id": "Gear_Cockpit_SLDF_Standard.Description.Manufacturer",
+    "content": "星联防卫部队"
+  },
+  {
+    "id": "Gear_Cockpit_SLDF_Standard.StatusEffect_Cockpit_Skill_Piloting.statusEffects0.Details",
+    "content": "驾驶技能增益"
+  },
+  {
+    "id": "Gear_Cockpit_SLDF_Standard.StatusEffect_Cockpit_Skill_Tactics.statusEffects1.Details",
+    "content": "战术技能增益"
+  },
+  {
+    "id": "Gear_Cockpit_SLDF_Standard.CockpitBleed.statusEffects2.Details",
+    "content": "失血速度 x 0.6"
+  },
+  {
+    "id": "Gear_Cockpit_SLDF_Standard.StatusEffect_Cockpit_Skill_Piloting.statusEffects0.Name",
+    "content": "驾驶增益"
+  },
+  {
+    "id": "Gear_Cockpit_SLDF_Standard.StatusEffect_Cockpit_Skill_Tactics.statusEffects1.Name",
+    "content": "战术增益"
+  },
+  {
+    "id": "Gear_Cockpit_SLDF_Standard.CockpitBleed.statusEffects2.Name",
+    "content": "降低失血速度"
+  },
+  {
+    "id": "Gear_Cockpit_SolarisCage.Description.Details",
+    "content": "在装甲前围设计的基础上,索拉里斯武装使用更坚固的舱体和敌我识别干扰系统升级了这种座舱;使其能轻松承受更重的打击."
+  },
+  {
+    "id": "Gear_Cockpit_SolarisCage.Description.UIName",
+    "content": "索拉里斯笼子"
+  },
+  {
+    "id": "Gear_Cockpit_SolarisCage.Description.Name",
+    "content": "索拉里斯武装硬化座舱模块"
+  },
+  {
+    "id": "Gear_Cockpit_SolarisCage.Description.Manufacturer",
+    "content": "索拉里斯武装"
+  },
+  {
+    "id": "Gear_Cockpit_SolarisCage.Status-ArmorCowlStructure-{location}.statusEffects0.Details",
+    "content": "改进头部结构"
+  },
+  {
+    "id": "Gear_Cockpit_SolarisCage.Status-ArmorCowlArmor-{location}.statusEffects1.Details",
+    "content": "改进头部装甲"
+  },
+  {
+    "id": "Gear_Cockpit_SolarisCage.StatusEffect_Cockpit_Skill_Guts.statusEffects2.Details",
+    "content": "获得勇气技能增益"
+  },
+  {
+    "id": "Gear_Cockpit_SolarisCage.StatusEffect-Pilot_HealthAdd-T3.statusEffects3.Details",
+    "content": "为机甲战士承受[AMT]伤害"
+  },
+  {
+    "id": "Gear_Cockpit_SolarisCage.Status-ArmorCowlStructure-{location}.statusEffects0.Name",
+    "content": "装甲前围"
+  },
+  {
+    "id": "Gear_Cockpit_SolarisCage.Status-ArmorCowlArmor-{location}.statusEffects1.Name",
+    "content": "装甲前围"
+  },
+  {
+    "id": "Gear_Cockpit_SolarisCage.StatusEffect_Cockpit_Skill_Guts.statusEffects2.Name",
+    "content": "勇气增益"
+  },
+  {
+    "id": "Gear_Cockpit_SolarisCage.StatusEffect-Pilot_HealthAdd-T3.statusEffects3.Name",
+    "content": "最大承受伤害增加了"
+  },
+  {
+    "id": "Gear_FCS_Generic_Clan.Description.Details",
+    "content": "默认的氏族火控系统(FCS).机甲的火控系统协调并分析传感器带来的大量数据,以便跟踪单位、生成射击方案和命中目标."
+  },
+  {
+    "id": "Gear_FCS_Generic_Clan.Description.UIName",
+    "content": "标准火控系统(C)"
+  },
+  {
+    "id": "Gear_FCS_Generic_Clan.Description.Name",
+    "content": "氏族火控系统"
+  },
+  {
+    "id": "Gear_FCS_Generic_Clan.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Gear_FCS_Generic_Clan.StatusEffect_Cockpit_Skill_Gunnery.statusEffects0.Details",
+    "content": "获得射击学增益"
+  },
+  {
+    "id": "Gear_FCS_Generic_Clan.StatusEffect_Cockpit_Skill_Gunnery.statusEffects0.Name",
+    "content": "射击学增益"
+  },
+  {
+    "id": "Gear_FCS_Generic_SLDF.Description.Details",
+    "content": "默认星联防御部队(SLDF)火控系统(FCS).机甲的火控系统协调并分析传感器带来的大量数据,以便跟踪单位、生成射击方案和命中目标."
+  },
+  {
+    "id": "Gear_FCS_Generic_SLDF.Description.UIName",
+    "content": "标准SLDF火控系统"
+  },
+  {
+    "id": "Gear_FCS_Generic_SLDF.Description.Name",
+    "content": "标准SLDF火控系统"
+  },
+  {
+    "id": "Gear_FCS_Generic_SLDF.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Gear_FCS_Generic_SLDF.NightVision.statusEffects0.Details",
+    "content": "被动:开启夜视"
+  },
+  {
+    "id": "Gear_FCS_Generic_SLDF.NightVision.statusEffects0.Name",
+    "content": "夜视模式"
+  },
+  {
+    "id": "Gear_FCS_Generic_Standard.Description.Details",
+    "content": "默认机甲火控系统.机甲的火控系统协调并分析传感器带来的大量数据,以便跟踪单位、生成射击方案和命中目标."
+  },
+  {
+    "id": "Gear_FCS_Generic_Standard.Description.UIName",
+    "content": "标准火控系统"
+  },
+  {
+    "id": "Gear_FCS_Generic_Standard.Description.Name",
+    "content": "标准火控系统"
+  },
+  {
+    "id": "Gear_FCS_Generic_Standard.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Gear_FCS_Primitive_Standard.Description.Details",
+    "content": "战斗机甲的原始火控系统.机甲的火控系统协调并分析传感器带来的大量数据,以便跟踪单位、生成射击方案和命中目标."
+  },
+  {
+    "id": "Gear_FCS_Primitive_Standard.Description.UIName",
+    "content": "原始火控系统"
+  },
+  {
+    "id": "Gear_FCS_Primitive_Standard.Description.Name",
+    "content": "原始火控系统"
+  },
+  {
+    "id": "Gear_FCS_Primitive_Standard.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Gear_FCS_Primitive_Standard.RangeBracketBonusAccER.statusEffects0.Details",
+    "content": "射程组精度奖励"
+  },
+  {
+    "id": "Gear_FCS_Primitive_Standard.RangeBracketBonusAccLR.statusEffects1.Details",
+    "content": "射程组精度奖励"
+  },
+  {
+    "id": "Gear_FCS_Primitive_Standard.RangeBracketBonusAccER.statusEffects0.Name",
+    "content": "在射程内奖励精度"
+  },
+  {
+    "id": "Gear_FCS_Primitive_Standard.RangeBracketBonusAccLR.statusEffects1.Name",
+    "content": "在射程内奖励精度"
+  },
+  {
+    "id": "Gear_FCS_Society.Description.Details",
+    "content": "一个与战斗机甲内部结构相适应的科学家学会火控系统包,它的高效率使热调节得到改善.机甲的火控系统协调并分析传感器带来的大量数据,以便跟踪单位、生成射击方案和命中目标."
+  },
+  {
+    "id": "Gear_FCS_Society.Description.UIName",
+    "content": "热控制火控系统(S)"
+  },
+  {
+    "id": "Gear_FCS_Society.Description.Name",
+    "content": "科学家学会火控系统"
+  },
+  {
+    "id": "Gear_FCS_Society.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Gear_FCS_Society.StatusEffect-SocietyCockpit2.statusEffects0.Details",
+    "content": "-20%产热"
+  },
+  {
+    "id": "Gear_FCS_Society.StatusEffect-SocietyCockpit2.statusEffects0.Name",
+    "content": "减少产热"
+  },
+  {
+    "id": "Gear_Gyro_Generic_Standard.Description.Details",
+    "content": "陀螺仪抵消了机甲引擎产生的大量动量,并允许精确机动并从稳定性攻击中恢复.所有机甲都配置了陀螺仪,可以升级以提高性能."
+  },
+  {
+    "id": "Gear_Gyro_Generic_Standard.Description.UIName",
+    "content": "标准陀螺仪"
+  },
+  {
+    "id": "Gear_Gyro_Generic_Standard.Description.Name",
+    "content": "标准陀螺仪"
+  },
+  {
+    "id": "Gear_Gyro_Generic_Standard.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Gear_Gyro_Generic_Standard.GyroGenericThreshhold.statusEffects0.Details",
+    "content": "陀螺仪有助于机甲稳定重心"
+  },
+  {
+    "id": "Gear_Gyro_Generic_Standard.GyroGenericThreshhold.statusEffects0.Name",
+    "content": "陀螺仪稳定器"
+  },
+  {
+    "id": "Gear_HandHeld_Slot.Description.Details",
+    "content": "专用槽位允许机使用配件市场的独特升级组件和武器"
+  },
+  {
+    "id": "Gear_HandHeld_Slot.Description.UIName",
+    "content": "专用槽位"
+  },
+  {
+    "id": "Gear_HandHeld_Slot.Description.Name",
+    "content": "扫描仪"
+  },
+  {
+    "id": "Gear_HandHeld_Slot.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Gear_Sensors_Clan.Description.Details",
+    "content": "基础的氏族座舱传感器包比内天体同类产品性能更高.热成像、光学缩放、雷达和磁异常传感器作为机甲的主要传感器,辅以地面震动传感器、运动传感器、化学分析仪和其他多种传感器."
+  },
+  {
+    "id": "Gear_Sensors_Clan.Description.UIName",
+    "content": "传感器座舱(C)"
+  },
+  {
+    "id": "Gear_Sensors_Clan.Description.Name",
+    "content": "氏族传感器座舱"
+  },
+  {
+    "id": "Gear_Sensors_Clan.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Gear_Sensors_Clan.LV_ADVANCED_SENSORS.statusEffects0.Details",
+    "content": "提供敌军单位的详细信息"
+  },
+  {
+    "id": "Gear_Sensors_Clan.BAProbe.statusEffects1.Details",
+    "content": "增加视野/传感器"
+  },
+  {
+    "id": "Gear_Sensors_Clan.HP-CockpitSensors-Spot.statusEffects2.Details",
+    "content": "+50m发现距离"
+  },
+  {
+    "id": "Gear_Sensors_Clan.LV_ADVANCED_SENSORS.statusEffects0.Name",
+    "content": "先进传感器"
+  },
+  {
+    "id": "Gear_Sensors_Clan.BAProbe.statusEffects1.Name",
+    "content": "HP-传感器座舱-传感器"
+  },
+  {
+    "id": "Gear_Sensors_Clan.HP-CockpitSensors-Spot.statusEffects2.Name",
+    "content": "提升发现距离"
+  },
+  {
+    "id": "Gear_Sensors_Generic_Standard.Description.Details",
+    "content": "基础传感器套件.热成像、光学缩放、雷达和磁异常传感器作为机甲的主要传感器,辅以地面震动传感器、运动传感器、化学分析仪和其他多种传感器."
+  },
+  {
+    "id": "Gear_Sensors_Generic_Standard.Description.UIName",
+    "content": "基础传感器"
+  },
+  {
+    "id": "Gear_Sensors_Generic_Standard.Description.Name",
+    "content": "标准传感器"
+  },
+  {
+    "id": "Gear_Sensors_Generic_Standard.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Gear_Sensors_Generic_Standard.LV_ADVANCED_SENSORS.statusEffects0.Details",
+    "content": "提供敌军单位的详细信息"
+  },
+  {
+    "id": "Gear_Sensors_Generic_Standard.LV_ADVANCED_SENSORS.statusEffects0.Name",
+    "content": "先进传感器"
+  },
+  {
+    "id": "Gear_Sensors_Primitive_Standard.Description.Details",
+    "content": "原始传感器套件.热成像、光学缩放、雷达和磁异常传感器作为机甲的主要传感器,辅以地面震动传感器、运动传感器、化学分析仪和其他多种传感器."
+  },
+  {
+    "id": "Gear_Sensors_Primitive_Standard.Description.UIName",
+    "content": "原始传感器"
+  },
+  {
+    "id": "Gear_Sensors_Primitive_Standard.Description.Name",
+    "content": "原始传感器"
+  },
+  {
+    "id": "Gear_Sensors_Primitive_Standard.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Gear_Sensors_Primitive_Standard.PrimitiveSensors.statusEffects0.Details",
+    "content": "降低传感器性能"
+  },
+  {
+    "id": "Gear_Sensors_Primitive_Standard.PrimitiveSensors1.statusEffects1.Details",
+    "content": "降低传感器性能"
+  },
+  {
+    "id": "Gear_Sensors_Primitive_Standard.PrimitiveSensors.statusEffects0.Name",
+    "content": "原始座舱"
+  },
+  {
+    "id": "Gear_Sensors_Primitive_Standard.PrimitiveSensors1.statusEffects1.Name",
+    "content": "原始座舱"
+  },
+  {
+    "id": "Gear_Sensors_SLDF.Description.Details",
+    "content": "一个基础星联防卫军(SLDF)座舱传感器包,比现在内天体使用的标准高出一截.热成像、光学缩放、雷达和磁异常传感器作为机甲的主要传感器,辅以地面震动传感器、运动传感器、化学分析仪和其他多种传感器."
+  },
+  {
+    "id": "Gear_Sensors_SLDF.Description.UIName",
+    "content": "SLDF传感器"
+  },
+  {
+    "id": "Gear_Sensors_SLDF.Description.Name",
+    "content": "氏族座舱传感器"
+  },
+  {
+    "id": "Gear_Sensors_SLDF.Description.Manufacturer",
+    "content": "星联防卫部队"
+  },
+  {
+    "id": "Gear_Sensors_SLDF.LV_ADVANCED_SENSORS.statusEffects0.Details",
+    "content": "提供敌军单位的详细信息"
+  },
+  {
+    "id": "Gear_Sensors_SLDF.BAProbe.statusEffects1.Details",
+    "content": "增加视野/传感器"
+  },
+  {
+    "id": "Gear_Sensors_SLDF.HP-CockpitSensors-Spot.statusEffects2.Details",
+    "content": "+50m发现距离"
+  },
+  {
+    "id": "Gear_Sensors_SLDF.LV_ADVANCED_SENSORS.statusEffects0.Name",
+    "content": "先进传感器"
+  },
+  {
+    "id": "Gear_Sensors_SLDF.BAProbe.statusEffects1.Name",
+    "content": "HP-传感器座舱-传感器"
+  },
+  {
+    "id": "Gear_Sensors_SLDF.HP-CockpitSensors-Spot.statusEffects2.Name",
+    "content": "提升发现距离"
+  },
+  {
+    "id": "Gear_Sensors_Society.Description.Details",
+    "content": "科学家学会传感器包是一个高度调整和完善的氏族升级包.热成像、光学缩放、雷达和磁异常传感器作为机甲的主要传感器,辅以地面震动传感器、运动传感器、化学分析仪和其他多种传感器."
+  },
+  {
+    "id": "Gear_Sensors_Society.Description.UIName",
+    "content": "科学家学会传感器"
+  },
+  {
+    "id": "Gear_Sensors_Society.Description.Name",
+    "content": "氏族座舱传感器"
+  },
+  {
+    "id": "Gear_Sensors_Society.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Gear_Sensors_Society.LV_ADVANCED_SENSORS.statusEffects0.Details",
+    "content": "提供敌军单位的详细信息"
+  },
+  {
+    "id": "Gear_Sensors_Society.BAProbe.statusEffects1.Details",
+    "content": "增加视野/传感器"
+  },
+  {
+    "id": "Gear_Sensors_Society.HP-CockpitSensors-Spot.statusEffects2.Details",
+    "content": "+50m发现距离"
+  },
+  {
+    "id": "Gear_Sensors_Society.LV_ADVANCED_SENSORS.statusEffects0.Name",
+    "content": "先进传感器"
+  },
+  {
+    "id": "Gear_Sensors_Society.BAProbe.statusEffects1.Name",
+    "content": "HP-传感器座舱-传感器"
+  },
+  {
+    "id": "Gear_Sensors_Society.HP-CockpitSensors-Spot.statusEffects2.Name",
+    "content": "提升发现距离"
+  },
+  {
+    "id": "Special_Default_Quirk.Description.Details",
+    "content": "这是一个需要修理的后备默认特性"
+  },
+  {
+    "id": "Special_Default_Quirk.Description.UIName",
+    "content": "后备特性"
+  },
+  {
+    "id": "Special_Default_Quirk.Description.Name",
+    "content": "先进光学"
+  },
+  {
+    "id": "Special_Default_Quirk.Description.Manufacturer",
+    "content": "米切尔"
+  },
+  {
+    "id": "Special_Default_Quirk.NightVision.statusEffects0.Details",
+    "content": "被动:开启夜视"
+  },
+  {
+    "id": "Special_Default_Quirk.NightVision.statusEffects0.Name",
+    "content": "夜视模式"
+  },
+  {
+    "id": "Gear_Engine_010.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\n聚变引擎根据其<b>引擎额定功率</b>区分.对于机甲来说,引擎额定功率是其重量和最大步行或巡航速度的数学乘积."
+  },
+  {
+    "id": "Gear_Engine_010.Description.UIName",
+    "content": "引擎核心010"
+  },
+  {
+    "id": "Gear_Engine_010.Description.Name",
+    "content": "引擎核心010"
+  },
+  {
+    "id": "Gear_Engine_010.Description.Manufacturer",
+    "content": "泛用"
+  },
+  {
+    "id": "Gear_Engine_012.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\n聚变引擎根据其<b>引擎额定功率</b>区分.对于机甲来说,引擎额定功率是其重量和最大步行或巡航速度的数学乘积."
+  },
+  {
+    "id": "Gear_Engine_012.Description.UIName",
+    "content": "引擎核心012"
+  },
+  {
+    "id": "Gear_Engine_012.Description.Name",
+    "content": "引擎核心012"
+  },
+  {
+    "id": "Gear_Engine_012.Description.Manufacturer",
+    "content": "火球"
+  },
+  {
+    "id": "Gear_Engine_015.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\n聚变引擎根据其<b>引擎额定功率</b>区分.对于机甲来说,引擎额定功率是其重量和最大步行或巡航速度的数学乘积."
+  },
+  {
+    "id": "Gear_Engine_015.Description.UIName",
+    "content": "引擎核心015"
+  },
+  {
+    "id": "Gear_Engine_015.Description.Name",
+    "content": "引擎核心015"
+  },
+  {
+    "id": "Gear_Engine_015.Description.Manufacturer",
+    "content": "GM"
+  },
+  {
+    "id": "Gear_Engine_020.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\n聚变引擎根据其<b>引擎额定功率</b>区分.对于机甲来说,引擎额定功率是其重量和最大步行或巡航速度的数学乘积."
+  },
+  {
+    "id": "Gear_Engine_020.Description.UIName",
+    "content": "引擎核心020"
+  },
+  {
+    "id": "Gear_Engine_020.Description.Name",
+    "content": "引擎核心020"
+  },
+  {
+    "id": "Gear_Engine_020.Description.Manufacturer",
+    "content": "皮特班"
+  },
+  {
+    "id": "Gear_Engine_025.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\n聚变引擎根据其<b>引擎额定功率</b>区分.对于机甲来说,引擎额定功率是其重量和最大步行或巡航速度的数学乘积."
+  },
+  {
+    "id": "Gear_Engine_025.Description.UIName",
+    "content": "引擎核心025"
+  },
+  {
+    "id": "Gear_Engine_025.Description.Name",
+    "content": "引擎核心025"
+  },
+  {
+    "id": "Gear_Engine_025.Description.Manufacturer",
+    "content": "埃达西奇"
+  },
+  {
+    "id": "Gear_Engine_030.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\n聚变引擎根据其<b>引擎额定功率</b>区分.对于机甲来说,引擎额定功率是其重量和最大步行或巡航速度的数学乘积."
+  },
+  {
+    "id": "Gear_Engine_030.Description.UIName",
+    "content": "引擎核心030"
+  },
+  {
+    "id": "Gear_Engine_030.Description.Name",
+    "content": "引擎核心030"
+  },
+  {
+    "id": "Gear_Engine_030.Description.Manufacturer",
+    "content": "尼桑"
+  },
+  {
+    "id": "Gear_Engine_035.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\n聚变引擎根据其<b>引擎额定功率</b>区分.对于机甲来说,引擎额定功率是其重量和最大步行或巡航速度的数学乘积."
+  },
+  {
+    "id": "Gear_Engine_035.Description.UIName",
+    "content": "引擎核心035"
+  },
+  {
+    "id": "Gear_Engine_035.Description.Name",
+    "content": "引擎核心035"
+  },
+  {
+    "id": "Gear_Engine_035.Description.Manufacturer",
+    "content": "VOX"
+  },
+  {
+    "id": "Gear_Engine_036.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\n聚变引擎根据其<b>引擎额定功率</b>区分.对于机甲来说,引擎额定功率是其重量和最大步行或巡航速度的数学乘积."
+  },
+  {
+    "id": "Gear_Engine_036.Description.UIName",
+    "content": "引擎核心036"
+  },
+  {
+    "id": "Gear_Engine_036.Description.Name",
+    "content": "引擎核心036"
+  },
+  {
+    "id": "Gear_Engine_036.Description.Manufacturer",
+    "content": "VOX"
+  },
+  {
+    "id": "Gear_Engine_040.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\n聚变引擎根据其<b>引擎额定功率</b>区分.对于机甲来说,引擎额定功率是其重量和最大步行或巡航速度的数学乘积."
+  },
+  {
+    "id": "Gear_Engine_040.Description.UIName",
+    "content": "引擎核心040"
+  },
+  {
+    "id": "Gear_Engine_040.Description.Name",
+    "content": "引擎核心040"
+  },
+  {
+    "id": "Gear_Engine_040.Description.Manufacturer",
+    "content": "GM"
+  },
+  {
+    "id": "Gear_Engine_045.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\n聚变引擎根据其<b>引擎额定功率</b>区分.对于机甲来说,引擎额定功率是其重量和最大步行或巡航速度的数学乘积."
+  },
+  {
+    "id": "Gear_Engine_045.Description.UIName",
+    "content": "引擎核心045"
+  },
+  {
+    "id": "Gear_Engine_045.Description.Name",
+    "content": "引擎核心045"
+  },
+  {
+    "id": "Gear_Engine_045.Description.Manufacturer",
+    "content": "DAV"
+  },
+  {
+    "id": "Gear_Engine_050.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\n聚变引擎根据其<b>引擎额定功率</b>区分.对于机甲来说,引擎额定功率是其重量和最大步行或巡航速度的数学乘积."
+  },
+  {
+    "id": "Gear_Engine_050.Description.UIName",
+    "content": "引擎核心050"
+  },
+  {
+    "id": "Gear_Engine_050.Description.Name",
+    "content": "引擎核心050"
+  },
+  {
+    "id": "Gear_Engine_050.Description.Manufacturer",
+    "content": "DAV"
+  },
+  {
+    "id": "Gear_Engine_055.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\n聚变引擎根据其<b>引擎额定功率</b>区分.对于机甲来说,引擎额定功率是其重量和最大步行或巡航速度的数学乘积."
+  },
+  {
+    "id": "Gear_Engine_055.Description.UIName",
+    "content": "引擎核心055"
+  },
+  {
+    "id": "Gear_Engine_055.Description.Name",
+    "content": "引擎核心055"
+  },
+  {
+    "id": "Gear_Engine_055.Description.Manufacturer",
+    "content": "VOX"
+  },
+  {
+    "id": "Gear_Engine_060.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\n聚变引擎根据其<b>引擎额定功率</b>区分.对于机甲来说,引擎额定功率是其重量和最大步行或巡航速度的数学乘积."
+  },
+  {
+    "id": "Gear_Engine_060.Description.UIName",
+    "content": "引擎核心060"
+  },
+  {
+    "id": "Gear_Engine_060.Description.Name",
+    "content": "引擎核心060"
+  },
+  {
+    "id": "Gear_Engine_060.Description.Manufacturer",
+    "content": "利内克斯"
+  },
+  {
+    "id": "Gear_Engine_065.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\n聚变引擎根据其<b>引擎额定功率</b>区分.对于机甲来说,引擎额定功率是其重量和最大步行或巡航速度的数学乘积."
+  },
+  {
+    "id": "Gear_Engine_065.Description.UIName",
+    "content": "引擎核心065"
+  },
+  {
+    "id": "Gear_Engine_065.Description.Name",
+    "content": "引擎核心065"
+  },
+  {
+    "id": "Gear_Engine_065.Description.Manufacturer",
+    "content": "尼桑"
+  },
+  {
+    "id": "Gear_Engine_070.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\n聚变引擎根据其<b>引擎额定功率</b>区分.对于机甲来说,引擎额定功率是其重量和最大步行或巡航速度的数学乘积."
+  },
+  {
+    "id": "Gear_Engine_070.Description.UIName",
+    "content": "引擎核心070"
+  },
+  {
+    "id": "Gear_Engine_070.Description.Name",
+    "content": "引擎核心070"
+  },
+  {
+    "id": "Gear_Engine_070.Description.Manufacturer",
+    "content": "利内克斯"
+  },
+  {
+    "id": "Gear_Engine_075.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\n聚变引擎根据其<b>引擎额定功率</b>区分.对于机甲来说,引擎额定功率是其重量和最大步行或巡航速度的数学乘积."
+  },
+  {
+    "id": "Gear_Engine_075.Description.UIName",
+    "content": "引擎核心075"
+  },
+  {
+    "id": "Gear_Engine_075.Description.Name",
+    "content": "引擎核心075"
+  },
+  {
+    "id": "Gear_Engine_075.Description.Manufacturer",
+    "content": "GM"
+  },
+  {
+    "id": "Gear_Engine_080.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\n聚变引擎根据其<b>引擎额定功率</b>区分.对于机甲来说,引擎额定功率是其重量和最大步行或巡航速度的数学乘积."
+  },
+  {
+    "id": "Gear_Engine_080.Description.UIName",
+    "content": "引擎核心080"
+  },
+  {
+    "id": "Gear_Engine_080.Description.Name",
+    "content": "引擎核心080"
+  },
+  {
+    "id": "Gear_Engine_080.Description.Manufacturer",
+    "content": "赫耳墨斯"
+  },
+  {
+    "id": "Gear_Engine_085.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\n聚变引擎根据其<b>引擎额定功率</b>区分.对于机甲来说,引擎额定功率是其重量和最大步行或巡航速度的数学乘积."
+  },
+  {
+    "id": "Gear_Engine_085.Description.UIName",
+    "content": "引擎核心085"
+  },
+  {
+    "id": "Gear_Engine_085.Description.Name",
+    "content": "引擎核心085"
+  },
+  {
+    "id": "Gear_Engine_085.Description.Manufacturer",
+    "content": "泛用"
+  },
+  {
+    "id": "Gear_Engine_090.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\n聚变引擎根据其<b>引擎额定功率</b>区分.对于机甲来说,引擎额定功率是其重量和最大步行或巡航速度的数学乘积."
+  },
+  {
+    "id": "Gear_Engine_090.Description.UIName",
+    "content": "引擎核心090"
+  },
+  {
+    "id": "Gear_Engine_090.Description.Name",
+    "content": "引擎核心090"
+  },
+  {
+    "id": "Gear_Engine_090.Description.Manufacturer",
+    "content": "XT4"
+  },
+  {
+    "id": "Gear_Engine_095.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\n聚变引擎根据其<b>引擎额定功率</b>区分.对于机甲来说,引擎额定功率是其重量和最大步行或巡航速度的数学乘积."
+  },
+  {
+    "id": "Gear_Engine_095.Description.UIName",
+    "content": "引擎核心095"
+  },
+  {
+    "id": "Gear_Engine_095.Description.Name",
+    "content": "引擎核心095"
+  },
+  {
+    "id": "Gear_Engine_095.Description.Manufacturer",
+    "content": "尼桑"
+  },
+  {
+    "id": "Gear_Engine_100.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\n聚变引擎根据其<b>引擎额定功率</b>区分.对于机甲来说,引擎额定功率是其重量和最大步行或巡航速度的数学乘积."
+  },
+  {
+    "id": "Gear_Engine_100.Description.UIName",
+    "content": "引擎核心100"
+  },
+  {
+    "id": "Gear_Engine_100.Description.Name",
+    "content": "引擎核心100"
+  },
+  {
+    "id": "Gear_Engine_100.Description.Manufacturer",
+    "content": "赫耳墨斯"
+  },
+  {
+    "id": "Gear_Engine_105.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\n聚变引擎根据其<b>引擎额定功率</b>区分.对于机甲来说,引擎额定功率是其重量和最大步行或巡航速度的数学乘积."
+  },
+  {
+    "id": "Gear_Engine_105.Description.UIName",
+    "content": "引擎核心105"
+  },
+  {
+    "id": "Gear_Engine_105.Description.Name",
+    "content": "引擎核心105"
+  },
+  {
+    "id": "Gear_Engine_105.Description.Manufacturer",
+    "content": "洛克希德-CBM"
+  },
+  {
+    "id": "Gear_Engine_110.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\n聚变引擎根据其<b>引擎额定功率</b>区分.对于机甲来说,引擎额定功率是其重量和最大步行或巡航速度的数学乘积."
+  },
+  {
+    "id": "Gear_Engine_110.Description.UIName",
+    "content": "引擎核心110"
+  },
+  {
+    "id": "Gear_Engine_110.Description.Name",
+    "content": "引擎核心110"
+  },
+  {
+    "id": "Gear_Engine_110.Description.Manufacturer",
+    "content": "GM"
+  },
+  {
+    "id": "Gear_Engine_115.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\n聚变引擎根据其<b>引擎额定功率</b>区分.对于机甲来说,引擎额定功率是其重量和最大步行或巡航速度的数学乘积."
+  },
+  {
+    "id": "Gear_Engine_115.Description.UIName",
+    "content": "引擎核心115"
+  },
+  {
+    "id": "Gear_Engine_115.Description.Name",
+    "content": "引擎核心115"
+  },
+  {
+    "id": "Gear_Engine_115.Description.Manufacturer",
+    "content": "GM"
+  },
+  {
+    "id": "Gear_Engine_120.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\n聚变引擎根据其<b>引擎额定功率</b>区分.对于机甲来说,引擎额定功率是其重量和最大步行或巡航速度的数学乘积."
+  },
+  {
+    "id": "Gear_Engine_120.Description.UIName",
+    "content": "引擎核心120"
+  },
+  {
+    "id": "Gear_Engine_120.Description.Name",
+    "content": "引擎核心120"
+  },
+  {
+    "id": "Gear_Engine_120.Description.Manufacturer",
+    "content": "GM"
+  },
+  {
+    "id": "Gear_Engine_125.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\n聚变引擎根据其<b>引擎额定功率</b>区分.对于机甲来说,引擎额定功率是其重量和最大步行或巡航速度的数学乘积."
+  },
+  {
+    "id": "Gear_Engine_125.Description.UIName",
+    "content": "引擎核心125"
+  },
+  {
+    "id": "Gear_Engine_125.Description.Name",
+    "content": "引擎核心125"
+  },
+  {
+    "id": "Gear_Engine_125.Description.Manufacturer",
+    "content": "麦格纳"
+  },
+  {
+    "id": "Gear_Engine_130.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\n聚变引擎根据其<b>引擎额定功率</b>区分.对于机甲来说,引擎额定功率是其重量和最大步行或巡航速度的数学乘积."
+  },
+  {
+    "id": "Gear_Engine_130.Description.UIName",
+    "content": "引擎核心130"
+  },
+  {
+    "id": "Gear_Engine_130.Description.Name",
+    "content": "引擎核心130"
+  },
+  {
+    "id": "Gear_Engine_130.Description.Manufacturer",
+    "content": "麦格纳"
+  },
+  {
+    "id": "Gear_Engine_135.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\n聚变引擎根据其<b>引擎额定功率</b>区分.对于机甲来说,引擎额定功率是其重量和最大步行或巡航速度的数学乘积."
+  },
+  {
+    "id": "Gear_Engine_135.Description.UIName",
+    "content": "引擎核心135"
+  },
+  {
+    "id": "Gear_Engine_135.Description.Name",
+    "content": "引擎核心135"
+  },
+  {
+    "id": "Gear_Engine_135.Description.Manufacturer",
+    "content": "赫耳墨斯"
+  },
+  {
+    "id": "Gear_Engine_140.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\n聚变引擎根据其<b>引擎额定功率</b>区分.对于机甲来说,引擎额定功率是其重量和最大步行或巡航速度的数学乘积."
+  },
+  {
+    "id": "Gear_Engine_140.Description.UIName",
+    "content": "引擎核心140"
+  },
+  {
+    "id": "Gear_Engine_140.Description.Name",
+    "content": "引擎核心140"
+  },
+  {
+    "id": "Gear_Engine_140.Description.Manufacturer",
+    "content": "利内克斯"
+  },
+  {
+    "id": "Gear_Engine_145.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\n聚变引擎根据其<b>引擎额定功率</b>区分.对于机甲来说,引擎额定功率是其重量和最大步行或巡航速度的数学乘积."
+  },
+  {
+    "id": "Gear_Engine_145.Description.UIName",
+    "content": "引擎核心145"
+  },
+  {
+    "id": "Gear_Engine_145.Description.Name",
+    "content": "引擎核心145"
+  },
+  {
+    "id": "Gear_Engine_145.Description.Manufacturer",
+    "content": "麦格纳"
+  },
+  {
+    "id": "Gear_Engine_150.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\n聚变引擎根据其<b>引擎额定功率</b>区分.对于机甲来说,引擎额定功率是其重量和最大步行或巡航速度的数学乘积."
+  },
+  {
+    "id": "Gear_Engine_150.Description.UIName",
+    "content": "引擎核心150"
+  },
+  {
+    "id": "Gear_Engine_150.Description.Name",
+    "content": "引擎核心150"
+  },
+  {
+    "id": "Gear_Engine_150.Description.Manufacturer",
+    "content": "GM"
+  },
+  {
+    "id": "Gear_Engine_155.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\n聚变引擎根据其<b>引擎额定功率</b>区分.对于机甲来说,引擎额定功率是其重量和最大步行或巡航速度的数学乘积."
+  },
+  {
+    "id": "Gear_Engine_155.Description.UIName",
+    "content": "引擎核心155"
+  },
+  {
+    "id": "Gear_Engine_155.Description.Name",
+    "content": "引擎核心155"
+  },
+  {
+    "id": "Gear_Engine_155.Description.Manufacturer",
+    "content": "麦格纳"
+  },
+  {
+    "id": "Gear_Engine_160.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\n聚变引擎根据其<b>引擎额定功率</b>区分.对于机甲来说,引擎额定功率是其重量和最大步行或巡航速度的数学乘积."
+  },
+  {
+    "id": "Gear_Engine_160.Description.UIName",
+    "content": "引擎核心160"
+  },
+  {
+    "id": "Gear_Engine_160.Description.Name",
+    "content": "引擎核心160"
+  },
+  {
+    "id": "Gear_Engine_160.Description.Manufacturer",
+    "content": "LTV"
+  },
+  {
+    "id": "Gear_Engine_165.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\n聚变引擎根据其<b>引擎额定功率</b>区分.对于机甲来说,引擎额定功率是其重量和最大步行或巡航速度的数学乘积."
+  },
+  {
+    "id": "Gear_Engine_165.Description.UIName",
+    "content": "引擎核心165"
+  },
+  {
+    "id": "Gear_Engine_165.Description.Name",
+    "content": "引擎核心165"
+  },
+  {
+    "id": "Gear_Engine_165.Description.Manufacturer",
+    "content": "弗拉尔"
+  },
+  {
+    "id": "Gear_Engine_170.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\n聚变引擎根据其<b>引擎额定功率</b>区分.对于机甲来说,引擎额定功率是其重量和最大步行或巡航速度的数学乘积."
+  },
+  {
+    "id": "Gear_Engine_170.Description.UIName",
+    "content": "引擎核心170"
+  },
+  {
+    "id": "Gear_Engine_170.Description.Name",
+    "content": "引擎核心170"
+  },
+  {
+    "id": "Gear_Engine_170.Description.Manufacturer",
+    "content": "GM"
+  },
+  {
+    "id": "Gear_Engine_175.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\n聚变引擎根据其<b>引擎额定功率</b>区分.对于机甲来说,引擎额定功率是其重量和最大步行或巡航速度的数学乘积."
+  },
+  {
+    "id": "Gear_Engine_175.Description.UIName",
+    "content": "引擎核心175"
+  },
+  {
+    "id": "Gear_Engine_175.Description.Name",
+    "content": "引擎核心175"
+  },
+  {
+    "id": "Gear_Engine_175.Description.Manufacturer",
+    "content": "泛用"
+  },
+  {
+    "id": "Gear_Engine_180.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\n聚变引擎根据其<b>引擎额定功率</b>区分.对于机甲来说,引擎额定功率是其重量和最大步行或巡航速度的数学乘积."
+  },
+  {
+    "id": "Gear_Engine_180.Description.UIName",
+    "content": "引擎核心180"
+  },
+  {
+    "id": "Gear_Engine_180.Description.Name",
+    "content": "引擎核心180"
+  },
+  {
+    "id": "Gear_Engine_180.Description.Manufacturer",
+    "content": "GM"
+  },
+  {
+    "id": "Gear_Engine_185.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\n聚变引擎根据其<b>引擎额定功率</b>区分.对于机甲来说,引擎额定功率是其重量和最大步行或巡航速度的数学乘积."
+  },
+  {
+    "id": "Gear_Engine_185.Description.UIName",
+    "content": "引擎核心185"
+  },
+  {
+    "id": "Gear_Engine_185.Description.Name",
+    "content": "引擎核心185"
+  },
+  {
+    "id": "Gear_Engine_185.Description.Manufacturer",
+    "content": "麦格纳"
+  },
+  {
+    "id": "Gear_Engine_190.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\n聚变引擎根据其<b>引擎额定功率</b>区分.对于机甲来说,引擎额定功率是其重量和最大步行或巡航速度的数学乘积."
+  },
+  {
+    "id": "Gear_Engine_190.Description.UIName",
+    "content": "引擎核心190"
+  },
+  {
+    "id": "Gear_Engine_190.Description.Name",
+    "content": "引擎核心190"
+  },
+  {
+    "id": "Gear_Engine_190.Description.Manufacturer",
+    "content": "布林"
+  },
+  {
+    "id": "Gear_Engine_195.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\n聚变引擎根据其<b>引擎额定功率</b>区分.对于机甲来说,引擎额定功率是其重量和最大步行或巡航速度的数学乘积."
+  },
+  {
+    "id": "Gear_Engine_195.Description.UIName",
+    "content": "引擎核心195"
+  },
+  {
+    "id": "Gear_Engine_195.Description.Name",
+    "content": "引擎核心195"
+  },
+  {
+    "id": "Gear_Engine_195.Description.Manufacturer",
+    "content": "尼桑"
+  },
+  {
+    "id": "Gear_Engine_200.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\n聚变引擎根据其<b>引擎额定功率</b>区分.对于机甲来说,引擎额定功率是其重量和最大步行或巡航速度的数学乘积."
+  },
+  {
+    "id": "Gear_Engine_200.Description.UIName",
+    "content": "引擎核心200"
+  },
+  {
+    "id": "Gear_Engine_200.Description.Name",
+    "content": "引擎核心200"
+  },
+  {
+    "id": "Gear_Engine_200.Description.Manufacturer",
+    "content": "尼桑"
+  },
+  {
+    "id": "Gear_Engine_205.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\n聚变引擎根据其<b>引擎额定功率</b>区分.对于机甲来说,引擎额定功率是其重量和最大步行或巡航速度的数学乘积."
+  },
+  {
+    "id": "Gear_Engine_205.Description.UIName",
+    "content": "引擎核心205"
+  },
+  {
+    "id": "Gear_Engine_205.Description.Name",
+    "content": "引擎核心205"
+  },
+  {
+    "id": "Gear_Engine_205.Description.Manufacturer",
+    "content": "弗拉尔"
+  },
+  {
+    "id": "Gear_Engine_210.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\n聚变引擎根据其<b>引擎额定功率</b>区分.对于机甲来说,引擎额定功率是其重量和最大步行或巡航速度的数学乘积."
+  },
+  {
+    "id": "Gear_Engine_210.Description.UIName",
+    "content": "引擎核心210"
+  },
+  {
+    "id": "Gear_Engine_210.Description.Name",
+    "content": "引擎核心210"
+  },
+  {
+    "id": "Gear_Engine_210.Description.Manufacturer",
+    "content": "泛用"
+  },
+  {
+    "id": "Gear_Engine_215.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\n聚变引擎根据其<b>引擎额定功率</b>区分.对于机甲来说,引擎额定功率是其重量和最大步行或巡航速度的数学乘积."
+  },
+  {
+    "id": "Gear_Engine_215.Description.UIName",
+    "content": "引擎核心215"
+  },
+  {
+    "id": "Gear_Engine_215.Description.Name",
+    "content": "引擎核心215"
+  },
+  {
+    "id": "Gear_Engine_215.Description.Manufacturer",
+    "content": "泰克核心"
+  },
+  {
+    "id": "Gear_Engine_220.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\n聚变引擎根据其<b>引擎额定功率</b>区分.对于机甲来说,引擎额定功率是其重量和最大步行或巡航速度的数学乘积."
+  },
+  {
+    "id": "Gear_Engine_220.Description.UIName",
+    "content": "引擎核心220"
+  },
+  {
+    "id": "Gear_Engine_220.Description.Name",
+    "content": "引擎核心220"
+  },
+  {
+    "id": "Gear_Engine_220.Description.Manufacturer",
+    "content": "DAV"
+  },
+  {
+    "id": "Gear_Engine_225.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\n聚变引擎根据其<b>引擎额定功率</b>区分.对于机甲来说,引擎额定功率是其重量和最大步行或巡航速度的数学乘积."
+  },
+  {
+    "id": "Gear_Engine_225.Description.UIName",
+    "content": "引擎核心225"
+  },
+  {
+    "id": "Gear_Engine_225.Description.Name",
+    "content": "引擎核心225"
+  },
+  {
+    "id": "Gear_Engine_225.Description.Manufacturer",
+    "content": "VOX"
+  },
+  {
+    "id": "Gear_Engine_230.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\n聚变引擎根据其<b>引擎额定功率</b>区分.对于机甲来说,引擎额定功率是其重量和最大步行或巡航速度的数学乘积."
+  },
+  {
+    "id": "Gear_Engine_230.Description.UIName",
+    "content": "引擎核心230"
+  },
+  {
+    "id": "Gear_Engine_230.Description.Name",
+    "content": "引擎核心230"
+  },
+  {
+    "id": "Gear_Engine_230.Description.Manufacturer",
+    "content": "弗拉尔"
+  },
+  {
+    "id": "Gear_Engine_235.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\n聚变引擎根据其<b>引擎额定功率</b>区分.对于机甲来说,引擎额定功率是其重量和最大步行或巡航速度的数学乘积."
+  },
+  {
+    "id": "Gear_Engine_235.Description.UIName",
+    "content": "引擎核心235"
+  },
+  {
+    "id": "Gear_Engine_235.Description.Name",
+    "content": "引擎核心235"
+  },
+  {
+    "id": "Gear_Engine_235.Description.Manufacturer",
+    "content": "GM"
+  },
+  {
+    "id": "Gear_Engine_240.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\n聚变引擎根据其<b>引擎额定功率</b>区分.对于机甲来说,引擎额定功率是其重量和最大步行或巡航速度的数学乘积."
+  },
+  {
+    "id": "Gear_Engine_240.Description.UIName",
+    "content": "引擎核心240"
+  },
+  {
+    "id": "Gear_Engine_240.Description.Name",
+    "content": "引擎核心240"
+  },
+  {
+    "id": "Gear_Engine_240.Description.Manufacturer",
+    "content": "皮特班"
+  },
+  {
+    "id": "Gear_Engine_245.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\n聚变引擎根据其<b>引擎额定功率</b>区分.对于机甲来说,引擎额定功率是其重量和最大步行或巡航速度的数学乘积."
+  },
+  {
+    "id": "Gear_Engine_245.Description.UIName",
+    "content": "引擎核心245"
+  },
+  {
+    "id": "Gear_Engine_245.Description.Name",
+    "content": "引擎核心245"
+  },
+  {
+    "id": "Gear_Engine_245.Description.Manufacturer",
+    "content": "麦格纳"
+  },
+  {
+    "id": "Gear_Engine_250.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\n聚变引擎根据其<b>引擎额定功率</b>区分.对于机甲来说,引擎额定功率是其重量和最大步行或巡航速度的数学乘积."
+  },
+  {
+    "id": "Gear_Engine_250.Description.UIName",
+    "content": "引擎核心250"
+  },
+  {
+    "id": "Gear_Engine_250.Description.Name",
+    "content": "引擎核心250"
+  },
+  {
+    "id": "Gear_Engine_250.Description.Manufacturer",
+    "content": "麦格纳"
+  },
+  {
+    "id": "Gear_Engine_255.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\n聚变引擎根据其<b>引擎额定功率</b>区分.对于机甲来说,引擎额定功率是其重量和最大步行或巡航速度的数学乘积."
+  },
+  {
+    "id": "Gear_Engine_255.Description.UIName",
+    "content": "引擎核心255"
+  },
+  {
+    "id": "Gear_Engine_255.Description.Name",
+    "content": "引擎核心255"
+  },
+  {
+    "id": "Gear_Engine_255.Description.Manufacturer",
+    "content": "斯特兰德"
+  },
+  {
+    "id": "Gear_Engine_260.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\n聚变引擎根据其<b>引擎额定功率</b>区分.对于机甲来说,引擎额定功率是其重量和最大步行或巡航速度的数学乘积."
+  },
+  {
+    "id": "Gear_Engine_260.Description.UIName",
+    "content": "引擎核心260"
+  },
+  {
+    "id": "Gear_Engine_260.Description.Name",
+    "content": "引擎核心260"
+  },
+  {
+    "id": "Gear_Engine_260.Description.Manufacturer",
+    "content": "麦格纳"
+  },
+  {
+    "id": "Gear_Engine_265.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\n聚变引擎根据其<b>引擎额定功率</b>区分.对于机甲来说,引擎额定功率是其重量和最大步行或巡航速度的数学乘积."
+  },
+  {
+    "id": "Gear_Engine_265.Description.UIName",
+    "content": "引擎核心265"
+  },
+  {
+    "id": "Gear_Engine_265.Description.Name",
+    "content": "引擎核心265"
+  },
+  {
+    "id": "Gear_Engine_265.Description.Manufacturer",
+    "content": "斯特兰德"
+  },
+  {
+    "id": "Gear_Engine_270.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\n聚变引擎根据其<b>引擎额定功率</b>区分.对于机甲来说,引擎额定功率是其重量和最大步行或巡航速度的数学乘积."
+  },
+  {
+    "id": "Gear_Engine_270.Description.UIName",
+    "content": "引擎核心270"
+  },
+  {
+    "id": "Gear_Engine_270.Description.Name",
+    "content": "引擎核心270"
+  },
+  {
+    "id": "Gear_Engine_270.Description.Manufacturer",
+    "content": "GM"
+  },
+  {
+    "id": "Gear_Engine_275.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\n聚变引擎根据其<b>引擎额定功率</b>区分.对于机甲来说,引擎额定功率是其重量和最大步行或巡航速度的数学乘积."
+  },
+  {
+    "id": "Gear_Engine_275.Description.UIName",
+    "content": "引擎核心275"
+  },
+  {
+    "id": "Gear_Engine_275.Description.Name",
+    "content": "引擎核心275"
+  },
+  {
+    "id": "Gear_Engine_275.Description.Manufacturer",
+    "content": "泰克核心"
+  },
+  {
+    "id": "Gear_Engine_280.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\n聚变引擎根据其<b>引擎额定功率</b>区分.对于机甲来说,引擎额定功率是其重量和最大步行或巡航速度的数学乘积."
+  },
+  {
+    "id": "Gear_Engine_280.Description.UIName",
+    "content": "引擎核心280"
+  },
+  {
+    "id": "Gear_Engine_280.Description.Name",
+    "content": "引擎核心280"
+  },
+  {
+    "id": "Gear_Engine_280.Description.Manufacturer",
+    "content": "VOX"
+  },
+  {
+    "id": "Gear_Engine_285.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\n聚变引擎根据其<b>引擎额定功率</b>区分.对于机甲来说,引擎额定功率是其重量和最大步行或巡航速度的数学乘积."
+  },
+  {
+    "id": "Gear_Engine_285.Description.UIName",
+    "content": "引擎核心285"
+  },
+  {
+    "id": "Gear_Engine_285.Description.Name",
+    "content": "引擎核心285"
+  },
+  {
+    "id": "Gear_Engine_285.Description.Manufacturer",
+    "content": "皮特班"
+  },
+  {
+    "id": "Gear_Engine_290.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\n聚变引擎根据其<b>引擎额定功率</b>区分.对于机甲来说,引擎额定功率是其重量和最大步行或巡航速度的数学乘积."
+  },
+  {
+    "id": "Gear_Engine_290.Description.UIName",
+    "content": "引擎核心290"
+  },
+  {
+    "id": "Gear_Engine_290.Description.Name",
+    "content": "引擎核心290"
+  },
+  {
+    "id": "Gear_Engine_290.Description.Manufacturer",
+    "content": "泛用"
+  },
+  {
+    "id": "Gear_Engine_295.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\n聚变引擎根据其<b>引擎额定功率</b>区分.对于机甲来说,引擎额定功率是其重量和最大步行或巡航速度的数学乘积."
+  },
+  {
+    "id": "Gear_Engine_295.Description.UIName",
+    "content": "引擎核心295"
+  },
+  {
+    "id": "Gear_Engine_295.Description.Name",
+    "content": "引擎核心295"
+  },
+  {
+    "id": "Gear_Engine_295.Description.Manufacturer",
+    "content": "GM"
+  },
+  {
+    "id": "Gear_Engine_300.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\n聚变引擎根据其<b>引擎额定功率</b>区分.对于机甲来说,引擎额定功率是其重量和最大步行或巡航速度的数学乘积."
+  },
+  {
+    "id": "Gear_Engine_300.Description.UIName",
+    "content": "引擎核心300"
+  },
+  {
+    "id": "Gear_Engine_300.Description.Name",
+    "content": "引擎核心300"
+  },
+  {
+    "id": "Gear_Engine_300.Description.Manufacturer",
+    "content": "弗拉尔"
+  },
+  {
+    "id": "Gear_Engine_305.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\n聚变引擎根据其<b>引擎额定功率</b>区分.对于机甲来说,引擎额定功率是其重量和最大步行或巡航速度的数学乘积."
+  },
+  {
+    "id": "Gear_Engine_305.Description.UIName",
+    "content": "引擎核心305"
+  },
+  {
+    "id": "Gear_Engine_305.Description.Name",
+    "content": "引擎核心305"
+  },
+  {
+    "id": "Gear_Engine_305.Description.Manufacturer",
+    "content": "GM"
+  },
+  {
+    "id": "Gear_Engine_310.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\n聚变引擎根据其<b>引擎额定功率</b>区分.对于机甲来说,引擎额定功率是其重量和最大步行或巡航速度的数学乘积."
+  },
+  {
+    "id": "Gear_Engine_310.Description.UIName",
+    "content": "引擎核心310"
+  },
+  {
+    "id": "Gear_Engine_310.Description.Name",
+    "content": "引擎核心310"
+  },
+  {
+    "id": "Gear_Engine_310.Description.Manufacturer",
+    "content": "麦格纳"
+  },
+  {
+    "id": "Gear_Engine_315.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\n聚变引擎根据其<b>引擎额定功率</b>区分.对于机甲来说,引擎额定功率是其重量和最大步行或巡航速度的数学乘积."
+  },
+  {
+    "id": "Gear_Engine_315.Description.UIName",
+    "content": "引擎核心315"
+  },
+  {
+    "id": "Gear_Engine_315.Description.Name",
+    "content": "引擎核心315"
+  },
+  {
+    "id": "Gear_Engine_315.Description.Manufacturer",
+    "content": "埃达西奇"
+  },
+  {
+    "id": "Gear_Engine_320.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\n聚变引擎根据其<b>引擎额定功率</b>区分.对于机甲来说,引擎额定功率是其重量和最大步行或巡航速度的数学乘积."
+  },
+  {
+    "id": "Gear_Engine_320.Description.UIName",
+    "content": "引擎核心320"
+  },
+  {
+    "id": "Gear_Engine_320.Description.Name",
+    "content": "引擎核心320"
+  },
+  {
+    "id": "Gear_Engine_320.Description.Manufacturer",
+    "content": "皮特班"
+  },
+  {
+    "id": "Gear_Engine_325.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\n聚变引擎根据其<b>引擎额定功率</b>区分.对于机甲来说,引擎额定功率是其重量和最大步行或巡航速度的数学乘积."
+  },
+  {
+    "id": "Gear_Engine_325.Description.UIName",
+    "content": "引擎核心325"
+  },
+  {
+    "id": "Gear_Engine_325.Description.Name",
+    "content": "引擎核心325"
+  },
+  {
+    "id": "Gear_Engine_325.Description.Manufacturer",
+    "content": "VOX"
+  },
+  {
+    "id": "Gear_Engine_330.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\n聚变引擎根据其<b>引擎额定功率</b>区分.对于机甲来说,引擎额定功率是其重量和最大步行或巡航速度的数学乘积."
+  },
+  {
+    "id": "Gear_Engine_330.Description.UIName",
+    "content": "引擎核心330"
+  },
+  {
+    "id": "Gear_Engine_330.Description.Name",
+    "content": "引擎核心330"
+  },
+  {
+    "id": "Gear_Engine_330.Description.Manufacturer",
+    "content": "VOX"
+  },
+  {
+    "id": "Gear_Engine_335.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\n聚变引擎根据其<b>引擎额定功率</b>区分.对于机甲来说,引擎额定功率是其重量和最大步行或巡航速度的数学乘积."
+  },
+  {
+    "id": "Gear_Engine_335.Description.UIName",
+    "content": "引擎核心335"
+  },
+  {
+    "id": "Gear_Engine_335.Description.Name",
+    "content": "引擎核心335"
+  },
+  {
+    "id": "Gear_Engine_335.Description.Manufacturer",
+    "content": "LTV"
+  },
+  {
+    "id": "Gear_Engine_340.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\n聚变引擎根据其<b>引擎额定功率</b>区分.对于机甲来说,引擎额定功率是其重量和最大步行或巡航速度的数学乘积."
+  },
+  {
+    "id": "Gear_Engine_340.Description.UIName",
+    "content": "引擎核心340"
+  },
+  {
+    "id": "Gear_Engine_340.Description.Name",
+    "content": "引擎核心340"
+  },
+  {
+    "id": "Gear_Engine_340.Description.Manufacturer",
+    "content": "VOX"
+  },
+  {
+    "id": "Gear_Engine_345.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\n聚变引擎根据其<b>引擎额定功率</b>区分.对于机甲来说,引擎额定功率是其重量和最大步行或巡航速度的数学乘积."
+  },
+  {
+    "id": "Gear_Engine_345.Description.UIName",
+    "content": "引擎核心345"
+  },
+  {
+    "id": "Gear_Engine_345.Description.Name",
+    "content": "引擎核心345"
+  },
+  {
+    "id": "Gear_Engine_345.Description.Manufacturer",
+    "content": "弗拉尔"
+  },
+  {
+    "id": "Gear_Engine_350.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\n聚变引擎根据其<b>引擎额定功率</b>区分.对于机甲来说,引擎额定功率是其重量和最大步行或巡航速度的数学乘积."
+  },
+  {
+    "id": "Gear_Engine_350.Description.UIName",
+    "content": "引擎核心350"
+  },
+  {
+    "id": "Gear_Engine_350.Description.Name",
+    "content": "引擎核心350"
+  },
+  {
+    "id": "Gear_Engine_350.Description.Manufacturer",
+    "content": "麦格纳"
+  },
+  {
+    "id": "Gear_Engine_355.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\n聚变引擎根据其<b>引擎额定功率</b>区分.对于机甲来说,引擎额定功率是其重量和最大步行或巡航速度的数学乘积."
+  },
+  {
+    "id": "Gear_Engine_355.Description.UIName",
+    "content": "引擎核心355"
+  },
+  {
+    "id": "Gear_Engine_355.Description.Name",
+    "content": "引擎核心355"
+  },
+  {
+    "id": "Gear_Engine_355.Description.Manufacturer",
+    "content": "LTV"
+  },
+  {
+    "id": "Gear_Engine_360.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\n聚变引擎根据其<b>引擎额定功率</b>区分.对于机甲来说,引擎额定功率是其重量和最大步行或巡航速度的数学乘积."
+  },
+  {
+    "id": "Gear_Engine_360.Description.UIName",
+    "content": "引擎核心360"
+  },
+  {
+    "id": "Gear_Engine_360.Description.Name",
+    "content": "引擎核心360"
+  },
+  {
+    "id": "Gear_Engine_360.Description.Manufacturer",
+    "content": "赫耳墨斯"
+  },
+  {
+    "id": "Gear_Engine_365.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\n聚变引擎根据其<b>引擎额定功率</b>区分.对于机甲来说,引擎额定功率是其重量和最大步行或巡航速度的数学乘积."
+  },
+  {
+    "id": "Gear_Engine_365.Description.UIName",
+    "content": "引擎核心365"
+  },
+  {
+    "id": "Gear_Engine_365.Description.Name",
+    "content": "引擎核心365"
+  },
+  {
+    "id": "Gear_Engine_365.Description.Manufacturer",
+    "content": "赫耳墨斯"
+  },
+  {
+    "id": "Gear_Engine_370.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\n聚变引擎根据其<b>引擎额定功率</b>区分.对于机甲来说,引擎额定功率是其重量和最大步行或巡航速度的数学乘积."
+  },
+  {
+    "id": "Gear_Engine_370.Description.UIName",
+    "content": "引擎核心370"
+  },
+  {
+    "id": "Gear_Engine_370.Description.Name",
+    "content": "引擎核心370"
+  },
+  {
+    "id": "Gear_Engine_370.Description.Manufacturer",
+    "content": "麦格纳"
+  },
+  {
+    "id": "Gear_Engine_375.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\n聚变引擎根据其<b>引擎额定功率</b>区分.对于机甲来说,引擎额定功率是其重量和最大步行或巡航速度的数学乘积."
+  },
+  {
+    "id": "Gear_Engine_375.Description.UIName",
+    "content": "引擎核心375"
+  },
+  {
+    "id": "Gear_Engine_375.Description.Name",
+    "content": "引擎核心375"
+  },
+  {
+    "id": "Gear_Engine_375.Description.Manufacturer",
+    "content": "GM"
+  },
+  {
+    "id": "Gear_Engine_380.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\n聚变引擎根据其<b>引擎额定功率</b>区分.对于机甲来说,引擎额定功率是其重量和最大步行或巡航速度的数学乘积."
+  },
+  {
+    "id": "Gear_Engine_380.Description.UIName",
+    "content": "引擎核心380"
+  },
+  {
+    "id": "Gear_Engine_380.Description.Name",
+    "content": "引擎核心380"
+  },
+  {
+    "id": "Gear_Engine_380.Description.Manufacturer",
+    "content": "GM"
+  },
+  {
+    "id": "Gear_Engine_385.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\n聚变引擎根据其<b>引擎额定功率</b>区分.对于机甲来说,引擎额定功率是其重量和最大步行或巡航速度的数学乘积."
+  },
+  {
+    "id": "Gear_Engine_385.Description.UIName",
+    "content": "引擎核心385"
+  },
+  {
+    "id": "Gear_Engine_385.Description.Name",
+    "content": "引擎核心385"
+  },
+  {
+    "id": "Gear_Engine_385.Description.Manufacturer",
+    "content": "泰克核心"
+  },
+  {
+    "id": "Gear_Engine_390.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\n聚变引擎根据其<b>引擎额定功率</b>区分.对于机甲来说,引擎额定功率是其重量和最大步行或巡航速度的数学乘积."
+  },
+  {
+    "id": "Gear_Engine_390.Description.UIName",
+    "content": "引擎核心390"
+  },
+  {
+    "id": "Gear_Engine_390.Description.Name",
+    "content": "引擎核心390"
+  },
+  {
+    "id": "Gear_Engine_390.Description.Manufacturer",
+    "content": "麦格纳"
+  },
+  {
+    "id": "Gear_Engine_395.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\n聚变引擎根据其<b>引擎额定功率</b>区分.对于机甲来说,引擎额定功率是其重量和最大步行或巡航速度的数学乘积."
+  },
+  {
+    "id": "Gear_Engine_395.Description.UIName",
+    "content": "引擎核心395"
+  },
+  {
+    "id": "Gear_Engine_395.Description.Name",
+    "content": "引擎核心395"
+  },
+  {
+    "id": "Gear_Engine_395.Description.Manufacturer",
+    "content": "赫耳墨斯"
+  },
+  {
+    "id": "Gear_Engine_400.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\n聚变引擎根据其<b>引擎额定功率</b>区分.对于机甲来说,引擎额定功率是其重量和最大步行或巡航速度的数学乘积."
+  },
+  {
+    "id": "Gear_Engine_400.Description.UIName",
+    "content": "引擎核心400"
+  },
+  {
+    "id": "Gear_Engine_400.Description.Name",
+    "content": "引擎核心400"
+  },
+  {
+    "id": "Gear_Engine_400.Description.Manufacturer",
+    "content": "LTV"
+  },
+  {
+    "id": "Gear_Engine_405.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\n聚变引擎根据其<b>引擎额定功率</b>区分.对于机甲来说,引擎额定功率是其重量和最大步行或巡航速度的数学乘积."
+  },
+  {
+    "id": "Gear_Engine_405.Description.UIName",
+    "content": "引擎核心405"
+  },
+  {
+    "id": "Gear_Engine_405.Description.Name",
+    "content": "引擎核心405"
+  },
+  {
+    "id": "Gear_Engine_405.Description.Manufacturer",
+    "content": "LTV"
+  },
+  {
+    "id": "Gear_Engine_410.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\n聚变引擎根据其<b>引擎额定功率</b>区分.对于机甲来说,引擎额定功率是其重量和最大步行或巡航速度的数学乘积."
+  },
+  {
+    "id": "Gear_Engine_410.Description.UIName",
+    "content": "引擎核心410"
+  },
+  {
+    "id": "Gear_Engine_410.Description.Name",
+    "content": "引擎核心410"
+  },
+  {
+    "id": "Gear_Engine_410.Description.Manufacturer",
+    "content": "LTV"
+  },
+  {
+    "id": "Gear_Engine_415.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\n聚变引擎根据其<b>引擎额定功率</b>区分.对于机甲来说,引擎额定功率是其重量和最大步行或巡航速度的数学乘积."
+  },
+  {
+    "id": "Gear_Engine_415.Description.UIName",
+    "content": "引擎核心415"
+  },
+  {
+    "id": "Gear_Engine_415.Description.Name",
+    "content": "引擎核心415"
+  },
+  {
+    "id": "Gear_Engine_415.Description.Manufacturer",
+    "content": "LTV"
+  },
+  {
+    "id": "Gear_Engine_420.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\n聚变引擎根据其<b>引擎额定功率</b>区分.对于机甲来说,引擎额定功率是其重量和最大步行或巡航速度的数学乘积."
+  },
+  {
+    "id": "Gear_Engine_420.Description.UIName",
+    "content": "引擎核心420"
+  },
+  {
+    "id": "Gear_Engine_420.Description.Name",
+    "content": "引擎核心420"
+  },
+  {
+    "id": "Gear_Engine_420.Description.Manufacturer",
+    "content": "LTV"
+  },
+  {
+    "id": "Gear_Engine_425.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\r\n聚变引擎根据其<b>引擎额定功率</b>区分.当引擎功率超过400时制造和安装聚变引擎的成本开始以几合倍数提升."
+  },
+  {
+    "id": "Gear_Engine_425.Description.UIName",
+    "content": "引擎核心425"
+  },
+  {
+    "id": "Gear_Engine_425.Description.Name",
+    "content": "引擎核心425"
+  },
+  {
+    "id": "Gear_Engine_425.Description.Manufacturer",
+    "content": "EXP"
+  },
+  {
+    "id": "Gear_Engine_430.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\r\n聚变引擎根据其<b>引擎额定功率</b>区分.当引擎功率超过400时制造和安装聚变引擎的成本开始以几合倍数提升."
+  },
+  {
+    "id": "Gear_Engine_430.Description.UIName",
+    "content": "引擎核心430"
+  },
+  {
+    "id": "Gear_Engine_430.Description.Name",
+    "content": "引擎核心430"
+  },
+  {
+    "id": "Gear_Engine_430.Description.Manufacturer",
+    "content": "EXP"
+  },
+  {
+    "id": "Gear_Engine_435.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\r\n聚变引擎根据其<b>引擎额定功率</b>区分.当引擎功率超过400时制造和安装聚变引擎的成本开始以几合倍数提升."
+  },
+  {
+    "id": "Gear_Engine_435.Description.UIName",
+    "content": "引擎核心435"
+  },
+  {
+    "id": "Gear_Engine_435.Description.Name",
+    "content": "引擎核心435"
+  },
+  {
+    "id": "Gear_Engine_435.Description.Manufacturer",
+    "content": "EXP"
+  },
+  {
+    "id": "Gear_Engine_440.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\r\n聚变引擎根据其<b>引擎额定功率</b>区分.当引擎功率超过400时制造和安装聚变引擎的成本开始以几合倍数提升."
+  },
+  {
+    "id": "Gear_Engine_440.Description.UIName",
+    "content": "引擎核心440"
+  },
+  {
+    "id": "Gear_Engine_440.Description.Name",
+    "content": "引擎核心440"
+  },
+  {
+    "id": "Gear_Engine_440.Description.Manufacturer",
+    "content": "EXP"
+  },
+  {
+    "id": "Gear_Engine_445.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\r\n聚变引擎根据其<b>引擎额定功率</b>区分.当引擎功率超过400时制造和安装聚变引擎的成本开始以几合倍数提升."
+  },
+  {
+    "id": "Gear_Engine_445.Description.UIName",
+    "content": "引擎核心445"
+  },
+  {
+    "id": "Gear_Engine_445.Description.Name",
+    "content": "引擎核心445"
+  },
+  {
+    "id": "Gear_Engine_445.Description.Manufacturer",
+    "content": "EXP"
+  },
+  {
+    "id": "Gear_Engine_450.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\r\n聚变引擎根据其<b>引擎额定功率</b>区分.当引擎功率超过400时制造和安装聚变引擎的成本开始以几合倍数提升."
+  },
+  {
+    "id": "Gear_Engine_450.Description.UIName",
+    "content": "引擎核心450"
+  },
+  {
+    "id": "Gear_Engine_450.Description.Name",
+    "content": "引擎核心450"
+  },
+  {
+    "id": "Gear_Engine_450.Description.Manufacturer",
+    "content": "EXP"
+  },
+  {
+    "id": "Gear_Engine_460.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\r\n聚变引擎根据其<b>引擎额定功率</b>区分.当引擎功率超过400时制造和安装聚变引擎的成本开始以几合倍数提升."
+  },
+  {
+    "id": "Gear_Engine_460.Description.UIName",
+    "content": "引擎核心460"
+  },
+  {
+    "id": "Gear_Engine_460.Description.Name",
+    "content": "引擎核心460"
+  },
+  {
+    "id": "Gear_Engine_460.Description.Manufacturer",
+    "content": "EXP"
+  },
+  {
+    "id": "Gear_Engine_475.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\r\n聚变引擎根据其<b>引擎额定功率</b>区分.当引擎功率超过400时制造和安装聚变引擎的成本开始以几合倍数提升."
+  },
+  {
+    "id": "Gear_Engine_475.Description.UIName",
+    "content": "引擎核心475"
+  },
+  {
+    "id": "Gear_Engine_475.Description.Name",
+    "content": "引擎核心475"
+  },
+  {
+    "id": "Gear_Engine_475.Description.Manufacturer",
+    "content": "EXP"
+  },
+  {
+    "id": "Gear_Engine_500.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\r\n聚变引擎根据其<b>引擎额定功率</b>区分.当引擎功率超过400时制造和安装聚变引擎的成本开始以几合倍数提升."
+  },
+  {
+    "id": "Gear_Engine_500.Description.UIName",
+    "content": "引擎核心500"
+  },
+  {
+    "id": "Gear_Engine_500.Description.Name",
+    "content": "引擎核心500"
+  },
+  {
+    "id": "Gear_Engine_500.Description.Manufacturer",
+    "content": "EXP"
+  },
+  {
+    "id": "emod_engineslots_compact_center.Description.Details",
+    "content": "紧凑型聚变引擎在机械结构上类似于标准聚变引擎,但使用了更致密的辐射屏蔽材料.紧凑型聚变引擎比标准型重量增加了50%,但占用较少核心躯干空间,受到致命损伤命中的机率更小."
+  },
+  {
+    "id": "emod_engineslots_compact_center.Description.UIName",
+    "content": "紧凑型引擎"
+  },
+  {
+    "id": "emod_engineslots_compact_center.Description.Name",
+    "content": "紧凑型引擎"
+  },
+  {
+    "id": "emod_engineslots_compact_center.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "emod_engineslots_light_center.Description.Details",
+    "content": "轻型聚变引擎在机械结构上类似于超轻型聚变引擎,但使用了失落科技能量屏蔽能够使机甲在两侧躯干损毁中幸存.轻型聚变引擎重量只有标准型的75%.并且侵入了战斗机甲的两侧躯干."
+  },
+  {
+    "id": "emod_engineslots_light_center.Description.UIName",
+    "content": "轻型引擎"
+  },
+  {
+    "id": "emod_engineslots_light_center.Description.Name",
+    "content": "轻型引擎"
+  },
+  {
+    "id": "emod_engineslots_light_center.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "emod_engineslots_size2.Description.Details",
+    "content": "引擎扩入了两侧躯干."
+  },
+  {
+    "id": "emod_engineslots_size2.Description.UIName",
+    "content": "标准引擎"
+  },
+  {
+    "id": "emod_engineslots_size2.Description.Name",
+    "content": "标准引擎"
+  },
+  {
+    "id": "emod_engineslots_size2.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "emod_engineslots_size3.Description.Details",
+    "content": "引擎扩入了两侧躯干."
+  },
+  {
+    "id": "emod_engineslots_size3.Description.UIName",
+    "content": "标准引擎"
+  },
+  {
+    "id": "emod_engineslots_size3.Description.Name",
+    "content": "标准引擎"
+  },
+  {
+    "id": "emod_engineslots_size3.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "emod_engineslots_size4.Description.Details",
+    "content": "引擎扩入了两侧躯干."
+  },
+  {
+    "id": "emod_engineslots_size4.Description.UIName",
+    "content": "标准引擎"
+  },
+  {
+    "id": "emod_engineslots_size4.Description.Name",
+    "content": "标准引擎"
+  },
+  {
+    "id": "emod_engineslots_size4.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "emod_engineslots_size6.Description.Details",
+    "content": "引擎扩入了两侧躯干."
+  },
+  {
+    "id": "emod_engineslots_size6.Description.UIName",
+    "content": "标准引擎"
+  },
+  {
+    "id": "emod_engineslots_size6.Description.Name",
+    "content": "标准引擎"
+  },
+  {
+    "id": "emod_engineslots_size6.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "emod_engineslots_size8.Description.Details",
+    "content": "引擎扩入了两侧躯干."
+  },
+  {
+    "id": "emod_engineslots_size8.Description.UIName",
+    "content": "标准引擎"
+  },
+  {
+    "id": "emod_engineslots_size8.Description.Name",
+    "content": "标准引擎"
+  },
+  {
+    "id": "emod_engineslots_size8.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "emod_engineslots_std_center.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\n聚变引擎根据其<b>引擎额定功率</b>区分.对于机甲来说,引擎额定功率是其重量和最大步行或巡航速度的数学乘积."
+  },
+  {
+    "id": "emod_engineslots_std_center.Description.UIName",
+    "content": "标准引擎"
+  },
+  {
+    "id": "emod_engineslots_std_center.Description.Name",
+    "content": "标准引擎"
+  },
+  {
+    "id": "emod_engineslots_std_center.Description.Manufacturer",
+    "content": "弗拉尔"
+  },
+  {
+    "id": "emod_engineslots_xl_center.Description.Details",
+    "content": "超轻量化聚变引擎在机械结构上类似于标准聚变引擎,但使用了更轻的辐射屏蔽材料.超轻型聚变引擎重量只有标准型的一半.超轻型聚变引擎是标准型体积的两倍并且侵入了战斗机甲的两侧躯干."
+  },
+  {
+    "id": "emod_engineslots_xl_center.Description.UIName",
+    "content": "超轻型引擎"
+  },
+  {
+    "id": "emod_engineslots_xl_center.Description.Name",
+    "content": "超轻型引擎"
+  },
+  {
+    "id": "emod_engineslots_xl_center.Description.Manufacturer",
+    "content": "失落技术"
+  },
+  {
+    "id": "emod_engineslots_xxl_center.Description.Details",
+    "content": "极端轻量化聚变引擎在机械结构上类似于标准聚变引擎,但使用了更轻的辐射屏蔽材料.极轻型聚变引擎重量只有标准型的三分之一,但是侵入了战斗机甲的两侧躯干并且产生额外的废热."
+  },
+  {
+    "id": "emod_engineslots_xxl_center.Description.UIName",
+    "content": "极轻型引擎"
+  },
+  {
+    "id": "emod_engineslots_xxl_center.Description.Name",
+    "content": "极轻型引擎"
+  },
+  {
+    "id": "emod_engineslots_xxl_center.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "emod_kit_shs.Description.Details",
+    "content": "机甲的<b>冷却系统</b>为机甲的内部部件提供冷却,并更改机甲上外部散热器挂载点的适配类型."
+  },
+  {
+    "id": "emod_kit_shs.Description.UIName",
+    "content": "冷却系统"
+  },
+  {
+    "id": "emod_kit_shs.Description.Name",
+    "content": "冷却系统"
+  },
+  {
+    "id": "emod_kit_shs.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Gear_Engine_dummy.Description.Details",
+    "content": "<b><color=#ff0000>聚变核心空置!</color></b>\n\n<b><color=#ff0000>安装新的引擎核心!</color></b>"
+  },
+  {
+    "id": "Gear_Engine_dummy.Description.UIName",
+    "content": "安装聚变核心"
+  },
+  {
+    "id": "Gear_Engine_dummy.Description.Name",
+    "content": "聚变核心?"
+  },
+  {
+    "id": "Gear_Engine_Heatsinks.Description.Details",
+    "content": "引擎再生冷却系统使用废热发电,是机甲冷却系统的一部分.引擎的一体式散热器(也称自由散热器)不是常见的机甲散热器,占用的体积更小."
+  },
+  {
+    "id": "Gear_Engine_Heatsinks.Description.UIName",
+    "content": "引擎散热器"
+  },
+  {
+    "id": "Gear_Engine_Heatsinks.Description.Name",
+    "content": "引擎散热器"
+  },
+  {
+    "id": "Gear_Engine_Heatsinks.Description.Manufacturer",
+    "content": "弗拉尔"
+  },
+  {
+    "id": "Gear_Engine_Heatsinks_1.Description.Details",
+    "content": "引擎再生冷却系统使用废热发电,是机甲冷却系统的一部分.引擎的一体式散热器(也称自由散热器)不是常见的机甲散热器,占用的体积更小."
+  },
+  {
+    "id": "Gear_Engine_Heatsinks_1.Description.UIName",
+    "content": "引擎散热器 +1"
+  },
+  {
+    "id": "Gear_Engine_Heatsinks_1.Description.Name",
+    "content": "引擎冷却 +1"
+  },
+  {
+    "id": "Gear_Engine_Heatsinks_1.Description.Manufacturer",
+    "content": "弗拉尔"
+  },
+  {
+    "id": "Gear_Engine_Heatsinks_10.Description.Details",
+    "content": "引擎再生冷却系统使用废热发电,是机甲冷却系统的一部分.引擎的一体式散热器(也称自由散热器)不是常见的机甲散热器,占用的体积更小."
+  },
+  {
+    "id": "Gear_Engine_Heatsinks_10.Description.UIName",
+    "content": "引擎散热器 +10"
+  },
+  {
+    "id": "Gear_Engine_Heatsinks_10.Description.Name",
+    "content": "引擎冷却 +10"
+  },
+  {
+    "id": "Gear_Engine_Heatsinks_10.Description.Manufacturer",
+    "content": "弗拉尔"
+  },
+  {
+    "id": "Gear_Engine_Heatsinks_2.Description.Details",
+    "content": "引擎再生冷却系统使用废热发电,是机甲冷却系统的一部分.引擎的一体式散热器(也称自由散热器)不是常见的机甲散热器,占用的体积更小."
+  },
+  {
+    "id": "Gear_Engine_Heatsinks_2.Description.UIName",
+    "content": "引擎散热器 +2"
+  },
+  {
+    "id": "Gear_Engine_Heatsinks_2.Description.Name",
+    "content": "引擎冷却 +2"
+  },
+  {
+    "id": "Gear_Engine_Heatsinks_2.Description.Manufacturer",
+    "content": "弗拉尔"
+  },
+  {
+    "id": "Gear_Engine_Heatsinks_3.Description.Details",
+    "content": "引擎再生冷却系统使用废热发电,是机甲冷却系统的一部分.引擎的一体式散热器(也称自由散热器)不是常见的机甲散热器,占用的体积更小."
+  },
+  {
+    "id": "Gear_Engine_Heatsinks_3.Description.UIName",
+    "content": "引擎散热器 +3"
+  },
+  {
+    "id": "Gear_Engine_Heatsinks_3.Description.Name",
+    "content": "引擎冷却 +3"
+  },
+  {
+    "id": "Gear_Engine_Heatsinks_3.Description.Manufacturer",
+    "content": "弗拉尔"
+  },
+  {
+    "id": "Gear_Engine_Heatsinks_4.Description.Details",
+    "content": "引擎再生冷却系统使用废热发电,是机甲冷却系统的一部分.引擎的一体式散热器(也称自由散热器)不是常见的机甲散热器,占用的体积更小."
+  },
+  {
+    "id": "Gear_Engine_Heatsinks_4.Description.UIName",
+    "content": "引擎散热器 +4"
+  },
+  {
+    "id": "Gear_Engine_Heatsinks_4.Description.Name",
+    "content": "引擎冷却 +4"
+  },
+  {
+    "id": "Gear_Engine_Heatsinks_4.Description.Manufacturer",
+    "content": "弗拉尔"
+  },
+  {
+    "id": "Gear_Engine_Heatsinks_5.Description.Details",
+    "content": "引擎再生冷却系统使用废热发电,是机甲冷却系统的一部分.引擎的一体式散热器(也称自由散热器)不是常见的机甲散热器,占用的体积更小."
+  },
+  {
+    "id": "Gear_Engine_Heatsinks_5.Description.UIName",
+    "content": "引擎散热器 +5"
+  },
+  {
+    "id": "Gear_Engine_Heatsinks_5.Description.Name",
+    "content": "引擎冷却 +5"
+  },
+  {
+    "id": "Gear_Engine_Heatsinks_5.Description.Manufacturer",
+    "content": "弗拉尔"
+  },
+  {
+    "id": "Gear_Engine_Heatsinks_6.Description.Details",
+    "content": "引擎再生冷却系统使用废热发电,是机甲冷却系统的一部分.引擎的一体式散热器(也称自由散热器)不是常见的机甲散热器,占用的体积更小."
+  },
+  {
+    "id": "Gear_Engine_Heatsinks_6.Description.UIName",
+    "content": "引擎散热器 +6"
+  },
+  {
+    "id": "Gear_Engine_Heatsinks_6.Description.Name",
+    "content": "引擎冷却 +6"
+  },
+  {
+    "id": "Gear_Engine_Heatsinks_6.Description.Manufacturer",
+    "content": "弗拉尔"
+  },
+  {
+    "id": "Gear_Engine_Heatsinks_7.Description.Details",
+    "content": "引擎再生冷却系统使用废热发电,是机甲冷却系统的一部分.引擎的一体式散热器(也称自由散热器)不是常见的机甲散热器,占用的体积更小."
+  },
+  {
+    "id": "Gear_Engine_Heatsinks_7.Description.UIName",
+    "content": "引擎散热器 +7"
+  },
+  {
+    "id": "Gear_Engine_Heatsinks_7.Description.Name",
+    "content": "引擎冷却 +7"
+  },
+  {
+    "id": "Gear_Engine_Heatsinks_7.Description.Manufacturer",
+    "content": "弗拉尔"
+  },
+  {
+    "id": "Gear_Engine_Heatsinks_8.Description.Details",
+    "content": "引擎再生冷却系统使用废热发电,是机甲冷却系统的一部分.引擎的一体式散热器(也称自由散热器)不是常见的机甲散热器,占用的体积更小."
+  },
+  {
+    "id": "Gear_Engine_Heatsinks_8.Description.UIName",
+    "content": "引擎散热器 +8"
+  },
+  {
+    "id": "Gear_Engine_Heatsinks_8.Description.Name",
+    "content": "引擎冷却 +8"
+  },
+  {
+    "id": "Gear_Engine_Heatsinks_8.Description.Manufacturer",
+    "content": "弗拉尔"
+  },
+  {
+    "id": "Gear_Engine_Heatsinks_9.Description.Details",
+    "content": "引擎再生冷却系统使用废热发电,是机甲冷却系统的一部分.引擎的一体式散热器(也称自由散热器)不是常见的机甲散热器,占用的体积更小."
+  },
+  {
+    "id": "Gear_Engine_Heatsinks_9.Description.UIName",
+    "content": "引擎散热器 +9"
+  },
+  {
+    "id": "Gear_Engine_Heatsinks_9.Description.Name",
+    "content": "引擎冷却 +9"
+  },
+  {
+    "id": "Gear_Engine_Heatsinks_9.Description.Manufacturer",
+    "content": "弗拉尔"
+  },
+  {
+    "id": "Gear_Engine_LaserHeatsinks_1.Description.Details",
+    "content": "内部激光散热器,可添加到配备激光散热冷却套件的适当尺寸的'机甲'引擎.引擎的一体式散热器(也称自由散热器)不是常见的机甲散热器,占用的体积更小."
+  },
+  {
+    "id": "Gear_Engine_LaserHeatsinks_1.Description.UIName",
+    "content": "引擎激光散热器 +1"
+  },
+  {
+    "id": "Gear_Engine_LaserHeatsinks_1.Description.Name",
+    "content": "引擎冷却 +1"
+  },
+  {
+    "id": "Gear_Engine_LaserHeatsinks_1.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Gear_Engine_LaserHeatsinks_10.Description.Details",
+    "content": "内部激光散热器,可添加到配备激光散热冷却套件的适当尺寸的'机甲'引擎.引擎的一体式散热器(也称自由散热器)不是常见的机甲散热器,占用的体积更小."
+  },
+  {
+    "id": "Gear_Engine_LaserHeatsinks_10.Description.UIName",
+    "content": "引擎激光散热器 +10"
+  },
+  {
+    "id": "Gear_Engine_LaserHeatsinks_10.Description.Name",
+    "content": "引擎冷却 +10"
+  },
+  {
+    "id": "Gear_Engine_LaserHeatsinks_10.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Gear_Engine_LaserHeatsinks_2.Description.Details",
+    "content": "内部激光散热器,可添加到配备激光散热冷却套件的适当尺寸的'机甲'引擎.引擎的一体式散热器(也称自由散热器)不是常见的机甲散热器,占用的体积更小."
+  },
+  {
+    "id": "Gear_Engine_LaserHeatsinks_2.Description.UIName",
+    "content": "引擎激光散热器 +2"
+  },
+  {
+    "id": "Gear_Engine_LaserHeatsinks_2.Description.Name",
+    "content": "引擎冷却 +2"
+  },
+  {
+    "id": "Gear_Engine_LaserHeatsinks_2.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Gear_Engine_LaserHeatsinks_3.Description.Details",
+    "content": "内部激光散热器,可添加到配备激光散热冷却套件的适当尺寸的'机甲'引擎.引擎的一体式散热器(也称自由散热器)不是常见的机甲散热器,占用的体积更小."
+  },
+  {
+    "id": "Gear_Engine_LaserHeatsinks_3.Description.UIName",
+    "content": "引擎激光散热器 +3"
+  },
+  {
+    "id": "Gear_Engine_LaserHeatsinks_3.Description.Name",
+    "content": "引擎冷却 +3"
+  },
+  {
+    "id": "Gear_Engine_LaserHeatsinks_3.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Gear_Engine_LaserHeatsinks_4.Description.Details",
+    "content": "内部激光散热器,可添加到配备激光散热冷却套件的适当尺寸的'机甲'引擎.引擎的一体式散热器(也称自由散热器)不是常见的机甲散热器,占用的体积更小."
+  },
+  {
+    "id": "Gear_Engine_LaserHeatsinks_4.Description.UIName",
+    "content": "引擎激光散热器 +4"
+  },
+  {
+    "id": "Gear_Engine_LaserHeatsinks_4.Description.Name",
+    "content": "引擎冷却 +4"
+  },
+  {
+    "id": "Gear_Engine_LaserHeatsinks_4.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Gear_Engine_LaserHeatsinks_5.Description.Details",
+    "content": "内部激光散热器,可添加到配备激光散热冷却套件的适当尺寸的'机甲'引擎.引擎的一体式散热器(也称自由散热器)不是常见的机甲散热器,占用的体积更小."
+  },
+  {
+    "id": "Gear_Engine_LaserHeatsinks_5.Description.UIName",
+    "content": "引擎激光散热器 +5"
+  },
+  {
+    "id": "Gear_Engine_LaserHeatsinks_5.Description.Name",
+    "content": "引擎冷却 +5"
+  },
+  {
+    "id": "Gear_Engine_LaserHeatsinks_5.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Gear_Engine_LaserHeatsinks_6.Description.Details",
+    "content": "内部激光散热器,可添加到配备激光散热冷却套件的适当尺寸的'机甲'引擎.引擎的一体式散热器(也称自由散热器)不是常见的机甲散热器,占用的体积更小."
+  },
+  {
+    "id": "Gear_Engine_LaserHeatsinks_6.Description.UIName",
+    "content": "引擎激光散热器 +6"
+  },
+  {
+    "id": "Gear_Engine_LaserHeatsinks_6.Description.Name",
+    "content": "引擎冷却 +6"
+  },
+  {
+    "id": "Gear_Engine_LaserHeatsinks_6.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Gear_Engine_LaserHeatsinks_7.Description.Details",
+    "content": "内部激光散热器,可添加到配备激光散热冷却套件的适当尺寸的'机甲'引擎.引擎的一体式散热器(也称自由散热器)不是常见的机甲散热器,占用的体积更小."
+  },
+  {
+    "id": "Gear_Engine_LaserHeatsinks_7.Description.UIName",
+    "content": "引擎激光散热器 +7"
+  },
+  {
+    "id": "Gear_Engine_LaserHeatsinks_7.Description.Name",
+    "content": "引擎冷却 +7"
+  },
+  {
+    "id": "Gear_Engine_LaserHeatsinks_7.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Gear_Engine_LaserHeatsinks_8.Description.Details",
+    "content": "内部激光散热器,可添加到配备激光散热冷却套件的适当尺寸的'机甲'引擎.引擎的一体式散热器(也称自由散热器)不是常见的机甲散热器,占用的体积更小."
+  },
+  {
+    "id": "Gear_Engine_LaserHeatsinks_8.Description.UIName",
+    "content": "引擎激光散热器 +8"
+  },
+  {
+    "id": "Gear_Engine_LaserHeatsinks_8.Description.Name",
+    "content": "引擎冷却 +8"
+  },
+  {
+    "id": "Gear_Engine_LaserHeatsinks_8.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Gear_Engine_LaserHeatsinks_9.Description.Details",
+    "content": "内部激光散热器,可添加到配备激光散热冷却套件的适当尺寸的'机甲'引擎.引擎的一体式散热器(也称自由散热器)不是常见的机甲散热器,占用的体积更小."
+  },
+  {
+    "id": "Gear_Engine_LaserHeatsinks_9.Description.UIName",
+    "content": "引擎激光散热器 +9"
+  },
+  {
+    "id": "Gear_Engine_LaserHeatsinks_9.Description.Name",
+    "content": "引擎冷却 +9"
+  },
+  {
+    "id": "Gear_Engine_LaserHeatsinks_9.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "emod_case.Description.Details",
+    "content": "CASE是蜂窝弹药存储设备的缩写.在内部爆炸中,CASE防止爆炸蔓延到相邻的机甲舱室.虽然CASE不能阻止保护部位内的损坏,但它可以阻止爆炸冲击波穿过它,这有助于防止弹药爆炸波及机甲的手臂和核心躯干."
+  },
+  {
+    "id": "emod_case.Description.UIName",
+    "content": "C.A.S.E."
+  },
+  {
+    "id": "emod_case.Description.Name",
+    "content": "C.A.S.E."
+  },
+  {
+    "id": "emod_case.Description.Manufacturer",
+    "content": "反抗军"
+  },
+  {
+    "id": "emod_case2.Description.Details",
+    "content": "CASE II是标准CASE的实验版本.当内部爆炸发生时,CASE II降低安装部位内部结构受到的伤害,使爆炸对结构只造成5点伤害."
+  },
+  {
+    "id": "emod_case2.Description.UIName",
+    "content": "C.A.S.E. II"
+  },
+  {
+    "id": "emod_case2.Description.Name",
+    "content": "C.A.S.E. II"
+  },
+  {
+    "id": "emod_case2.Description.Manufacturer",
+    "content": "浪人"
+  }
+]

@@ -1,0 +1,1434 @@
+[
+  {
+    "id": "Lootable_Actuator_CoolingJacket.Description.Details",
+    "content": "这个冷却套只是一个连接到手臂机构周围的热交换器,我必须说,我对此印象深刻......如果它不爆炸的话."
+  },
+  {
+    "id": "Lootable_Actuator_CoolingJacket.Description.UIName",
+    "content": "冷却套"
+  },
+  {
+    "id": "Lootable_Actuator_CoolingJacket.Description.Name",
+    "content": "肩部冷却模块"
+  },
+  {
+    "id": "Lootable_Actuator_CoolingJacket.Description.Manufacturer",
+    "content": "天才"
+  },
+  {
+    "id": "Lootable_Actuator_CoolingJacket.StatusEffect-Heat_Shoulder.statusEffects0.Details",
+    "content": "-20%产热"
+  },
+  {
+    "id": "Lootable_Actuator_CoolingJacket.StatusEffect-Heat_Shoulder.statusEffects0.Name",
+    "content": "减少产热"
+  },
+  {
+    "id": "lootable_engineslots_FuelCell_center.Description.Details",
+    "content": "燃料电池发动机主要用于轨道系统、个人运输和工业机甲等民间应用.燃料电池发动机产生电力,然后由载具用于操作其推进系统.燃料电池发动机与普通的内燃机相比具有几个优点.虽然它们都需要氧化剂才能运行,但它们可以随时使用储存的氧化剂及燃料,这使其成为潜艇、卫星和海军应用的良好选择.由于大多数燃料电池依靠氢气和氧气运行,它们除了水蒸气之外没有废气,因此燃料电池也被用作建筑物和其他大型结构的发电机.无法使用额外冷却套件、换热器或蓄热器."
+  },
+  {
+    "id": "lootable_engineslots_FuelCell_center.Description.UIName",
+    "content": "燃料电池引擎"
+  },
+  {
+    "id": "lootable_engineslots_FuelCell_center.Description.Name",
+    "content": "燃料电池引擎"
+  },
+  {
+    "id": "lootable_engineslots_FuelCell_center.Description.Manufacturer",
+    "content": "弗拉尔"
+  },
+  {
+    "id": "lootable_engineslots_FuelCell_center.StatusEffect-Heat_ICE.statusEffects0.Details",
+    "content": "+15%产热."
+  },
+  {
+    "id": "lootable_engineslots_FuelCell_center.FuelCellExplosionRange.statusEffects1.Details",
+    "content": "引擎发出轰鸣"
+  },
+  {
+    "id": "lootable_engineslots_FuelCell_center.FuelCellExplosionDamage.statusEffects2.Details",
+    "content": "引擎发出轰鸣"
+  },
+  {
+    "id": "lootable_engineslots_FuelCell_center.FuelCellExplosionHeat.statusEffects3.Details",
+    "content": "引擎发出轰鸣"
+  },
+  {
+    "id": "lootable_engineslots_FuelCell_center.FuelCellExplosionStability.statusEffects4.Details",
+    "content": "引擎发出轰鸣"
+  },
+  {
+    "id": "lootable_engineslots_FuelCell_center.FuelCellExplosionFireStrength.statusEffects5.Details",
+    "content": "引擎发出轰鸣"
+  },
+  {
+    "id": "lootable_engineslots_FuelCell_center.FuelCellExplosionFireRadius.statusEffects6.Details",
+    "content": "引擎发出轰鸣"
+  },
+  {
+    "id": "lootable_engineslots_FuelCell_center.FuelCellExplosionMaskRadius.statusEffects7.Details",
+    "content": "引擎发出轰鸣"
+  },
+  {
+    "id": "lootable_engineslots_FuelCell_center.StatusEffect-Heat_ICE.statusEffects0.Name",
+    "content": "增加热量"
+  },
+  {
+    "id": "lootable_engineslots_FuelCell_center.FuelCellExplosionRange.statusEffects1.Name",
+    "content": "燃料电池额外致命损伤"
+  },
+  {
+    "id": "lootable_engineslots_FuelCell_center.FuelCellExplosionDamage.statusEffects2.Name",
+    "content": "燃料电池额外致命损伤"
+  },
+  {
+    "id": "lootable_engineslots_FuelCell_center.FuelCellExplosionHeat.statusEffects3.Name",
+    "content": "燃料电池额外致命损伤"
+  },
+  {
+    "id": "lootable_engineslots_FuelCell_center.FuelCellExplosionStability.statusEffects4.Name",
+    "content": "燃料电池额外致命损伤"
+  },
+  {
+    "id": "lootable_engineslots_FuelCell_center.FuelCellExplosionFireStrength.statusEffects5.Name",
+    "content": "燃料电池额外致命损伤"
+  },
+  {
+    "id": "lootable_engineslots_FuelCell_center.FuelCellExplosionFireRadius.statusEffects6.Name",
+    "content": "燃料电池额外致命损伤"
+  },
+  {
+    "id": "lootable_engineslots_FuelCell_center.FuelCellExplosionMaskRadius.statusEffects7.Name",
+    "content": "燃料电池额外致命损伤"
+  },
+  {
+    "id": "lootable_engineslots_ICE_center.Description.Details",
+    "content": "与现代内燃机的作用和意义相同,BattleTech中的内燃机主要用于常规车辆和工业领域.他的输出功率远小于同重量的聚变发动机,这意味着要输出与聚变发动机相同的功率,内燃机会更重."
+  },
+  {
+    "id": "lootable_engineslots_ICE_center.Description.UIName",
+    "content": "内燃机"
+  },
+  {
+    "id": "lootable_engineslots_ICE_center.Description.Name",
+    "content": "内燃机"
+  },
+  {
+    "id": "lootable_engineslots_ICE_center.Description.Manufacturer",
+    "content": "弗拉尔"
+  },
+  {
+    "id": "lootable_engineslots_ICE_center.Obviously.statusEffects0.Details",
+    "content": "更容易定位"
+  },
+  {
+    "id": "lootable_engineslots_ICE_center.Stealth_Signature_Decrease_Stealth.statusEffects1.Details",
+    "content": "信号特征状态效果."
+  },
+  {
+    "id": "lootable_engineslots_ICE_center.Stealth_Visibility_Decrease_Stealth.statusEffects2.Details",
+    "content": "可见性状态效果."
+  },
+  {
+    "id": "lootable_engineslots_ICE_center.ICE Walk.statusEffects3.Details",
+    "content": "内燃机降低速度但是也减少了产热"
+  },
+  {
+    "id": "lootable_engineslots_ICE_center.StatusEffect-Heat_ICE.statusEffects4.Details",
+    "content": "+15%产热."
+  },
+  {
+    "id": "lootable_engineslots_ICE_center.ICEExplosionRange.statusEffects5.Details",
+    "content": "引擎发出轰鸣"
+  },
+  {
+    "id": "lootable_engineslots_ICE_center.ICEExplosionDamage.statusEffects6.Details",
+    "content": "引擎发出轰鸣"
+  },
+  {
+    "id": "lootable_engineslots_ICE_center.ICEExplosionHeat.statusEffects7.Details",
+    "content": "引擎发出轰鸣"
+  },
+  {
+    "id": "lootable_engineslots_ICE_center.ICEExplosionStability.statusEffects8.Details",
+    "content": "引擎发出轰鸣"
+  },
+  {
+    "id": "lootable_engineslots_ICE_center.ICEExplosionFireStrength.statusEffects9.Details",
+    "content": "引擎发出轰鸣"
+  },
+  {
+    "id": "lootable_engineslots_ICE_center.ICEExplosionFireRadius.statusEffects10.Details",
+    "content": "引擎发出轰鸣"
+  },
+  {
+    "id": "lootable_engineslots_ICE_center.ICEExplosionMaskRadius.statusEffects11.Details",
+    "content": "引擎发出轰鸣"
+  },
+  {
+    "id": "lootable_engineslots_ICE_center.Obviously.statusEffects0.Name",
+    "content": "明显的目标"
+  },
+  {
+    "id": "lootable_engineslots_ICE_center.Stealth_Signature_Decrease_Stealth.statusEffects1.Name",
+    "content": "减少隐身信号特征"
+  },
+  {
+    "id": "lootable_engineslots_ICE_center.Stealth_Visibility_Decrease_Stealth.statusEffects2.Name",
+    "content": "降低隐身可见性"
+  },
+  {
+    "id": "lootable_engineslots_ICE_center.ICE Walk.statusEffects3.Name",
+    "content": "内燃机"
+  },
+  {
+    "id": "lootable_engineslots_ICE_center.StatusEffect-Heat_ICE.statusEffects4.Name",
+    "content": "增加热量"
+  },
+  {
+    "id": "lootable_engineslots_ICE_center.ICEExplosionRange.statusEffects5.Name",
+    "content": "内燃机额外致命损伤"
+  },
+  {
+    "id": "lootable_engineslots_ICE_center.ICEExplosionDamage.statusEffects6.Name",
+    "content": "内燃机额外致命损伤"
+  },
+  {
+    "id": "lootable_engineslots_ICE_center.ICEExplosionHeat.statusEffects7.Name",
+    "content": "内燃机额外致命损伤"
+  },
+  {
+    "id": "lootable_engineslots_ICE_center.ICEExplosionStability.statusEffects8.Name",
+    "content": "内燃机额外致命损伤"
+  },
+  {
+    "id": "lootable_engineslots_ICE_center.ICEExplosionFireStrength.statusEffects9.Name",
+    "content": "内燃机额外致命损伤"
+  },
+  {
+    "id": "lootable_engineslots_ICE_center.ICEExplosionFireRadius.statusEffects10.Name",
+    "content": "内燃机额外致命损伤"
+  },
+  {
+    "id": "lootable_engineslots_ICE_center.ICEExplosionMaskRadius.statusEffects11.Name",
+    "content": "内燃机额外致命损伤"
+  },
+  {
+    "id": "lootable_engineslots_std_center.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\n聚变引擎根据其<b>引擎额定功率</b>区分.对于机甲来说,引擎额定功率是其重量和最大步行或巡航速度的数学乘积."
+  },
+  {
+    "id": "lootable_engineslots_std_center.Description.UIName",
+    "content": "标准聚变引擎"
+  },
+  {
+    "id": "lootable_engineslots_std_center.Description.Name",
+    "content": "标准引擎"
+  },
+  {
+    "id": "lootable_engineslots_std_center.Description.Manufacturer",
+    "content": "弗拉尔"
+  },
+  {
+    "id": "lootable_kit_shs.Description.Details",
+    "content": "机甲的<b>冷却系统</b>为机甲的内部部件提供冷却,并更改机甲上外部散热器挂载点的适配类型."
+  },
+  {
+    "id": "lootable_kit_shs.Description.UIName",
+    "content": "单层散热器冷却"
+  },
+  {
+    "id": "lootable_kit_shs.Description.Name",
+    "content": "冷却系统"
+  },
+  {
+    "id": "lootable_kit_shs.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "emod_lootable_armor_clstandard.Description.Details",
+    "content": "和标准战斗机甲装甲几乎完全一样,但氏族装甲采用了C.A.S.E.技术.<b><color=#00ff00>启用CASE</color></b>"
+  },
+  {
+    "id": "emod_lootable_armor_clstandard.Description.UIName",
+    "content": "标准装甲(C)"
+  },
+  {
+    "id": "emod_lootable_armor_clstandard.Description.Name",
+    "content": "标准装甲(C)"
+  },
+  {
+    "id": "emod_lootable_armor_clstandard.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Gear_FCS_ARTV.Description.Details",
+    "content": "月神V火控系统是无处不在的月神IV火控系统的改进的下一个版本,能够更高精度的引导导弹<b><color=#F79232>不能和其他导弹TTS一起使用可以使用月神IV弹药</color></b>."
+  },
+  {
+    "id": "Gear_FCS_ARTV.Description.UIName",
+    "content": "月神V"
+  },
+  {
+    "id": "Gear_FCS_ARTV.Description.Name",
+    "content": "月神V火控系统"
+  },
+  {
+    "id": "Gear_FCS_ARTV.Description.Manufacturer",
+    "content": "独眼巨人画家"
+  },
+  {
+    "id": "Gear_FCS_ARTV.TC-Breaching.statusEffects0.Details",
+    "content": "被动:使用单武器攻击时忽略目标的遮蔽和警戒状态."
+  },
+  {
+    "id": "Gear_FCS_ARTV.StatusEffect-TTSMISSCRIT.statusEffects1.Details",
+    "content": "+3导弹武器攻击命中."
+  },
+  {
+    "id": "Gear_FCS_ARTV.StatusEffect-EnhMS-ClusterBonusLRM.statusEffects2.Details",
+    "content": "大大增加了该单位LRM武器的群组命中,将SRM的稳定伤害提高50%."
+  },
+  {
+    "id": "Gear_FCS_ARTV.TC-Breaching.statusEffects0.Name",
+    "content": "突破射击"
+  },
+  {
+    "id": "Gear_FCS_ARTV.StatusEffect-TTSMISSCRIT.statusEffects1.Name",
+    "content": "提升导弹武器命中"
+  },
+  {
+    "id": "Gear_FCS_ARTV.StatusEffect-EnhMS-ClusterBonusLRM.statusEffects2.Name",
+    "content": "导弹套件"
+  },
+  {
+    "id": "lootable_armorslots_Primitive.Description.Details",
+    "content": "在战争年代被开发出来,原始装甲被引入了起源战斗机甲'麦基'中.这种装甲性能不如星联和继承战争时期使用的装甲."
+  },
+  {
+    "id": "lootable_armorslots_Primitive.Description.UIName",
+    "content": "原始装甲"
+  },
+  {
+    "id": "lootable_armorslots_Primitive.Description.Name",
+    "content": "原始装甲"
+  },
+  {
+    "id": "lootable_armorslots_Primitive.Description.Manufacturer",
+    "content": "地球工厂"
+  },
+  {
+    "id": "lootable_armorslots_standard.Description.Details",
+    "content": "标准战斗机甲装甲有多层材料组成,以为不同类型场景提供保护和支持.第一层是经过晶体重排和辐射处理的极硬钛合金,但也非常脆.第二层是陶瓷立方氮化硼和人造碳纳米管的结合,以支撑上面的钢层.这两层之下是用于提供支撑的钛合金蜂窝结构和一层使机甲能安全的在真空和水下操作的聚合物自密封剂."
+  },
+  {
+    "id": "lootable_armorslots_standard.Description.UIName",
+    "content": "标准装甲"
+  },
+  {
+    "id": "lootable_armorslots_standard.Description.Name",
+    "content": "标准装甲"
+  },
+  {
+    "id": "lootable_armorslots_standard.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "lootable_armor_industrial.Description.Details",
+    "content": "虽然功能上和标准战斗机甲的装甲类似,但使用重型工业装甲专门加强,以便机甲可以安全的获得三倍强化人工肌肉(TSM)的增强."
+  },
+  {
+    "id": "lootable_armor_industrial.Description.UIName",
+    "content": "重型工业装甲"
+  },
+  {
+    "id": "lootable_armor_industrial.Description.Name",
+    "content": "重型工业装甲"
+  },
+  {
+    "id": "lootable_armor_industrial.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "lootable_ChameleonLightPolarizationShield.Description.Details",
+    "content": "变色龙偏光护盾(LPS)是为了让机甲肉眼不可见而设计的.使用原始的模拟系统,装备它的机甲轮廓被打碎融入到周围地形中.变色龙非常有效,因为它与零信号系统不同,它可以对抗传感器系统和视觉观察.它占用12个槽位并包含一个ECM."
+  },
+  {
+    "id": "lootable_ChameleonLightPolarizationShield.Description.UIName",
+    "content": "变色龙偏光护盾"
+  },
+  {
+    "id": "lootable_ChameleonLightPolarizationShield.Description.Name",
+    "content": "变色龙偏光护盾(LPS)"
+  },
+  {
+    "id": "lootable_ChameleonLightPolarizationShield.Description.Manufacturer",
+    "content": "原型"
+  },
+  {
+    "id": "lootable_ChameleonLightPolarizationShield.ECMPassiveShield.statusEffects0.Details",
+    "content": "被动ECM保护"
+  },
+  {
+    "id": "lootable_ChameleonLightPolarizationShield.ECMPassiveJam.statusEffects1.Details",
+    "content": "被动干扰保护"
+  },
+  {
+    "id": "lootable_ChameleonLightPolarizationShield.ECMPassiveShield.statusEffects0.Name",
+    "content": "ECM被动护罩"
+  },
+  {
+    "id": "lootable_ChameleonLightPolarizationShield.ECMPassiveJam.statusEffects1.Name",
+    "content": "ECM被动干扰"
+  },
+  {
+    "id": "lootable_ChameleonLightPolarizationShield.LV_Stealth_Effect.CAE0.Details",
+    "content": "使携带隐身设备的单位更难被发现和侦测"
+  },
+  {
+    "id": "lootable_ChameleonLightPolarizationShield.LV_MIMETIC.CAE1.Details",
+    "content": "使携带隐身设备的单位更被肉眼看到"
+  },
+  {
+    "id": "lootable_ChameleonLightPolarizationShield.Stealth_Signature_Decrease_Stealth.CAE2.Details",
+    "content": "信号特征状态效果."
+  },
+  {
+    "id": "lootable_ChameleonLightPolarizationShield.Stealth_Visibility_Decrease_Stealth.CAE3.Details",
+    "content": "可见性状态效果."
+  },
+  {
+    "id": "lootable_ChameleonLightPolarizationShield.Stealth_Heat_Generation_Stealth.CAE4.Details",
+    "content": "增加热量"
+  },
+  {
+    "id": "lootable_ChameleonLightPolarizationShield.Stealth_Heat_Capacity_Stealth.CAE5.Details",
+    "content": "降低散热能力"
+  },
+  {
+    "id": "lootable_ChameleonLightPolarizationShield.LV_Stealth_Effect.CAE0.Name",
+    "content": "隐身"
+  },
+  {
+    "id": "lootable_ChameleonLightPolarizationShield.LV_MIMETIC.CAE1.Name",
+    "content": "伪装装甲"
+  },
+  {
+    "id": "lootable_ChameleonLightPolarizationShield.Stealth_Signature_Decrease_Stealth.CAE2.Name",
+    "content": "减少隐身信号特征"
+  },
+  {
+    "id": "lootable_ChameleonLightPolarizationShield.Stealth_Visibility_Decrease_Stealth.CAE3.Name",
+    "content": "降低隐身可见性"
+  },
+  {
+    "id": "lootable_ChameleonLightPolarizationShield.Stealth_Heat_Generation_Stealth.CAE4.Name",
+    "content": "增加热量"
+  },
+  {
+    "id": "lootable_ChameleonLightPolarizationShield.Stealth_Heat_Capacity_Stealth.CAE5.Name",
+    "content": "降低散热能力"
+  },
+  {
+    "id": "lootable_ChameleonLightPolarizationShield_Superheavy.Description.Details",
+    "content": "变色龙偏光护盾(LPS)是为了让机甲肉眼不可见而设计的.使用原始的模拟系统,装备它的机甲轮廓被打碎融入到周围地形中.变色龙非常有效,因为它与零信号系统不同,它可以对抗传感器系统和视觉观察.它占用12个槽位并包含一个ECM."
+  },
+  {
+    "id": "lootable_ChameleonLightPolarizationShield_Superheavy.Description.UIName",
+    "content": "变色龙偏光护盾(SH)"
+  },
+  {
+    "id": "lootable_ChameleonLightPolarizationShield_Superheavy.Description.Name",
+    "content": "变色龙偏光护盾(LPS)"
+  },
+  {
+    "id": "lootable_ChameleonLightPolarizationShield_Superheavy.Description.Manufacturer",
+    "content": "原型"
+  },
+  {
+    "id": "lootable_ChameleonLightPolarizationShield_Superheavy.ECMPassiveShield.statusEffects0.Details",
+    "content": "被动ECM保护"
+  },
+  {
+    "id": "lootable_ChameleonLightPolarizationShield_Superheavy.ECMPassiveJam.statusEffects1.Details",
+    "content": "被动干扰保护"
+  },
+  {
+    "id": "lootable_ChameleonLightPolarizationShield_Superheavy.ECMPassiveShield.statusEffects0.Name",
+    "content": "ECM被动护罩"
+  },
+  {
+    "id": "lootable_ChameleonLightPolarizationShield_Superheavy.ECMPassiveJam.statusEffects1.Name",
+    "content": "ECM被动干扰"
+  },
+  {
+    "id": "lootable_ChameleonLightPolarizationShield_Superheavy.LV_Stealth_Effect.CAE0.Details",
+    "content": "使携带隐身设备的单位更难被发现和侦测"
+  },
+  {
+    "id": "lootable_ChameleonLightPolarizationShield_Superheavy.LV_MIMETIC.CAE1.Details",
+    "content": "使携带隐身设备的单位更被肉眼看到"
+  },
+  {
+    "id": "lootable_ChameleonLightPolarizationShield_Superheavy.Stealth_Signature_Decrease_Stealth.CAE2.Details",
+    "content": "信号特征状态效果."
+  },
+  {
+    "id": "lootable_ChameleonLightPolarizationShield_Superheavy.Stealth_Visibility_Decrease_Stealth.CAE3.Details",
+    "content": "可见性状态效果."
+  },
+  {
+    "id": "lootable_ChameleonLightPolarizationShield_Superheavy.Stealth_Heat_Generation_Stealth.CAE4.Details",
+    "content": "增加热量"
+  },
+  {
+    "id": "lootable_ChameleonLightPolarizationShield_Superheavy.Stealth_Heat_Capacity_Stealth.CAE5.Details",
+    "content": "降低散热能力"
+  },
+  {
+    "id": "lootable_ChameleonLightPolarizationShield_Superheavy.LV_Stealth_Effect.CAE0.Name",
+    "content": "隐身"
+  },
+  {
+    "id": "lootable_ChameleonLightPolarizationShield_Superheavy.LV_MIMETIC.CAE1.Name",
+    "content": "伪装装甲"
+  },
+  {
+    "id": "lootable_ChameleonLightPolarizationShield_Superheavy.Stealth_Signature_Decrease_Stealth.CAE2.Name",
+    "content": "减少隐身信号特征"
+  },
+  {
+    "id": "lootable_ChameleonLightPolarizationShield_Superheavy.Stealth_Visibility_Decrease_Stealth.CAE3.Name",
+    "content": "降低隐身可见性"
+  },
+  {
+    "id": "lootable_ChameleonLightPolarizationShield_Superheavy.Stealth_Heat_Generation_Stealth.CAE4.Name",
+    "content": "增加热量"
+  },
+  {
+    "id": "lootable_ChameleonLightPolarizationShield_Superheavy.Stealth_Heat_Capacity_Stealth.CAE5.Name",
+    "content": "降低散热能力"
+  },
+  {
+    "id": "lootable_Cockpit_CLAN_Standard.Description.Details",
+    "content": "氏族规格的标准座舱."
+  },
+  {
+    "id": "lootable_Cockpit_CLAN_Standard.Description.UIName",
+    "content": "标准座舱(C)"
+  },
+  {
+    "id": "lootable_Cockpit_CLAN_Standard.Description.Name",
+    "content": "标准座舱(C)"
+  },
+  {
+    "id": "lootable_Cockpit_CLAN_Standard.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "lootable_Cockpit_CLAN_Standard.StatusEffect_Cockpit_Skill_Gunnery.statusEffects0.Details",
+    "content": "获得射击学增益"
+  },
+  {
+    "id": "lootable_Cockpit_CLAN_Standard.CockpitBleed.statusEffects1.Details",
+    "content": "失血速度 x 0.6"
+  },
+  {
+    "id": "lootable_Cockpit_CLAN_Standard.StatusEffect_Cockpit_Skill_Gunnery.statusEffects0.Name",
+    "content": "射击学增益"
+  },
+  {
+    "id": "lootable_Cockpit_CLAN_Standard.CockpitBleed.statusEffects1.Name",
+    "content": "降低失血速度"
+  },
+  {
+    "id": "lootable_Cockpit_Generic_Standard.Description.Details",
+    "content": "所有的机甲都装备了可以通过升级来提升表现的座舱和生命支持系统."
+  },
+  {
+    "id": "lootable_Cockpit_Generic_Standard.Description.UIName",
+    "content": "基础座舱"
+  },
+  {
+    "id": "lootable_Cockpit_Generic_Standard.Description.Name",
+    "content": "标准座舱"
+  },
+  {
+    "id": "lootable_Cockpit_Generic_Standard.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "lootable_Cockpit_Generic_Standard.CockpitBleed.statusEffects0.Details",
+    "content": "失血速度 x 0.6"
+  },
+  {
+    "id": "lootable_Cockpit_Generic_Standard.CockpitBleed.statusEffects0.Name",
+    "content": "降低失血速度"
+  },
+  {
+    "id": "lootable_Cockpit_Primitive.Description.Details",
+    "content": "原始座舱功能上和现代座舱相似,但由于使用了笨重的部件,其重量为5吨而不是3吨.它没有弹射座椅,传感器甚至比现在的工业机甲还差."
+  },
+  {
+    "id": "lootable_Cockpit_Primitive.Description.UIName",
+    "content": "原始座舱"
+  },
+  {
+    "id": "lootable_Cockpit_Primitive.Description.Name",
+    "content": "原始座舱"
+  },
+  {
+    "id": "lootable_Cockpit_Primitive.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "lootable_Cockpit_Primitive.StatusEffect_Cockpit_Skill_Piloting.statusEffects0.Details",
+    "content": "驾驶技能增益"
+  },
+  {
+    "id": "lootable_Cockpit_Primitive.PrimitiveCockpitEject.statusEffects1.Details",
+    "content": "被动:使用单武器攻击时忽略目标的遮蔽和警戒状态."
+  },
+  {
+    "id": "lootable_Cockpit_Primitive.StatusEffect_Cockpit_Skill_Piloting.statusEffects0.Name",
+    "content": "驾驶增益"
+  },
+  {
+    "id": "lootable_Cockpit_Primitive.PrimitiveCockpitEject.statusEffects1.Name",
+    "content": "没有弹射"
+  },
+  {
+    "id": "lootable_Cockpit_SLDF_Standard.Description.Details",
+    "content": "星联防卫部队(SLDF)标准规格座舱,配有弹道装甲和冷却套件."
+  },
+  {
+    "id": "lootable_Cockpit_SLDF_Standard.Description.UIName",
+    "content": "SLDF标准座舱"
+  },
+  {
+    "id": "lootable_Cockpit_SLDF_Standard.Description.Name",
+    "content": "SLDF标准座舱  "
+  },
+  {
+    "id": "lootable_Cockpit_SLDF_Standard.Description.Manufacturer",
+    "content": "星联防卫部队"
+  },
+  {
+    "id": "lootable_Cockpit_SLDF_Standard.StatusEffect_Cockpit_Skill_Piloting.statusEffects0.Details",
+    "content": "驾驶技能增益"
+  },
+  {
+    "id": "lootable_Cockpit_SLDF_Standard.StatusEffect_Cockpit_Skill_Tactics.statusEffects1.Details",
+    "content": "战术技能增益"
+  },
+  {
+    "id": "lootable_Cockpit_SLDF_Standard.CockpitBleed.statusEffects2.Details",
+    "content": "失血速度 x 0.6"
+  },
+  {
+    "id": "lootable_Cockpit_SLDF_Standard.StatusEffect_Cockpit_Skill_Piloting.statusEffects0.Name",
+    "content": "驾驶增益"
+  },
+  {
+    "id": "lootable_Cockpit_SLDF_Standard.StatusEffect_Cockpit_Skill_Tactics.statusEffects1.Name",
+    "content": "战术增益"
+  },
+  {
+    "id": "lootable_Cockpit_SLDF_Standard.CockpitBleed.statusEffects2.Name",
+    "content": "降低失血速度"
+  },
+  {
+    "id": "lootable_Cockpit_SolarisCage.Description.Details",
+    "content": "在装甲前围设计的基础上,索拉里斯武装使用更坚固的舱体和敌我识别干扰系统升级了这种座舱;使其能轻松承受更重的打击."
+  },
+  {
+    "id": "lootable_Cockpit_SolarisCage.Description.UIName",
+    "content": "索拉里斯笼子"
+  },
+  {
+    "id": "lootable_Cockpit_SolarisCage.Description.Name",
+    "content": "索拉里斯武装硬化舱体座舱模块"
+  },
+  {
+    "id": "lootable_Cockpit_SolarisCage.Description.Manufacturer",
+    "content": "索拉里斯武装"
+  },
+  {
+    "id": "lootable_Cockpit_SolarisCage.Status-ArmorCowlStructure-{location}.statusEffects0.Details",
+    "content": "改进头部结构"
+  },
+  {
+    "id": "lootable_Cockpit_SolarisCage.Status-ArmorCowlArmor-{location}.statusEffects1.Details",
+    "content": "改进头部装甲"
+  },
+  {
+    "id": "lootable_Cockpit_SolarisCage.StatusEffect_Cockpit_Skill_Guts.statusEffects2.Details",
+    "content": "获得勇气技能增益"
+  },
+  {
+    "id": "lootable_Cockpit_SolarisCage.StatusEffect-Pilot_HealthAdd-T3.statusEffects3.Details",
+    "content": "阻止机甲战士[AMT]受伤"
+  },
+  {
+    "id": "lootable_Cockpit_SolarisCage.Status-ArmorCowlStructure-{location}.statusEffects0.Name",
+    "content": "装甲前围"
+  },
+  {
+    "id": "lootable_Cockpit_SolarisCage.Status-ArmorCowlArmor-{location}.statusEffects1.Name",
+    "content": "装甲前围"
+  },
+  {
+    "id": "lootable_Cockpit_SolarisCage.StatusEffect_Cockpit_Skill_Guts.statusEffects2.Name",
+    "content": "勇气增益"
+  },
+  {
+    "id": "lootable_Cockpit_SolarisCage.StatusEffect-Pilot_HealthAdd-T3.statusEffects3.Name",
+    "content": "最大承受伤害增加了"
+  },
+  {
+    "id": "lootable_FCS_Generic_Clan.Description.Details",
+    "content": "默认的氏族火控系统(FCS).机甲的火控系统协调并分析传感器带来的大量数据,以便跟踪部队、生成射击方案和命中目标."
+  },
+  {
+    "id": "lootable_FCS_Generic_Clan.Description.UIName",
+    "content": "标准火控系统(C)"
+  },
+  {
+    "id": "lootable_FCS_Generic_Clan.Description.Name",
+    "content": "氏族火控系统"
+  },
+  {
+    "id": "lootable_FCS_Generic_Clan.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "lootable_FCS_Generic_Clan.StatusEffect_Cockpit_Skill_Gunnery.statusEffects0.Details",
+    "content": "获得射击学增益"
+  },
+  {
+    "id": "lootable_FCS_Generic_Clan.StatusEffect_Cockpit_Skill_Gunnery.statusEffects0.Name",
+    "content": "射击学增益"
+  },
+  {
+    "id": "lootable_FCS_Generic_SLDF.Description.Details",
+    "content": "默认星联防御部队(SLDF)火控系统(FCS).机甲的火控系统协调并分析传感器带来的大量数据,以便跟踪部队、生成射击方案和命中目标."
+  },
+  {
+    "id": "lootable_FCS_Generic_SLDF.Description.UIName",
+    "content": "SLDF标准火控系统"
+  },
+  {
+    "id": "lootable_FCS_Generic_SLDF.Description.Name",
+    "content": "标准火控系统"
+  },
+  {
+    "id": "lootable_FCS_Generic_SLDF.Description.Manufacturer",
+    "content": "星联防卫部队"
+  },
+  {
+    "id": "lootable_FCS_Generic_SLDF.NightVision.statusEffects0.Details",
+    "content": "被动:开启夜视"
+  },
+  {
+    "id": "lootable_FCS_Generic_SLDF.NightVision.statusEffects0.Name",
+    "content": "夜视模式"
+  },
+  {
+    "id": "lootable_FCS_Generic_Standard.Description.Details",
+    "content": "默认机甲火控系统.机甲的火控系统协调并分析传感器带来的大量数据,以便跟踪部队、生成射击方案和命中目标."
+  },
+  {
+    "id": "lootable_FCS_Generic_Standard.Description.UIName",
+    "content": "标准火控系统"
+  },
+  {
+    "id": "lootable_FCS_Generic_Standard.Description.Name",
+    "content": "标准火控系统"
+  },
+  {
+    "id": "lootable_FCS_Generic_Standard.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "lootable_FCS_Primitive_Standard.Description.Details",
+    "content": "原始战斗机甲的火控系统.机甲的火控系统协调并分析传感器带来的大量数据,以便跟踪部队、生成射击方案和命中目标."
+  },
+  {
+    "id": "lootable_FCS_Primitive_Standard.Description.UIName",
+    "content": "原始火控系统"
+  },
+  {
+    "id": "lootable_FCS_Primitive_Standard.Description.Name",
+    "content": "原始火控系统"
+  },
+  {
+    "id": "lootable_FCS_Primitive_Standard.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "lootable_FCS_Primitive_Standard.RangeBracketBonusAccER.statusEffects0.Details",
+    "content": "射程组精度奖励"
+  },
+  {
+    "id": "lootable_FCS_Primitive_Standard.RangeBracketBonusAccLR.statusEffects1.Details",
+    "content": "射程组精度奖励"
+  },
+  {
+    "id": "lootable_FCS_Primitive_Standard.RangeBracketBonusAccER.statusEffects0.Name",
+    "content": "在射程内奖励精度"
+  },
+  {
+    "id": "lootable_FCS_Primitive_Standard.RangeBracketBonusAccLR.statusEffects1.Name",
+    "content": "在射程内奖励精度"
+  },
+  {
+    "id": "lootable_FCS_Society.Description.Details",
+    "content": "一个与战斗机甲内部结构相适应的协会火控系统包,它的高效率使热调节得到改善.机甲的火控系统协调并分析传感器带来的大量数据,以便跟踪部队、生成射击方案和命中目标."
+  },
+  {
+    "id": "lootable_FCS_Society.Description.UIName",
+    "content": "热控制火控系统(S)"
+  },
+  {
+    "id": "lootable_FCS_Society.Description.Name",
+    "content": "协会火控系统"
+  },
+  {
+    "id": "lootable_FCS_Society.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "lootable_FCS_Society.StatusEffect-SocietyCockpit2.statusEffects0.Details",
+    "content": "-20%产热"
+  },
+  {
+    "id": "lootable_FCS_Society.StatusEffect-SocietyCockpit2.statusEffects0.Name",
+    "content": "减少产热"
+  },
+  {
+    "id": "lootable_Gear_Blade_3.Description.Details",
+    "content": "这似乎一个标准的推土机铲,一些乡巴佬决定将它大力加强.看起来他们甚至加装一些瞄准激光和扫描仪,这样他们可以在不干扰视线的情况下更好的进行充能.使用它有风险,老板."
+  },
+  {
+    "id": "lootable_Gear_Blade_3.Description.UIName",
+    "content": "推土机铲 3T"
+  },
+  {
+    "id": "lootable_Gear_Blade_3.Description.Name",
+    "content": "推土机铲 3T"
+  },
+  {
+    "id": "lootable_Gear_Blade_3.Description.Manufacturer",
+    "content": "盐矿"
+  },
+  {
+    "id": "lootable_Gear_Blade_3.SpikedPlatesMelee.statusEffects0.Details",
+    "content": "+6%充能伤害"
+  },
+  {
+    "id": "lootable_Gear_Blade_3.SpikedPlatesMelee.statusEffects1.Details",
+    "content": "-50%充能自伤"
+  },
+  {
+    "id": "lootable_Gear_Blade_3.FCS_MeleeAccuracy1.statusEffects2.Details",
+    "content": "近战武器精度修正"
+  },
+  {
+    "id": "lootable_Gear_Blade_3.StatusEffect_Cockpit_Skill_Piloting.statusEffects3.Details",
+    "content": "驾驶技能增益"
+  },
+  {
+    "id": "lootable_Gear_Blade_3.SpikedPlatesMelee.statusEffects0.Name",
+    "content": "充能伤害"
+  },
+  {
+    "id": "lootable_Gear_Blade_3.SpikedPlatesMelee.statusEffects1.Name",
+    "content": "充能自伤"
+  },
+  {
+    "id": "lootable_Gear_Blade_3.FCS_MeleeAccuracy1.statusEffects2.Name",
+    "content": "近战武器精度修正"
+  },
+  {
+    "id": "lootable_Gear_Blade_3.StatusEffect_Cockpit_Skill_Piloting.statusEffects3.Name",
+    "content": "驾驶增益"
+  },
+  {
+    "id": "lootable_Gear_Blade_6.Description.Details",
+    "content": "这似乎一个标准的推土机铲,一些乡巴佬决定将它大力加强.看起来他们甚至加装一些瞄准激光和扫描仪,这样他们可以在不干扰视线的情况下更好的进行充能.使用它有风险,老板."
+  },
+  {
+    "id": "lootable_Gear_Blade_6.Description.UIName",
+    "content": "推土机铲 6T"
+  },
+  {
+    "id": "lootable_Gear_Blade_6.Description.Name",
+    "content": "推土机铲 6T"
+  },
+  {
+    "id": "lootable_Gear_Blade_6.Description.Manufacturer",
+    "content": "盐矿"
+  },
+  {
+    "id": "lootable_Gear_Blade_6.SpikedPlatesMelee.statusEffects0.Details",
+    "content": "12%充能伤害"
+  },
+  {
+    "id": "lootable_Gear_Blade_6.SpikedPlatesMelee.statusEffects1.Details",
+    "content": "-50%充能自伤"
+  },
+  {
+    "id": "lootable_Gear_Blade_6.FCS_MeleeAccuracy1.statusEffects2.Details",
+    "content": "近战武器精度修正"
+  },
+  {
+    "id": "lootable_Gear_Blade_6.StatusEffect_Cockpit_Skill_Piloting.statusEffects3.Details",
+    "content": "驾驶技能增益"
+  },
+  {
+    "id": "lootable_Gear_Blade_6.SpikedPlatesMelee.statusEffects0.Name",
+    "content": "充能伤害"
+  },
+  {
+    "id": "lootable_Gear_Blade_6.SpikedPlatesMelee.statusEffects1.Name",
+    "content": "充能自伤"
+  },
+  {
+    "id": "lootable_Gear_Blade_6.FCS_MeleeAccuracy1.statusEffects2.Name",
+    "content": "近战武器精度修正"
+  },
+  {
+    "id": "lootable_Gear_Blade_6.StatusEffect_Cockpit_Skill_Piloting.statusEffects3.Name",
+    "content": "驾驶增益"
+  },
+  {
+    "id": "lootable_Gear_Blade_9.Description.Details",
+    "content": "这似乎一个标准的推土机铲,一些乡巴佬决定将它大力加强.看起来他们甚至加装一些瞄准激光和扫描仪,这样他们可以在不干扰视线的情况下更好的进行充能.使用它有风险,老板."
+  },
+  {
+    "id": "lootable_Gear_Blade_9.Description.UIName",
+    "content": "推土机铲 9T"
+  },
+  {
+    "id": "lootable_Gear_Blade_9.Description.Name",
+    "content": "推土机铲 9T"
+  },
+  {
+    "id": "lootable_Gear_Blade_9.Description.Manufacturer",
+    "content": "盐矿"
+  },
+  {
+    "id": "lootable_Gear_Blade_9.SpikedPlatesMelee.statusEffects0.Details",
+    "content": "20%充能伤害"
+  },
+  {
+    "id": "lootable_Gear_Blade_9.SpikedPlatesMelee.statusEffects1.Details",
+    "content": "-50%充能自伤"
+  },
+  {
+    "id": "lootable_Gear_Blade_9.FCS_MeleeAccuracy1.statusEffects2.Details",
+    "content": "近战武器精度修正"
+  },
+  {
+    "id": "lootable_Gear_Blade_9.StatusEffect_Cockpit_Skill_Piloting.statusEffects3.Details",
+    "content": "驾驶技能增益"
+  },
+  {
+    "id": "lootable_Gear_Blade_9.SpikedPlatesMelee.statusEffects0.Name",
+    "content": "充能伤害"
+  },
+  {
+    "id": "lootable_Gear_Blade_9.SpikedPlatesMelee.statusEffects1.Name",
+    "content": "充能自伤"
+  },
+  {
+    "id": "lootable_Gear_Blade_9.FCS_MeleeAccuracy1.statusEffects2.Name",
+    "content": "近战武器精度修正"
+  },
+  {
+    "id": "lootable_Gear_Blade_9.StatusEffect_Cockpit_Skill_Piloting.statusEffects3.Name",
+    "content": "驾驶增益"
+  },
+  {
+    "id": "lootable_Gyro_Coventry_Brawler.Description.Details",
+    "content": "陀螺仪抵消了机甲引擎产生的大量动量,并允许精确机动并从稳定性攻击中恢复.所有机甲都配置了陀螺仪,可以升级以提高性能."
+  },
+  {
+    "id": "lootable_Gyro_Coventry_Brawler.Description.UIName",
+    "content": "格斗者陀螺仪"
+  },
+  {
+    "id": "lootable_Gyro_Coventry_Brawler.Description.Name",
+    "content": "考文垂MK200陀螺仪"
+  },
+  {
+    "id": "lootable_Gyro_Coventry_Brawler.Description.Manufacturer",
+    "content": "考文垂"
+  },
+  {
+    "id": "lootable_Gyro_Coventry_Brawler.MeleeResistPunch.statusEffects0.Details",
+    "content": "降低即将到来的近战伤害和额外近战伤害."
+  },
+  {
+    "id": "lootable_Gyro_Coventry_Brawler.MeleeResistPunchStab.statusEffects1.Details",
+    "content": "降低即将到来的近战伤害和额外近战伤害."
+  },
+  {
+    "id": "lootable_Gyro_Coventry_Brawler.MeleeResistKick.statusEffects2.Details",
+    "content": "降低即将到来的近战伤害和额外近战伤害."
+  },
+  {
+    "id": "lootable_Gyro_Coventry_Brawler.MeleeResistKickStab.statusEffects3.Details",
+    "content": "降低即将到来的近战伤害和额外近战伤害."
+  },
+  {
+    "id": "lootable_Gyro_Coventry_Brawler.MeleeResistPhysDmg.statusEffects4.Details",
+    "content": "降低即将到来的近战伤害和额外近战伤害."
+  },
+  {
+    "id": "lootable_Gyro_Coventry_Brawler.MeleeResistPhysStab.statusEffects5.Details",
+    "content": "降低即将到来的近战伤害和额外近战伤害."
+  },
+  {
+    "id": "lootable_Gyro_Coventry_Brawler.MeleeResist.statusEffects6.Details",
+    "content": "降低即将到来的近战伤害和额外近战伤害."
+  },
+  {
+    "id": "lootable_Gyro_Coventry_Brawler.MeleeResistChargeStab.statusEffects7.Details",
+    "content": "降低即将到来的近战伤害和额外近战伤害."
+  },
+  {
+    "id": "lootable_Gyro_Coventry_Brawler.MeleeResistDFA.statusEffects8.Details",
+    "content": "降低即将到来的近战伤害和额外近战伤害."
+  },
+  {
+    "id": "lootable_Gyro_Coventry_Brawler.MeleeResistDFAStab.statusEffects9.Details",
+    "content": "降低即将到来的近战伤害和额外近战伤害."
+  },
+  {
+    "id": "lootable_Gyro_Coventry_Brawler.StatusEffect-Attack_ToHitMelee-T3.statusEffects10.Details",
+    "content": "近战攻击试图提高命中率"
+  },
+  {
+    "id": "lootable_Gyro_Coventry_Brawler.GyroMeleeDef.statusEffects11.Details",
+    "content": "守护者ECM让这个单位更难被命中"
+  },
+  {
+    "id": "lootable_Gyro_Coventry_Brawler.StatusEffect-GyroDefMelee.statusEffects12.Details",
+    "content": "降低即将来临的近战攻击的额外近战伤害"
+  },
+  {
+    "id": "lootable_Gyro_Coventry_Brawler.GyroGenericThreshhold.statusEffects13.Details",
+    "content": "陀螺仪有助于机甲稳定重心"
+  },
+  {
+    "id": "lootable_Gyro_Coventry_Brawler.FCS_MeleeAccuracy.statusEffects14.Details",
+    "content": "近战武器精度修正"
+  },
+  {
+    "id": "lootable_Gyro_Coventry_Brawler.FCS_MeleeAccuracy.statusEffects15.Details",
+    "content": "近战武器精度修正"
+  },
+  {
+    "id": "lootable_Gyro_Coventry_Brawler.FCS_MeleeAccuracy.statusEffects16.Details",
+    "content": "近战武器精度修正"
+  },
+  {
+    "id": "lootable_Gyro_Coventry_Brawler.FCS_MeleeAccuracy.statusEffects17.Details",
+    "content": "近战武器精度修正"
+  },
+  {
+    "id": "lootable_Gyro_Coventry_Brawler.FCS_MeleeAccuracy.statusEffects18.Details",
+    "content": "近战武器精度修正"
+  },
+  {
+    "id": "lootable_Gyro_Coventry_Brawler.MeleeResistPunch.statusEffects0.Name",
+    "content": "近战击打抵抗"
+  },
+  {
+    "id": "lootable_Gyro_Coventry_Brawler.MeleeResistPunchStab.statusEffects1.Name",
+    "content": "近战击打稳定伤害抵抗"
+  },
+  {
+    "id": "lootable_Gyro_Coventry_Brawler.MeleeResistKick.statusEffects2.Name",
+    "content": "近战撞击伤害抵抗"
+  },
+  {
+    "id": "lootable_Gyro_Coventry_Brawler.MeleeResistKickStab.statusEffects3.Name",
+    "content": "近战踢击稳定伤害抵抗"
+  },
+  {
+    "id": "lootable_Gyro_Coventry_Brawler.MeleeResistPhysDmg.statusEffects4.Name",
+    "content": "近战实体武器抵抗"
+  },
+  {
+    "id": "lootable_Gyro_Coventry_Brawler.MeleeResistPhysStab.statusEffects5.Name",
+    "content": "近战实体武器稳定伤害抵抗"
+  },
+  {
+    "id": "lootable_Gyro_Coventry_Brawler.MeleeResist.statusEffects6.Name",
+    "content": "近战撞击伤害抵抗"
+  },
+  {
+    "id": "lootable_Gyro_Coventry_Brawler.MeleeResistChargeStab.statusEffects7.Name",
+    "content": "近战撞击稳定伤害抵抗"
+  },
+  {
+    "id": "lootable_Gyro_Coventry_Brawler.MeleeResistDFA.statusEffects8.Name",
+    "content": "近战DFA抵抗"
+  },
+  {
+    "id": "lootable_Gyro_Coventry_Brawler.MeleeResistDFAStab.statusEffects9.Name",
+    "content": "近战DFA稳定抵抗"
+  },
+  {
+    "id": "lootable_Gyro_Coventry_Brawler.StatusEffect-Attack_ToHitMelee-T3.statusEffects10.Name",
+    "content": "近战命中率提高"
+  },
+  {
+    "id": "lootable_Gyro_Coventry_Brawler.GyroMeleeDef.statusEffects11.Name",
+    "content": "GECM干扰"
+  },
+  {
+    "id": "lootable_Gyro_Coventry_Brawler.StatusEffect-GyroDefMelee.statusEffects12.Name",
+    "content": "尖刺装甲板"
+  },
+  {
+    "id": "lootable_Gyro_Coventry_Brawler.GyroGenericThreshhold.statusEffects13.Name",
+    "content": "陀螺仪稳定器"
+  },
+  {
+    "id": "lootable_Gyro_Coventry_Brawler.FCS_MeleeAccuracy.statusEffects14.Name",
+    "content": "近战武器精度修正"
+  },
+  {
+    "id": "lootable_Gyro_Coventry_Brawler.FCS_MeleeAccuracy.statusEffects15.Name",
+    "content": "近战武器精度修正"
+  },
+  {
+    "id": "lootable_Gyro_Coventry_Brawler.FCS_MeleeAccuracy.statusEffects16.Name",
+    "content": "近战武器精度修正"
+  },
+  {
+    "id": "lootable_Gyro_Coventry_Brawler.FCS_MeleeAccuracy.statusEffects17.Name",
+    "content": "近战武器精度修正"
+  },
+  {
+    "id": "lootable_Gyro_Coventry_Brawler.FCS_MeleeAccuracy.statusEffects18.Name",
+    "content": "近战武器精度修正"
+  },
+  {
+    "id": "lootable_Gyro_Coventry_Dreadnought.Description.Details",
+    "content": "它最初是一艘'考文垂无畏舰',但打捞技术人员在将它从安装的单元中切割出来时损坏了一些碎片和摇摆.配备了非常优秀的控制系统,直接允许被动系统调整机甲装甲的角度,以最大效率对来袭的攻击."
+  },
+  {
+    "id": "lootable_Gyro_Coventry_Dreadnought.Description.UIName",
+    "content": "无畏型陀螺仪"
+  },
+  {
+    "id": "lootable_Gyro_Coventry_Dreadnought.Description.Name",
+    "content": "考文垂无畏型"
+  },
+  {
+    "id": "lootable_Gyro_Coventry_Dreadnought.Description.Manufacturer",
+    "content": "考文垂"
+  },
+  {
+    "id": "lootable_Gyro_Coventry_Dreadnought.StatusEffect-GyroDefMelee.statusEffects0.Details",
+    "content": "降低即将来临的近战攻击的额外近战伤害"
+  },
+  {
+    "id": "lootable_Gyro_Coventry_Dreadnought.StatusEffect-Attack_ToHitMelee-T3.statusEffects1.Details",
+    "content": "近战攻击试图提高命中率"
+  },
+  {
+    "id": "lootable_Gyro_Coventry_Dreadnought.StatusEffect-Attack_ToHitMelee-T3.statusEffects2.Details",
+    "content": "近战攻击试图提高命中率"
+  },
+  {
+    "id": "lootable_Gyro_Coventry_Dreadnought.GyroGenericThreshhold.statusEffects3.Details",
+    "content": "陀螺仪有助于机甲稳定重心"
+  },
+  {
+    "id": "lootable_Gyro_Coventry_Dreadnought.GyroGenericMax.statusEffects4.Details",
+    "content": "陀螺仪有助于机甲稳定重心"
+  },
+  {
+    "id": "lootable_Gyro_Coventry_Dreadnought.StatusEffect-GyroDefMelee.statusEffects0.Name",
+    "content": "尖刺装甲板"
+  },
+  {
+    "id": "lootable_Gyro_Coventry_Dreadnought.StatusEffect-Attack_ToHitMelee-T3.statusEffects1.Name",
+    "content": "近战命中率提高"
+  },
+  {
+    "id": "lootable_Gyro_Coventry_Dreadnought.StatusEffect-Attack_ToHitMelee-T3.statusEffects2.Name",
+    "content": "近战命中率提高"
+  },
+  {
+    "id": "lootable_Gyro_Coventry_Dreadnought.GyroGenericThreshhold.statusEffects3.Name",
+    "content": "陀螺仪稳定器"
+  },
+  {
+    "id": "lootable_Gyro_Coventry_Dreadnought.GyroGenericMax.statusEffects4.Name",
+    "content": "陀螺仪稳定器"
+  },
+  {
+    "id": "lootable_Gyro_Ultralight_Stabilized.Description.Details",
+    "content": "特型陀螺仪的一个独特变体,和高级稳定器连接,在不影响稳定性的情况下减小了尺寸并节省了重量."
+  },
+  {
+    "id": "lootable_Gyro_Ultralight_Stabilized.Description.UIName",
+    "content": "稳定器特轻型陀螺仪"
+  },
+  {
+    "id": "lootable_Gyro_Ultralight_Stabilized.Description.Name",
+    "content": "恶龙特轻型陀螺仪"
+  },
+  {
+    "id": "lootable_Gyro_Ultralight_Stabilized.Description.Manufacturer",
+    "content": "卢泰恩"
+  },
+  {
+    "id": "lootable_Gyro_Ultralight_Stabilized.ULPenalty2.statusEffects0.Details",
+    "content": "稳定阈值增加到60"
+  },
+  {
+    "id": "lootable_Gyro_Ultralight_Stabilized.GyroGenericMax.statusEffects1.Details",
+    "content": "陀螺仪有助于机甲稳定重心"
+  },
+  {
+    "id": "lootable_Gyro_Ultralight_Stabilized.ULPenalty2.statusEffects0.Name",
+    "content": "更稳定的机甲"
+  },
+  {
+    "id": "lootable_Gyro_Ultralight_Stabilized.GyroGenericMax.statusEffects1.Name",
+    "content": "陀螺仪稳定器"
+  },
+  {
+    "id": "lootable_Sensors_Clan.Description.Details",
+    "content": "一个基础的氏族座舱传感器包,和内天体的版本相比更加先进.热成像、光学缩放、雷达和磁异常传感器作为机甲的主要传感器,辅以地面震动传感器、运动传感器、化学分析仪和其他多种传感器."
+  },
+  {
+    "id": "lootable_Sensors_Clan.Description.UIName",
+    "content": "座舱传感器(C)"
+  },
+  {
+    "id": "lootable_Sensors_Clan.Description.Name",
+    "content": "氏族座舱传感器"
+  },
+  {
+    "id": "lootable_Sensors_Clan.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "lootable_Sensors_Clan.LV_ADVANCED_SENSORS.statusEffects0.Details",
+    "content": "提供敌军单位的详细信息"
+  },
+  {
+    "id": "lootable_Sensors_Clan.BAProbe.statusEffects1.Details",
+    "content": "增加视野/传感器"
+  },
+  {
+    "id": "lootable_Sensors_Clan.HP-CockpitSensors-Spot.statusEffects2.Details",
+    "content": "+50m发现距离"
+  },
+  {
+    "id": "lootable_Sensors_Clan.LV_ADVANCED_SENSORS.statusEffects0.Name",
+    "content": "先进传感器"
+  },
+  {
+    "id": "lootable_Sensors_Clan.BAProbe.statusEffects1.Name",
+    "content": "HP-驾驶舱传感器-传感器"
+  },
+  {
+    "id": "lootable_Sensors_Clan.HP-CockpitSensors-Spot.statusEffects2.Name",
+    "content": "提升发现距离"
+  },
+  {
+    "id": "lootable_Sensors_Generic_Standard.Description.Details",
+    "content": "基础传感器套件.热成像、光学缩放、雷达和磁异常传感器作为机甲的主要传感器,辅以地面震动传感器、运动传感器、化学分析仪和其他多种传感器."
+  },
+  {
+    "id": "lootable_Sensors_Generic_Standard.Description.UIName",
+    "content": "基础传感器"
+  },
+  {
+    "id": "lootable_Sensors_Generic_Standard.Description.Name",
+    "content": "标准传感器"
+  },
+  {
+    "id": "lootable_Sensors_Generic_Standard.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "lootable_Sensors_Generic_Standard.LV_ADVANCED_SENSORS.statusEffects0.Details",
+    "content": "提供敌军单位的详细信息"
+  },
+  {
+    "id": "lootable_Sensors_Generic_Standard.LV_ADVANCED_SENSORS.statusEffects0.Name",
+    "content": "先进传感器"
+  },
+  {
+    "id": "lootable_Sensors_Primitive_Standard.Description.Details",
+    "content": "原始传感器套件.热成像、光学缩放、雷达和磁异常传感器作为机甲的主要传感器,辅以地面震动传感器、运动传感器、化学分析仪和其他多种传感器."
+  },
+  {
+    "id": "lootable_Sensors_Primitive_Standard.Description.UIName",
+    "content": "原始传感器"
+  },
+  {
+    "id": "lootable_Sensors_Primitive_Standard.Description.Name",
+    "content": "原始传感器"
+  },
+  {
+    "id": "lootable_Sensors_Primitive_Standard.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "lootable_Sensors_Primitive_Standard.PrimitiveSensors.statusEffects0.Details",
+    "content": "降低传感器性能"
+  },
+  {
+    "id": "lootable_Sensors_Primitive_Standard.PrimitiveSensors1.statusEffects1.Details",
+    "content": "降低传感器性能"
+  },
+  {
+    "id": "lootable_Sensors_Primitive_Standard.PrimitiveSensors.statusEffects0.Name",
+    "content": "原始座舱"
+  },
+  {
+    "id": "lootable_Sensors_Primitive_Standard.PrimitiveSensors1.statusEffects1.Name",
+    "content": "原始座舱"
+  },
+  {
+    "id": "lootable_Sensors_SLDF.Description.Details",
+    "content": "基础的星联防卫部队(SLDF)传感器包,和内天体使用的版本相比更加先进.热成像、光学缩放、雷达和磁异常传感器作为机甲的主要传感器,辅以地面震动传感器、运动传感器、化学分析仪和其他多种传感器."
+  },
+  {
+    "id": "lootable_Sensors_SLDF.Description.UIName",
+    "content": "SLDF传感器"
+  },
+  {
+    "id": "lootable_Sensors_SLDF.Description.Name",
+    "content": "氏族座舱传感器"
+  },
+  {
+    "id": "lootable_Sensors_SLDF.Description.Manufacturer",
+    "content": "星联防卫部队"
+  },
+  {
+    "id": "lootable_Sensors_SLDF.LV_ADVANCED_SENSORS.statusEffects0.Details",
+    "content": "提供敌军单位的详细信息"
+  },
+  {
+    "id": "lootable_Sensors_SLDF.BAProbe.statusEffects1.Details",
+    "content": "增加视野/传感器"
+  },
+  {
+    "id": "lootable_Sensors_SLDF.HP-CockpitSensors-Spot.statusEffects2.Details",
+    "content": "+50m发现距离"
+  },
+  {
+    "id": "lootable_Sensors_SLDF.LV_ADVANCED_SENSORS.statusEffects0.Name",
+    "content": "先进传感器"
+  },
+  {
+    "id": "lootable_Sensors_SLDF.BAProbe.statusEffects1.Name",
+    "content": "HP-驾驶舱传感器-传感器"
+  },
+  {
+    "id": "lootable_Sensors_SLDF.HP-CockpitSensors-Spot.statusEffects2.Name",
+    "content": "提升侦测距离"
+  },
+  {
+    "id": "Lootable_structureslots_EndoTSM.Description.Details",
+    "content": "这种内构钢复合结构与三倍强化人工肌肉(TSM)原型交织在一起,提高了速度和近战伤害."
+  },
+  {
+    "id": "Lootable_structureslots_EndoTSM.Description.UIName",
+    "content": "TSM内构复合材料"
+  },
+  {
+    "id": "Lootable_structureslots_EndoTSM.Description.Name",
+    "content": "内构复合材料&TSM"
+  },
+  {
+    "id": "Lootable_structureslots_EndoTSM.Description.Manufacturer",
+    "content": "L.A.W."
+  },
+  {
+    "id": "Lootable_structureslots_EndoTSM.TSM_Damage_Weapon.CAE0.Details",
+    "content": "伤害修正"
+  },
+  {
+    "id": "Lootable_structureslots_EndoTSM.TSM_Stability_Weapon.CAE1.Details",
+    "content": "伤害修正"
+  },
+  {
+    "id": "Lootable_structureslots_EndoTSM.TSM_Damage_Punch.CAE2.Details",
+    "content": "伤害修正"
+  },
+  {
+    "id": "Lootable_structureslots_EndoTSM.TSM_Stability_Punch.CAE3.Details",
+    "content": "伤害修正"
+  },
+  {
+    "id": "Lootable_structureslots_EndoTSM.TSM_Damage_Kick.CAE4.Details",
+    "content": "伤害修正"
+  },
+  {
+    "id": "Lootable_structureslots_EndoTSM.TSM_Stability_Kick.CAE5.Details",
+    "content": "伤害修正"
+  },
+  {
+    "id": "Lootable_structureslots_EndoTSM.TSMActive1.CAE6.Details",
+    "content": "更强的近战和更快的速度"
+  },
+  {
+    "id": "Lootable_structureslots_EndoTSM.TSM_Damage_Weapon.CAE0.Name",
+    "content": "近战武器伤害模块"
+  },
+  {
+    "id": "Lootable_structureslots_EndoTSM.TSM_Stability_Weapon.CAE1.Name",
+    "content": "近战武器伤害模块"
+  },
+  {
+    "id": "Lootable_structureslots_EndoTSM.TSM_Damage_Punch.CAE2.Name",
+    "content": "近战武器伤害模块"
+  },
+  {
+    "id": "Lootable_structureslots_EndoTSM.TSM_Stability_Punch.CAE3.Name",
+    "content": "近战武器伤害模块"
+  },
+  {
+    "id": "Lootable_structureslots_EndoTSM.TSM_Damage_Kick.CAE4.Name",
+    "content": "近战武器伤害模块"
+  },
+  {
+    "id": "Lootable_structureslots_EndoTSM.TSM_Stability_Kick.CAE5.Name",
+    "content": "近战武器伤害模块"
+  },
+  {
+    "id": "Lootable_structureslots_EndoTSM.TSMActive1.CAE6.Name",
+    "content": "TSM激活!"
+  },
+  {
+    "id": "lootable_structureslots_standard.Description.Details",
+    "content": "机甲的内部结构由安装好所有组件的骨架结构组成,机甲的标准内构重量为其最大吨位的10%."
+  },
+  {
+    "id": "lootable_structureslots_standard.Description.UIName",
+    "content": "标准结构"
+  },
+  {
+    "id": "lootable_structureslots_standard.Description.Name",
+    "content": "标准结构"
+  },
+  {
+    "id": "lootable_structureslots_standard.Description.Manufacturer",
+    "content": "通用型"
+  }
+]

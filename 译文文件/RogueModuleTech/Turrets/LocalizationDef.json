@@ -1,0 +1,58 @@
+[
+  {
+    "id": "Tank_CrewBunker_Assault.Description.Name",
+    "content": "指挥掩体"
+  },
+  {
+    "id": "Tank_CrewBunker_Heavy.Description.Name",
+    "content": "指挥掩体"
+  },
+  {
+    "id": "Tank_CrewBunker_Light.Description.Name",
+    "content": "指挥掩体"
+  },
+  {
+    "id": "Tank_CrewBunker_Standard.Description.Name",
+    "content": "指挥掩体"
+  },
+  {
+    "id": "Turret_Systems_Assault.Description.Name",
+    "content": "炮塔系统"
+  },
+  {
+    "id": "Turret_Systems_Heavy.Description.Name",
+    "content": "炮塔系统"
+  },
+  {
+    "id": "Turret_Systems_Light.Description.Name",
+    "content": "炮塔系统"
+  },
+  {
+    "id": "Turret_Systems_Standard.Description.Name",
+    "content": "炮塔系统"
+  },
+  {
+    "id": "Turret_Coolant_System.Description.UIName",
+    "content": "炮塔冷却系统"
+  },
+  {
+    "id": "Weapon_Infantry_Flamer.Description.UIName",
+    "content": "步兵喷火器"
+  },
+  {
+    "id": "Weapon_Infantry_LRM.Description.UIName",
+    "content": "步兵LRM"
+  },
+  {
+    "id": "Weapon_Infantry_Rifles.Description.UIName",
+    "content": "步兵步枪"
+  },
+  {
+    "id": "Weapon_Infantry_SRM.Description.UIName",
+    "content": "步兵SRM"
+  },
+  {
+    "id": "Weapon_SRM_SRM4_0-INV.Description.UIName",
+    "content": " "
+  }
+]

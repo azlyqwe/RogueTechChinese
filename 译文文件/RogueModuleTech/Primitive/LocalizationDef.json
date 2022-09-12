@@ -1,0 +1,1258 @@
+[
+  {
+    "id": "emod_engineslots_FuelCell.Description.Details",
+    "content": "燃料电池发动机主要用于轨道系统、个人运输和工业机甲等民间应用.燃料电池发动机产生电力,然后由载具用于操作其推进系统.燃料电池发动机与普通的内燃机相比具有几个优点.虽然它们都需要氧化剂才能运行,但它们可以随时使用储存的氧化剂及燃料,这使其成为潜艇、卫星和海军应用的良好选择.由于大多数燃料电池依靠氢气和氧气运行,它们除了水蒸气之外没有废气,因此燃料电池也被用作建筑物和其他大型结构的发电机.无法使用额外冷却套件、换热器或蓄热器."
+  },
+  {
+    "id": "emod_engineslots_FuelCell.Description.UIName",
+    "content": "燃料电池引擎"
+  },
+  {
+    "id": "emod_engineslots_FuelCell.Description.Name",
+    "content": "燃料电池引擎"
+  },
+  {
+    "id": "emod_engineslots_FuelCell.Description.Manufacturer",
+    "content": "弗拉尔"
+  },
+  {
+    "id": "emod_engineslots_FuelCell.StatusEffect-Heat_ICE.statusEffects0.Details",
+    "content": "+15%产热."
+  },
+  {
+    "id": "emod_engineslots_FuelCell.FuelCellExplosionRange.statusEffects1.Details",
+    "content": "引擎发出轰鸣"
+  },
+  {
+    "id": "emod_engineslots_FuelCell.FuelCellExplosionDamage.statusEffects2.Details",
+    "content": "引擎发出轰鸣"
+  },
+  {
+    "id": "emod_engineslots_FuelCell.FuelCellExplosionHeat.statusEffects3.Details",
+    "content": "引擎发出轰鸣"
+  },
+  {
+    "id": "emod_engineslots_FuelCell.FuelCellExplosionStability.statusEffects4.Details",
+    "content": "引擎发出轰鸣"
+  },
+  {
+    "id": "emod_engineslots_FuelCell.FuelCellExplosionFireStrength.statusEffects5.Details",
+    "content": "引擎发出轰鸣"
+  },
+  {
+    "id": "emod_engineslots_FuelCell.FuelCellExplosionFireRadius.statusEffects6.Details",
+    "content": "引擎发出轰鸣"
+  },
+  {
+    "id": "emod_engineslots_FuelCell.FuelCellExplosionMaskRadius.statusEffects7.Details",
+    "content": "引擎发出轰鸣"
+  },
+  {
+    "id": "emod_engineslots_FuelCell.StatusEffect-Heat_ICE.statusEffects0.Name",
+    "content": "增加热量"
+  },
+  {
+    "id": "emod_engineslots_FuelCell.FuelCellExplosionRange.statusEffects1.Name",
+    "content": "燃料电池额外致命损伤"
+  },
+  {
+    "id": "emod_engineslots_FuelCell.FuelCellExplosionDamage.statusEffects2.Name",
+    "content": "燃料电池额外致命损伤"
+  },
+  {
+    "id": "emod_engineslots_FuelCell.FuelCellExplosionHeat.statusEffects3.Name",
+    "content": "燃料电池额外致命损伤"
+  },
+  {
+    "id": "emod_engineslots_FuelCell.FuelCellExplosionStability.statusEffects4.Name",
+    "content": "燃料电池额外致命损伤"
+  },
+  {
+    "id": "emod_engineslots_FuelCell.FuelCellExplosionFireStrength.statusEffects5.Name",
+    "content": "燃料电池额外致命损伤"
+  },
+  {
+    "id": "emod_engineslots_FuelCell.FuelCellExplosionFireRadius.statusEffects6.Name",
+    "content": "燃料电池额外致命损伤"
+  },
+  {
+    "id": "emod_engineslots_FuelCell.FuelCellExplosionMaskRadius.statusEffects7.Name",
+    "content": "燃料电池额外致命损伤"
+  },
+  {
+    "id": "emod_engineslots_ICE_center.Description.Details",
+    "content": "与现代内燃机的作用和意义相同,BattleTech中的内燃机主要用于常规车辆和工业领域.他的输出功率远小于同重量的聚变发动机,这意味着要输出与聚变发动机相同的功率,内燃机会更重."
+  },
+  {
+    "id": "emod_engineslots_ICE_center.Description.UIName",
+    "content": "内燃机"
+  },
+  {
+    "id": "emod_engineslots_ICE_center.Description.Name",
+    "content": "内燃机"
+  },
+  {
+    "id": "emod_engineslots_ICE_center.Description.Manufacturer",
+    "content": "弗拉尔"
+  },
+  {
+    "id": "emod_engineslots_ICE_center.Obviously.statusEffects0.Details",
+    "content": "更容易定位"
+  },
+  {
+    "id": "emod_engineslots_ICE_center.Stealth_Signature_Decrease_Stealth.statusEffects1.Details",
+    "content": "信号特征状态效果."
+  },
+  {
+    "id": "emod_engineslots_ICE_center.Stealth_Visibility_Decrease_Stealth.statusEffects2.Details",
+    "content": "可见性状态效果."
+  },
+  {
+    "id": "emod_engineslots_ICE_center.ICE Walk.statusEffects3.Details",
+    "content": "内燃机降低速度但是也减少了产热"
+  },
+  {
+    "id": "emod_engineslots_ICE_center.StatusEffect-Heat_ICE.statusEffects4.Details",
+    "content": "+15%产热."
+  },
+  {
+    "id": "emod_engineslots_ICE_center.ICEExplosionRange.statusEffects5.Details",
+    "content": "引擎发出轰鸣"
+  },
+  {
+    "id": "emod_engineslots_ICE_center.ICEExplosionDamage.statusEffects6.Details",
+    "content": "引擎发出轰鸣"
+  },
+  {
+    "id": "emod_engineslots_ICE_center.ICEExplosionHeat.statusEffects7.Details",
+    "content": "引擎发出轰鸣"
+  },
+  {
+    "id": "emod_engineslots_ICE_center.ICEExplosionStability.statusEffects8.Details",
+    "content": "引擎发出轰鸣"
+  },
+  {
+    "id": "emod_engineslots_ICE_center.ICEExplosionFireStrength.statusEffects9.Details",
+    "content": "引擎发出轰鸣"
+  },
+  {
+    "id": "emod_engineslots_ICE_center.ICEExplosionFireRadius.statusEffects10.Details",
+    "content": "引擎发出轰鸣"
+  },
+  {
+    "id": "emod_engineslots_ICE_center.ICEExplosionMaskRadius.statusEffects11.Details",
+    "content": "引擎发出轰鸣"
+  },
+  {
+    "id": "emod_engineslots_ICE_center.Obviously.statusEffects0.Name",
+    "content": "明显的目标"
+  },
+  {
+    "id": "emod_engineslots_ICE_center.Stealth_Signature_Decrease_Stealth.statusEffects1.Name",
+    "content": "减少隐身信号特征"
+  },
+  {
+    "id": "emod_engineslots_ICE_center.Stealth_Visibility_Decrease_Stealth.statusEffects2.Name",
+    "content": "降低隐身可见性"
+  },
+  {
+    "id": "emod_engineslots_ICE_center.ICE Walk.statusEffects3.Name",
+    "content": "内燃机"
+  },
+  {
+    "id": "emod_engineslots_ICE_center.StatusEffect-Heat_ICE.statusEffects4.Name",
+    "content": "增加热量"
+  },
+  {
+    "id": "emod_engineslots_ICE_center.ICEExplosionRange.statusEffects5.Name",
+    "content": "内燃机额外致命损伤"
+  },
+  {
+    "id": "emod_engineslots_ICE_center.ICEExplosionDamage.statusEffects6.Name",
+    "content": "内燃机额外致命损伤"
+  },
+  {
+    "id": "emod_engineslots_ICE_center.ICEExplosionHeat.statusEffects7.Name",
+    "content": "内燃机额外致命损伤"
+  },
+  {
+    "id": "emod_engineslots_ICE_center.ICEExplosionStability.statusEffects8.Name",
+    "content": "内燃机额外致命损伤"
+  },
+  {
+    "id": "emod_engineslots_ICE_center.ICEExplosionFireStrength.statusEffects9.Name",
+    "content": "内燃机额外致命损伤"
+  },
+  {
+    "id": "emod_engineslots_ICE_center.ICEExplosionFireRadius.statusEffects10.Name",
+    "content": "内燃机额外致命损伤"
+  },
+  {
+    "id": "emod_engineslots_ICE_center.ICEExplosionMaskRadius.statusEffects11.Name",
+    "content": "内燃机额外致命损伤"
+  },
+  {
+    "id": "emod_engineslots_Primitive_center.Description.Details",
+    "content": "与它们在星联和继承战争时期的同类相比,原始引擎更大且效率更低. 通常相同功率现代引擎的尺寸是这些早期引擎的80%."
+  },
+  {
+    "id": "emod_engineslots_Primitive_center.Description.UIName",
+    "content": "原始引擎"
+  },
+  {
+    "id": "emod_engineslots_Primitive_center.Description.Name",
+    "content": "原始引擎"
+  },
+  {
+    "id": "emod_engineslots_Primitive_center.Description.Manufacturer",
+    "content": "弗拉尔"
+  },
+  {
+    "id": "emod_engineslots_Primitive_center.Stealth_Signature_Decrease_Stealth.statusEffects0.Details",
+    "content": "信号特征状态效果."
+  },
+  {
+    "id": "emod_engineslots_Primitive_center.Stealth_Visibility_Decrease_Stealth.statusEffects1.Details",
+    "content": "可见性状态效果."
+  },
+  {
+    "id": "emod_engineslots_Primitive_center.Obviously.statusEffects2.Details",
+    "content": "更容易定位"
+  },
+  {
+    "id": "emod_engineslots_Primitive_center.PrimitiveExplosionRange.statusEffects3.Details",
+    "content": "引擎发出轰鸣"
+  },
+  {
+    "id": "emod_engineslots_Primitive_center.PrimitiveExplosionDamage.statusEffects4.Details",
+    "content": "引擎发出轰鸣"
+  },
+  {
+    "id": "emod_engineslots_Primitive_center.PrimitiveExplosionHeat.statusEffects5.Details",
+    "content": "引擎发出轰鸣"
+  },
+  {
+    "id": "emod_engineslots_Primitive_center.PrimitiveExplosionStability.statusEffects6.Details",
+    "content": "引擎发出轰鸣"
+  },
+  {
+    "id": "emod_engineslots_Primitive_center.PrimitiveExplosionFireStrength.statusEffects7.Details",
+    "content": "引擎发出轰鸣"
+  },
+  {
+    "id": "emod_engineslots_Primitive_center.PrimitiveExplosionFireRadius.statusEffects8.Details",
+    "content": "引擎发出轰鸣"
+  },
+  {
+    "id": "emod_engineslots_Primitive_center.PrimitiveExplosionFireMaskDuration.statusEffects9.Details",
+    "content": "引擎发出轰鸣"
+  },
+  {
+    "id": "emod_engineslots_Primitive_center.PrimitiveExplosionMaskRadius.statusEffects10.Details",
+    "content": "引擎发出轰鸣"
+  },
+  {
+    "id": "emod_engineslots_Primitive_center.Stealth_Signature_Decrease_Stealth.statusEffects0.Name",
+    "content": "减少隐身信号特征"
+  },
+  {
+    "id": "emod_engineslots_Primitive_center.Stealth_Visibility_Decrease_Stealth.statusEffects1.Name",
+    "content": "降低隐身可见性"
+  },
+  {
+    "id": "emod_engineslots_Primitive_center.Obviously.statusEffects2.Name",
+    "content": "明显的目标"
+  },
+  {
+    "id": "emod_engineslots_Primitive_center.PrimitiveExplosionRange.statusEffects3.Name",
+    "content": "原始引擎额外致命损伤"
+  },
+  {
+    "id": "emod_engineslots_Primitive_center.PrimitiveExplosionDamage.statusEffects4.Name",
+    "content": "原始引擎额外致命损伤"
+  },
+  {
+    "id": "emod_engineslots_Primitive_center.PrimitiveExplosionHeat.statusEffects5.Name",
+    "content": "原始引擎额外致命损伤"
+  },
+  {
+    "id": "emod_engineslots_Primitive_center.PrimitiveExplosionStability.statusEffects6.Name",
+    "content": "原始引擎额外致命损伤"
+  },
+  {
+    "id": "emod_engineslots_Primitive_center.PrimitiveExplosionFireStrength.statusEffects7.Name",
+    "content": "原始引擎额外致命损伤"
+  },
+  {
+    "id": "emod_engineslots_Primitive_center.PrimitiveExplosionFireRadius.statusEffects8.Name",
+    "content": "原始引擎额外致命损伤"
+  },
+  {
+    "id": "emod_engineslots_Primitive_center.PrimitiveExplosionFireMaskDuration.statusEffects9.Name",
+    "content": "原始引擎额外致命损伤"
+  },
+  {
+    "id": "emod_engineslots_Primitive_center.PrimitiveExplosionMaskRadius.statusEffects10.Name",
+    "content": "原始引擎额外致命损伤"
+  },
+  {
+    "id": "emod_quicsel_xl_center.Description.Details",
+    "content": "需要获得恒星的力量吗?不要再找了,我们Quicsell公司已经破解了恒星联盟超轻型引擎的秘密!以无与伦比的性价比降低引擎的总重量."
+  },
+  {
+    "id": "emod_quicsel_xl_center.Description.UIName",
+    "content": "超轻型引擎!!"
+  },
+  {
+    "id": "emod_quicsel_xl_center.Description.Name",
+    "content": "超轻型引擎"
+  },
+  {
+    "id": "emod_quicsel_xl_center.Description.Manufacturer",
+    "content": "Quicsell"
+  },
+  {
+    "id": "Gear_JumpJet_Prototype_Assault.Description.Details",
+    "content": "早期原型跳跃推进器,-10%稳定阈值."
+  },
+  {
+    "id": "Gear_JumpJet_Prototype_Assault.Description.UIName",
+    "content": "原型跳跃推进器(A)"
+  },
+  {
+    "id": "Gear_JumpJet_Prototype_Assault.Description.Name",
+    "content": "原型跳跃推进器(A)"
+  },
+  {
+    "id": "Gear_JumpJet_Prototype_Assault.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Gear_JumpJet_Prototype_Heavy.Description.Details",
+    "content": "早期原型跳跃推进器,-10%稳定阈值."
+  },
+  {
+    "id": "Gear_JumpJet_Prototype_Heavy.Description.UIName",
+    "content": "原型跳跃推进器(H)"
+  },
+  {
+    "id": "Gear_JumpJet_Prototype_Heavy.Description.Name",
+    "content": "原型重型跳跃推进器(H)"
+  },
+  {
+    "id": "Gear_JumpJet_Prototype_Heavy.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Gear_JumpJet_Prototype_Standard.Description.Details",
+    "content": "早期原型跳跃推进器,-10%稳定阈值."
+  },
+  {
+    "id": "Gear_JumpJet_Prototype_Standard.Description.UIName",
+    "content": "原型跳跃推进器(S)"
+  },
+  {
+    "id": "Gear_JumpJet_Prototype_Standard.Description.Name",
+    "content": "原型跳跃推进器(S)"
+  },
+  {
+    "id": "Gear_JumpJet_Prototype_Standard.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Weapon_Autocannon_AC10_Quicsell.Description.Details",
+    "content": "需要一些吵闹和令人不快的东西,但买不起反抗军噪音盒(Boomboxes)? 在Quicsell公司可以得到了你们想要的东西,我们的技术努力为您带来了这款顶级自动加农炮AC10.超低的价格几乎让你免费安装!"
+  },
+  {
+    "id": "Weapon_Autocannon_AC10_Quicsell.Description.UIName",
+    "content": "BB5X AC/10"
+  },
+  {
+    "id": "Weapon_Autocannon_AC10_Quicsell.Description.Name",
+    "content": "AC/10-"
+  },
+  {
+    "id": "Weapon_Autocannon_AC10_Quicsell.Description.Manufacturer",
+    "content": "Quicsell"
+  },
+  {
+    "id": "Weapon_Autocannon_AC10_Quicsell.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Autocannon_AC10_Quicsell.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_HEAVYAOE_ROCKETLAUNCHER10.Description.Details",
+    "content": "这枚火箭发射器被一枚高爆战斗部所取代,在撞击时造成大面积伤害.<b><color=#F79232>1发!</color> </b> <b><color=#099ff2>不稳定!</color></b>"
+  },
+  {
+    "id": "Weapon_HEAVYAOE_ROCKETLAUNCHER10.Description.UIName",
+    "content": "AOE火箭弹10"
+  },
+  {
+    "id": "Weapon_HEAVYAOE_ROCKETLAUNCHER10.Description.Name",
+    "content": "RL10"
+  },
+  {
+    "id": "Weapon_HEAVYAOE_ROCKETLAUNCHER10.Description.Manufacturer",
+    "content": "死亡之花"
+  },
+  {
+    "id": "Weapon_HEAVYAOE_ROCKETLAUNCHER15.Description.Details",
+    "content": "重型火箭发射器的工作原理与广泛使用的普通火箭发射器相同.无制导的火箭弹被栓接固定在一次性发射器上以便它们承载更重的战斗部.<b><color=#F79232>1发!</color> </b> <b><color=#099ff2>不稳定!</color></b>"
+  },
+  {
+    "id": "Weapon_HEAVYAOE_ROCKETLAUNCHER15.Description.UIName",
+    "content": "AOE火箭弹15"
+  },
+  {
+    "id": "Weapon_HEAVYAOE_ROCKETLAUNCHER15.Description.Name",
+    "content": "RL15"
+  },
+  {
+    "id": "Weapon_HEAVYAOE_ROCKETLAUNCHER15.Description.Manufacturer",
+    "content": "死亡之花"
+  },
+  {
+    "id": "Weapon_HEAVYAOE_ROCKETLAUNCHER20.Description.Details",
+    "content": "重型火箭发射器的工作原理与广泛使用的普通火箭发射器相同.无制导的火箭弹被栓接固定在一次性发射器上以便它们承载更重的战斗部.<b><color=#F79232>1发!</color> </b> <b><color=#099ff2>不稳定!</color></b>"
+  },
+  {
+    "id": "Weapon_HEAVYAOE_ROCKETLAUNCHER20.Description.UIName",
+    "content": "AOE火箭弹20"
+  },
+  {
+    "id": "Weapon_HEAVYAOE_ROCKETLAUNCHER20.Description.Name",
+    "content": "RL20"
+  },
+  {
+    "id": "Weapon_HEAVYAOE_ROCKETLAUNCHER20.Description.Manufacturer",
+    "content": "死亡之花"
+  },
+  {
+    "id": "Weapon_HEAVYAOE_ROCKETLAUNCHER5.Description.Details",
+    "content": "重型火箭发射器的工作原理与广泛使用的普通火箭发射器相同.无制导的火箭弹被栓接固定在一次性发射器上以便它们承载更重的战斗部.<b><color=#F79232>1发!</color> </b> <b><color=#099ff2>不稳定!</color></b>"
+  },
+  {
+    "id": "Weapon_HEAVYAOE_ROCKETLAUNCHER5.Description.UIName",
+    "content": "AOE火箭弹5"
+  },
+  {
+    "id": "Weapon_HEAVYAOE_ROCKETLAUNCHER5.Description.Name",
+    "content": "RL5"
+  },
+  {
+    "id": "Weapon_HEAVYAOE_ROCKETLAUNCHER5.Description.Manufacturer",
+    "content": "死亡之花"
+  },
+  {
+    "id": "Weapon_HEAVY_ROCKETLAUNCHER10.Description.Details",
+    "content": "重型火箭发射器的工作原理与广泛使用的普通火箭发射器相同.无制导的火箭弹被栓接固定在一次性发射器上以便它们承载更重的战斗部.<b><color=#F79232>1发!</color> </b> <b><color=#099ff2>不稳定!</color></b>"
+  },
+  {
+    "id": "Weapon_HEAVY_ROCKETLAUNCHER10.Description.UIName",
+    "content": "重型RL10"
+  },
+  {
+    "id": "Weapon_HEAVY_ROCKETLAUNCHER10.Description.Name",
+    "content": "RL10"
+  },
+  {
+    "id": "Weapon_HEAVY_ROCKETLAUNCHER10.Description.Manufacturer",
+    "content": "死亡之花"
+  },
+  {
+    "id": "Weapon_HEAVY_ROCKETLAUNCHER15.Description.Details",
+    "content": "重型火箭发射器的工作原理与广泛使用的普通火箭发射器相同.无制导的火箭弹被栓接固定在一次性发射器上以便它们承载更重的战斗部.<b><color=#F79232>1发!</color> </b> <b><color=#099ff2>不稳定!</color></b>"
+  },
+  {
+    "id": "Weapon_HEAVY_ROCKETLAUNCHER15.Description.UIName",
+    "content": "重型RL15"
+  },
+  {
+    "id": "Weapon_HEAVY_ROCKETLAUNCHER15.Description.Name",
+    "content": "RL15"
+  },
+  {
+    "id": "Weapon_HEAVY_ROCKETLAUNCHER15.Description.Manufacturer",
+    "content": "死亡之花"
+  },
+  {
+    "id": "Weapon_HEAVY_ROCKETLAUNCHER20.Description.Details",
+    "content": "重型火箭发射器的工作原理与广泛使用的普通火箭发射器相同.无制导的火箭弹被栓接固定在一次性发射器上以便它们承载更重的战斗部.<b><color=#F79232>1发!</color> </b> <b><color=#099ff2>不稳定!</color></b>"
+  },
+  {
+    "id": "Weapon_HEAVY_ROCKETLAUNCHER20.Description.UIName",
+    "content": "重型RL20"
+  },
+  {
+    "id": "Weapon_HEAVY_ROCKETLAUNCHER20.Description.Name",
+    "content": "RL20"
+  },
+  {
+    "id": "Weapon_HEAVY_ROCKETLAUNCHER20.Description.Manufacturer",
+    "content": "死亡之花"
+  },
+  {
+    "id": "Weapon_HEAVY_ROCKETLAUNCHER5.Description.Details",
+    "content": "重型火箭发射器的工作原理与广泛使用的普通火箭发射器相同.无制导的火箭弹被栓接固定在一次性发射器上以便它们承载更重的战斗部.<b><color=#F79232>1发!</color> </b> <b><color=#099ff2>不稳定!</color></b>"
+  },
+  {
+    "id": "Weapon_HEAVY_ROCKETLAUNCHER5.Description.UIName",
+    "content": "重型RL5"
+  },
+  {
+    "id": "Weapon_HEAVY_ROCKETLAUNCHER5.Description.Name",
+    "content": "RL5"
+  },
+  {
+    "id": "Weapon_HEAVY_ROCKETLAUNCHER5.Description.Manufacturer",
+    "content": "死亡之花"
+  },
+  {
+    "id": "Weapon_LargeLaser_Tronel.Description.Details",
+    "content": "大型激光器具有强大的破坏力、射程和紧凑性,但会产生大量热量.与所有激光一样,大型激光器比其他武器的基础精度更具优势.特罗内尔(Tronel)是一种较旧的型号,因此比标准大型激光产生的热量高15%."
+  },
+  {
+    "id": "Weapon_LargeLaser_Tronel.Description.UIName",
+    "content": "特罗内尔大型激光"
+  },
+  {
+    "id": "Weapon_LargeLaser_Tronel.Description.Name",
+    "content": "特罗内尔大型激光"
+  },
+  {
+    "id": "Weapon_LargeLaser_Tronel.Description.Manufacturer",
+    "content": "特罗内尔"
+  },
+  {
+    "id": "Weapon_LargeLaser_Tronel.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_LargeLaser_Tronel.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Laser_DiscoLaser_Chemical.Description.Details",
+    "content": "这个\"派队(PAAARTY)加农炮\"有不超过四个化学激光器,手工将其与随机聚焦透镜装配在一起,使其在发射过程中改变颜色....有人在上面刻了\"Sta-sta一直活着\"\n\n<b><color=#ffcc00>使用化学中型弹药</color></b>."
+  },
+  {
+    "id": "Weapon_Laser_DiscoLaser_Chemical.Description.UIName",
+    "content": "迪斯科激光"
+  },
+  {
+    "id": "Weapon_Laser_DiscoLaser_Chemical.Description.Name",
+    "content": "中型化学激光"
+  },
+  {
+    "id": "Weapon_Laser_DiscoLaser_Chemical.Description.Manufacturer",
+    "content": "迪斯科！"
+  },
+  {
+    "id": "Weapon_Laser_DiscoLaser_Chemical.HeatDamageTakenSoftCapMultiplier.statusEffects0.Details",
+    "content": "-1%热伤害"
+  },
+  {
+    "id": "Weapon_Laser_DiscoLaser_Chemical.HeatDamageTakenSoftCapMultiplier.statusEffects0.Name",
+    "content": "2%热软限额"
+  },
+  {
+    "id": "Weapon_Laser_LargeLaser_Chemical.Description.Details",
+    "content": "化学激光并不完全是一项新发明,而是对超光速飞行之前的地球激光武器的重新开发,这种武器依靠化学过程产生完成发射所需的能量.\n\n<b><color=#ffcc00>使用大型化学激光弹药.</color></b>"
+  },
+  {
+    "id": "Weapon_Laser_LargeLaser_Chemical.Description.UIName",
+    "content": "大型化学激光"
+  },
+  {
+    "id": "Weapon_Laser_LargeLaser_Chemical.Description.Name",
+    "content": "大型化学激光"
+  },
+  {
+    "id": "Weapon_Laser_LargeLaser_Chemical.Description.Manufacturer",
+    "content": "克虏伯"
+  },
+  {
+    "id": "Weapon_Laser_LargeLaser_Chemical.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Laser_LargeLaser_Chemical.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Laser_MediumLaser_Chemical.Description.Details",
+    "content": "化学激光并不完全是一项新发明,而是对超光速飞行之前的地球激光武器的重新开发,这种武器依靠化学过程产生完成发射所需的能量.\n\n<b><color=#ffcc00>使用中型化学激光弹药</color></b>."
+  },
+  {
+    "id": "Weapon_Laser_MediumLaser_Chemical.Description.UIName",
+    "content": "中型化学激光"
+  },
+  {
+    "id": "Weapon_Laser_MediumLaser_Chemical.Description.Name",
+    "content": "中型化学激光"
+  },
+  {
+    "id": "Weapon_Laser_MediumLaser_Chemical.Description.Manufacturer",
+    "content": "炼狱"
+  },
+  {
+    "id": "Weapon_Laser_SmallLaser_Chemical.Description.Details",
+    "content": "化学激光并不完全是一项新发明,而是对超光速飞行之前的地球激光武器的重新开发,这种武器依靠化学过程产生完成发射所需的能量.\n\n<b><color=#ffcc00>使用小型化学激光弹药</color></b>."
+  },
+  {
+    "id": "Weapon_Laser_SmallLaser_Chemical.Description.UIName",
+    "content": "小型化学激光"
+  },
+  {
+    "id": "Weapon_Laser_SmallLaser_Chemical.Description.Name",
+    "content": "小型化学激光"
+  },
+  {
+    "id": "Weapon_Laser_SmallLaser_Chemical.Description.Manufacturer",
+    "content": "马爹利"
+  },
+  {
+    "id": "Weapon_LRM_INFERNOLAUNCHER10.Description.Details",
+    "content": "火箭弹发射器是廉价的无制导一次性导弹发射器,有人用炼狱凝胶替换了它原本的弹头.<b><color=#F79232>1发!</color> <b><color=#099ff2>不稳定!</color></b>"
+  },
+  {
+    "id": "Weapon_LRM_INFERNOLAUNCHER10.Description.UIName",
+    "content": "炼狱火箭弹10"
+  },
+  {
+    "id": "Weapon_LRM_INFERNOLAUNCHER10.Description.Name",
+    "content": "RL10"
+  },
+  {
+    "id": "Weapon_LRM_INFERNOLAUNCHER10.Description.Manufacturer",
+    "content": "死亡之花"
+  },
+  {
+    "id": "Weapon_LRM_INFERNOLAUNCHER10.HeatDamageTakenSoftCapMultiplier.statusEffects0.Details",
+    "content": "-1%热伤害"
+  },
+  {
+    "id": "Weapon_LRM_INFERNOLAUNCHER10.Effect_InfernoRLHeat.statusEffects1.Details",
+    "content": "本装置含有易燃化学品."
+  },
+  {
+    "id": "Weapon_LRM_INFERNOLAUNCHER10.HeatDamageTakenSoftCapMultiplier.statusEffects0.Name",
+    "content": "2%热软限额"
+  },
+  {
+    "id": "Weapon_LRM_INFERNOLAUNCHER10.Effect_InfernoRLHeat.statusEffects1.Name",
+    "content": "炼狱"
+  },
+  {
+    "id": "Weapon_LRM_INFERNOLAUNCHER15.Description.Details",
+    "content": "火箭弹发射器是廉价的无制导一次性导弹发射器,有人用炼狱凝胶替换了它原本的弹头.<b><color=#F79232>1发!</color> <b><color=#099ff2>不稳定!</color></b>"
+  },
+  {
+    "id": "Weapon_LRM_INFERNOLAUNCHER15.Description.UIName",
+    "content": "炼狱火箭弹15"
+  },
+  {
+    "id": "Weapon_LRM_INFERNOLAUNCHER15.Description.Name",
+    "content": "RL15"
+  },
+  {
+    "id": "Weapon_LRM_INFERNOLAUNCHER15.Description.Manufacturer",
+    "content": "死亡之花"
+  },
+  {
+    "id": "Weapon_LRM_INFERNOLAUNCHER15.HeatDamageTakenSoftCapMultiplier.statusEffects0.Details",
+    "content": "-1%热伤害"
+  },
+  {
+    "id": "Weapon_LRM_INFERNOLAUNCHER15.Effect_InfernoRLHeat.statusEffects1.Details",
+    "content": "本装置含有易燃化学品."
+  },
+  {
+    "id": "Weapon_LRM_INFERNOLAUNCHER15.HeatDamageTakenSoftCapMultiplier.statusEffects0.Name",
+    "content": "2%热软限额"
+  },
+  {
+    "id": "Weapon_LRM_INFERNOLAUNCHER15.Effect_InfernoRLHeat.statusEffects1.Name",
+    "content": "炼狱"
+  },
+  {
+    "id": "Weapon_LRM_INFERNOLAUNCHER20.Description.Details",
+    "content": "火箭弹发射器是廉价的无制导一次性导弹发射器,有人用炼狱凝胶替换了它原本的弹头.<b><color=#F79232>1发!</color> <b><color=#099ff2>不稳定!</color></b>"
+  },
+  {
+    "id": "Weapon_LRM_INFERNOLAUNCHER20.Description.UIName",
+    "content": "炼狱火箭弹20"
+  },
+  {
+    "id": "Weapon_LRM_INFERNOLAUNCHER20.Description.Name",
+    "content": "RL20"
+  },
+  {
+    "id": "Weapon_LRM_INFERNOLAUNCHER20.Description.Manufacturer",
+    "content": "死亡之花"
+  },
+  {
+    "id": "Weapon_LRM_INFERNOLAUNCHER20.HeatDamageTakenSoftCapMultiplier.statusEffects0.Details",
+    "content": "-1%热伤害"
+  },
+  {
+    "id": "Weapon_LRM_INFERNOLAUNCHER20.Effect_InfernoRLHeat.statusEffects1.Details",
+    "content": "本装置含有易燃化学品."
+  },
+  {
+    "id": "Weapon_LRM_INFERNOLAUNCHER20.HeatDamageTakenSoftCapMultiplier.statusEffects0.Name",
+    "content": "2%热软限额"
+  },
+  {
+    "id": "Weapon_LRM_INFERNOLAUNCHER20.Effect_InfernoRLHeat.statusEffects1.Name",
+    "content": "炼狱"
+  },
+  {
+    "id": "Weapon_LRM_INFERNOLAUNCHER5.Description.Details",
+    "content": "火箭弹发射器是廉价的无制导一次性导弹发射器,有人用炼狱凝胶替换了它原本的弹头.<b><color=#F79232>1发!</color> <b><color=#099ff2>不稳定!</color></b>"
+  },
+  {
+    "id": "Weapon_LRM_INFERNOLAUNCHER5.Description.UIName",
+    "content": "炼狱火箭弹5"
+  },
+  {
+    "id": "Weapon_LRM_INFERNOLAUNCHER5.Description.Name",
+    "content": "RL5"
+  },
+  {
+    "id": "Weapon_LRM_INFERNOLAUNCHER5.Description.Manufacturer",
+    "content": "死亡之花"
+  },
+  {
+    "id": "Weapon_LRM_INFERNOLAUNCHER5.HeatDamageTakenSoftCapMultiplier.statusEffects0.Details",
+    "content": "-1%热伤害"
+  },
+  {
+    "id": "Weapon_LRM_INFERNOLAUNCHER5.Effect_InfernoRLHeat.statusEffects1.Details",
+    "content": "本装置含有易燃化学品."
+  },
+  {
+    "id": "Weapon_LRM_INFERNOLAUNCHER5.HeatDamageTakenSoftCapMultiplier.statusEffects0.Name",
+    "content": "2%热软限额"
+  },
+  {
+    "id": "Weapon_LRM_INFERNOLAUNCHER5.Effect_InfernoRLHeat.statusEffects1.Name",
+    "content": "炼狱"
+  },
+  {
+    "id": "Weapon_LRM_ROCKETBATTERY10.Description.Details",
+    "content": "五个火箭发射器安装在一起.每个发射器可以单独发射,每个发射器由十个发射管组成.</color> <b><color=#099ff2>不稳定!</color></b>"
+  },
+  {
+    "id": "Weapon_LRM_ROCKETBATTERY10.Description.UIName",
+    "content": "火箭弹群10"
+  },
+  {
+    "id": "Weapon_LRM_ROCKETBATTERY10.Description.Name",
+    "content": "RB10"
+  },
+  {
+    "id": "Weapon_LRM_ROCKETBATTERY10.Description.Manufacturer",
+    "content": "死亡之花"
+  },
+  {
+    "id": "Weapon_LRM_ROCKETLAUNCHER10.Description.Details",
+    "content": "火箭弹发射器是廉价的无制导一次性导弹发射器.由马里安霸权发展而来,它们常常取代外围国家负担不起或无法修理的更复杂的设备.<b><color=#F79232>1发!</color> <b><color=#099ff2>不稳定!</color></b>"
+  },
+  {
+    "id": "Weapon_LRM_ROCKETLAUNCHER10.Description.UIName",
+    "content": "火箭弹10"
+  },
+  {
+    "id": "Weapon_LRM_ROCKETLAUNCHER10.Description.Name",
+    "content": "RL10"
+  },
+  {
+    "id": "Weapon_LRM_ROCKETLAUNCHER10.Description.Manufacturer",
+    "content": "死亡之花"
+  },
+  {
+    "id": "Weapon_LRM_ROCKETLAUNCHER15.Description.Details",
+    "content": "火箭发射器是一种廉价、无制导、一次性的导弹发射器.有马里安霸权开发,他们通常替代外围国家负担不起或无法维修的更复杂设备.<b><color=#F79232>1发装!</color></b><b><color=#099ff2>不稳定!</color></b>"
+  },
+  {
+    "id": "Weapon_LRM_ROCKETLAUNCHER15.Description.UIName",
+    "content": "火箭弹15"
+  },
+  {
+    "id": "Weapon_LRM_ROCKETLAUNCHER15.Description.Name",
+    "content": "RL15"
+  },
+  {
+    "id": "Weapon_LRM_ROCKETLAUNCHER15.Description.Manufacturer",
+    "content": "死亡之花"
+  },
+  {
+    "id": "Weapon_LRM_ROCKETLAUNCHER20.Description.Details",
+    "content": "火箭弹发射器是廉价的无制导一次性导弹发射器.由马里安霸权发展而来,它们常常取代外围国家负担不起或无法修理的更复杂的设备.<b><color=#F79232>1发!</color> <b><color=#099ff2>不稳定!</color></b>"
+  },
+  {
+    "id": "Weapon_LRM_ROCKETLAUNCHER20.Description.UIName",
+    "content": "火箭弹20"
+  },
+  {
+    "id": "Weapon_LRM_ROCKETLAUNCHER20.Description.Name",
+    "content": "RL20"
+  },
+  {
+    "id": "Weapon_LRM_ROCKETLAUNCHER20.Description.Manufacturer",
+    "content": "死亡之花"
+  },
+  {
+    "id": "Weapon_LRM_ROCKETLAUNCHER5.Description.Details",
+    "content": "火箭弹发射器是廉价的无制导一次性导弹发射器.由马里安霸权发展而来,它们常常取代外围国家负担不起或无法修理的更复杂的设备.<b><color=#F79232>1发!</color> <b><color=#099ff2>不稳定!</color></b>"
+  },
+  {
+    "id": "Weapon_LRM_ROCKETLAUNCHER5.Description.UIName",
+    "content": "火箭弹5"
+  },
+  {
+    "id": "Weapon_LRM_ROCKETLAUNCHER5.Description.Name",
+    "content": "RL5"
+  },
+  {
+    "id": "Weapon_LRM_ROCKETLAUNCHER5.Description.Manufacturer",
+    "content": "死亡之花"
+  },
+  {
+    "id": "Weapon_LRM_ROCKETTANDEM10.Description.Details",
+    "content": "串联装药火箭弹发射器是外围玩家最喜欢的一种赌博方式,它可以快速攻击目标,让火箭弹穿透目标并在内部爆炸. <b><color=#F79232>1发!</color> </b> <b><color=#099ff2>不稳定!</color></b>"
+  },
+  {
+    "id": "Weapon_LRM_ROCKETTANDEM10.Description.UIName",
+    "content": "串联装药火箭弹10"
+  },
+  {
+    "id": "Weapon_LRM_ROCKETTANDEM10.Description.Name",
+    "content": "串联RL10"
+  },
+  {
+    "id": "Weapon_LRM_ROCKETTANDEM10.Description.Manufacturer",
+    "content": "死亡之花"
+  },
+  {
+    "id": "Weapon_LRM_ROCKETTANDEM15.Description.Details",
+    "content": "串联装药火箭弹发射器是外围玩家最喜欢的一种赌博方式,它可以快速攻击目标,让火箭弹穿透目标并在内部爆炸. <b><color=#F79232>1发!</color> </b> <b><color=#099ff2>不稳定!</color></b>"
+  },
+  {
+    "id": "Weapon_LRM_ROCKETTANDEM15.Description.UIName",
+    "content": "串联装药火箭弹15"
+  },
+  {
+    "id": "Weapon_LRM_ROCKETTANDEM15.Description.Name",
+    "content": "串联RL15"
+  },
+  {
+    "id": "Weapon_LRM_ROCKETTANDEM15.Description.Manufacturer",
+    "content": "死亡之花"
+  },
+  {
+    "id": "Weapon_LRM_ROCKETTANDEM20.Description.Details",
+    "content": "串联装药火箭弹发射器是外围玩家最喜欢的一种赌博方式,它可以快速攻击目标,让火箭弹穿透目标并在内部爆炸. <b><color=#F79232>1发!</color> </b> <b><color=#099ff2>不稳定!</color></b>"
+  },
+  {
+    "id": "Weapon_LRM_ROCKETTANDEM20.Description.UIName",
+    "content": "串联装药火箭弹20"
+  },
+  {
+    "id": "Weapon_LRM_ROCKETTANDEM20.Description.Name",
+    "content": "串联RL20"
+  },
+  {
+    "id": "Weapon_LRM_ROCKETTANDEM20.Description.Manufacturer",
+    "content": "死亡之花"
+  },
+  {
+    "id": "Weapon_LRM_ROCKETTANDEM5.Description.Details",
+    "content": "串联装药火箭弹发射器是外围玩家最喜欢的一种赌博方式,它可以快速攻击目标,让火箭弹穿透目标并在内部爆炸. <b><color=#F79232>1发!</color> </b> <b><color=#099ff2>不稳定!</color></b>"
+  },
+  {
+    "id": "Weapon_LRM_ROCKETTANDEM5.Description.UIName",
+    "content": "串联装药火箭弹5"
+  },
+  {
+    "id": "Weapon_LRM_ROCKETTANDEM5.Description.Name",
+    "content": "串联RL5"
+  },
+  {
+    "id": "Weapon_LRM_ROCKETTANDEM5.Description.Manufacturer",
+    "content": "死亡之花"
+  },
+  {
+    "id": "Weapon_LRM_Thunderbolt_10_4pack.Description.Details",
+    "content": "霹雳火导弹是为索拉里斯竟技场开发的.与大多数导弹系统不同,霹雳火是一种能够粉碎目标的单发导弹系统. 虽然它在竟技场上很有效,但在战场上并没有得到广泛应用,因为这种单发导弹很容易受到反导系统限制. 导弹发射器虽然很小,但安装起来很难,只能安装机甲在左右侧躯干."
+  },
+  {
+    "id": "Weapon_LRM_Thunderbolt_10_4pack.Description.UIName",
+    "content": "霹雳火4-包"
+  },
+  {
+    "id": "Weapon_LRM_Thunderbolt_10_4pack.Description.Name",
+    "content": "霹雳火导弹"
+  },
+  {
+    "id": "Weapon_LRM_Thunderbolt_10_4pack.Description.Manufacturer",
+    "content": "索拉里斯军火公司"
+  },
+  {
+    "id": "Weapon_LRM_Thunderbolt_10_OS.Description.Details",
+    "content": "霹雳火导弹是为索拉里斯竟技场开发的.与大多数导弹系统不同,霹雳火是一种能够粉碎目标的单发导弹系统. 虽然它在竟技场上很有效,但在战场上并没有得到广泛应用,因为这种单发导弹很容易受到反导系统限制. 导弹发射器虽然很小,但安装起来很难,只能安装机甲在左右侧躯干."
+  },
+  {
+    "id": "Weapon_LRM_Thunderbolt_10_OS.Description.UIName",
+    "content": "霹雳火导弹"
+  },
+  {
+    "id": "Weapon_LRM_Thunderbolt_10_OS.Description.Name",
+    "content": "霹雳火导弹"
+  },
+  {
+    "id": "Weapon_LRM_Thunderbolt_10_OS.Description.Manufacturer",
+    "content": "索拉里斯军火公司"
+  },
+  {
+    "id": "Weapon_MARS.Description.Details",
+    "content": "基于一个古老的多管弹道火箭系统(MARS),它发射远程的AOE导弹<b><color=#F79232>6齐射!</color> <b><color=#099ff2>不稳定!</color></b>"
+  },
+  {
+    "id": "Weapon_MARS.Description.UIName",
+    "content": "MARS"
+  },
+  {
+    "id": "Weapon_MARS.Description.Name",
+    "content": "MARS"
+  },
+  {
+    "id": "Weapon_MARS.Description.Manufacturer",
+    "content": "昴宿三国防工业"
+  },
+  {
+    "id": "Weapon_MediumLaser_Agra.Description.Details",
+    "content": "中型激光的重量轻,且据有相当大的伤害. 因此,在战场上的大多数单位上都至少装备一台. 不像标准中型激光,阿格拉27c与目标计算机同步说出现故障,导致其精度较低."
+  },
+  {
+    "id": "Weapon_MediumLaser_Agra.Description.UIName",
+    "content": "阿格拉中型激光"
+  },
+  {
+    "id": "Weapon_MediumLaser_Agra.Description.Name",
+    "content": "阿格拉中型激光"
+  },
+  {
+    "id": "Weapon_MediumLaser_Agra.Description.Manufacturer",
+    "content": "阿格拉"
+  },
+  {
+    "id": "Weapon_MINE_DISPENSER10.Description.Details",
+    "content": "基于FASCAM技术和一次性火箭发射器的组合,该地雷抛撒器允许在战斗中部署单个雷场.<b><color=#F79232>1发!</color> <b><color=#099ff2>不稳定!</color></b>"
+  },
+  {
+    "id": "Weapon_MINE_DISPENSER10.Description.UIName",
+    "content": "布雷器10"
+  },
+  {
+    "id": "Weapon_MINE_DISPENSER10.Description.Name",
+    "content": "布雷器10"
+  },
+  {
+    "id": "Weapon_MINE_DISPENSER10.Description.Manufacturer",
+    "content": "死亡之花"
+  },
+  {
+    "id": "Weapon_MINE_DISPENSER10_5pack.Description.Details",
+    "content": "基于FASCAM技术和一次性火箭发射器的组合,该地雷抛撒器允许在战斗中部署单个雷场.<b><color=#F79232>1发!</color> <b><color=#099ff2>不稳定!</color></b>"
+  },
+  {
+    "id": "Weapon_MINE_DISPENSER10_5pack.Description.UIName",
+    "content": "布雷器10"
+  },
+  {
+    "id": "Weapon_MINE_DISPENSER10_5pack.Description.Name",
+    "content": "布雷器10"
+  },
+  {
+    "id": "Weapon_MINE_DISPENSER10_5pack.Description.Manufacturer",
+    "content": "死亡之花"
+  },
+  {
+    "id": "Weapon_MINE_DISPENSER15.Description.Details",
+    "content": "基于FASCAM技术和一次性火箭发射器的组合,该地雷抛撒器允许在战斗中部署单个雷场.<b><color=#F79232>1发!</color> <b><color=#099ff2>不稳定!</color></b>"
+  },
+  {
+    "id": "Weapon_MINE_DISPENSER15.Description.UIName",
+    "content": "布雷器15"
+  },
+  {
+    "id": "Weapon_MINE_DISPENSER15.Description.Name",
+    "content": "布雷器15"
+  },
+  {
+    "id": "Weapon_MINE_DISPENSER15.Description.Manufacturer",
+    "content": "死亡之花"
+  },
+  {
+    "id": "Weapon_MINE_DISPENSER20.Description.Details",
+    "content": "基于FASCAM技术和一次性火箭发射器的组合,该地雷抛撒器允许在战斗中部署单个雷场.<b><color=#F79232>1发!</color> <b><color=#099ff2>不稳定!</color></b>"
+  },
+  {
+    "id": "Weapon_MINE_DISPENSER20.Description.UIName",
+    "content": "布雷器20"
+  },
+  {
+    "id": "Weapon_MINE_DISPENSER20.Description.Name",
+    "content": "布雷器20"
+  },
+  {
+    "id": "Weapon_MINE_DISPENSER20.Description.Manufacturer",
+    "content": "死亡之花"
+  },
+  {
+    "id": "Weapon_MINE_DISPENSER5.Description.Details",
+    "content": "基于FASCAM技术和一次性火箭发射器的组合,该地雷抛撒器允许在战斗中部署单个雷场.<b><color=#F79232>1发!</color> <b><color=#099ff2>不稳定!</color></b>"
+  },
+  {
+    "id": "Weapon_MINE_DISPENSER5.Description.UIName",
+    "content": "布雷器5"
+  },
+  {
+    "id": "Weapon_MINE_DISPENSER5.Description.Name",
+    "content": "布雷器5"
+  },
+  {
+    "id": "Weapon_MINE_DISPENSER5.Description.Manufacturer",
+    "content": "死亡之花"
+  },
+  {
+    "id": "Weapon_PPC_Prototype.Description.Details",
+    "content": "粒子投射加农炮(PPC)的早期原型.性能与后面大规模生产的版本非常相似,但是会造成热堆积."
+  },
+  {
+    "id": "Weapon_PPC_Prototype.Description.UIName",
+    "content": "粒子炮[原型]"
+  },
+  {
+    "id": "Weapon_PPC_Prototype.Description.Name",
+    "content": "粒子炮[原型]"
+  },
+  {
+    "id": "Weapon_PPC_Prototype.Description.Manufacturer",
+    "content": "麦格纳"
+  },
+  {
+    "id": "Weapon_PPC_Prototype.AbilityDefPPC.statusEffects0.Details",
+    "content": "电磁干扰降低传感器效率."
+  },
+  {
+    "id": "Weapon_PPC_Prototype.AAAFactor.statusEffects1.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_PPC_Prototype.AbilityDefPPC.statusEffects0.Name",
+    "content": "传感器削弱"
+  },
+  {
+    "id": "Weapon_PPC_Prototype.AAAFactor.statusEffects1.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Rifle_Heavy.Description.Details",
+    "content": "重型线膛炮是线膛炮家族中最大的线膛炮. 作为现代自动炮的前身,该线膛炮基于太空时代前地面上坦克使用的主炮.\n\n<b><color=#ffcc00>使用重型线膛炮弹药</color></b>."
+  },
+  {
+    "id": "Weapon_Rifle_Heavy.Description.UIName",
+    "content": "重型线膛炮"
+  },
+  {
+    "id": "Weapon_Rifle_Heavy.Description.Name",
+    "content": "重型线膛炮"
+  },
+  {
+    "id": "Weapon_Rifle_Heavy.Description.Manufacturer",
+    "content": "卡利山"
+  },
+  {
+    "id": "Weapon_Rifle_Light.Description.Details",
+    "content": "轻型线膛炮是''线膛炮家族''中最小的一种. 作为现代自动炮的前身,该线膛炮基于太空时代前地面上坦克使用的主炮.\n\n<b><color=#ffcc00>使用轻型线膛炮弹药</color></b>"
+  },
+  {
+    "id": "Weapon_Rifle_Light.Description.UIName",
+    "content": "轻型线膛炮"
+  },
+  {
+    "id": "Weapon_Rifle_Light.Description.Name",
+    "content": "轻型线膛炮"
+  },
+  {
+    "id": "Weapon_Rifle_Light.Description.Manufacturer",
+    "content": "GM"
+  },
+  {
+    "id": "Weapon_Rifle_Medium.Description.Details",
+    "content": "中型线膛炮是''线膛炮''家族中的中量级线膛炮. 作为现代自动炮的前身,该线膛炮基于太空时代前地面上坦克使用的主炮.\n\n<b><color=#ffcc00>使用中型线膛炮弹药</color></b>."
+  },
+  {
+    "id": "Weapon_Rifle_Medium.Description.UIName",
+    "content": "中型线膛炮"
+  },
+  {
+    "id": "Weapon_Rifle_Medium.Description.Name",
+    "content": "中型线膛炮"
+  },
+  {
+    "id": "Weapon_Rifle_Medium.Description.Manufacturer",
+    "content": "西部"
+  },
+  {
+    "id": "Weapon_Rifle_Potatoe.Description.Details",
+    "content": "这把线膛炮只不过是在一根粗管上,上面加了一个击发装置. 我猜,不管有什么效果.\n\n<b><color=#ffcc00>使用土豆线膛炮弹药</color></b> <b><color=#099ff2>不稳定!</color></b>"
+  },
+  {
+    "id": "Weapon_Rifle_Potatoe.Description.UIName",
+    "content": "外围世界线膛炮"
+  },
+  {
+    "id": "Weapon_Rifle_Potatoe.Description.Name",
+    "content": "外围世界线膛炮"
+  },
+  {
+    "id": "Weapon_Rifle_Potatoe.Description.Manufacturer",
+    "content": "GM"
+  },
+  {
+    "id": "Weapon_Rotary_Rifle_Heavy.Description.Details",
+    "content": "体验真正的转轮式火力,无需传统旋转式自动炮的沉重重量和体积.试一试Quicesll公司纤薄光滑的转轮式线膛炮. 非常适合您预算的火力需求.\n\n<b><color=#ffcc00>使用重线膛炮弹药</color></b>."
+  },
+  {
+    "id": "Weapon_Rotary_Rifle_Heavy.Description.UIName",
+    "content": "重型转轮线膛炮"
+  },
+  {
+    "id": "Weapon_Rotary_Rifle_Heavy.Description.Name",
+    "content": "重型线膛炮"
+  },
+  {
+    "id": "Weapon_Rotary_Rifle_Heavy.Description.Manufacturer",
+    "content": "Quicsell"
+  },
+  {
+    "id": "Weapon_Rotary_Rifle_Light.Description.Details",
+    "content": "体验真正的转轮式火力,无需传统旋转式自动炮的沉重重量和体积.试一试Quicesll公司纤薄光滑的转轮式线膛炮. 非常适合您预算的火力需求.\n\n<b><color=#ffcc00>使用轻型线膛炮弹药</color></b>"
+  },
+  {
+    "id": "Weapon_Rotary_Rifle_Light.Description.UIName",
+    "content": "轻型转轮线膛炮"
+  },
+  {
+    "id": "Weapon_Rotary_Rifle_Light.Description.Name",
+    "content": "轻型线膛炮"
+  },
+  {
+    "id": "Weapon_Rotary_Rifle_Light.Description.Manufacturer",
+    "content": "Quicsell"
+  },
+  {
+    "id": "Weapon_Rotary_Rifle_Medium.Description.Details",
+    "content": "体验真正的转轮式火力,无需传统旋转式自动炮的沉重重量和体积.试一试Quices公司纤薄光滑的转轮式线膛炮. 非常适合您预算的火力需求.\n\n<b><color=#ffcc00>使用中型线膛炮弹药</color></b>."
+  },
+  {
+    "id": "Weapon_Rotary_Rifle_Medium.Description.UIName",
+    "content": "中型转轮线膛炮"
+  },
+  {
+    "id": "Weapon_Rotary_Rifle_Medium.Description.Name",
+    "content": "中型线膛炮"
+  },
+  {
+    "id": "Weapon_Rotary_Rifle_Medium.Description.Manufacturer",
+    "content": "Quicsell"
+  },
+  {
+    "id": "Weapon_Rotary_Rifle_Potatoe.Description.Details",
+    "content": "体验真正的转轮式火力,无需传统旋转式自动炮的沉重重量和体积试一试Quices公司纤薄光滑的转轮式线膛炮. 非常适合您预算的火力需求.\n\n<b><color=#ffcc00>使用外围线膛炮弹药</color></b>."
+  },
+  {
+    "id": "Weapon_Rotary_Rifle_Potatoe.Description.UIName",
+    "content": "特轻型转轮线膛炮"
+  },
+  {
+    "id": "Weapon_Rotary_Rifle_Potatoe.Description.Name",
+    "content": "轻型线膛炮"
+  },
+  {
+    "id": "Weapon_Rotary_Rifle_Potatoe.Description.Manufacturer",
+    "content": "Quicsell"
+  },
+  {
+    "id": "Weapon_TANK_ROCKETLAUNCHER10.Description.Details",
+    "content": "火箭弹发射器是廉价的无制导一次性导弹发射器.每个发射器上装有五枚火箭弹,每个发射周期只能发射最前面的火箭弹.<b><color=#F79232>5发装!</color> <b><color=#099ff2>不稳定!</color></b>"
+  },
+  {
+    "id": "Weapon_TANK_ROCKETLAUNCHER10.Description.UIName",
+    "content": "火箭弹包10"
+  },
+  {
+    "id": "Weapon_TANK_ROCKETLAUNCHER10.Description.Name",
+    "content": "RL10"
+  },
+  {
+    "id": "Weapon_TANK_ROCKETLAUNCHER10.Description.Manufacturer",
+    "content": "死亡之花"
+  },
+  {
+    "id": "Weapon_TANK_ROCKETLAUNCHER15.Description.Details",
+    "content": "火箭弹发射器是廉价的无制导一次性导弹发射器.每个发射器上装有五枚火箭弹,每个发射周期只能发射最前面的火箭弹.<b><color=#F79232>5发装!</color> <b><color=#099ff2>不稳定!</color></b>"
+  },
+  {
+    "id": "Weapon_TANK_ROCKETLAUNCHER15.Description.UIName",
+    "content": "火箭弹包15"
+  },
+  {
+    "id": "Weapon_TANK_ROCKETLAUNCHER15.Description.Name",
+    "content": "RL15"
+  },
+  {
+    "id": "Weapon_TANK_ROCKETLAUNCHER15.Description.Manufacturer",
+    "content": "死亡之花"
+  },
+  {
+    "id": "Weapon_TANK_ROCKETLAUNCHER20.Description.Details",
+    "content": "火箭弹发射器是廉价的无制导一次性导弹发射器.每个发射器上装有五枚火箭弹,每个发射周期只能发射最前面的火箭弹.<b><color=#F79232>5发装!</color> <b><color=#099ff2>不稳定!</color></b>"
+  },
+  {
+    "id": "Weapon_TANK_ROCKETLAUNCHER20.Description.UIName",
+    "content": "火箭弹包20"
+  },
+  {
+    "id": "Weapon_TANK_ROCKETLAUNCHER20.Description.Name",
+    "content": "RL20"
+  },
+  {
+    "id": "Weapon_TANK_ROCKETLAUNCHER20.Description.Manufacturer",
+    "content": "死亡之花"
+  },
+  {
+    "id": "Weapon_TANK_ROCKETLAUNCHER5.Description.Details",
+    "content": "火箭弹发射器是廉价的无制导一次性导弹发射器.每个发射器上装有五枚火箭弹,每个发射周期只能发射最前面的火箭弹.<b><color=#F79232>5发装!</color> <b><color=#099ff2>不稳定!</color></b>"
+  },
+  {
+    "id": "Weapon_TANK_ROCKETLAUNCHER5.Description.UIName",
+    "content": "火箭弹包5"
+  },
+  {
+    "id": "Weapon_TANK_ROCKETLAUNCHER5.Description.Name",
+    "content": "RL5"
+  },
+  {
+    "id": "Weapon_TANK_ROCKETLAUNCHER5.Description.Manufacturer",
+    "content": "死亡之花"
+  }
+]

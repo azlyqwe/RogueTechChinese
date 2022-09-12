@@ -1,0 +1,122 @@
+[
+  {
+    "id": "Gear_SM_Chainsword.Description.Details",
+    "content": "链锯剑"
+  },
+  {
+    "id": "Gear_SM_Chainsword.Description.UIName",
+    "content": "链锯剑"
+  },
+  {
+    "id": "Gear_SM_Chainsword.Description.Name",
+    "content": "链锯剑"
+  },
+  {
+    "id": "Gear_SM_Chainsword.Description.Manufacturer",
+    "content": "索拉里斯"
+  },
+  {
+    "id": "Gear_SM_Chainsword.StatusEffect-HandMeleeCrit.statusEffects0.Details",
+    "content": "近战攻击造成50%额外伤害."
+  },
+  {
+    "id": "Gear_SM_Chainsword.Sword_Damage_Mod.statusEffects1.Details",
+    "content": "伤害修正"
+  },
+  {
+    "id": "Gear_SM_Chainsword.Sword_Damage_Mod.statusEffects2.Details",
+    "content": "伤害修正"
+  },
+  {
+    "id": "Gear_SM_Chainsword.StatusEffect-HandMeleeCrit.statusEffects0.Name",
+    "content": "手部近战伤害"
+  },
+  {
+    "id": "Gear_SM_Chainsword.Sword_Damage_Mod.statusEffects1.Name",
+    "content": "近战武器伤害模块"
+  },
+  {
+    "id": "Gear_SM_Chainsword.Sword_Damage_Mod.statusEffects2.Name",
+    "content": "近战武器伤害模块"
+  },
+  {
+    "id": "Weapon_Autocannon_BB.Description.Details",
+    "content": "这看起来基本上就是一个AC/10类武器,但它发射稳定的UAC弹药.\n\n <b><color=#ffcc00>使用UAC10弹药</color></b>."
+  },
+  {
+    "id": "Weapon_Autocannon_BB.Description.UIName",
+    "content": "自动炮"
+  },
+  {
+    "id": "Weapon_Autocannon_BB.Description.Name",
+    "content": "自动炮"
+  },
+  {
+    "id": "Weapon_Autocannon_BB.Description.Manufacturer",
+    "content": "麦德龙"
+  },
+  {
+    "id": "Weapon_HeavyBolter.Description.Details",
+    "content": "这部'烈马'似乎是自动加农炮的发展型号,但以重量换取射程."
+  },
+  {
+    "id": "Weapon_HeavyBolter.Description.UIName",
+    "content": "重型烈马"
+  },
+  {
+    "id": "Weapon_HeavyBolter.Description.Name",
+    "content": "重型烈马"
+  },
+  {
+    "id": "Weapon_HeavyBolter.Description.Manufacturer",
+    "content": "全能机神"
+  },
+  {
+    "id": "Weapon_HunterKiller.Description.Details",
+    "content": "虽然它看起来类似于霹雳火导弹,但这种导弹携带一个先进复杂的自制导的聚能弹头."
+  },
+  {
+    "id": "Weapon_HunterKiller.Description.UIName",
+    "content": "猎人-杀手导弹"
+  },
+  {
+    "id": "Weapon_HunterKiller.Description.Name",
+    "content": "猎人-杀手导弹"
+  },
+  {
+    "id": "Weapon_HunterKiller.Description.Manufacturer",
+    "content": "全能机神"
+  },
+  {
+    "id": "Weapon_LasCannon.Description.Details",
+    "content": "这种化学激光似乎是被设计用来在很短的时间内发射强烈的爆炸,使其能够像高斯步枪一样穿透装甲. \n\n <b><color=#ffcc00>使用大型化学激光弹药</color></b>"
+  },
+  {
+    "id": "Weapon_LasCannon.Description.UIName",
+    "content": "拉斯加农炮"
+  },
+  {
+    "id": "Weapon_LasCannon.Description.Name",
+    "content": "拉斯加农炮"
+  },
+  {
+    "id": "Weapon_LasCannon.Description.Manufacturer",
+    "content": "全能机神"
+  },
+  {
+    "id": "Weapon_SM_Bolter.Description.Details",
+    "content": "一种无后座自动手枪,发射爆炸弹.\n\n<b><color=#ffcc00>战斗装甲专用武器,只能被战斗装甲(BA)单位安装</color></b>."
+  },
+  {
+    "id": "Weapon_SM_Bolter.Description.UIName",
+    "content": "烈马"
+  },
+  {
+    "id": "Weapon_SM_Bolter.Description.Name",
+    "content": "烈马"
+  },
+  {
+    "id": "Weapon_SM_Bolter.Description.Manufacturer",
+    "content": "GM"
+  }
+]

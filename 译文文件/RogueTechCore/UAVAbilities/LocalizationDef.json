@@ -1,0 +1,58 @@
+[
+  {
+    "id": "AbilityDef_DoneController_Ping.Description.Details",
+    "content": "执行:通过传感器锁定[FloatParam1]m内的所有敌人,产生[FloatParam2]热量并结束回合,需要[ActivationCooldown]回合冷却."
+  },
+  {
+    "id": "AbilityDef_DoneController_Ping.Description.Name",
+    "content": "无人机控制器 PING"
+  },
+  {
+    "id": "AbilityDef_EWS_Ping.Description.Details",
+    "content": "执行:通过传感器锁定[FloatParam1]m内的所有敌人,产生[FloatParam2]热量并结束回合,需要[ActivationCooldown]回合冷却."
+  },
+  {
+    "id": "AbilityDef_EWS_Ping.Description.Name",
+    "content": "EWS PING"
+  },
+  {
+    "id": "AbilityDef_UAV_D250_H5_CD3.Description.Details",
+    "content": "执行:通过传感器锁定[FloatParam1]m内的所有敌人,产生[FloatParam2]热量并结束回合,需要[ActivationCooldown]回合冷却."
+  },
+  {
+    "id": "AbilityDef_UAV_D250_H5_CD3.Description.Name",
+    "content": "无人机 PING"
+  },
+  {
+    "id": "AbilityDef_UAV_D500_H20_CD2.Description.Details",
+    "content": "执行:通过传感器锁定[FloatParam1]m内的所有敌人,产生[FloatParam2]热量并结束回合,需要[ActivationCooldown]回合冷却."
+  },
+  {
+    "id": "AbilityDef_UAV_D500_H20_CD2.Description.Name",
+    "content": "间谍卫星 PING"
+  },
+  {
+    "id": "AbilityDef_UAV_D500_H20_CD6.Description.Details",
+    "content": "执行:通过传感器锁定[FloatParam1]m内的所有敌人,产生[FloatParam2]热量并结束回合,需要[ActivationCooldown]回合冷却."
+  },
+  {
+    "id": "AbilityDef_UAV_D500_H20_CD6.Description.Name",
+    "content": "间谍卫星 PING"
+  },
+  {
+    "id": "AbilityDef_UAV_Ping.Description.Details",
+    "content": "执行:通过传感器锁定[FloatParam1]m内的所有敌人,产生[FloatParam2]热量并结束回合,需要[ActivationCooldown]回合冷却."
+  },
+  {
+    "id": "AbilityDef_UAV_Ping.Description.Name",
+    "content": "无人机 PING"
+  },
+  {
+    "id": "AbilityDef_WDEWS_Ping.Description.Details",
+    "content": "执行:通过传感器锁定[FloatParam1]m内的所有敌人,产生[FloatParam2]热量并结束回合,需要[ActivationCooldown]回合冷却."
+  },
+  {
+    "id": "AbilityDef_WDEWS_Ping.Description.Name",
+    "content": "EWS PING"
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "id": "DesignMaskBurnedForest.Description.Details",
+    "content": "这真是一场令人遗憾的生态灾难,降低移动力和稳定能力."
+  },
+  {
+    "id": "DesignMaskBurnedForest.Description.Name",
+    "content": "被烧毁的森林"
+  },
+  {
+    "id": "DesignMaskBurningForest.Description.Details",
+    "content": "燃烧中的森林产生热量.浓烟影响敌我双方的视线."
+  },
+  {
+    "id": "DesignMaskBurningForest.Description.Name",
+    "content": "燃烧中的森林"
+  },
+  {
+    "id": "DesignMaskBurningTerrain.Description.Details",
+    "content": "处在或经过燃烧地表的单位获得额外热量."
+  },
+  {
+    "id": "DesignMaskBurningTerrain.Description.Name",
+    "content": "燃烧"
+  },
+  {
+    "id": "DesignMaskCoolantPool.Description.Details",
+    "content": "处在冷却液池的单位散热得到了增强(-25热量).经过冷却液池的单位获得冷却液飞溅效果(2回合内每回合-15热量)."
+  },
+  {
+    "id": "DesignMaskCoolantPool.Description.Name",
+    "content": "冷却液池"
+  },
+  {
+    "id": "DesignMaskCrystals.Description.Details",
+    "content": "矿场的矿物干扰了瞄准系统,矿场中单位命中难度+3,攻击难度+2."
+  },
+  {
+    "id": "DesignMaskCrystals.Description.Name",
+    "content": "矿场"
+  },
+  {
+    "id": "DesignMaskDangerousLocation.Description.Details",
+    "content": "这是一个危险的位置,站在这里风险自负."
+  },
+  {
+    "id": "DesignMaskDangerousLocation.Description.Name",
+    "content": "危险位置"
+  },
+  {
+    "id": "DesignMaskDestroyedBuilding.Description.Details",
+    "content": "被摧毁的建筑物降低了移动力,但他们提供了遮蔽使你更难被发现."
+  },
+  {
+    "id": "DesignMaskDestroyedBuilding.Description.Name",
+    "content": "被摧毁的建筑物"
+  },
+  {
+    "id": "DesignMaskDropPodLandingZone.Description.Details",
+    "content": "一个空投仓会降落在这里,当它降落时不要站在这里."
+  },
+  {
+    "id": "DesignMaskDropPodLandingZone.Description.Name",
+    "content": "空投仓着陆区域"
+  },
+  {
+    "id": "DesignMaskDropshipLandingZone.Description.Details",
+    "content": "一个登陆舰会降落在这里,当它降落时不要站在这里."
+  },
+  {
+    "id": "DesignMaskDropshipLandingZone.Description.Name",
+    "content": "登陆舰着陆区域"
+  },
+  {
+    "id": "DesignMaskElectricalField.Description.Details",
+    "content": "暴露的电力线路生成紊乱的电磁场干扰了瞄准系统,在区域内单位命中难度+4,攻击难度+4."
+  },
+  {
+    "id": "DesignMaskElectricalField.Description.Name",
+    "content": "紊乱电磁场"
+  },
+  {
+    "id": "DesignMaskFallout.Description.Details",
+    "content": "局部放射性干扰了瞄准系统,使单位更难被检测,经过的单位+4热量.处在区域中的单位+4命中难度,经过两次的单位会获得额外+10热量."
+  },
+  {
+    "id": "DesignMaskFallout.Description.Name",
+    "content": "放射性区域"
+  },
+  {
+    "id": "DesignMaskFlare.Description.Details",
+    "content": "照明极大地增加了可见度."
+  },
+  {
+    "id": "DesignMaskFlare.Description.Name",
+    "content": "照明"
+  },
+  {
+    "id": "DesignMaskForest.Description.Details",
+    "content": "森林降低了移动力和侦测距离,提供了遮蔽,从森林中向外攻击+1命中难度,在外攻击森林内目标+2命中难度.处在森林中的单位额外承受+30%稳定伤害.大量降低了敌人的能见度"
+  },
+  {
+    "id": "DesignMaskForest.Description.Name",
+    "content": "森林"
+  },
+  {
+    "id": "DesignMaskGeothermal.Description.Details",
+    "content": "处在地热区域的单位每回合获得+5热量,并且只有75%的散热效率."
+  },
+  {
+    "id": "DesignMaskGeothermal.Description.Name",
+    "content": "地热"
+  },
+  {
+    "id": "DesignMaskGeothermalLava.Description.Details",
+    "content": "处在熔岩区的单位每回合获得+15热量,并且只有75%的散热效率."
+  },
+  {
+    "id": "DesignMaskGeothermalLava.Description.Name",
+    "content": "地热"
+  },
+  {
+    "id": "DesignMaskIce.Description.Details",
+    "content": "处在冰地的单位移动速度会降低,并且承受额外的30%稳定损害,但可以获得额外10%散热能力."
+  },
+  {
+    "id": "DesignMaskIce.Description.Name",
+    "content": "冰面"
+  },
+  {
+    "id": "DesignMaskImpassable.Description.Details",
+    "content": "单位不能通过,该地形为不可通过."
+  },
+  {
+    "id": "DesignMaskImpassable.Description.Name",
+    "content": "不可通过"
+  },
+  {
+    "id": "DesignMaskMapBoundary.Description.Details",
+    "content": "地图边界"
+  },
+  {
+    "id": "DesignMaskMapBoundary.Description.Name",
+    "content": "地图边界"
+  },
+  {
+    "id": "DesignMaskMarsh.Description.Details",
+    "content": "沼泽内的单位在所有攻击中获得50%的稳定损害减免."
+  },
+  {
+    "id": "DesignMaskMarsh.Description.Name",
+    "content": "沼泽"
+  },
+  {
+    "id": "DesignMaskNoEffect.Description.Details",
+    "content": "无效果,这是默认地形."
+  },
+  {
+    "id": "DesignMaskNoEffect.Description.Name",
+    "content": "无效果"
+  },
+  {
+    "id": "DesignMaskNukeEMP.Description.Details",
+    "content": "核爆区附近的单位在剩下的战斗中-2精度."
+  },
+  {
+    "id": "DesignMaskNukeEMP.Description.Name",
+    "content": "次级效应区"
+  },
+  {
+    "id": "DesignMaskRadiation.Description.Details",
+    "content": "局部放射性干扰了瞄准系统,使单位更难被检测,经过的单位+4热量.处在区域中的单位+4命中难度,经过两次的单位会获得额外+10热量."
+  },
+  {
+    "id": "DesignMaskRadiation.Description.Name",
+    "content": "放射性区域"
+  },
+  {
+    "id": "DesignMaskRoad.Description.Details",
+    "content": "单位沿路移动更快,特别是轮式车辆."
+  },
+  {
+    "id": "DesignMaskRoad.Description.Name",
+    "content": "道路"
+  },
+  {
+    "id": "DesignMaskRough.Description.Details",
+    "content": "崎岖地形会降低单位移动速度,并使单位在所有攻击中承受150%的稳定损害,使用近战攻击处在崎岖地形的单位+4命中难度."
+  },
+  {
+    "id": "DesignMaskRough.Description.Name",
+    "content": "崎岖地形"
+  },
+  {
+    "id": "DesignMaskRoughUrban.Description.Details",
+    "content": "城市废墟会降低单位移动速度.并使单位在所有攻击中承受150%的稳定损害,使用近战攻击处在崎岖地形的单位+4命中难度."
+  },
+  {
+    "id": "DesignMaskRoughUrban.Description.Name",
+    "content": "城市废墟"
+  },
+  {
+    "id": "DesignMaskSmoke.Description.Details",
+    "content": "烟雾极大的降低了视野和能见度."
+  },
+  {
+    "id": "DesignMaskSmoke.Description.Name",
+    "content": "烟幕"
+  },
+  {
+    "id": "DesignMaskSpores.Description.Details",
+    "content": "孢子雾区域降低了所有单位的移动速度.由于孢子的腐蚀作用,处在孢子雾区域的单位受到额外20%伤害.经过孢子雾的单位被命中的难度+4."
+  },
+  {
+    "id": "DesignMaskSpores.Description.Name",
+    "content": "孢子雾"
+  },
+  {
+    "id": "DesignMaskWater.Description.Details",
+    "content": "水会降低移动速度,并将单位的散热能力提高50%.轻型单位受到的惩罚更少."
+  },
+  {
+    "id": "DesignMaskWater.Description.Name",
+    "content": "水域"
+  },
+  {
+    "id": "DesignMaskWaterDeep.Description.Details",
+    "content": "单位无法穿过深水区."
+  },
+  {
+    "id": "DesignMaskWaterDeep.Description.Name",
+    "content": "深水区"
+  },
+  {
+    "id": "DesignMaskWhirlwind.Description.Details",
+    "content": "旋风降低了移动速度和侦测距离,增加受到的稳定伤害,但它提供了遮蔽(正面和侧面受到的远程攻击伤害降低25%),不和警戒效果叠加."
+  },
+  {
+    "id": "DesignMaskWhirlwind.Description.Name",
+    "content": "旋风"
+  }
+]

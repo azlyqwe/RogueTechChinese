@@ -1,0 +1,282 @@
+[
+  {
+    "id": "Gear_Quad_Talons.Description.Details",
+    "content": "这一罕见的特种腿部机构可以增强一个四足机甲所有近战和DFA行动."
+  },
+  {
+    "id": "Gear_Quad_Talons.Description.UIName",
+    "content": "四爪"
+  },
+  {
+    "id": "Gear_Quad_Talons.Description.Name",
+    "content": "鹰爪腿部机构"
+  },
+  {
+    "id": "Gear_Quad_Talons.Description.Manufacturer",
+    "content": "四足公司"
+  },
+  {
+    "id": "Gear_Quad_Talons.Talons_Damage_Mod.statusEffects0.Details",
+    "content": "伤害修正"
+  },
+  {
+    "id": "Gear_Quad_Talons.Talons_Stability_Mod.statusEffects1.Details",
+    "content": "伤害修正"
+  },
+  {
+    "id": "Gear_Quad_Talons.Talons_Kick_Damage_Mod.statusEffects2.Details",
+    "content": "伤害修正"
+  },
+  {
+    "id": "Gear_Quad_Talons.Talons_Kick_Stability_Mod.statusEffects3.Details",
+    "content": "伤害修正"
+  },
+  {
+    "id": "Gear_Quad_Talons.Talons_Damage_Mod.statusEffects0.Name",
+    "content": "近战武器伤害模块"
+  },
+  {
+    "id": "Gear_Quad_Talons.Talons_Stability_Mod.statusEffects1.Name",
+    "content": "近战武器伤害模块"
+  },
+  {
+    "id": "Gear_Quad_Talons.Talons_Kick_Damage_Mod.statusEffects2.Name",
+    "content": "近战武器伤害模块"
+  },
+  {
+    "id": "Gear_Quad_Talons.Talons_Kick_Stability_Mod.statusEffects3.Name",
+    "content": "近战武器伤害模块"
+  },
+  {
+    "id": "Gear_Quad_Turret.Description.Details",
+    "content": "四足机甲的炮塔。"
+  },
+  {
+    "id": "Gear_Quad_Turret.Description.UIName",
+    "content": "炮塔安装"
+  },
+  {
+    "id": "Gear_Quad_Turret.Description.Name",
+    "content": "炮塔安装"
+  },
+  {
+    "id": "Gear_Quad_Turret.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Gear_Quad_Turret.Status-TurretAccuracy-CenterTorso.statusEffects0.Details",
+    "content": "+3炮塔安装精度"
+  },
+  {
+    "id": "Gear_Quad_Turret.Status-TurretAccuracy-LeftTorso.statusEffects1.Details",
+    "content": "+3炮塔安装精度"
+  },
+  {
+    "id": "Gear_Quad_Turret.Status-TurretAccuracy-RightTorso.statusEffects2.Details",
+    "content": "+3炮塔安装精度"
+  },
+  {
+    "id": "Gear_Quad_Turret.Status-TurretAccuracy-CenterTorso.statusEffects0.Name",
+    "content": "炮塔精度"
+  },
+  {
+    "id": "Gear_Quad_Turret.Status-TurretAccuracy-LeftTorso.statusEffects1.Name",
+    "content": "炮塔精度"
+  },
+  {
+    "id": "Gear_Quad_Turret.Status-TurretAccuracy-RightTorso.statusEffects2.Name",
+    "content": "炮塔精度"
+  },
+  {
+    "id": "Quad_Front_leg_foot.Description.Details",
+    "content": "伺服机构是战斗装甲肢体的一个组件,由关节、人工肌肉纤维和肌肉运动控制单元组成."
+  },
+  {
+    "id": "Quad_Front_leg_foot.Description.UIName",
+    "content": "标准前足机构"
+  },
+  {
+    "id": "Quad_Front_leg_foot.Description.Name",
+    "content": "标准脚部机构"
+  },
+  {
+    "id": "Quad_Front_leg_foot.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Quad_Front_leg_foot.ActuatorStandUp.statusEffects0.Details",
+    "content": "伺服机构提高了站立的机会"
+  },
+  {
+    "id": "Quad_Front_leg_foot.ActuatorStandUp.statusEffects0.Name",
+    "content": "完整的机构"
+  },
+  {
+    "id": "Quad_Front_leg_hip.Description.Details",
+    "content": "伺服机构是战斗装甲肢体的一个组件,由关节、人工肌肉纤维和肌肉运动控制单元组成."
+  },
+  {
+    "id": "Quad_Front_leg_hip.Description.UIName",
+    "content": "标准前髋机构"
+  },
+  {
+    "id": "Quad_Front_leg_hip.Description.Name",
+    "content": "标准髋部机构"
+  },
+  {
+    "id": "Quad_Front_leg_hip.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Quad_Front_leg_hip.ActuatorStandUp.statusEffects0.Details",
+    "content": "伺服机构提高了站立的机会"
+  },
+  {
+    "id": "Quad_Front_leg_hip.ActuatorStandUp.statusEffects0.Name",
+    "content": "完整的机构"
+  },
+  {
+    "id": "Quad_Front_leg_lower.Description.Details",
+    "content": "伺服机构是战斗装甲肢体的一个组件,由关节、人工肌肉纤维和肌肉运动控制单元组成."
+  },
+  {
+    "id": "Quad_Front_leg_lower.Description.UIName",
+    "content": "标准前小腿机构"
+  },
+  {
+    "id": "Quad_Front_leg_lower.Description.Name",
+    "content": "标准小腿机构"
+  },
+  {
+    "id": "Quad_Front_leg_lower.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Quad_Front_leg_lower.ActuatorStandUp.statusEffects0.Details",
+    "content": "伺服机构提高了站立的机会"
+  },
+  {
+    "id": "Quad_Front_leg_lower.ActuatorStandUp.statusEffects0.Name",
+    "content": "完整的机构"
+  },
+  {
+    "id": "Quad_Front_leg_upper.Description.Details",
+    "content": "伺服机构是战斗装甲肢体的一个组件,由关节、人工肌肉纤维和肌肉运动控制单元组成."
+  },
+  {
+    "id": "Quad_Front_leg_upper.Description.UIName",
+    "content": "标准前大腿机构"
+  },
+  {
+    "id": "Quad_Front_leg_upper.Description.Name",
+    "content": "标准大腿机构"
+  },
+  {
+    "id": "Quad_Front_leg_upper.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Quad_Front_leg_upper.ActuatorStandUp.statusEffects0.Details",
+    "content": "伺服机构提高了站立的机会"
+  },
+  {
+    "id": "Quad_Front_leg_upper.ActuatorStandUp.statusEffects0.Name",
+    "content": "完整的机构"
+  },
+  {
+    "id": "Quad_Hind_leg_foot.Description.Details",
+    "content": "伺服机构是战斗装甲肢体的一个组件,由关节、人工肌肉纤维和肌肉运动控制单元组成."
+  },
+  {
+    "id": "Quad_Hind_leg_foot.Description.UIName",
+    "content": "标准后足机构"
+  },
+  {
+    "id": "Quad_Hind_leg_foot.Description.Name",
+    "content": "标准脚部机构"
+  },
+  {
+    "id": "Quad_Hind_leg_foot.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Quad_Hind_leg_foot.ActuatorStandUp.statusEffects0.Details",
+    "content": "伺服机构提高了站立的机会"
+  },
+  {
+    "id": "Quad_Hind_leg_foot.ActuatorStandUp.statusEffects0.Name",
+    "content": "完整的机构"
+  },
+  {
+    "id": "Quad_Hind_leg_hip.Description.Details",
+    "content": "伺服机构是战斗装甲肢体的一个组件,由关节、人工肌肉纤维和肌肉运动控制单元组成."
+  },
+  {
+    "id": "Quad_Hind_leg_hip.Description.UIName",
+    "content": "标准后髋机构"
+  },
+  {
+    "id": "Quad_Hind_leg_hip.Description.Name",
+    "content": "标准髋部机构"
+  },
+  {
+    "id": "Quad_Hind_leg_hip.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Quad_Hind_leg_hip.ActuatorStandUp.statusEffects0.Details",
+    "content": "伺服机构提高了站立的机会"
+  },
+  {
+    "id": "Quad_Hind_leg_hip.ActuatorStandUp.statusEffects0.Name",
+    "content": "完整的机构"
+  },
+  {
+    "id": "Quad_Hind_leg_lower.Description.Details",
+    "content": "伺服机构是战斗装甲肢体的一个组件,由关节、人工肌肉纤维和肌肉运动控制单元组成."
+  },
+  {
+    "id": "Quad_Hind_leg_lower.Description.UIName",
+    "content": "标准后小腿机构"
+  },
+  {
+    "id": "Quad_Hind_leg_lower.Description.Name",
+    "content": "标准小腿机构"
+  },
+  {
+    "id": "Quad_Hind_leg_lower.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Quad_Hind_leg_lower.ActuatorStandUp.statusEffects0.Details",
+    "content": "伺服机构提高了站立的机会"
+  },
+  {
+    "id": "Quad_Hind_leg_lower.ActuatorStandUp.statusEffects0.Name",
+    "content": "完整的机构"
+  },
+  {
+    "id": "Quad_Hind_leg_upper.Description.Details",
+    "content": "伺服机构是战斗装甲肢体的一个组件,由关节、人工肌肉纤维和肌肉运动控制单元组成."
+  },
+  {
+    "id": "Quad_Hind_leg_upper.Description.UIName",
+    "content": "标准后大腿机构"
+  },
+  {
+    "id": "Quad_Hind_leg_upper.Description.Name",
+    "content": "标准大腿机构"
+  },
+  {
+    "id": "Quad_Hind_leg_upper.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Quad_Hind_leg_upper.ActuatorStandUp.statusEffects0.Details",
+    "content": "伺服机构提高了站立的机会"
+  },
+  {
+    "id": "Quad_Hind_leg_upper.ActuatorStandUp.statusEffects0.Name",
+    "content": "完整的机构"
+  }
+]

@@ -1,0 +1,178 @@
+[
+  {
+    "id": "AbilityDefCAC_AttackGround.Description.Details",
+    "content": "使用能力攻击地面. LALT + 点击友军来瞄准友军单位."
+  },
+  {
+    "id": "AbilityDefCAC_AttackGround.Description.Name",
+    "content": "攻击地面"
+  },
+  {
+    "id": "AbilityMultiTracker.Description.Details",
+    "content": "行动: 在机甲当前的射击范围内,向最多三个独立的目标开火."
+  },
+  {
+    "id": "AbilityMultiTracker.Description.Name",
+    "content": "多目标"
+  },
+  {
+    "id": "TraitDefGuts1.ShortDesc",
+    "content": "+0 受伤阈值&近战抵抗"
+  },
+  {
+    "id": "TraitDefGuts10.ShortDesc",
+    "content": "+5 受伤阈值&近战抵抗"
+  },
+  {
+    "id": "TraitDefGuts2.ShortDesc",
+    "content": "+1 受伤阈值&近战抵抗"
+  },
+  {
+    "id": "TraitDefGuts3.ShortDesc",
+    "content": "+1 受伤阈值&近战抵抗"
+  },
+  {
+    "id": "TraitDefGuts4.ShortDesc",
+    "content": "+2 受伤阈值&近战抵抗"
+  },
+  {
+    "id": "TraitDefGuts5.ShortDesc",
+    "content": "+2 受伤阈值&近战抵抗"
+  },
+  {
+    "id": "TraitDefGuts6.ShortDesc",
+    "content": "+3 受伤阈值&近战抵抗"
+  },
+  {
+    "id": "TraitDefGuts7.ShortDesc",
+    "content": "+3 受伤阈值&近战抵抗"
+  },
+  {
+    "id": "TraitDefGuts8.ShortDesc",
+    "content": "+4 受伤阈值&近战抵抗"
+  },
+  {
+    "id": "TraitDefGuts9.ShortDesc",
+    "content": "+4 受伤阈值&近战抵抗"
+  },
+  {
+    "id": "TraitDefMeleeHit1.ShortDesc",
+    "content": "+2% 近战精度.-0 主动性随机 +3m 坦克/VTOL移动"
+  },
+  {
+    "id": "TraitDefMeleeHit10.ShortDesc",
+    "content": "+20% 近战精度.-5 主动性随机 +30m 坦克/VTOL移动"
+  },
+  {
+    "id": "TraitDefMeleeHit2.ShortDesc",
+    "content": "+4% 近战精度.-1 主动性随机 +6m 坦克/VTOL移动"
+  },
+  {
+    "id": "TraitDefMeleeHit3.ShortDesc",
+    "content": "+6% 近战精度.-1 主动性随机 +9m 坦克/VTOL移动"
+  },
+  {
+    "id": "TraitDefMeleeHit4.ShortDesc",
+    "content": "+8% 近战精度.-2 主动性随机 +12m 坦克/VTOL移动"
+  },
+  {
+    "id": "TraitDefMeleeHit5.ShortDesc",
+    "content": "+10% 近战精度.-2 主动性随机 +15m 坦克/VTOL移动"
+  },
+  {
+    "id": "TraitDefMeleeHit6.ShortDesc",
+    "content": "+12% 近战精度.-3 主动性随机 +18m 坦克/VTOL移动"
+  },
+  {
+    "id": "TraitDefMeleeHit7.ShortDesc",
+    "content": "+14% 近战精度.-3 主动性随机 +21m 坦克/VTOL移动"
+  },
+  {
+    "id": "TraitDefMeleeHit8.ShortDesc",
+    "content": "+16% 近战精度.-4 主动性随机 +24m 坦克/VTOL移动"
+  },
+  {
+    "id": "TraitDefMeleeHit9.ShortDesc",
+    "content": "+18% 近战精度.-4 主动性随机 +27m 坦克/VTOL移动"
+  },
+  {
+    "id": "TraitDefTactics1.ShortDesc",
+    "content": "+0 主动性,传感器投骰,主动进攻精度并且减少犹豫"
+  },
+  {
+    "id": "TraitDefTactics10.ShortDesc",
+    "content": "+5 主动性,传感器投骰,主动进攻精度并且减少犹豫"
+  },
+  {
+    "id": "TraitDefTactics2.ShortDesc",
+    "content": "+1 主动性,传感器投骰,主动进攻精度并且减少犹豫"
+  },
+  {
+    "id": "TraitDefTactics3.ShortDesc",
+    "content": "+1 主动性,传感器投骰,主动进攻精度并且减少犹豫"
+  },
+  {
+    "id": "TraitDefTactics4.ShortDesc",
+    "content": "+2 主动性,传感器投骰,主动进攻精度并且减少犹豫"
+  },
+  {
+    "id": "TraitDefTactics5.ShortDesc",
+    "content": "+2 主动性,传感器投骰,主动进攻精度并且减少犹豫"
+  },
+  {
+    "id": "TraitDefTactics6.ShortDesc",
+    "content": "+3 主动性,传感器投骰,主动进攻精度并且减少犹豫"
+  },
+  {
+    "id": "TraitDefTactics7.ShortDesc",
+    "content": "+3 主动性,传感器投骰,主动进攻精度并且减少犹豫"
+  },
+  {
+    "id": "TraitDefTactics8.ShortDesc",
+    "content": "+4 主动性,传感器投骰,主动进攻精度并且减少犹豫"
+  },
+  {
+    "id": "TraitDefTactics9.ShortDesc",
+    "content": "+4 主动性,传感器投骰,主动进攻精度并且减少犹豫"
+  },
+  {
+    "id": "TraitDefWeaponHit1.ShortDesc",
+    "content": "+1% 基础命中, 10%排除卡壳故障"
+  },
+  {
+    "id": "TraitDefWeaponHit10.ShortDesc",
+    "content": "+10% 基础命中,-9%卡壳机率,100%排除卡壳故障"
+  },
+  {
+    "id": "TraitDefWeaponHit2.ShortDesc",
+    "content": "+2% 基础命中,-1%卡壳机率,20%排除卡壳故障"
+  },
+  {
+    "id": "TraitDefWeaponHit3.ShortDesc",
+    "content": "+3% 基础命中,-2%卡壳机率,30%排除卡壳故障"
+  },
+  {
+    "id": "TraitDefWeaponHit4.ShortDesc",
+    "content": "+4% 基础命中,-3%卡壳机率,40%排除卡壳故障"
+  },
+  {
+    "id": "TraitDefWeaponHit5.ShortDesc",
+    "content": "+5% 基础命中,-4%卡壳机率,50%排除卡壳故障"
+  },
+  {
+    "id": "TraitDefWeaponHit6.ShortDesc",
+    "content": "+6% 基础命中,-5%卡壳机率,60%排除卡壳故障"
+  },
+  {
+    "id": "TraitDefWeaponHit7.ShortDesc",
+    "content": "+7% 基础命中,-6%卡壳机率,70%排除卡壳故障"
+  },
+  {
+    "id": "TraitDefWeaponHit8.ShortDesc",
+    "content": "+8% 基础命中,-7%卡壳机率,80%排除卡壳故障"
+  },
+  {
+    "id": "TraitDefWeaponHit9.ShortDesc",
+    "content": "+9% 基础命中,-8%卡壳机率,90%排除卡壳故障"
+  }
+]

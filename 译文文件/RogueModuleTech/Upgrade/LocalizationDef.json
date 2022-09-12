@@ -1,0 +1,1754 @@
+[
+  {
+    "id": "Gear_AdvancedMaterials1.Description.Details",
+    "content": "这是一种拼接材料(如纤维钢装甲、内构钢或超轻复合材料),它们以较轻的重量提供相同的保护,但需要关键槽. "
+  },
+  {
+    "id": "Gear_AdvancedMaterials1.Description.UIName",
+    "content": "拼接材料T1"
+  },
+  {
+    "id": "Gear_AdvancedMaterials1.Description.Name",
+    "content": "拼接材料T1"
+  },
+  {
+    "id": "Gear_AdvancedMaterials1.Description.Manufacturer",
+    "content": "NAIS"
+  },
+  {
+    "id": "Gear_AdvancedMaterials2.Description.Details",
+    "content": "这是一种拼接材料(如纤维钢装甲、内构钢或超轻复合材料),它们以较轻的重量提供相同的保护,但需要关键槽. "
+  },
+  {
+    "id": "Gear_AdvancedMaterials2.Description.UIName",
+    "content": "拼接材料T2"
+  },
+  {
+    "id": "Gear_AdvancedMaterials2.Description.Name",
+    "content": "拼接材料T2"
+  },
+  {
+    "id": "Gear_AdvancedMaterials2.Description.Manufacturer",
+    "content": "NAIS"
+  },
+  {
+    "id": "Gear_AdvancedMaterials3.Description.Details",
+    "content": "这是一种拼接材料(如纤维钢装甲、内构钢或超轻复合材料),它们以较轻的重量提供相同的保护,但需要关键槽. "
+  },
+  {
+    "id": "Gear_AdvancedMaterials3.Description.UIName",
+    "content": "拼接材料T3"
+  },
+  {
+    "id": "Gear_AdvancedMaterials3.Description.Name",
+    "content": "拼接材料T3"
+  },
+  {
+    "id": "Gear_AdvancedMaterials3.Description.Manufacturer",
+    "content": "NAIS"
+  },
+  {
+    "id": "Gear_Angel_ECM.Description.Details",
+    "content": "天使ECM套件是守护者ECM套件的高级版本,在更的的范围内运行,极大地提高了战场上的ECM技术.'天使'由天龙联合体于于路德恩战役后不久开发,尽管有通讯之星的协助,成本超支和两个势力的内部问题使其长期处于试验阶段,并因此推迟了大规模部署."
+  },
+  {
+    "id": "Gear_Angel_ECM.Description.UIName",
+    "content": "天使ECM"
+  },
+  {
+    "id": "Gear_Angel_ECM.Description.Name",
+    "content": "天使ECM"
+  },
+  {
+    "id": "Gear_Angel_ECM.Description.Manufacturer",
+    "content": "DCMS"
+  },
+  {
+    "id": "Gear_Angel_ECM.ECMPassiveShield.CAE0.Details",
+    "content": "被动ECM保护"
+  },
+  {
+    "id": "Gear_Angel_ECM.ECMPassiveJam.CAE1.Details",
+    "content": "被动干扰保护"
+  },
+  {
+    "id": "Gear_Angel_ECM.ECMPassiveShield.CAE0.Name",
+    "content": "ECM被动防护"
+  },
+  {
+    "id": "Gear_Angel_ECM.ECMPassiveJam.CAE1.Name",
+    "content": "ECM被动干扰"
+  },
+  {
+    "id": "Gear_BeagleActiveProbe.Description.Details",
+    "content": "猎兔犬主动探测器(BAP)是一套增强技术,当接入通用电子传感器时,装备的单位能够检测和区分除常规步兵外的其他战场单位,无论他们是伪装或关闭."
+  },
+  {
+    "id": "Gear_BeagleActiveProbe.Description.UIName",
+    "content": "猎兔犬探测器"
+  },
+  {
+    "id": "Gear_BeagleActiveProbe.Description.Name",
+    "content": "猎兔犬主动探测器"
+  },
+  {
+    "id": "Gear_BeagleActiveProbe.Description.Manufacturer",
+    "content": "水卫一"
+  },
+  {
+    "id": "Gear_BeagleActiveProbe.LV_PROBE_CARRIER.statusEffects0.Details",
+    "content": "降低隐身和ECM防护单元的效果"
+  },
+  {
+    "id": "Gear_BeagleActiveProbe.LV_ADVANCED_SENSORS.statusEffects1.Details",
+    "content": "提供敌军单位的详细信息"
+  },
+  {
+    "id": "Gear_BeagleActiveProbe.BAProbe.statusEffects2.Details",
+    "content": "增加视野/传感器"
+  },
+  {
+    "id": "Gear_BeagleActiveProbe.BAP-Spotting_Gain-T1.statusEffects3.Details",
+    "content": "+50m发现距离"
+  },
+  {
+    "id": "Gear_BeagleActiveProbe.MineFieldDetection.statusEffects4.Details",
+    "content": "探测雷场"
+  },
+  {
+    "id": "Gear_BeagleActiveProbe.LV_PROBE_CARRIER.statusEffects0.Name",
+    "content": "主动探测器(被动)"
+  },
+  {
+    "id": "Gear_BeagleActiveProbe.LV_ADVANCED_SENSORS.statusEffects1.Name",
+    "content": "先进传感器"
+  },
+  {
+    "id": "Gear_BeagleActiveProbe.BAProbe.statusEffects2.Name",
+    "content": "猎兔犬探测器"
+  },
+  {
+    "id": "Gear_BeagleActiveProbe.BAP-Spotting_Gain-T1.statusEffects3.Name",
+    "content": "提升发现距离"
+  },
+  {
+    "id": "Gear_BeagleActiveProbe.MineFieldDetection.statusEffects4.Name",
+    "content": "主动探测器(被动)"
+  },
+  {
+    "id": "Gear_Bloodhound_AP.Description.Details",
+    "content": "寻血犬主动探测器最初由通讯之星开发,以猎兔犬主动探测器作为这套增强系统的技术基础,当接入通用电子传感器,装备的单位能够检测和区分除常规步兵外的其他战场单位,无论他们是伪装或关闭."
+  },
+  {
+    "id": "Gear_Bloodhound_AP.Description.UIName",
+    "content": "寻血犬探测器"
+  },
+  {
+    "id": "Gear_Bloodhound_AP.Description.Name",
+    "content": "寻血犬主动探测器"
+  },
+  {
+    "id": "Gear_Bloodhound_AP.Description.Manufacturer",
+    "content": "水卫一"
+  },
+  {
+    "id": "Gear_Bloodhound_AP.LV_PROBE_CARRIER.statusEffects0.Details",
+    "content": "降低隐身和ECM防护单元的效果"
+  },
+  {
+    "id": "Gear_Bloodhound_AP.LV_ADVANCED_SENSORS.statusEffects1.Details",
+    "content": "提供敌军单位的详细信息"
+  },
+  {
+    "id": "Gear_Bloodhound_AP.BloodhoundProbe.statusEffects2.Details",
+    "content": "增加视野/传感器"
+  },
+  {
+    "id": "Gear_Bloodhound_AP.BAP-Spotting_Gain-T1.statusEffects3.Details",
+    "content": "+50m发现距离"
+  },
+  {
+    "id": "Gear_Bloodhound_AP.MineFieldDetection.statusEffects4.Details",
+    "content": "探测雷场"
+  },
+  {
+    "id": "Gear_Bloodhound_AP.LV_PROBE_CARRIER.statusEffects0.Name",
+    "content": "主动探测器(被动)"
+  },
+  {
+    "id": "Gear_Bloodhound_AP.LV_ADVANCED_SENSORS.statusEffects1.Name",
+    "content": "先进传感器"
+  },
+  {
+    "id": "Gear_Bloodhound_AP.BloodhoundProbe.statusEffects2.Name",
+    "content": "寻血犬探测器"
+  },
+  {
+    "id": "Gear_Bloodhound_AP.BAP-Spotting_Gain-T1.statusEffects3.Name",
+    "content": "提升发现距离"
+  },
+  {
+    "id": "Gear_Bloodhound_AP.MineFieldDetection.statusEffects4.Name",
+    "content": "主动探测器(被动)"
+  },
+  {
+    "id": "Gear_BlueShield.Description.Details",
+    "content": " 联邦开始开发蓝盾粒子场发生器(PFD),一种可以减少受到能量武器伤害的防御系统.虽然该发生器确实可以保护装备单位免受攻击,但它在地面部队中也是出了名的不可靠.大约运行一分钟后,吸入的灰尘和其他杂物开始影响风门的运行,并最终导致关机."
+  },
+  {
+    "id": "Gear_BlueShield.Description.UIName",
+    "content": "发蓝盾粒子场发生器"
+  },
+  {
+    "id": "Gear_BlueShield.Description.Name",
+    "content": "发蓝盾粒子场发生器"
+  },
+  {
+    "id": "Gear_BlueShield.Description.Manufacturer",
+    "content": "死罪"
+  },
+  {
+    "id": "Gear_BlueShield.BlueShield.CAE0.Details",
+    "content": "蓝盾粒子场发生器,降低受到的能量武器伤害."
+  },
+  {
+    "id": "Gear_BlueShield.BlueShield2.CAE1.Details",
+    "content": "保持10恒定产热"
+  },
+  {
+    "id": "Gear_BlueShield.BlueShield3.CAE2.Details",
+    "content": "突破射击, 提高精度/后座"
+  },
+  {
+    "id": "Gear_BlueShield.BlueShield.CAE0.Name",
+    "content": "蓝盾"
+  },
+  {
+    "id": "Gear_BlueShield.BlueShield2.CAE1.Name",
+    "content": "增加热量"
+  },
+  {
+    "id": "Gear_BlueShield.BlueShield3.CAE2.Name",
+    "content": "瞄准电脑"
+  },
+  {
+    "id": "Gear_Boosted_BeagleActiveProbe.Description.Details",
+    "content": "增强型猎兔犬主动探测器通过从通用猎兔犬主动探测器中移除限制器,增加了它所接入的任何单位的扫描能力,但启动它意味着用扬声器在战场上大喊''快开枪打我,兄弟,我在找你''"
+  },
+  {
+    "id": "Gear_Boosted_BeagleActiveProbe.Description.UIName",
+    "content": "增强型猎兔犬主动探测器"
+  },
+  {
+    "id": "Gear_Boosted_BeagleActiveProbe.Description.Name",
+    "content": "增强型猎兔犬主动探测器"
+  },
+  {
+    "id": "Gear_Boosted_BeagleActiveProbe.Description.Manufacturer",
+    "content": "水卫一"
+  },
+  {
+    "id": "Gear_Boosted_BeagleActiveProbe.LV_PROBE_CARRIER.statusEffects0.Details",
+    "content": "降低隐身和ECM防护单元的效果"
+  },
+  {
+    "id": "Gear_Boosted_BeagleActiveProbe.LV_ADVANCED_SENSORS.statusEffects1.Details",
+    "content": "提供敌军单位的详细信息"
+  },
+  {
+    "id": "Gear_Boosted_BeagleActiveProbe.BAProbe.statusEffects2.Details",
+    "content": "增加视野/传感器"
+  },
+  {
+    "id": "Gear_Boosted_BeagleActiveProbe.BAP-Spotting_Gain-T1.statusEffects3.Details",
+    "content": "+50m发现距离"
+  },
+  {
+    "id": "Gear_Boosted_BeagleActiveProbe.Angel-Signature_Decrease_45.statusEffects4.Details",
+    "content": "激活零信号系统降低了可见性并增强了防御"
+  },
+  {
+    "id": "Gear_Boosted_BeagleActiveProbe.Angel-visi.statusEffects5.Details",
+    "content": "提供+2命中难度"
+  },
+  {
+    "id": "Gear_Boosted_BeagleActiveProbe.MineFieldDetection.statusEffects6.Details",
+    "content": "探测雷场"
+  },
+  {
+    "id": "Gear_Boosted_BeagleActiveProbe.LV_PROBE_CARRIER.statusEffects0.Name",
+    "content": "主动探测器(被动)"
+  },
+  {
+    "id": "Gear_Boosted_BeagleActiveProbe.LV_ADVANCED_SENSORS.statusEffects1.Name",
+    "content": "先进传感器"
+  },
+  {
+    "id": "Gear_Boosted_BeagleActiveProbe.BAProbe.statusEffects2.Name",
+    "content": "猎兔犬探测器"
+  },
+  {
+    "id": "Gear_Boosted_BeagleActiveProbe.BAP-Spotting_Gain-T1.statusEffects3.Name",
+    "content": "提升发现距离"
+  },
+  {
+    "id": "Gear_Boosted_BeagleActiveProbe.Angel-Signature_Decrease_45.statusEffects4.Name",
+    "content": "零信号系统"
+  },
+  {
+    "id": "Gear_Boosted_BeagleActiveProbe.Angel-visi.statusEffects5.Name",
+    "content": "激活隐身装甲"
+  },
+  {
+    "id": "Gear_Boosted_BeagleActiveProbe.MineFieldDetection.statusEffects6.Name",
+    "content": "主动探测器(被动)"
+  },
+  {
+    "id": "Gear_boosted_C3.Description.Details",
+    "content": "超频C3网络单元由恒星联邦开发,作为对更多新型ECM技术出现的应对,提供了更强大的传感器套件,以在更大的范围内锁定目标.需要C3主机进行处理."
+  },
+  {
+    "id": "Gear_boosted_C3.Description.UIName",
+    "content": "超频C3网络从机"
+  },
+  {
+    "id": "Gear_boosted_C3.Description.Name",
+    "content": "超频C3网络从单元"
+  },
+  {
+    "id": "Gear_boosted_C3.Description.Manufacturer",
+    "content": "塔纳迪"
+  },
+  {
+    "id": "Gear_boosted_C3.C3_AI.statusEffects0.Details",
+    "content": "当队友移动时显示他们的视野"
+  },
+  {
+    "id": "Gear_boosted_C3.LV_Shares_Vision.statusEffects1.Details",
+    "content": "当队友移动时显示他们的视野"
+  },
+  {
+    "id": "Gear_boosted_C3.C3_AI.statusEffects0.Name",
+    "content": "C3 AI"
+  },
+  {
+    "id": "Gear_boosted_C3.LV_Shares_Vision.statusEffects1.Name",
+    "content": "视野共享"
+  },
+  {
+    "id": "Gear_boosted_C3_Master.Description.Details",
+    "content": "C3网络主机通常由小队指挥官携带,和标准C3单元相比,它拥有更高的战术数据处理能力.这种尖端模块中包含了所有最新的升级."
+  },
+  {
+    "id": "Gear_boosted_C3_Master.Description.UIName",
+    "content": "增强型C3网络主机"
+  },
+  {
+    "id": "Gear_boosted_C3_Master.Description.Name",
+    "content": "C3网络主单元"
+  },
+  {
+    "id": "Gear_boosted_C3_Master.Description.Manufacturer",
+    "content": "塔纳迪"
+  },
+  {
+    "id": "Gear_boosted_C3_Master.C3_master.statusEffects0.Details",
+    "content": "当队友移动时显示他们的视野"
+  },
+  {
+    "id": "Gear_boosted_C3_Master.C3_AI.statusEffects1.Details",
+    "content": "当队友移动时显示他们的视野"
+  },
+  {
+    "id": "Gear_boosted_C3_Master.LV_Shares_Vision.statusEffects2.Details",
+    "content": "当队友移动时显示他们的视野"
+  },
+  {
+    "id": "Gear_boosted_C3_Master.C3_master.statusEffects0.Name",
+    "content": "C3主单元"
+  },
+  {
+    "id": "Gear_boosted_C3_Master.C3_AI.statusEffects1.Name",
+    "content": "C3 AI"
+  },
+  {
+    "id": "Gear_boosted_C3_Master.LV_Shares_Vision.statusEffects2.Name",
+    "content": "视野共享"
+  },
+  {
+    "id": "Gear_C3.Description.Details",
+    "content": "C3从机是一种通过在网络上分享战术数据的电脑系统.重一吨可以被队员或指挥官携带.需要C3主机进行处理."
+  },
+  {
+    "id": "Gear_C3.Description.UIName",
+    "content": "C3从机"
+  },
+  {
+    "id": "Gear_C3.Description.Name",
+    "content": "C3网络从属单元"
+  },
+  {
+    "id": "Gear_C3.Description.Manufacturer",
+    "content": "塔纳迪"
+  },
+  {
+    "id": "Gear_C3.C3_AI.statusEffects0.Details",
+    "content": "当队友移动时显示他们的视野"
+  },
+  {
+    "id": "Gear_C3.LV_Shares_Vision.statusEffects1.Details",
+    "content": "当队友移动时显示他们的视野"
+  },
+  {
+    "id": "Gear_C3.C3_AI.statusEffects0.Name",
+    "content": "C3 AI"
+  },
+  {
+    "id": "Gear_C3.LV_Shares_Vision.statusEffects1.Name",
+    "content": "视野共享"
+  },
+  {
+    "id": "Gear_C3i.Description.Details",
+    "content": "C3i是通讯之星基于天龙联合体技术开发的.在扩大其军事力量以抵御氏族入侵的同时,通讯防卫队发现他们目前的C3主机无法处理复杂的老旧单位."
+  },
+  {
+    "id": "Gear_C3i.Description.UIName",
+    "content": "C3i"
+  },
+  {
+    "id": "Gear_C3i.Description.Name",
+    "content": "通讯之星改进型C3"
+  },
+  {
+    "id": "Gear_C3i.Description.Manufacturer",
+    "content": "通讯之星"
+  },
+  {
+    "id": "Gear_C3i.C3i.statusEffects0.Details",
+    "content": "当队友移动时显示他们的视野"
+  },
+  {
+    "id": "Gear_C3i.C3_AI.statusEffects1.Details",
+    "content": "当队友移动时显示他们的视野"
+  },
+  {
+    "id": "Gear_C3i.LV_Shares_Vision.statusEffects2.Details",
+    "content": "当队友移动时显示他们的视野"
+  },
+  {
+    "id": "Gear_C3i.C3i.statusEffects0.Name",
+    "content": "C3i网络"
+  },
+  {
+    "id": "Gear_C3i.C3_AI.statusEffects1.Name",
+    "content": "C3 AI"
+  },
+  {
+    "id": "Gear_C3i.LV_Shares_Vision.statusEffects2.Name",
+    "content": "视野共享"
+  },
+  {
+    "id": "Gear_C3_Master.Description.Details",
+    "content": "通常由小队指挥官携带,和标准C3单元相比,它拥有更高的战术数据处理能."
+  },
+  {
+    "id": "Gear_C3_Master.Description.UIName",
+    "content": "C3主单元"
+  },
+  {
+    "id": "Gear_C3_Master.Description.Name",
+    "content": "C3网络主单元"
+  },
+  {
+    "id": "Gear_C3_Master.Description.Manufacturer",
+    "content": "塔纳迪"
+  },
+  {
+    "id": "Gear_C3_Master.C3_master.statusEffects0.Details",
+    "content": "当队友移动时显示他们的视野"
+  },
+  {
+    "id": "Gear_C3_Master.C3_AI.statusEffects1.Details",
+    "content": "当队友移动时显示他们的视野"
+  },
+  {
+    "id": "Gear_C3_Master.LV_Shares_Vision.statusEffects2.Details",
+    "content": "当队友移动时显示他们的视野"
+  },
+  {
+    "id": "Gear_C3_Master.C3_master.statusEffects0.Name",
+    "content": "C3主单元"
+  },
+  {
+    "id": "Gear_C3_Master.C3_AI.statusEffects1.Name",
+    "content": "C3 AI"
+  },
+  {
+    "id": "Gear_C3_Master.LV_Shares_Vision.statusEffects2.Name",
+    "content": "视野共享"
+  },
+  {
+    "id": "Gear_ECM.Description.Details",
+    "content": "这种基本的电子对抗设备(ECM)可以干扰敌人的瞄准和导弹系统,是对机甲标准ECM设备的有效升级"
+  },
+  {
+    "id": "Gear_ECM.Description.UIName",
+    "content": "电子对抗措施"
+  },
+  {
+    "id": "Gear_ECM.Description.Name",
+    "content": "电子对抗措施"
+  },
+  {
+    "id": "Gear_ECM.Description.Manufacturer",
+    "content": "谷神星"
+  },
+  {
+    "id": "Gear_ECM.ECMPassiveShield.CAE0.Details",
+    "content": "被动ECM保护"
+  },
+  {
+    "id": "Gear_ECM.ECMPassiveJam.CAE1.Details",
+    "content": "被动干扰保护"
+  },
+  {
+    "id": "Gear_ECM.ECMPassiveShield.CAE0.Name",
+    "content": "ECM被动防护"
+  },
+  {
+    "id": "Gear_ECM.ECMPassiveJam.CAE1.Name",
+    "content": "ECM被动干扰"
+  },
+  {
+    "id": "Gear_EWS.Description.Details",
+    "content": "这套先进电子战套件是为了模拟更先进的星联时代ECM,主动探测器和瞄准电脑.其中包含了大量电子战系统,能够有效的干扰敌方传感器并提高自身传感器效率."
+  },
+  {
+    "id": "Gear_EWS.Description.UIName",
+    "content": "战争套件"
+  },
+  {
+    "id": "Gear_EWS.Description.Name",
+    "content": "战争套件"
+  },
+  {
+    "id": "Gear_EWS.Description.Manufacturer",
+    "content": "谷神星"
+  },
+  {
+    "id": "Gear_EWS.UAV_Ping.statusEffects0.Details",
+    "content": "主动能力(使用开火动作).对在旋转的金色圆圈范围内的所有敌人进行传感器锁定.使用后进入冷却状态."
+  },
+  {
+    "id": "Gear_EWS.MineFieldDetection.statusEffects1.Details",
+    "content": "探测雷场"
+  },
+  {
+    "id": "Gear_EWS.LV_PROBE_CARRIER.statusEffects2.Details",
+    "content": "降低隐身和ECM防护单元的效果"
+  },
+  {
+    "id": "Gear_EWS.LV_ADVANCED_SENSORS.statusEffects3.Details",
+    "content": "提供敌军单位的详细信息"
+  },
+  {
+    "id": "Gear_EWS.AdvancedProbeSensor.statusEffects4.Details",
+    "content": "增加 视野/传感器效率/健康."
+  },
+  {
+    "id": "Gear_EWS.AdvancedProbeSight.statusEffects5.Details",
+    "content": "+50m发现距离"
+  },
+  {
+    "id": "Gear_EWS.ECMPassiveShield.statusEffects6.Details",
+    "content": "被动ECM保护"
+  },
+  {
+    "id": "Gear_EWS.ECMPassiveJam.statusEffects7.Details",
+    "content": "被动干扰保护"
+  },
+  {
+    "id": "Gear_EWS.UAV_Ping.statusEffects0.Name",
+    "content": "无人机 PING"
+  },
+  {
+    "id": "Gear_EWS.MineFieldDetection.statusEffects1.Name",
+    "content": "主动探测器(被动)"
+  },
+  {
+    "id": "Gear_EWS.LV_PROBE_CARRIER.statusEffects2.Name",
+    "content": "主动探测器(被动)"
+  },
+  {
+    "id": "Gear_EWS.LV_ADVANCED_SENSORS.statusEffects3.Name",
+    "content": "先进传感器"
+  },
+  {
+    "id": "Gear_EWS.AdvancedProbeSensor.statusEffects4.Name",
+    "content": "探测传感器"
+  },
+  {
+    "id": "Gear_EWS.AdvancedProbeSight.statusEffects5.Name",
+    "content": "探测器视野"
+  },
+  {
+    "id": "Gear_EWS.ECMPassiveShield.statusEffects6.Name",
+    "content": "ECM被动防护"
+  },
+  {
+    "id": "Gear_EWS.ECMPassiveJam.statusEffects7.Name",
+    "content": "ECM被动干扰"
+  },
+  {
+    "id": "Gear_Generic_AP.Description.Details",
+    "content": "主动探测器(AP)是最基本的战场探测系统,允许战斗机甲传感器过滤和检查更广泛的信息."
+  },
+  {
+    "id": "Gear_Generic_AP.Description.UIName",
+    "content": "主动探测器"
+  },
+  {
+    "id": "Gear_Generic_AP.Description.Name",
+    "content": "主动探测器"
+  },
+  {
+    "id": "Gear_Generic_AP.Description.Manufacturer",
+    "content": "赫勒海"
+  },
+  {
+    "id": "Gear_Generic_AP.LV_PROBE_CARRIER.statusEffects0.Details",
+    "content": "降低ECM和隐身护盾单元的效果"
+  },
+  {
+    "id": "Gear_Generic_AP.LV_ADVANCED_SENSORS.statusEffects1.Details",
+    "content": "提供敌军单位的详细信息"
+  },
+  {
+    "id": "Gear_Generic_AP.BAProbe.statusEffects2.Details",
+    "content": "增加视野/传感器"
+  },
+  {
+    "id": "Gear_Generic_AP.BAP-Spotting_Gain-T1.statusEffects3.Details",
+    "content": "+50m发现距离"
+  },
+  {
+    "id": "Gear_Generic_AP.MineFieldDetection.statusEffects4.Details",
+    "content": "探测雷场"
+  },
+  {
+    "id": "Gear_Generic_AP.LV_PROBE_CARRIER.statusEffects0.Name",
+    "content": "主动探测器(被动)"
+  },
+  {
+    "id": "Gear_Generic_AP.LV_ADVANCED_SENSORS.statusEffects1.Name",
+    "content": "先进传感器"
+  },
+  {
+    "id": "Gear_Generic_AP.BAProbe.statusEffects2.Name",
+    "content": "主动探测器"
+  },
+  {
+    "id": "Gear_Generic_AP.BAP-Spotting_Gain-T1.statusEffects3.Name",
+    "content": "提升发现距离"
+  },
+  {
+    "id": "Gear_Generic_AP.MineFieldDetection.statusEffects4.Name",
+    "content": "主动探测器(被动)"
+  },
+  {
+    "id": "Gear_Guardian_ECM.Description.Details",
+    "content": "守护者ECM套件于2597年由人类霸权的约翰斯顿工业公司推出.旨在干扰制导武器、目标电脑和通讯系统,守护者通常用发射宽频信号的方法来干扰雷达、红外、紫外、磁扫描和声呐传感器,进而保护盟友免受此类设备的影响."
+  },
+  {
+    "id": "Gear_Guardian_ECM.Description.UIName",
+    "content": "守护者ECM"
+  },
+  {
+    "id": "Gear_Guardian_ECM.Description.Name",
+    "content": "守护者ECM"
+  },
+  {
+    "id": "Gear_Guardian_ECM.Description.Manufacturer",
+    "content": "约翰斯顿"
+  },
+  {
+    "id": "Gear_Guardian_ECM.ECMPassiveShield.CAE0.Details",
+    "content": "被动ECM保护"
+  },
+  {
+    "id": "Gear_Guardian_ECM.ECMPassiveJam.CAE1.Details",
+    "content": "被动干扰保护"
+  },
+  {
+    "id": "Gear_Guardian_ECM.ECMPassiveShield.CAE0.Name",
+    "content": "ECM被动防护"
+  },
+  {
+    "id": "Gear_Guardian_ECM.ECMPassiveJam.CAE1.Name",
+    "content": "ECM被动干扰"
+  },
+  {
+    "id": "Gear_HarJel.Description.Details",
+    "content": "哈杰尔是一种由钻石鲨氏族开发的黑色凝胶.它是由一种自然存在的物质制成,钻石鲨警惕的守卫着这种物质的垄断权.这种物质可以在Twycross星系和部落家园中找到.当被摧毁时会爆炸.与隐形、反射、反应和薄片装甲不兼容."
+  },
+  {
+    "id": "Gear_HarJel.Description.UIName",
+    "content": "哈杰尔I"
+  },
+  {
+    "id": "Gear_HarJel.Description.Name",
+    "content": "哈杰尔I自修复系统"
+  },
+  {
+    "id": "Gear_HarJel.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Gear_HarJel.BreachImmunity.statusEffects0.Details",
+    "content": "不受机体破损影响"
+  },
+  {
+    "id": "Gear_HarJel.BreachImmunity.statusEffects0.Name",
+    "content": "免疫损坏"
+  },
+  {
+    "id": "Gear_HarJel2.Description.Details",
+    "content": "哈杰尔是一种由钻石鲨氏族开发的黑色凝胶.它是由一种自然存在的物质制成,钻石鲨警惕的守卫着这种物质的垄断权.这种物质可以在Twycross星系和部落家园中找到.当被摧毁时会爆炸.与隐形、反射、反应和薄片装甲不兼容."
+  },
+  {
+    "id": "Gear_HarJel2.Description.UIName",
+    "content": "哈杰尔II"
+  },
+  {
+    "id": "Gear_HarJel2.Description.Name",
+    "content": "哈杰尔II自修复系统"
+  },
+  {
+    "id": "Gear_HarJel2.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Gear_HarJel2.BreachImmunity.statusEffects0.Details",
+    "content": "不受机体破损影响"
+  },
+  {
+    "id": "Gear_HarJel2.BreachImmunity.statusEffects0.Name",
+    "content": "免疫损坏"
+  },
+  {
+    "id": "Gear_HarJel3.Description.Details",
+    "content": "哈杰尔是一种由钻石鲨氏族开发的黑色凝胶.它是由一种自然存在的物质制成,钻石鲨警惕的守卫着这种物质的垄断权.这种物质可以在Twycross星系和部落家园中找到.当被摧毁时会爆炸.与隐形、反射、反应和薄片装甲不兼容."
+  },
+  {
+    "id": "Gear_HarJel3.Description.UIName",
+    "content": "哈杰尔III"
+  },
+  {
+    "id": "Gear_HarJel3.Description.Name",
+    "content": "哈杰尔III自修复系统"
+  },
+  {
+    "id": "Gear_HarJel3.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Gear_HarJel3.BreachImmunity.statusEffects0.Details",
+    "content": "不受机体破损影响"
+  },
+  {
+    "id": "Gear_HarJel3.BreachImmunity.statusEffects0.Name",
+    "content": "免疫损坏"
+  },
+  {
+    "id": "Gear_Industrial_TSM.Description.Details",
+    "content": "做为三倍强化人工肌肉实验的一部分,NAIS和其他公司研究了多个原型.虽然不适合用于作战,但有几种原型有望应用在工业方面.这些原型让机甲制造商能够制造工业三倍强化人工肌肉,非常适用于装载、运输和其他繁重的托举任务."
+  },
+  {
+    "id": "Gear_Industrial_TSM.Description.UIName",
+    "content": "工业 TSM"
+  },
+  {
+    "id": "Gear_Industrial_TSM.Description.Name",
+    "content": "工业三倍强化人工肌肉(TSM)  "
+  },
+  {
+    "id": "Gear_Industrial_TSM.Description.Manufacturer",
+    "content": "科斯比"
+  },
+  {
+    "id": "Gear_MASC.Description.Details",
+    "content": "由人类霸权于2740引入,人工肌肉加速信号电路(MASC)是一种可以让机甲以两倍其普通行走速度移动的装备.然而腿部机构不是为这种压力制造的.长时间使用MASC系统可能会损坏机甲腿部机构.虽然这不太可能使机甲瘫痪,但腿部机构被摧毁的危险足以让机甲战士谨慎的在战斗中使用.<b><color=#099ff2>可激活:失败时对腿部造成伤害和严重损伤</color></b>."
+  },
+  {
+    "id": "Gear_MASC.Description.UIName",
+    "content": "M.A.S.C."
+  },
+  {
+    "id": "Gear_MASC.Description.Name",
+    "content": "M.A.S.C."
+  },
+  {
+    "id": "Gear_MASC.Description.Manufacturer",
+    "content": "死罪"
+  },
+  {
+    "id": "Gear_MASC.MASCWalk.CAE0.Details",
+    "content": "人工肌肉加速信号电路(MASC)"
+  },
+  {
+    "id": "Gear_MASC.MASCWalk.CAE0.Name",
+    "content": "MASC"
+  },
+  {
+    "id": "Gear_Modular_Armor_MK1.Description.Details",
+    "content": "模块化装甲是通讯之星工程师在研究硬化装甲时作为权宜之计创造的.工程师们偶然发现了一个古老的思路:通过在单位上安装一个特殊的框架,它可以在超出内部框架正常允许的位置提供额外的装甲保护.\n<b><color=#00ffff>不可以和隐身一起使用</color> </b>"
+  },
+  {
+    "id": "Gear_Modular_Armor_MK1.Description.UIName",
+    "content": "模块化装甲 MK1(F)"
+  },
+  {
+    "id": "Gear_Modular_Armor_MK1.Description.Name",
+    "content": "模块化装甲模块"
+  },
+  {
+    "id": "Gear_Modular_Armor_MK1.Description.Manufacturer",
+    "content": "通讯之星"
+  },
+  {
+    "id": "Gear_Modular_Armor_MK1.Status-ModularArmor-{location}.statusEffects0.Details",
+    "content": "强化装甲"
+  },
+  {
+    "id": "Gear_Modular_Armor_MK1.Status-ModularArmor-{location}.statusEffects0.Name",
+    "content": "强化装甲"
+  },
+  {
+    "id": "Gear_Modular_Armor_MK2.Description.Details",
+    "content": "模块化装甲是通讯之星工程师在研究硬化装甲时作为权宜之计创造的.工程师们偶然发现了一个古老的思路:通过在单位上安装一个特殊的框架,它可以在超出内部框架正常允许的位置提供额外的装甲保护.\n<b><color=#00ffff>不可以和隐身一起使用</color> </b>"
+  },
+  {
+    "id": "Gear_Modular_Armor_MK2.Description.UIName",
+    "content": "模块化装甲 MK2(F)"
+  },
+  {
+    "id": "Gear_Modular_Armor_MK2.Description.Name",
+    "content": "模块化装甲模块"
+  },
+  {
+    "id": "Gear_Modular_Armor_MK2.Description.Manufacturer",
+    "content": "通讯之星"
+  },
+  {
+    "id": "Gear_Modular_Armor_MK2.Status-ModularArmor-{location}.statusEffects0.Details",
+    "content": "强化装甲"
+  },
+  {
+    "id": "Gear_Modular_Armor_MK2.Status-ModularArmor-{location}.statusEffects0.Name",
+    "content": "强化装甲"
+  },
+  {
+    "id": "Gear_Modular_Armor_MK3.Description.Details",
+    "content": "模块化装甲是通讯之星工程师在研究硬化装甲时作为权宜之计创造的.工程师们偶然发现了一个古老的思路:通过在单位上安装一个特殊的框架,它可以在超出内部框架正常允许的位置提供额外的装甲保护.\n<b><color=#00ffff>不可以和隐身一起使用</color> </b>"
+  },
+  {
+    "id": "Gear_Modular_Armor_MK3.Description.UIName",
+    "content": "模块化装甲 MK3(F)"
+  },
+  {
+    "id": "Gear_Modular_Armor_MK3.Description.Name",
+    "content": "模块化装甲模块"
+  },
+  {
+    "id": "Gear_Modular_Armor_MK3.Description.Manufacturer",
+    "content": "通讯之星"
+  },
+  {
+    "id": "Gear_Modular_Armor_MK3.Status-ModularArmor-{location}.statusEffects0.Details",
+    "content": "强化装甲"
+  },
+  {
+    "id": "Gear_Modular_Armor_MK3.Status-ModularArmor-{location}.statusEffects0.Name",
+    "content": "强化装甲"
+  },
+  {
+    "id": "Gear_Modular_Armor_MK4.Description.Details",
+    "content": "模块化装甲是通讯之星工程师在研究硬化装甲时作为权宜之计创造的.工程师们偶然发现了一个古老的思路:通过在单位上安装一个特殊的框架,它可以在超出内部框架正常允许的位置提供额外的装甲保护.\n<b><color=#00ffff>不可以和隐身一起使用</color> </b>"
+  },
+  {
+    "id": "Gear_Modular_Armor_MK4.Description.UIName",
+    "content": "模块化装甲 MK4(F)"
+  },
+  {
+    "id": "Gear_Modular_Armor_MK4.Description.Name",
+    "content": "模块化装甲模块"
+  },
+  {
+    "id": "Gear_Modular_Armor_MK4.Description.Manufacturer",
+    "content": "通讯之星"
+  },
+  {
+    "id": "Gear_Modular_Armor_MK4.Status-ModularArmor-{location}.statusEffects0.Details",
+    "content": "强化装甲"
+  },
+  {
+    "id": "Gear_Modular_Armor_MK4.Status-ModularArmor-{location}.statusEffects0.Name",
+    "content": "强化装甲"
+  },
+  {
+    "id": "Gear_Modular_Rear_Armor_MK1.Description.Details",
+    "content": "模块化装甲是通讯之星工程师在研究硬化装甲时作为权宜之计创造的.工程师们偶然发现了一个古老的思路:通过在单位上安装一个特殊的框架,它可以在超出内部框架正常允许的位置提供额外的装甲保护.\n<b><color=#00ffff>不可以和隐身一起使用</color> </b>"
+  },
+  {
+    "id": "Gear_Modular_Rear_Armor_MK1.Description.UIName",
+    "content": "模块化装甲 MK1(R)"
+  },
+  {
+    "id": "Gear_Modular_Rear_Armor_MK1.Description.Name",
+    "content": "模块化装甲模块"
+  },
+  {
+    "id": "Gear_Modular_Rear_Armor_MK1.Description.Manufacturer",
+    "content": "通讯之星"
+  },
+  {
+    "id": "Gear_Modular_Rear_Armor_MK1.Status-ModularArmorRear-{location}.statusEffects0.Details",
+    "content": "强化后背装甲"
+  },
+  {
+    "id": "Gear_Modular_Rear_Armor_MK1.Status-ModularArmorRear-{location}.statusEffects0.Name",
+    "content": "强化后背装甲"
+  },
+  {
+    "id": "Gear_Modular_Rear_Armor_MK2.Description.Details",
+    "content": "模块化装甲是通讯之星工程师在研究硬化装甲时作为权宜之计创造的.工程师们偶然发现了一个古老的思路:通过在单位上安装一个特殊的框架,它可以在超出内部框架正常允许的位置提供额外的装甲保护.\n<b><color=#00ffff>不可以和隐身一起使用</color> </b>"
+  },
+  {
+    "id": "Gear_Modular_Rear_Armor_MK2.Description.UIName",
+    "content": "模块化装甲 MK2(R)"
+  },
+  {
+    "id": "Gear_Modular_Rear_Armor_MK2.Description.Name",
+    "content": "模块化装甲模块"
+  },
+  {
+    "id": "Gear_Modular_Rear_Armor_MK2.Description.Manufacturer",
+    "content": "通讯之星"
+  },
+  {
+    "id": "Gear_Modular_Rear_Armor_MK2.Status-ModularArmorRear-{location}.statusEffects0.Details",
+    "content": "强化后背装甲"
+  },
+  {
+    "id": "Gear_Modular_Rear_Armor_MK2.Status-ModularArmorRear-{location}.statusEffects0.Name",
+    "content": "强化后背装甲"
+  },
+  {
+    "id": "Gear_Modular_Rear_Armor_MK3.Description.Details",
+    "content": "模块化装甲是通讯之星工程师在研究硬化装甲时作为权宜之计创造的.工程师们偶然发现了一个古老的思路:通过在单位上安装一个特殊的框架,它可以在超出内部框架正常允许的位置提供额外的装甲保护.\n<b><color=#00ffff>不可以和隐身一起使用</color> </b>"
+  },
+  {
+    "id": "Gear_Modular_Rear_Armor_MK3.Description.UIName",
+    "content": "模块化装甲 MK3(R)"
+  },
+  {
+    "id": "Gear_Modular_Rear_Armor_MK3.Description.Name",
+    "content": "模块化装甲模块"
+  },
+  {
+    "id": "Gear_Modular_Rear_Armor_MK3.Description.Manufacturer",
+    "content": "通讯之星"
+  },
+  {
+    "id": "Gear_Modular_Rear_Armor_MK3.Status-ModularArmorRear-{location}.statusEffects0.Details",
+    "content": "强化后背装甲"
+  },
+  {
+    "id": "Gear_Modular_Rear_Armor_MK3.Status-ModularArmorRear-{location}.statusEffects0.Name",
+    "content": "强化后背装甲"
+  },
+  {
+    "id": "Gear_Modular_Rear_Armor_MK4.Description.Details",
+    "content": "模块化装甲是通讯之星工程师在研究硬化装甲时作为权宜之计创造的.工程师们偶然发现了一个古老的思路:通过在单位上安装一个特殊的框架,它可以在超出内部框架正常允许的位置提供额外的装甲保护.\n<b><color=#00ffff>不可以和隐身一起使用</color> </b>"
+  },
+  {
+    "id": "Gear_Modular_Rear_Armor_MK4.Description.UIName",
+    "content": "模块化装甲 MK4(R)"
+  },
+  {
+    "id": "Gear_Modular_Rear_Armor_MK4.Description.Name",
+    "content": "模块化装甲模块"
+  },
+  {
+    "id": "Gear_Modular_Rear_Armor_MK4.Description.Manufacturer",
+    "content": "通讯之星"
+  },
+  {
+    "id": "Gear_Modular_Rear_Armor_MK4.Status-ModularArmorRear-{location}.statusEffects0.Details",
+    "content": "强化后背装甲"
+  },
+  {
+    "id": "Gear_Modular_Rear_Armor_MK4.Status-ModularArmorRear-{location}.statusEffects0.Name",
+    "content": "强化后背装甲"
+  },
+  {
+    "id": "Gear_Myomer_TSM.Description.Details",
+    "content": "三倍强化人工肌肉是一种实验性结构材料,赋予机甲更多的体力和灵活性,并提供近战和移动奖励."
+  },
+  {
+    "id": "Gear_Myomer_TSM.Description.UIName",
+    "content": "TSM"
+  },
+  {
+    "id": "Gear_Myomer_TSM.Description.Name",
+    "content": "三倍强化人工肌肉  "
+  },
+  {
+    "id": "Gear_Myomer_TSM.Description.Manufacturer",
+    "content": "贝尔根"
+  },
+  {
+    "id": "Gear_Myomer_TSM.TSM_Damage_Weapon.CAE0.Details",
+    "content": "伤害修正"
+  },
+  {
+    "id": "Gear_Myomer_TSM.TSM_Stability_Weapon.CAE1.Details",
+    "content": "伤害修正"
+  },
+  {
+    "id": "Gear_Myomer_TSM.TSM_Damage_Punch.CAE2.Details",
+    "content": "伤害修正"
+  },
+  {
+    "id": "Gear_Myomer_TSM.TSM_Stability_Punch.CAE3.Details",
+    "content": "伤害修正"
+  },
+  {
+    "id": "Gear_Myomer_TSM.TSM_Damage_Kick.CAE4.Details",
+    "content": "伤害修正"
+  },
+  {
+    "id": "Gear_Myomer_TSM.TSM_Stability_Kick.CAE5.Details",
+    "content": "伤害修正"
+  },
+  {
+    "id": "Gear_Myomer_TSM.TSMActive1.CAE6.Details",
+    "content": "更强的近战和更快的速度"
+  },
+  {
+    "id": "Gear_Myomer_TSM.TSM_Damage_Weapon.CAE0.Name",
+    "content": "近战武器伤害模块"
+  },
+  {
+    "id": "Gear_Myomer_TSM.TSM_Stability_Weapon.CAE1.Name",
+    "content": "近战武器伤害模块"
+  },
+  {
+    "id": "Gear_Myomer_TSM.TSM_Damage_Punch.CAE2.Name",
+    "content": "近战武器伤害模块"
+  },
+  {
+    "id": "Gear_Myomer_TSM.TSM_Stability_Punch.CAE3.Name",
+    "content": "近战武器伤害模块"
+  },
+  {
+    "id": "Gear_Myomer_TSM.TSM_Damage_Kick.CAE4.Name",
+    "content": "近战武器伤害模块"
+  },
+  {
+    "id": "Gear_Myomer_TSM.TSM_Stability_Kick.CAE5.Name",
+    "content": "近战武器伤害模块"
+  },
+  {
+    "id": "Gear_Myomer_TSM.TSMActive1.CAE6.Name",
+    "content": "TSM激活!"
+  },
+  {
+    "id": "Gear_PartialWing_Clan.Description.Details",
+    "content": "偏翼系统提供了更高的跳跃能力.此外,其大的表面积允许机甲更有效的辐射多余热量."
+  },
+  {
+    "id": "Gear_PartialWing_Clan.Description.UIName",
+    "content": "偏翼系统(C)"
+  },
+  {
+    "id": "Gear_PartialWing_Clan.Description.Name",
+    "content": "氏族偏翼系统"
+  },
+  {
+    "id": "Gear_PartialWing_Clan.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Gear_PartialWing_Clan.PartialWingSink.statusEffects0.Details",
+    "content": "偏翼系统的大表面积有效地散热."
+  },
+  {
+    "id": "Gear_PartialWing_Clan.StatusEffect-Jump_Distance-T3.statusEffects1.Details",
+    "content": "这偏翼系统提升30%跳跃推进器跳跃的距离."
+  },
+  {
+    "id": "Gear_PartialWing_Clan.PartialWingSink.statusEffects0.Name",
+    "content": "偏翼系统"
+  },
+  {
+    "id": "Gear_PartialWing_Clan.StatusEffect-Jump_Distance-T3.statusEffects1.Name",
+    "content": "跳跃距离提升"
+  },
+  {
+    "id": "Gear_PartialWing_IS.Description.Details",
+    "content": "偏翼系统提供了更高的跳跃能力.此外,其大的表面积允许机甲更有效的辐射多余热量."
+  },
+  {
+    "id": "Gear_PartialWing_IS.Description.UIName",
+    "content": "偏翼系统"
+  },
+  {
+    "id": "Gear_PartialWing_IS.Description.Name",
+    "content": "偏翼系统"
+  },
+  {
+    "id": "Gear_PartialWing_IS.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Gear_PartialWing_IS.PartialWingSink.statusEffects0.Details",
+    "content": "偏翼系统的大表面积有效地散热."
+  },
+  {
+    "id": "Gear_PartialWing_IS.StatusEffect-Jump_Distance-T3.statusEffects1.Details",
+    "content": "这偏翼系统提升30%跳跃推进器跳跃的距离."
+  },
+  {
+    "id": "Gear_PartialWing_IS.PartialWingSink.statusEffects0.Name",
+    "content": "偏翼系统"
+  },
+  {
+    "id": "Gear_PartialWing_IS.StatusEffect-Jump_Distance-T3.statusEffects1.Name",
+    "content": "跳跃距离提升"
+  },
+  {
+    "id": "Gear_PartialWing_LTslot.Description.Details",
+    "content": "偏翼系统"
+  },
+  {
+    "id": "Gear_PartialWing_LTslot.Description.UIName",
+    "content": "偏翼系统"
+  },
+  {
+    "id": "Gear_PartialWing_LTslot.Description.Name",
+    "content": "偏翼系统"
+  },
+  {
+    "id": "Gear_PartialWing_LTslot.Description.Manufacturer",
+    "content": "固定槽位"
+  },
+  {
+    "id": "Gear_PartialWing_SH_Clan.Description.Details",
+    "content": "偏翼系统提供了更高的跳跃能力.此外,其大的表面积允许机甲更有效的辐射多余热量.该系统在超重型机甲上使用时非常坚固."
+  },
+  {
+    "id": "Gear_PartialWing_SH_Clan.Description.UIName",
+    "content": "超重型偏翼系统(C)"
+  },
+  {
+    "id": "Gear_PartialWing_SH_Clan.Description.Name",
+    "content": "氏族偏翼系统"
+  },
+  {
+    "id": "Gear_PartialWing_SH_Clan.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Gear_PartialWing_SH_Clan.PartialWingSink.statusEffects0.Details",
+    "content": "偏翼系统的大表面积有效地散热."
+  },
+  {
+    "id": "Gear_PartialWing_SH_Clan.StatusEffect-Jump_Distance-T3.statusEffects1.Details",
+    "content": "这偏翼系统提升30%跳跃推进器跳跃的距离."
+  },
+  {
+    "id": "Gear_PartialWing_SH_Clan.PartialWingSink.statusEffects0.Name",
+    "content": "偏翼系统"
+  },
+  {
+    "id": "Gear_PartialWing_SH_Clan.StatusEffect-Jump_Distance-T3.statusEffects1.Name",
+    "content": "跳跃距离提升"
+  },
+  {
+    "id": "Gear_PartialWing_SH_IS.Description.Details",
+    "content": "偏翼系统提供了更高的跳跃能力.此外,其大的表面积允许机甲更有效的辐射多余热量.该系统在超重型机甲上使用时非常坚固."
+  },
+  {
+    "id": "Gear_PartialWing_SH_IS.Description.UIName",
+    "content": "超重型偏翼系统"
+  },
+  {
+    "id": "Gear_PartialWing_SH_IS.Description.Name",
+    "content": "偏翼系统"
+  },
+  {
+    "id": "Gear_PartialWing_SH_IS.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Gear_PartialWing_SH_IS.PartialWingSink.statusEffects0.Details",
+    "content": "偏翼系统的大表面积有效地散热."
+  },
+  {
+    "id": "Gear_PartialWing_SH_IS.StatusEffect-Jump_Distance-T3.statusEffects1.Details",
+    "content": "这偏翼系统提升30%跳跃推进器跳跃的距离."
+  },
+  {
+    "id": "Gear_PartialWing_SH_IS.PartialWingSink.statusEffects0.Name",
+    "content": "偏翼系统"
+  },
+  {
+    "id": "Gear_PartialWing_SH_IS.StatusEffect-Jump_Distance-T3.statusEffects1.Name",
+    "content": "跳跃距离提升"
+  },
+  {
+    "id": "Gear_PartialWing_SH_LTslot.Description.Details",
+    "content": "偏翼系统"
+  },
+  {
+    "id": "Gear_PartialWing_SH_LTslot.Description.UIName",
+    "content": "超重型偏翼系统"
+  },
+  {
+    "id": "Gear_PartialWing_SH_LTslot.Description.Name",
+    "content": "偏翼系统"
+  },
+  {
+    "id": "Gear_PartialWing_SH_LTslot.Description.Manufacturer",
+    "content": "固定槽位"
+  },
+  {
+    "id": "Gear_PPC_Capacitator.Description.Details",
+    "content": "粒子炮电容器是一个额外组件,可以添加到任何类型的投射加农炮中.它以更高的发热量为代价增强的ppc的破坏力.被摧毁时会爆炸."
+  },
+  {
+    "id": "Gear_PPC_Capacitator.Description.UIName",
+    "content": "粒子炮电容器"
+  },
+  {
+    "id": "Gear_PPC_Capacitator.Description.Name",
+    "content": "粒子炮电容"
+  },
+  {
+    "id": "Gear_PPC_Capacitator.Description.Manufacturer",
+    "content": "吉布森"
+  },
+  {
+    "id": "Gear_PPC_Capacitator.StatusEffect-Attack_PPCCAP.CAE0.Details",
+    "content": "提升粒子炮伤害"
+  },
+  {
+    "id": "Gear_PPC_Capacitator.StatusEffect-Heat_PPCCAP.CAE1.Details",
+    "content": "20%产热."
+  },
+  {
+    "id": "Gear_PPC_Capacitator.StatusEffect-Heat2_PPCCAP.CAE2.Details",
+    "content": "保持10恒定产热"
+  },
+  {
+    "id": "Gear_PPC_Capacitator.StatusEffect-Attack_PPCCAP.CAE0.Name",
+    "content": "粒子炮电容器"
+  },
+  {
+    "id": "Gear_PPC_Capacitator.StatusEffect-Heat_PPCCAP.CAE1.Name",
+    "content": "增加热量"
+  },
+  {
+    "id": "Gear_PPC_Capacitator.StatusEffect-Heat2_PPCCAP.CAE2.Name",
+    "content": "增加热量"
+  },
+  {
+    "id": "Gear_ProtectivePadding.Description.Details",
+    "content": "机甲组件被密封在一个小的隔间内,中间添加了厚凝胶缓冲材料.这延长无需保养的时间,并增长了在最恶劣的腐蚀性环境中部署的时间.这还具有保护重要组件免受损坏的积极作用."
+  },
+  {
+    "id": "Gear_ProtectivePadding.Description.UIName",
+    "content": "保护垫"
+  },
+  {
+    "id": "Gear_ProtectivePadding.Description.Name",
+    "content": "保护垫"
+  },
+  {
+    "id": "Gear_ProtectivePadding.Description.Manufacturer",
+    "content": "布莱克威尔"
+  },
+  {
+    "id": "Gear_ProtectivePadding.PaddingEffect.statusEffects0.Details",
+    "content": "该单位抵抗致命损伤."
+  },
+  {
+    "id": "Gear_ProtectivePadding.PaddingEffect.statusEffects0.Name",
+    "content": "防剥落衬层"
+  },
+  {
+    "id": "Gear_RemoteSensors.Description.Details",
+    "content": "远程传感器自动安置器(RSD)是一个小型货舱,带有用于安置远程传感器的附属安置器.这些安置器通常安装在支援车辆上,用于保护新建立的着陆区或防御边界.每个RSD最多可以携带30个短程传感器,通常是热传感器、电磁传感器和地表震动传感器的组合."
+  },
+  {
+    "id": "Gear_RemoteSensors.Description.UIName",
+    "content": "远程传感器安置器"
+  },
+  {
+    "id": "Gear_RemoteSensors.Description.Name",
+    "content": "扫描仪"
+  },
+  {
+    "id": "Gear_RemoteSensors.Description.Manufacturer",
+    "content": "斯科尔泰克"
+  },
+  {
+    "id": "Gear_RemoteSensors.LV_PROBE_CARRIER.statusEffects0.Details",
+    "content": "降低隐身和ECM防护单元的效果"
+  },
+  {
+    "id": "Gear_RemoteSensors.LV_ADVANCED_SENSORS.statusEffects1.Details",
+    "content": "提供敌军单位的详细信息"
+  },
+  {
+    "id": "Gear_RemoteSensors.LV_PROBE_CARRIER.statusEffects0.Name",
+    "content": "主动探测器(被动)"
+  },
+  {
+    "id": "Gear_RemoteSensors.LV_ADVANCED_SENSORS.statusEffects1.Name",
+    "content": "先进传感器"
+  },
+  {
+    "id": "Gear_RemoteSensors.AdvZoom-Spotting_Gain.CAE0.Details",
+    "content": "增加传感器距离"
+  },
+  {
+    "id": "Gear_RemoteSensors.AdvZoom-Spotting_Gain.CAE1.Details",
+    "content": "增加侦测距离."
+  },
+  {
+    "id": "Gear_RemoteSensors.StatusEffect_Cockpit_Skill_Tactics.CAE2.Details",
+    "content": "战术技能增益"
+  },
+  {
+    "id": "Gear_RemoteSensors.AdvZoom-Spotting_Gain.CAE0.Name",
+    "content": "传感器距离增加"
+  },
+  {
+    "id": "Gear_RemoteSensors.AdvZoom-Spotting_Gain.CAE1.Name",
+    "content": "提升侦测距离"
+  },
+  {
+    "id": "Gear_RemoteSensors.StatusEffect_Cockpit_Skill_Tactics.CAE2.Name",
+    "content": "战术增益"
+  },
+  {
+    "id": "Gear_Searchlight.Description.Details",
+    "content": "探照灯接驳到通迅和传感器系统中,可以更容易的检测和显示附近目标."
+  },
+  {
+    "id": "Gear_Searchlight.Description.UIName",
+    "content": "探照灯"
+  },
+  {
+    "id": "Gear_Searchlight.Description.Name",
+    "content": "探照灯"
+  },
+  {
+    "id": "Gear_Searchlight.Description.Manufacturer",
+    "content": "塔纳迪"
+  },
+  {
+    "id": "Gear_Searchlight.LV_Shares_Vision.statusEffects0.Details",
+    "content": "当队友移动时显示他们的视野"
+  },
+  {
+    "id": "Gear_Searchlight.LV_Shares_Vision.statusEffects0.Name",
+    "content": "视野共享"
+  },
+  {
+    "id": "Gear_Solaris_Spikes.Description.Details",
+    "content": "几个世界以来,尖刺都是战斗机甲的装饰,但在战斗中没有任何效果.同盟国政府改变了这一点,引入了能够在近战中对敌方单位造成伤害的强化尖刺.根据创造了天琴座同盟国短柄斧的工程师报告,这些实验性近战武器证明了其在索拉里斯星域的有效性.效果最多叠加10次."
+  },
+  {
+    "id": "Gear_Solaris_Spikes.Description.UIName",
+    "content": "索拉里斯尖刺"
+  },
+  {
+    "id": "Gear_Solaris_Spikes.Description.Name",
+    "content": "尖刺板"
+  },
+  {
+    "id": "Gear_Solaris_Spikes.Description.Manufacturer",
+    "content": "死罪"
+  },
+  {
+    "id": "Gear_Solaris_Spikes.MeleeResistPunch.statusEffects0.Details",
+    "content": "降低即将到来的近战伤害和额外近战伤害."
+  },
+  {
+    "id": "Gear_Solaris_Spikes.MeleeResistPunchStab.statusEffects1.Details",
+    "content": "降低即将到来的近战伤害和额外近战伤害."
+  },
+  {
+    "id": "Gear_Solaris_Spikes.MeleeResistKick.statusEffects2.Details",
+    "content": "降低即将到来的近战伤害和额外近战伤害."
+  },
+  {
+    "id": "Gear_Solaris_Spikes.MeleeResistKickStab.statusEffects3.Details",
+    "content": "降低即将到来的近战伤害和额外近战伤害."
+  },
+  {
+    "id": "Gear_Solaris_Spikes.MeleeResistPhysDmg.statusEffects4.Details",
+    "content": "降低即将到来的近战伤害和额外近战伤害."
+  },
+  {
+    "id": "Gear_Solaris_Spikes.MeleeResistPhysStab.statusEffects5.Details",
+    "content": "降低即将到来的近战伤害和额外近战伤害."
+  },
+  {
+    "id": "Gear_Solaris_Spikes.MeleeResist.statusEffects6.Details",
+    "content": "降低即将到来的近战伤害和额外近战伤害."
+  },
+  {
+    "id": "Gear_Solaris_Spikes.MeleeResistChargeStab.statusEffects7.Details",
+    "content": "降低即将到来的近战伤害和额外近战伤害."
+  },
+  {
+    "id": "Gear_Solaris_Spikes.MeleeResistDFA.statusEffects8.Details",
+    "content": "降低即将到来的近战伤害和额外近战伤害."
+  },
+  {
+    "id": "Gear_Solaris_Spikes.MeleeResistDFAStab.statusEffects9.Details",
+    "content": "降低即将到来的近战伤害和额外近战伤害."
+  },
+  {
+    "id": "Gear_Solaris_Spikes.SpikedPlatesMelee.statusEffects10.Details",
+    "content": "-20%跳跃距离"
+  },
+  {
+    "id": "Gear_Solaris_Spikes.SpikedPlatesMelee.statusEffects11.Details",
+    "content": "-20%跳跃距离"
+  },
+  {
+    "id": "Gear_Solaris_Spikes.MeleeResistPunch.statusEffects0.Name",
+    "content": "近战击打抵抗"
+  },
+  {
+    "id": "Gear_Solaris_Spikes.MeleeResistPunchStab.statusEffects1.Name",
+    "content": "近战击打稳定伤害抵抗"
+  },
+  {
+    "id": "Gear_Solaris_Spikes.MeleeResistKick.statusEffects2.Name",
+    "content": "近战撞击伤害抵抗"
+  },
+  {
+    "id": "Gear_Solaris_Spikes.MeleeResistKickStab.statusEffects3.Name",
+    "content": "近战踢击稳定伤害抵抗"
+  },
+  {
+    "id": "Gear_Solaris_Spikes.MeleeResistPhysDmg.statusEffects4.Name",
+    "content": "近战实体武器抵抗"
+  },
+  {
+    "id": "Gear_Solaris_Spikes.MeleeResistPhysStab.statusEffects5.Name",
+    "content": "近战实体武器稳定伤害抵抗"
+  },
+  {
+    "id": "Gear_Solaris_Spikes.MeleeResist.statusEffects6.Name",
+    "content": "近战撞击伤害抵抗"
+  },
+  {
+    "id": "Gear_Solaris_Spikes.MeleeResistChargeStab.statusEffects7.Name",
+    "content": "近战撞击稳定伤害抵抗"
+  },
+  {
+    "id": "Gear_Solaris_Spikes.MeleeResistDFA.statusEffects8.Name",
+    "content": "近战DFA抵抗"
+  },
+  {
+    "id": "Gear_Solaris_Spikes.MeleeResistDFAStab.statusEffects9.Name",
+    "content": "近战DFA稳定抵抗"
+  },
+  {
+    "id": "Gear_Solaris_Spikes.SpikedPlatesMelee.statusEffects10.Name",
+    "content": "跳跃距离"
+  },
+  {
+    "id": "Gear_Solaris_Spikes.SpikedPlatesMelee.statusEffects11.Name",
+    "content": "跳跃距离"
+  },
+  {
+    "id": "Gear_Supercharger.Description.Details",
+    "content": "增压器允许机甲超出正常发动机输出,以更高的发热为代价增加不行和冲刺的距离.<b><color=#099ff2>可激活:故障时爆炸!</color></b> 一些迷信的人认为这会导致感冒."
+  },
+  {
+    "id": "Gear_Supercharger.Description.UIName",
+    "content": "增压器"
+  },
+  {
+    "id": "Gear_Supercharger.Description.Name",
+    "content": "增压器"
+  },
+  {
+    "id": "Gear_Supercharger.Description.Manufacturer",
+    "content": "死罪"
+  },
+  {
+    "id": "Gear_Supercharger.MASCWalk.CAE0.Details",
+    "content": "人工肌肉加速信号电路(MASC)"
+  },
+  {
+    "id": "Gear_Supercharger.MASCWalk.CAE0.Name",
+    "content": "MASC"
+  },
+  {
+    "id": "Gear_Superheavy_Frame_Colossal.Description.Details",
+    "content": "超重型机甲的超坚固和稳定框架.<br><br><b><color=#800080>超重型200吨</color></b>."
+  },
+  {
+    "id": "Gear_Superheavy_Frame_Colossal.Description.UIName",
+    "content": "庞大超重框架"
+  },
+  {
+    "id": "Gear_Superheavy_Frame_Colossal.Description.Name",
+    "content": "超重型框架"
+  },
+  {
+    "id": "Gear_Superheavy_Frame_Colossal.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Gear_Superheavy_Frame_Colossal.BracetoFire Reduction.statusEffects0.Details",
+    "content": "慷慨激昂"
+  },
+  {
+    "id": "Gear_Superheavy_Frame_Colossal.Status-SuperheavyCockpit.statusEffects1.Details",
+    "content": "超重型座舱装甲"
+  },
+  {
+    "id": "Gear_Superheavy_Frame_Colossal.SuperHeavyStabMultiplier.statusEffects2.Details",
+    "content": "-[AMT]即将到来的稳定伤害"
+  },
+  {
+    "id": "Gear_Superheavy_Frame_Colossal.StatusEffect_Cockpit_Skill_Guts.statusEffects3.Details",
+    "content": "获得勇气技能增益"
+  },
+  {
+    "id": "Gear_Superheavy_Frame_Colossal.BracetoFire Reduction.statusEffects0.Name",
+    "content": "降低开火时摔倒机率"
+  },
+  {
+    "id": "Gear_Superheavy_Frame_Colossal.Status-SuperheavyCockpit.statusEffects1.Name",
+    "content": "超重型座舱"
+  },
+  {
+    "id": "Gear_Superheavy_Frame_Colossal.SuperHeavyStabMultiplier.statusEffects2.Name",
+    "content": "降低即将到来的稳定伤害"
+  },
+  {
+    "id": "Gear_Superheavy_Frame_Colossal.StatusEffect_Cockpit_Skill_Guts.statusEffects3.Name",
+    "content": "勇气增益"
+  },
+  {
+    "id": "Gear_Superheavy_Frame_Large.Description.Details",
+    "content": "超重型机甲的超坚固和稳定框架.<br><br><b><color=#800080>超重型150-170吨</color></b>."
+  },
+  {
+    "id": "Gear_Superheavy_Frame_Large.Description.UIName",
+    "content": "大型超重框架"
+  },
+  {
+    "id": "Gear_Superheavy_Frame_Large.Description.Name",
+    "content": "超重型框架"
+  },
+  {
+    "id": "Gear_Superheavy_Frame_Large.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Gear_Superheavy_Frame_Large.BracetoFire Reduction.statusEffects0.Details",
+    "content": "慷慨激昂"
+  },
+  {
+    "id": "Gear_Superheavy_Frame_Large.Status-SuperheavyCockpit.statusEffects1.Details",
+    "content": "超重型座舱装甲"
+  },
+  {
+    "id": "Gear_Superheavy_Frame_Large.Status-Superheavyarmor.statusEffects2.Details",
+    "content": "超重型装甲"
+  },
+  {
+    "id": "Gear_Superheavy_Frame_Large.SuperHeavyStabMultiplier.statusEffects3.Details",
+    "content": "-[AMT]即将到来的稳定伤害"
+  },
+  {
+    "id": "Gear_Superheavy_Frame_Large.StatusEffect_Cockpit_Skill_Guts.statusEffects4.Details",
+    "content": "获得勇气技能增益"
+  },
+  {
+    "id": "Gear_Superheavy_Frame_Large.BracetoFire Reduction.statusEffects0.Name",
+    "content": "降低开火时摔倒机率"
+  },
+  {
+    "id": "Gear_Superheavy_Frame_Large.Status-SuperheavyCockpit.statusEffects1.Name",
+    "content": "超重型座舱"
+  },
+  {
+    "id": "Gear_Superheavy_Frame_Large.Status-Superheavyarmor.statusEffects2.Name",
+    "content": "超重型装甲"
+  },
+  {
+    "id": "Gear_Superheavy_Frame_Large.SuperHeavyStabMultiplier.statusEffects3.Name",
+    "content": "降低即将到来的稳定伤害"
+  },
+  {
+    "id": "Gear_Superheavy_Frame_Large.StatusEffect_Cockpit_Skill_Guts.statusEffects4.Name",
+    "content": "勇气增益"
+  },
+  {
+    "id": "Gear_Superheavy_Frame_Massive.Description.Details",
+    "content": "超重型机甲的超坚固和稳定框架.<br><br><b><color=#800080>超重型175-195吨</color></b>."
+  },
+  {
+    "id": "Gear_Superheavy_Frame_Massive.Description.UIName",
+    "content": "巨大超重型框架"
+  },
+  {
+    "id": "Gear_Superheavy_Frame_Massive.Description.Name",
+    "content": "超重型框架"
+  },
+  {
+    "id": "Gear_Superheavy_Frame_Massive.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Gear_Superheavy_Frame_Massive.BracetoFire Reduction.statusEffects0.Details",
+    "content": "慷慨激昂"
+  },
+  {
+    "id": "Gear_Superheavy_Frame_Massive.Status-SuperheavyCockpit.statusEffects1.Details",
+    "content": "超重型座舱装甲"
+  },
+  {
+    "id": "Gear_Superheavy_Frame_Massive.SuperHeavyStabMultiplier.statusEffects2.Details",
+    "content": "-[AMT]即将到来的稳定伤害"
+  },
+  {
+    "id": "Gear_Superheavy_Frame_Massive.StatusEffect_Cockpit_Skill_Guts.statusEffects3.Details",
+    "content": "获得勇气技能增益"
+  },
+  {
+    "id": "Gear_Superheavy_Frame_Massive.BracetoFire Reduction.statusEffects0.Name",
+    "content": "降低开火时摔倒机率"
+  },
+  {
+    "id": "Gear_Superheavy_Frame_Massive.Status-SuperheavyCockpit.statusEffects1.Name",
+    "content": "超重型座舱"
+  },
+  {
+    "id": "Gear_Superheavy_Frame_Massive.SuperHeavyStabMultiplier.statusEffects2.Name",
+    "content": "降低即将到来的稳定伤害"
+  },
+  {
+    "id": "Gear_Superheavy_Frame_Massive.StatusEffect_Cockpit_Skill_Guts.statusEffects3.Name",
+    "content": "勇气增益"
+  },
+  {
+    "id": "Gear_Superheavy_Frame_Medium.Description.Details",
+    "content": "超重型机甲的超坚固和稳定框架.<br><br><b><color=#800080>超重型125-145吨</color></b>."
+  },
+  {
+    "id": "Gear_Superheavy_Frame_Medium.Description.UIName",
+    "content": "中型超重型框架"
+  },
+  {
+    "id": "Gear_Superheavy_Frame_Medium.Description.Name",
+    "content": "超重型框架"
+  },
+  {
+    "id": "Gear_Superheavy_Frame_Medium.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Gear_Superheavy_Frame_Medium.BracetoFire Reduction.statusEffects0.Details",
+    "content": "慷慨激昂"
+  },
+  {
+    "id": "Gear_Superheavy_Frame_Medium.Status-SuperheavyCockpit.statusEffects1.Details",
+    "content": "超重型座舱装甲"
+  },
+  {
+    "id": "Gear_Superheavy_Frame_Medium.SuperHeavyStabMultiplier.statusEffects2.Details",
+    "content": "-[AMT]即将到来的稳定伤害"
+  },
+  {
+    "id": "Gear_Superheavy_Frame_Medium.StatusEffect_Cockpit_Skill_Guts.statusEffects3.Details",
+    "content": "获得勇气技能增益"
+  },
+  {
+    "id": "Gear_Superheavy_Frame_Medium.BracetoFire Reduction.statusEffects0.Name",
+    "content": "降低开火时摔倒机率"
+  },
+  {
+    "id": "Gear_Superheavy_Frame_Medium.Status-SuperheavyCockpit.statusEffects1.Name",
+    "content": "超重型座舱"
+  },
+  {
+    "id": "Gear_Superheavy_Frame_Medium.SuperHeavyStabMultiplier.statusEffects2.Name",
+    "content": "降低即将到来的稳定伤害"
+  },
+  {
+    "id": "Gear_Superheavy_Frame_Medium.StatusEffect_Cockpit_Skill_Guts.statusEffects3.Name",
+    "content": "勇气增益"
+  },
+  {
+    "id": "Gear_Superheavy_Frame_Small.Description.Details",
+    "content": "超重型机甲的超坚固和稳定框架.<br><br><b><color=#800080>超重型105-120吨</color></b>."
+  },
+  {
+    "id": "Gear_Superheavy_Frame_Small.Description.UIName",
+    "content": "小型超重型框架"
+  },
+  {
+    "id": "Gear_Superheavy_Frame_Small.Description.Name",
+    "content": "超重型框架"
+  },
+  {
+    "id": "Gear_Superheavy_Frame_Small.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Gear_Superheavy_Frame_Small.BracetoFire Reduction.statusEffects0.Details",
+    "content": "慷慨激昂"
+  },
+  {
+    "id": "Gear_Superheavy_Frame_Small.Status-SuperheavyCockpit.statusEffects1.Details",
+    "content": "超重型座舱装甲"
+  },
+  {
+    "id": "Gear_Superheavy_Frame_Small.SuperHeavyStabMultiplier.statusEffects2.Details",
+    "content": "-[AMT]即将到来的稳定伤害"
+  },
+  {
+    "id": "Gear_Superheavy_Frame_Small.StatusEffect_Cockpit_Skill_Guts.statusEffects3.Details",
+    "content": "获得勇气技能增益"
+  },
+  {
+    "id": "Gear_Superheavy_Frame_Small.BracetoFire Reduction.statusEffects0.Name",
+    "content": "降低开火时摔倒机率"
+  },
+  {
+    "id": "Gear_Superheavy_Frame_Small.Status-SuperheavyCockpit.statusEffects1.Name",
+    "content": "超重型座舱"
+  },
+  {
+    "id": "Gear_Superheavy_Frame_Small.SuperHeavyStabMultiplier.statusEffects2.Name",
+    "content": "降低即将到来的稳定伤害"
+  },
+  {
+    "id": "Gear_Superheavy_Frame_Small.StatusEffect_Cockpit_Skill_Guts.statusEffects3.Name",
+    "content": "勇气增益"
+  }
+]

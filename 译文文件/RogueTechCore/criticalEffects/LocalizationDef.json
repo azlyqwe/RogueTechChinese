@@ -1,0 +1,858 @@
+[
+  {
+    "id": "MechEngineer_ArmActuators.CriticalEffect-ShoulderDestroyed-{location}.effect.Details",
+    "content": "{side}肩被摧毁,装在同一手臂的武器精度-5."
+  },
+  {
+    "id": "MechEngineer_ArmActuators.CriticalEffect-ArmUpperActuatorDestroyed-{location}.effect.Details",
+    "content": "{side}大臂机构被摧毁,装在同一手臂的武器精度-1."
+  },
+  {
+    "id": "MechEngineer_ArmActuators.CriticalEffect-ArmLowerActuatorDestroyed-{location}.effect.Details",
+    "content": "{side}小臂机构被摧毁,装在同一手臂的武器精度-1."
+  },
+  {
+    "id": "MechEngineer_ArmActuators.CriticalEffect-ArmHandActuatorDestroyed-{location}.effect.Details",
+    "content": "忽略."
+  },
+  {
+    "id": "MechEngineer_ArmActuators.CriticalEffect-ShoulderDestroyed-{location}.effect.Name",
+    "content": "{side}肩被摧毁"
+  },
+  {
+    "id": "MechEngineer_ArmActuators.CriticalEffect-ArmUpperActuatorDestroyed-{location}.effect.Name",
+    "content": "{side}大臂不摧毁"
+  },
+  {
+    "id": "MechEngineer_ArmActuators.CriticalEffect-ArmLowerActuatorDestroyed-{location}.effect.Name",
+    "content": "{side}小臂被摧毁"
+  },
+  {
+    "id": "MechEngineer_ArmActuators.CriticalEffect-ArmHandActuatorDestroyed-{location}.effect.Name",
+    "content": "忽略"
+  },
+  {
+    "id": "MechEngineer_CrewCompartment.CriticalEffect-CrewCompartmentCrit1.effect.Details",
+    "content": "坦克乘员动摇,-1最大闪避."
+  },
+  {
+    "id": "MechEngineer_CrewCompartment.CriticalEffect-CrewCompartmentCrit2.effect.Details",
+    "content": "坦克乘员受伤,-2最大闪避."
+  },
+  {
+    "id": "MechEngineer_CrewCompartment.CriticalEffect-CrewCompartmentCrit3.effect.Details",
+    "content": "坦克车长被杀,-3最大闪避."
+  },
+  {
+    "id": "MechEngineer_CrewCompartment.CriticalEffect-CrewCompartmentCrit1.effect.Name",
+    "content": "成员受伤"
+  },
+  {
+    "id": "MechEngineer_CrewCompartment.CriticalEffect-CrewCompartmentCrit2.effect.Name",
+    "content": "成员受伤"
+  },
+  {
+    "id": "MechEngineer_CrewCompartment.CriticalEffect-CrewCompartmentCrit3.effect.Name",
+    "content": "车长被杀"
+  },
+  {
+    "id": "MechEngineer_Engines.CriticalEffect-EngineCrit1.effect.Details",
+    "content": "引擎被击中,每回合额外+15热量"
+  },
+  {
+    "id": "MechEngineer_Engines.CriticalEffect-EngineCrit2.effect.Details",
+    "content": "引擎被击中,每回合额外+30热量"
+  },
+  {
+    "id": "MechEngineer_Engines.CriticalEffect-EngineCrit1.effect.Name",
+    "content": "引擎轻度损伤(1)"
+  },
+  {
+    "id": "MechEngineer_Engines.CriticalEffect-EngineCrit2.effect.Name",
+    "content": "引擎轻度损伤(2)"
+  },
+  {
+    "id": "MechEngineer_Gyro.CriticalEffect-GyroCrit.effect.Details",
+    "content": "陀螺仪被击中,减少50%平衡阈值."
+  },
+  {
+    "id": "MechEngineer_Gyro.CriticalEffect-GyroStandupFail.effect.Details",
+    "content": "陀螺仪被击中,减少50%平衡阈值."
+  },
+  {
+    "id": "MechEngineer_Gyro.CriticalEffect-GyroDestroyed.effect.Details",
+    "content": "陀螺仪被摧毁,平衡阈值降为0."
+  },
+  {
+    "id": "MechEngineer_Gyro.CriticalEffect-GyroStandupFailDestroyed.effect.Details",
+    "content": "陀螺仪被击中,减少50%平衡阈值."
+  },
+  {
+    "id": "MechEngineer_Gyro.CriticalEffect-GyroCrit.effect.Name",
+    "content": "陀螺仪器受损"
+  },
+  {
+    "id": "MechEngineer_Gyro.CriticalEffect-GyroStandupFail.effect.Name",
+    "content": "陀螺仪稳定失败"
+  },
+  {
+    "id": "MechEngineer_Gyro.CriticalEffect-GyroDestroyed.effect.Name",
+    "content": "陀螺仪被摧毁"
+  },
+  {
+    "id": "MechEngineer_Gyro.CriticalEffect-GyroStandupFailDestroyed.effect.Name",
+    "content": "陀螺仪稳定失败"
+  },
+  {
+    "id": "MechEngineer_LegActuators.CriticalEffect-HipDestroyed-{location}.effect.Details",
+    "content": "{side}髋部机构被摧毁,降低40%行走和冲刺距离"
+  },
+  {
+    "id": "MechEngineer_LegActuators.CriticalEffect-LegUpperActuatorDestroyed-{location}.effect.Details",
+    "content": "{side}大腿机构被摧毁,降低10%行走和冲刺距离"
+  },
+  {
+    "id": "MechEngineer_LegActuators.CriticalEffect-LegLowerActuatorDestroyed-{location}.effect.Details",
+    "content": "{side}小腿机构被摧毁,降低10%行走和冲刺距离"
+  },
+  {
+    "id": "MechEngineer_LegActuators.CriticalEffect-LegFootActuatorDestroyed-{location}.effect.Details",
+    "content": "{side}脚部机构不摧毁,降低10%行走和冲刺距离"
+  },
+  {
+    "id": "MechEngineer_LegActuators.CriticalEffect-HipDestroyed-{location}-pilot-pen.effect.Details",
+    "content": "髋部被摧毁,使驾驶鉴定更难成功."
+  },
+  {
+    "id": "MechEngineer_LegActuators.CriticalEffect-HipDestroyed-{location}.effect.Name",
+    "content": "{side}髋部被摧毁"
+  },
+  {
+    "id": "MechEngineer_LegActuators.CriticalEffect-LegUpperActuatorDestroyed-{location}.effect.Name",
+    "content": "{side}大腿被摧毁"
+  },
+  {
+    "id": "MechEngineer_LegActuators.CriticalEffect-LegLowerActuatorDestroyed-{location}.effect.Name",
+    "content": "{side}小腿被摧毁"
+  },
+  {
+    "id": "MechEngineer_LegActuators.CriticalEffect-LegFootActuatorDestroyed-{location}.effect.Name",
+    "content": "{side}脚部被摧毁"
+  },
+  {
+    "id": "MechEngineer_LegActuators.CriticalEffect-HipDestroyed-{location}-pilot-pen.effect.Name",
+    "content": "髋部摧毁驾驶惩罚"
+  },
+  {
+    "id": "MechEngineer_LegJets.CriticalEffect-LegJet1-{location}.effect.Details",
+    "content": "{side}腿跳跃推进器受损,降低30%跳跃距离."
+  },
+  {
+    "id": "MechEngineer_LegJets.CriticalEffect-LegJet2-{location}.effect.Details",
+    "content": "{side}腿跳跃推进器严重受损,降低60%跳跃距离."
+  },
+  {
+    "id": "MechEngineer_LegJets.CriticalEffect-LegJet1-{location}.effect.Name",
+    "content": "{side}腿推进器受损"
+  },
+  {
+    "id": "MechEngineer_LegJets.CriticalEffect-LegJet2-{location}.effect.Name",
+    "content": "{side}腿推进器严重受损"
+  },
+  {
+    "id": "MechEngineer_LifeSupport.CriticalEffect-LifeSupport1.effect.Details",
+    "content": "维生设备受损,驾驶员会受到过热伤害."
+  },
+  {
+    "id": "MechEngineer_LifeSupport.CriticalEffect-LifeSupport2.effect.Details",
+    "content": "维生设备被摧毁,机甲过热停机时驾驶员受到2伤害."
+  },
+  {
+    "id": "MechEngineer_LifeSupport.CriticalEffect-LifeSupport1.effect.Name",
+    "content": "维生设备受损"
+  },
+  {
+    "id": "MechEngineer_LifeSupport.CriticalEffect-LifeSupport2.effect.Name",
+    "content": "维生设备被摧毁"
+  },
+  {
+    "id": "MechEngineer_Sensors.CriticalEffect-Sensors1.effect.Details",
+    "content": "传感器被击中,降低50%传感器范围."
+  },
+  {
+    "id": "MechEngineer_Sensors.CriticalEffect-Sensors2.effect.Details",
+    "content": "传感器被摧毁,只能目视目标."
+  },
+  {
+    "id": "MechEngineer_Sensors.CriticalEffect-Sensors1.effect.Name",
+    "content": "传感器受损"
+  },
+  {
+    "id": "MechEngineer_Sensors.CriticalEffect-Sensors2.effect.Name",
+    "content": "传感器被摧毁"
+  },
+  {
+    "id": "MechEngineer_TankCritPenalty.CriticalEffect-MotiveTankCritPenalty1.effect.Details",
+    "content": "坦克更容易受到严重损伤"
+  },
+  {
+    "id": "MechEngineer_TankCritPenalty.CriticalEffect-MotiveTankCritPenalty2.effect.Details",
+    "content": "坦克更容易受到严重损伤"
+  },
+  {
+    "id": "MechEngineer_TankCritPenalty.CriticalEffect-MotiveTankCritPenalty3.effect.Details",
+    "content": "坦克更容易受到严重损伤"
+  },
+  {
+    "id": "MechEngineer_TankCritPenalty.CriticalEffect-CrewTankCritPenalty1.effect.Details",
+    "content": "坦克更容易受到严重损伤"
+  },
+  {
+    "id": "MechEngineer_TankCritPenalty.CriticalEffect-CrewTankCritPenalty2.effect.Details",
+    "content": "坦克更容易受到严重损伤"
+  },
+  {
+    "id": "MechEngineer_TankCritPenalty.CriticalEffect-CrewTankCritPenalty3.effect.Details",
+    "content": "坦克更容易受到严重损伤"
+  },
+  {
+    "id": "MechEngineer_TankCritPenalty.CriticalEffect-TurretTankCritPenalty1.effect.Details",
+    "content": "坦克更容易受到严重损伤"
+  },
+  {
+    "id": "MechEngineer_TankCritPenalty.CriticalEffect-TurretTankCritPenalty2.effect.Details",
+    "content": "坦克更容易受到严重损伤"
+  },
+  {
+    "id": "MechEngineer_TankCritPenalty.CriticalEffect-TurretTankCritPenalty3.effect.Details",
+    "content": "坦克更容易受到严重损伤"
+  },
+  {
+    "id": "MechEngineer_TankCritPenalty.CriticalEffect-EngineTankCritPenalty.effect.Details",
+    "content": "坦克更容易受到严重损伤"
+  },
+  {
+    "id": "MechEngineer_TankCritPenalty.CriticalEffect-CoolantTankCritPenalty.effect.Details",
+    "content": "坦克更容易受到严重损伤"
+  },
+  {
+    "id": "MechEngineer_TankCritPenalty.CriticalEffect-MotiveTankCritPenalty1.effect.Name",
+    "content": "坦克严重损伤惩罚"
+  },
+  {
+    "id": "MechEngineer_TankCritPenalty.CriticalEffect-MotiveTankCritPenalty2.effect.Name",
+    "content": "坦克严重损伤惩罚"
+  },
+  {
+    "id": "MechEngineer_TankCritPenalty.CriticalEffect-MotiveTankCritPenalty3.effect.Name",
+    "content": "坦克严重损伤惩罚"
+  },
+  {
+    "id": "MechEngineer_TankCritPenalty.CriticalEffect-CrewTankCritPenalty1.effect.Name",
+    "content": "坦克严重损伤惩罚"
+  },
+  {
+    "id": "MechEngineer_TankCritPenalty.CriticalEffect-CrewTankCritPenalty2.effect.Name",
+    "content": "坦克严重损伤惩罚"
+  },
+  {
+    "id": "MechEngineer_TankCritPenalty.CriticalEffect-CrewTankCritPenalty3.effect.Name",
+    "content": "坦克严重损伤惩罚"
+  },
+  {
+    "id": "MechEngineer_TankCritPenalty.CriticalEffect-TurretTankCritPenalty1.effect.Name",
+    "content": "坦克严重损伤惩罚"
+  },
+  {
+    "id": "MechEngineer_TankCritPenalty.CriticalEffect-TurretTankCritPenalty2.effect.Name",
+    "content": "坦克严重损伤惩罚"
+  },
+  {
+    "id": "MechEngineer_TankCritPenalty.CriticalEffect-TurretTankCritPenalty3.effect.Name",
+    "content": "坦克严重损伤惩罚"
+  },
+  {
+    "id": "MechEngineer_TankCritPenalty.CriticalEffect-EngineTankCritPenalty.effect.Name",
+    "content": "坦克严重损伤惩罚"
+  },
+  {
+    "id": "MechEngineer_TankCritPenalty.CriticalEffect-CoolantTankCritPenalty.effect.Name",
+    "content": "坦克严重损伤惩罚"
+  },
+  {
+    "id": "MechEngineer_TurretBunker.CriticalEffect-TurretBunkerIni1.effect.Details",
+    "content": "反应堆被严重损伤,+10%受到严重损伤机率,+10%受到伤害,-1防御"
+  },
+  {
+    "id": "MechEngineer_TurretBunker.CriticalEffect-TurretBunkerCritPenalty1.effect.Details",
+    "content": "炮塔更容易受到严重损伤"
+  },
+  {
+    "id": "MechEngineer_TurretBunker.CriticalEffect-TurretBunkerAccuracyPenalty1.effect.Details",
+    "content": "引擎被击中,每回合额外+30热量"
+  },
+  {
+    "id": "MechEngineer_TurretBunker.CriticalEffect-TurretBunkerIni2.effect.Details",
+    "content": "反应堆被严重损伤,+20%受到严重损伤机率,+20%受到伤害,-2防御"
+  },
+  {
+    "id": "MechEngineer_TurretBunker.CriticalEffect-TurretBunkerCritPenalty2.effect.Details",
+    "content": "炮塔更容易受到严重损伤"
+  },
+  {
+    "id": "MechEngineer_TurretBunker.CriticalEffect-TurretBunkerAccuracyPenalty2.effect.Details",
+    "content": "引擎被击中,每回合额外30热量"
+  },
+  {
+    "id": "MechEngineer_TurretBunker.CriticalEffect-TurretBunkerIni3.effect.Details",
+    "content": "反应堆被严重损伤,+10%受到严重损伤机率,+10%受到伤害,-1防御"
+  },
+  {
+    "id": "MechEngineer_TurretBunker.CriticalEffect-TurretBunkerCritPenalty3.effect.Details",
+    "content": "炮塔更容易受到严重损伤"
+  },
+  {
+    "id": "MechEngineer_TurretBunker.CriticalEffect-TurretBunkerAccuracyPenalty3.effect.Details",
+    "content": "引擎被击中,每回合额外30热量"
+  },
+  {
+    "id": "MechEngineer_TurretBunker.CriticalEffect-TurretBunkerIni1.effect.Name",
+    "content": "引擎轻度损伤(1)"
+  },
+  {
+    "id": "MechEngineer_TurretBunker.CriticalEffect-TurretBunkerCritPenalty1.effect.Name",
+    "content": "炮塔严重损伤惩罚"
+  },
+  {
+    "id": "MechEngineer_TurretBunker.CriticalEffect-TurretBunkerAccuracyPenalty1.effect.Name",
+    "content": "炮塔防御惩罚(1)"
+  },
+  {
+    "id": "MechEngineer_TurretBunker.CriticalEffect-TurretBunkerIni2.effect.Name",
+    "content": "引擎中度损伤(2)"
+  },
+  {
+    "id": "MechEngineer_TurretBunker.CriticalEffect-TurretBunkerCritPenalty2.effect.Name",
+    "content": "炮塔严重损伤惩罚(2)"
+  },
+  {
+    "id": "MechEngineer_TurretBunker.CriticalEffect-TurretBunkerAccuracyPenalty2.effect.Name",
+    "content": "炮塔防御惩罚(2)"
+  },
+  {
+    "id": "MechEngineer_TurretBunker.CriticalEffect-TurretBunkerIni3.effect.Name",
+    "content": "引擎轻度损伤(1)"
+  },
+  {
+    "id": "MechEngineer_TurretBunker.CriticalEffect-TurretBunkerCritPenalty3.effect.Name",
+    "content": "炮塔严重损伤惩罚(3)"
+  },
+  {
+    "id": "MechEngineer_TurretBunker.CriticalEffect-TurretBunkerAccuracyPenalty3.effect.Name",
+    "content": "炮塔防御惩罚(3)"
+  },
+  {
+    "id": "MechEngineer_TurretEngines.CriticalEffect-TurretRactorCritDamage1.effect.Details",
+    "content": "反应堆被严重损伤,+10%受到严重损伤机率,+10%受到伤害,-1防御"
+  },
+  {
+    "id": "MechEngineer_TurretEngines.CriticalEffect-TurretRactorCritPenalty1.effect.Details",
+    "content": "炮塔更容易受到严重损伤"
+  },
+  {
+    "id": "MechEngineer_TurretEngines.CriticalEffect-TurretRactorCritDefense1.effect.Details",
+    "content": "引擎被击中,每回合额外+30热量"
+  },
+  {
+    "id": "MechEngineer_TurretEngines.CriticalEffect-TurretRactorCritDamage2.effect.Details",
+    "content": "反应堆被严重损伤,+20%受到严重损伤机率,+20%受到伤害,-2防御"
+  },
+  {
+    "id": "MechEngineer_TurretEngines.CriticalEffect-TurretRactorCritPenalty2.effect.Details",
+    "content": "炮塔更容易受到严重损伤"
+  },
+  {
+    "id": "MechEngineer_TurretEngines.CriticalEffect-TurretRactorCritDefense2.effect.Details",
+    "content": "引擎被击中,每回合额外+30热量"
+  },
+  {
+    "id": "MechEngineer_TurretEngines.CriticalEffect-TurretRactorCritDamage3.effect.Details",
+    "content": "反应堆被严重损伤,+10%受到严重损伤机率,+10%受到伤害,-1防御"
+  },
+  {
+    "id": "MechEngineer_TurretEngines.CriticalEffect-TurretRactorCritPenalty3.effect.Details",
+    "content": "炮塔更容易受到严重损伤"
+  },
+  {
+    "id": "MechEngineer_TurretEngines.CriticalEffect-TurretRactorCritDefense3.effect.Details",
+    "content": "引擎被击中,每回合额外+30热量"
+  },
+  {
+    "id": "MechEngineer_TurretEngines.CriticalEffect-TurretRactorCritDamage1.effect.Name",
+    "content": "引擎轻度损伤(1)"
+  },
+  {
+    "id": "MechEngineer_TurretEngines.CriticalEffect-TurretRactorCritPenalty1.effect.Name",
+    "content": "炮塔严重损伤惩罚"
+  },
+  {
+    "id": "MechEngineer_TurretEngines.CriticalEffect-TurretRactorCritDefense1.effect.Name",
+    "content": "炮塔防御惩罚(1)"
+  },
+  {
+    "id": "MechEngineer_TurretEngines.CriticalEffect-TurretRactorCritDamage2.effect.Name",
+    "content": "引擎轻度损伤(1)"
+  },
+  {
+    "id": "MechEngineer_TurretEngines.CriticalEffect-TurretRactorCritPenalty2.effect.Name",
+    "content": "炮塔严重损伤惩罚(2)"
+  },
+  {
+    "id": "MechEngineer_TurretEngines.CriticalEffect-TurretRactorCritDefense2.effect.Name",
+    "content": "炮塔防御惩罚(2)"
+  },
+  {
+    "id": "MechEngineer_TurretEngines.CriticalEffect-TurretRactorCritDamage3.effect.Name",
+    "content": "引擎轻度损伤(1)"
+  },
+  {
+    "id": "MechEngineer_TurretEngines.CriticalEffect-TurretRactorCritPenalty3.effect.Name",
+    "content": "炮塔严重损伤惩罚(3)"
+  },
+  {
+    "id": "MechEngineer_TurretEngines.CriticalEffect-TurretRactorCritDefense3.effect.Name",
+    "content": "炮塔防御惩罚(3)"
+  },
+  {
+    "id": "MechEngineer_TurretSystems.CriticalEffect-TurretSystemsCrit1.effect.Details",
+    "content": "坦克炮塔受损,-1精度"
+  },
+  {
+    "id": "MechEngineer_TurretSystems.CriticalEffect-TurretSystemsCrit2.effect.Details",
+    "content": "坦克炮塔受损,-2精度"
+  },
+  {
+    "id": "MechEngineer_TurretSystems.CriticalEffect-TurretSystemsCrit3.effect.Details",
+    "content": "坦克炮塔受损,-3精度"
+  },
+  {
+    "id": "MechEngineer_TurretSystems.CriticalEffect-TurretSystemsCritRecoil1.effect.Details",
+    "content": "坦克炮塔受损,-4精度"
+  },
+  {
+    "id": "MechEngineer_TurretSystems.CriticalEffect-TurretSystemsCritRecoil2.effect.Details",
+    "content": "坦克炮塔受损,-4精度"
+  },
+  {
+    "id": "MechEngineer_TurretSystems.CriticalEffect-TurretSystemsCritRecoil3.effect.Details",
+    "content": "坦克炮塔受损,-5精度"
+  },
+  {
+    "id": "MechEngineer_TurretSystems.CriticalEffect-TurretSystemsCrit1.effect.Name",
+    "content": "炮塔受损"
+  },
+  {
+    "id": "MechEngineer_TurretSystems.CriticalEffect-TurretSystemsCrit2.effect.Name",
+    "content": "炮塔受损"
+  },
+  {
+    "id": "MechEngineer_TurretSystems.CriticalEffect-TurretSystemsCrit3.effect.Name",
+    "content": "炮塔受损"
+  },
+  {
+    "id": "MechEngineer_TurretSystems.CriticalEffect-TurretSystemsCritRecoil1.effect.Name",
+    "content": "炮塔受损"
+  },
+  {
+    "id": "MechEngineer_TurretSystems.CriticalEffect-TurretSystemsCritRecoil2.effect.Name",
+    "content": "炮塔受损"
+  },
+  {
+    "id": "MechEngineer_TurretSystems.CriticalEffect-TurretSystemsCritRecoil3.effect.Name",
+    "content": "炮塔受损"
+  },
+  {
+    "id": "MechEngineer_TurretTurretSystems.CriticalEffect-TurretTurretSystemsCrit1.effect.Details",
+    "content": "坦克炮塔受损,-1精度"
+  },
+  {
+    "id": "MechEngineer_TurretTurretSystems.CriticalEffect-TurretTurretSystemsCrit2.effect.Details",
+    "content": "坦克炮塔受损,-2精度"
+  },
+  {
+    "id": "MechEngineer_TurretTurretSystems.CriticalEffect-TurretTurretSystemsCrit3.effect.Details",
+    "content": "坦克炮塔受损,-3精度"
+  },
+  {
+    "id": "MechEngineer_TurretTurretSystems.CriticalEffect-TurretTurretSystemsCrit4.effect.Details",
+    "content": "坦克炮塔受损,-3精度"
+  },
+  {
+    "id": "MechEngineer_TurretTurretSystems.CriticalEffect-TurretTurretSystemsCritRecoil1.effect.Details",
+    "content": "坦克炮塔受损,-4精度"
+  },
+  {
+    "id": "MechEngineer_TurretTurretSystems.CriticalEffect-TurretTurretSystemsCritRecoil2.effect.Details",
+    "content": "坦克炮塔受损,-4精度"
+  },
+  {
+    "id": "MechEngineer_TurretTurretSystems.CriticalEffect-TurretTurretSystemsCritRecoil3.effect.Details",
+    "content": "坦克炮塔受损,-5精度"
+  },
+  {
+    "id": "MechEngineer_TurretTurretSystems.CriticalEffect-TurretTurretSystemsCritRecoil4.effect.Details",
+    "content": "坦克炮塔受损,-5精度"
+  },
+  {
+    "id": "MechEngineer_TurretTurretSystems.CriticalEffect-TurretTurretCritPenalty1.effect.Details",
+    "content": "炮塔更容易受到严重损伤"
+  },
+  {
+    "id": "MechEngineer_TurretTurretSystems.CriticalEffect-TurretTurretCritPenalty2.effect.Details",
+    "content": "炮塔更容易受到严重损伤"
+  },
+  {
+    "id": "MechEngineer_TurretTurretSystems.CriticalEffect-TurretTurretCritPenalty3.effect.Details",
+    "content": "炮塔更容易受到严重损伤"
+  },
+  {
+    "id": "MechEngineer_TurretTurretSystems.CriticalEffect-TurretTurretCritPenalty4.effect.Details",
+    "content": "炮塔更容易受到严重损伤"
+  },
+  {
+    "id": "MechEngineer_TurretTurretSystems.CriticalEffect-TurretTurretSystemsCrit1.effect.Name",
+    "content": "炮塔受损"
+  },
+  {
+    "id": "MechEngineer_TurretTurretSystems.CriticalEffect-TurretTurretSystemsCrit2.effect.Name",
+    "content": "炮塔受损"
+  },
+  {
+    "id": "MechEngineer_TurretTurretSystems.CriticalEffect-TurretTurretSystemsCrit3.effect.Name",
+    "content": "炮塔受损"
+  },
+  {
+    "id": "MechEngineer_TurretTurretSystems.CriticalEffect-TurretTurretSystemsCrit4.effect.Name",
+    "content": "炮塔受损"
+  },
+  {
+    "id": "MechEngineer_TurretTurretSystems.CriticalEffect-TurretTurretSystemsCritRecoil1.effect.Name",
+    "content": "炮塔受损"
+  },
+  {
+    "id": "MechEngineer_TurretTurretSystems.CriticalEffect-TurretTurretSystemsCritRecoil2.effect.Name",
+    "content": "炮塔受损"
+  },
+  {
+    "id": "MechEngineer_TurretTurretSystems.CriticalEffect-TurretTurretSystemsCritRecoil3.effect.Name",
+    "content": "炮塔受损"
+  },
+  {
+    "id": "MechEngineer_TurretTurretSystems.CriticalEffect-TurretTurretSystemsCritRecoil4.effect.Name",
+    "content": "炮塔受损"
+  },
+  {
+    "id": "MechEngineer_TurretTurretSystems.CriticalEffect-TurretTurretCritPenalty1.effect.Name",
+    "content": "炮塔严重损伤惩罚"
+  },
+  {
+    "id": "MechEngineer_TurretTurretSystems.CriticalEffect-TurretTurretCritPenalty2.effect.Name",
+    "content": "炮塔严重损伤惩罚"
+  },
+  {
+    "id": "MechEngineer_TurretTurretSystems.CriticalEffect-TurretTurretCritPenalty3.effect.Name",
+    "content": "炮塔严重损伤惩罚"
+  },
+  {
+    "id": "MechEngineer_TurretTurretSystems.CriticalEffect-TurretTurretCritPenalty4.effect.Name",
+    "content": "炮塔严重损伤惩罚"
+  },
+  {
+    "id": "MechEngineer_VehicleCoolant.CriticalEffect-VehicleCoolantCrit1.effect.Details",
+    "content": "-25%能量武器功率"
+  },
+  {
+    "id": "MechEngineer_VehicleCoolant.CriticalEffect-VehicleCoolantCrit2.effect.Details",
+    "content": "-50%能量武器功率"
+  },
+  {
+    "id": "MechEngineer_VehicleCoolant.CriticalEffect-VehicleCoolantCrit3.effect.Details",
+    "content": "能量武器失效!功率下降99%"
+  },
+  {
+    "id": "MechEngineer_VehicleCoolant.CriticalEffect-VehicleCoolantCrit1.effect.Name",
+    "content": "冷却系统被击中"
+  },
+  {
+    "id": "MechEngineer_VehicleCoolant.CriticalEffect-VehicleCoolantCrit2.effect.Name",
+    "content": "冷却系统受损"
+  },
+  {
+    "id": "MechEngineer_VehicleCoolant.CriticalEffect-VehicleCoolantCrit3.effect.Name",
+    "content": "冷却系统损坏"
+  },
+  {
+    "id": "MechEngineer_VehicleEngines.CriticalEffect-VehicleEngineCrit1.effect.Details",
+    "content": "载具速度降低50%"
+  },
+  {
+    "id": "MechEngineer_VehicleEngines.CriticalEffect-VehicleEngineCrit2.effect.Details",
+    "content": "载具速度降低50%"
+  },
+  {
+    "id": "MechEngineer_VehicleEngines.CriticalEffect-VehicleEngineCrit1.effect.Name",
+    "content": "不能移动"
+  },
+  {
+    "id": "MechEngineer_VehicleEngines.CriticalEffect-VehicleEngineCrit2.effect.Name",
+    "content": "不能移动"
+  },
+  {
+    "id": "MechEngineer_VehicleMotiveArmored.CriticalEffect-VehicleMotiveArmored.effect.Details",
+    "content": "装甲化驱动"
+  },
+  {
+    "id": "MechEngineer_VehicleMotiveArmored.CriticalEffect-VehicleMotiveArmored2.effect.Details",
+    "content": "装甲化驱动"
+  },
+  {
+    "id": "MechEngineer_VehicleMotiveArmored.CriticalEffect-VehicleMotiveArmored3.effect.Details",
+    "content": "装甲化驱动"
+  },
+  {
+    "id": "MechEngineer_VehicleMotiveArmored.CriticalEffect-VehicleMotiveArmored.effect.Name",
+    "content": "装甲化驱动"
+  },
+  {
+    "id": "MechEngineer_VehicleMotiveArmored.CriticalEffect-VehicleMotiveArmored2.effect.Name",
+    "content": "装甲化驱动"
+  },
+  {
+    "id": "MechEngineer_VehicleMotiveArmored.CriticalEffect-VehicleMotiveArmored3.effect.Name",
+    "content": "装甲化驱动"
+  },
+  {
+    "id": "MechEngineer_VehicleMotiveHover.CriticalEffect-VehicleMotiveCruiseHoverCrit1.effect.Details",
+    "content": "载具速度降低90%"
+  },
+  {
+    "id": "MechEngineer_VehicleMotiveHover.CriticalEffect-VehicleMotiveFlankHoverCrit1.effect.Details",
+    "content": "载具速度降低90%"
+  },
+  {
+    "id": "MechEngineer_VehicleMotiveHover.CriticalEffect-VehicleMotiveCruiseHoverCrit1.effect.Name",
+    "content": "驱动系统受损(1)"
+  },
+  {
+    "id": "MechEngineer_VehicleMotiveHover.CriticalEffect-VehicleMotiveFlankHoverCrit1.effect.Name",
+    "content": "驱动系统受损(1)"
+  },
+  {
+    "id": "MechEngineer_VehicleMotiveTracked.CriticalEffect-VehicleMotiveCruiseTrackCrit1.effect.Details",
+    "content": "载具速度降低30%"
+  },
+  {
+    "id": "MechEngineer_VehicleMotiveTracked.CriticalEffect-VehicleMotiveFlankTrackCrit1.effect.Details",
+    "content": "载具速度降低30%"
+  },
+  {
+    "id": "MechEngineer_VehicleMotiveTracked.CriticalEffect-VehicleMotiveCruiseTrackCrit2.effect.Details",
+    "content": "载具速度降低60%"
+  },
+  {
+    "id": "MechEngineer_VehicleMotiveTracked.CriticalEffect-VehicleMotiveFlankTrackCrit2.effect.Details",
+    "content": "载具速度降低60%"
+  },
+  {
+    "id": "MechEngineer_VehicleMotiveTracked.CriticalEffect-VehicleMotiveCruiseTrackCrit3.effect.Details",
+    "content": "载具速度降低90%"
+  },
+  {
+    "id": "MechEngineer_VehicleMotiveTracked.CriticalEffect-VehicleMotiveFlankTrackCrit3.effect.Details",
+    "content": "载具速度降低90%"
+  },
+  {
+    "id": "MechEngineer_VehicleMotiveTracked.CriticalEffect-VehicleMotiveCruiseTrackCrit1.effect.Name",
+    "content": "驱动系统受损(1)"
+  },
+  {
+    "id": "MechEngineer_VehicleMotiveTracked.CriticalEffect-VehicleMotiveFlankTrackCrit1.effect.Name",
+    "content": "驱动系统受损(1)"
+  },
+  {
+    "id": "MechEngineer_VehicleMotiveTracked.CriticalEffect-VehicleMotiveCruiseTrackCrit2.effect.Name",
+    "content": "驱动系统受损(2)"
+  },
+  {
+    "id": "MechEngineer_VehicleMotiveTracked.CriticalEffect-VehicleMotiveFlankTrackCrit2.effect.Name",
+    "content": "驱动系统受损(2)"
+  },
+  {
+    "id": "MechEngineer_VehicleMotiveTracked.CriticalEffect-VehicleMotiveCruiseTrackCrit3.effect.Name",
+    "content": "驱动系统受损(3)"
+  },
+  {
+    "id": "MechEngineer_VehicleMotiveTracked.CriticalEffect-VehicleMotiveFlankTrackCrit3.effect.Name",
+    "content": "驱动系统受损(3)"
+  },
+  {
+    "id": "MechEngineer_VehicleMotiveVTOL.CriticalEffect-VehicleMotiveCruiseVTOLCrit1.effect.Details",
+    "content": "载具速度降低30%"
+  },
+  {
+    "id": "MechEngineer_VehicleMotiveVTOL.CriticalEffect-VehicleMotiveFlankVTOLCrit1.effect.Details",
+    "content": "载具速度降低30%"
+  },
+  {
+    "id": "MechEngineer_VehicleMotiveVTOL.CriticalEffect-VehicleMotiveCruiseVTOLCrit2.effect.Details",
+    "content": "载具速度降低60%"
+  },
+  {
+    "id": "MechEngineer_VehicleMotiveVTOL.CriticalEffect-VehicleMotiveFlankVTOLCrit2.effect.Details",
+    "content": "载具速度降低60%"
+  },
+  {
+    "id": "MechEngineer_VehicleMotiveVTOL.CriticalEffect-VehicleMotiveCruiseVTOLCrit3.effect.Details",
+    "content": "载具速度降低90%"
+  },
+  {
+    "id": "MechEngineer_VehicleMotiveVTOL.CriticalEffect-VehicleMotiveFlankVTOLCrit3.effect.Details",
+    "content": "载具速度降低90%"
+  },
+  {
+    "id": "MechEngineer_VehicleMotiveVTOL.CriticalEffect-VehicleMotiveCruiseVTOLCrit1.effect.Name",
+    "content": "驱动系统受损(1)"
+  },
+  {
+    "id": "MechEngineer_VehicleMotiveVTOL.CriticalEffect-VehicleMotiveFlankVTOLCrit1.effect.Name",
+    "content": "驱动系统受损(1)"
+  },
+  {
+    "id": "MechEngineer_VehicleMotiveVTOL.CriticalEffect-VehicleMotiveCruiseVTOLCrit2.effect.Name",
+    "content": "驱动系统受损(2)"
+  },
+  {
+    "id": "MechEngineer_VehicleMotiveVTOL.CriticalEffect-VehicleMotiveFlankVTOLCrit2.effect.Name",
+    "content": "驱动系统受损(2)"
+  },
+  {
+    "id": "MechEngineer_VehicleMotiveVTOL.CriticalEffect-VehicleMotiveCruiseVTOLCrit3.effect.Name",
+    "content": "驱动系统受损(3)"
+  },
+  {
+    "id": "MechEngineer_VehicleMotiveVTOL.CriticalEffect-VehicleMotiveFlankVTOLCrit3.effect.Name",
+    "content": "驱动系统受损(3)"
+  },
+  {
+    "id": "MechEngineer_VehicleMotiveVTOLReinforced.CriticalEffect-VehicleMotiveCruiseVTOLReinforcedCrit1.effect.Details",
+    "content": "载具速度降低30%"
+  },
+  {
+    "id": "MechEngineer_VehicleMotiveVTOLReinforced.CriticalEffect-VehicleMotiveFlankVTOLReinforcedCrit1.effect.Details",
+    "content": "载具速度降低30%"
+  },
+  {
+    "id": "MechEngineer_VehicleMotiveVTOLReinforced.CriticalEffect-VehicleMotiveCruiseVTOLReinforcedCrit2.effect.Details",
+    "content": "载具速度降低60%"
+  },
+  {
+    "id": "MechEngineer_VehicleMotiveVTOLReinforced.CriticalEffect-VehicleMotiveFlankVTOLReinforcedCrit2.effect.Details",
+    "content": "载具速度降低60%"
+  },
+  {
+    "id": "MechEngineer_VehicleMotiveVTOLReinforced.CriticalEffect-VehicleMotiveCruiseVTOLReinforcedCrit3.effect.Details",
+    "content": "载具速度降低90%"
+  },
+  {
+    "id": "MechEngineer_VehicleMotiveVTOLReinforced.CriticalEffect-VehicleMotiveFlankVTOLReinforcedCrit3.effect.Details",
+    "content": "载具速度降低90%"
+  },
+  {
+    "id": "MechEngineer_VehicleMotiveVTOLReinforced.CriticalEffect-VehicleMotiveCruiseVTOLReinforcedCrit4.effect.Details",
+    "content": "载具速度降低90%"
+  },
+  {
+    "id": "MechEngineer_VehicleMotiveVTOLReinforced.CriticalEffect-VehicleMotiveFlankVTOLReinforcedCrit4.effect.Details",
+    "content": "载具速度降低90%"
+  },
+  {
+    "id": "MechEngineer_VehicleMotiveVTOLReinforced.CriticalEffect-VehicleMotiveCruiseVTOLReinforcedCrit5.effect.Details",
+    "content": "载具速度降低90%"
+  },
+  {
+    "id": "MechEngineer_VehicleMotiveVTOLReinforced.CriticalEffect-VehicleMotiveFlankVTOLReinforcedCrit5.effect.Details",
+    "content": "载具速度降低90%"
+  },
+  {
+    "id": "MechEngineer_VehicleMotiveVTOLReinforced.CriticalEffect-VehicleMotiveCruiseVTOLReinforcedCrit1.effect.Name",
+    "content": "驱动系统受损(1)"
+  },
+  {
+    "id": "MechEngineer_VehicleMotiveVTOLReinforced.CriticalEffect-VehicleMotiveFlankVTOLReinforcedCrit1.effect.Name",
+    "content": "驱动系统受损(1)"
+  },
+  {
+    "id": "MechEngineer_VehicleMotiveVTOLReinforced.CriticalEffect-VehicleMotiveCruiseVTOLReinforcedCrit2.effect.Name",
+    "content": "驱动系统受损(2)"
+  },
+  {
+    "id": "MechEngineer_VehicleMotiveVTOLReinforced.CriticalEffect-VehicleMotiveFlankVTOLReinforcedCrit2.effect.Name",
+    "content": "驱动系统受损(2)"
+  },
+  {
+    "id": "MechEngineer_VehicleMotiveVTOLReinforced.CriticalEffect-VehicleMotiveCruiseVTOLReinforcedCrit3.effect.Name",
+    "content": "驱动系统受损(3)"
+  },
+  {
+    "id": "MechEngineer_VehicleMotiveVTOLReinforced.CriticalEffect-VehicleMotiveFlankVTOLReinforcedCrit3.effect.Name",
+    "content": "驱动系统受损(3)"
+  },
+  {
+    "id": "MechEngineer_VehicleMotiveVTOLReinforced.CriticalEffect-VehicleMotiveCruiseVTOLReinforcedCrit4.effect.Name",
+    "content": "驱动系统受损(3)"
+  },
+  {
+    "id": "MechEngineer_VehicleMotiveVTOLReinforced.CriticalEffect-VehicleMotiveFlankVTOLReinforcedCrit4.effect.Name",
+    "content": "驱动系统受损(3)"
+  },
+  {
+    "id": "MechEngineer_VehicleMotiveVTOLReinforced.CriticalEffect-VehicleMotiveCruiseVTOLReinforcedCrit5.effect.Name",
+    "content": "驱动系统受损(3)"
+  },
+  {
+    "id": "MechEngineer_VehicleMotiveVTOLReinforced.CriticalEffect-VehicleMotiveFlankVTOLReinforcedCrit5.effect.Name",
+    "content": "驱动系统受损(3)"
+  },
+  {
+    "id": "MechEngineer_VehicleMotiveWheeled.CriticalEffect-VehicleMotiveCruiseWheeledCrit1.effect.Details",
+    "content": "载具速度降低45%"
+  },
+  {
+    "id": "MechEngineer_VehicleMotiveWheeled.CriticalEffect-VehicleMotiveFlankWheeledCrit1.effect.Details",
+    "content": "载具速度降低45%"
+  },
+  {
+    "id": "MechEngineer_VehicleMotiveWheeled.CriticalEffect-VehicleMotiveCruiseWheeledCrit2.effect.Details",
+    "content": "载具速度降低90%"
+  },
+  {
+    "id": "MechEngineer_VehicleMotiveWheeled.CriticalEffect-VehicleMotiveFlankWheeledCrit2.effect.Details",
+    "content": "载具速度降低90%"
+  },
+  {
+    "id": "MechEngineer_VehicleMotiveWheeled.CriticalEffect-VehicleMotiveCruiseWheeledCrit1.effect.Name",
+    "content": "驱动系统受损(1)"
+  },
+  {
+    "id": "MechEngineer_VehicleMotiveWheeled.CriticalEffect-VehicleMotiveFlankWheeledCrit1.effect.Name",
+    "content": "驱动系统受损(1)"
+  },
+  {
+    "id": "MechEngineer_VehicleMotiveWheeled.CriticalEffect-VehicleMotiveCruiseWheeledCrit2.effect.Name",
+    "content": "驱动系统受损(2)"
+  },
+  {
+    "id": "MechEngineer_VehicleMotiveWheeled.CriticalEffect-VehicleMotiveFlankWheeledCrit2.effect.Name",
+    "content": "驱动系统受损(2)"
+  }
+]

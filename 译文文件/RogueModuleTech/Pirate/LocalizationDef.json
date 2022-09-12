@@ -1,0 +1,354 @@
+[
+  {
+    "id": "Weapon_LAVA_PLASMA.Description.Details",
+    "content": "这是3个等离子加农炮和一个单一的快速供弹机,不能正确地产生等离子并且大多数情况下只是把一团热的等离子扔到前面的东西上....我知道海盗们都是酒鬼,但你别再给我拿这些东西了,老板!"
+  },
+  {
+    "id": "Weapon_LAVA_PLASMA.Description.UIName",
+    "content": "熔岩炮"
+  },
+  {
+    "id": "Weapon_LAVA_PLASMA.Description.Name",
+    "content": "等离子加农炮"
+  },
+  {
+    "id": "Weapon_LAVA_PLASMA.Description.Manufacturer",
+    "content": "胜利"
+  },
+  {
+    "id": "Weapon_Melee_MediumLaser.Description.Details",
+    "content": "中型激光的重量轻,且据有相当大的伤害.因此,在战场上的大多数单位上都至少装备一台."
+  },
+  {
+    "id": "Weapon_Melee_MediumLaser.Description.UIName",
+    "content": "中型激光(P)"
+  },
+  {
+    "id": "Weapon_Melee_MediumLaser.Description.Name",
+    "content": "中型激光"
+  },
+  {
+    "id": "Weapon_Melee_MediumLaser.Description.Manufacturer",
+    "content": "地狱"
+  },
+  {
+    "id": "Gear_Engine_Pirate.Description.Details",
+    "content": "所以一些狗仔子认为他破解了如何制造一个星联发动机屏蔽罩的秘密.如果它在再坏的时候把你炸上天,它肯定能很好的加速引擎.主面板上刻着一条留言,上面写着''吸吧--杨''."
+  },
+  {
+    "id": "Gear_Engine_Pirate.Description.UIName",
+    "content": "标准引擎(P)"
+  },
+  {
+    "id": "Gear_Engine_Pirate.Description.Name",
+    "content": "海盗引擎"
+  },
+  {
+    "id": "Gear_Engine_Pirate.Description.Manufacturer",
+    "content": "海盗"
+  },
+  {
+    "id": "Kit_pdhs_Pirate.Description.Details",
+    "content": "将单散热器(SHS)引擎转换为海盗双层散热器(PDHS)模式,机甲的<b>海盗双层冷却系统</b>.激进(Radical)散热器系统提供了像冷却液舱一样的清除余热的能力.然而激进散热器重复时使用有失效的可能,特别是连续使用的情况下."
+  },
+  {
+    "id": "Kit_pdhs_Pirate.Description.UIName",
+    "content": "激进海盗双层散热器套件(P)"
+  },
+  {
+    "id": "Kit_pdhs_Pirate.Description.Name",
+    "content": "海盗双层散热器套件件(C)"
+  },
+  {
+    "id": "Kit_pdhs_Pirate.Description.Manufacturer",
+    "content": "复仇公司."
+  },
+  {
+    "id": "Gear_Actuator_Spiked_Boots.Description.Details",
+    "content": "一些愚蠢的“工程师”想出了一个聪明的主意,把一些钉子焊接到一些额外的装甲板上,然后把它安装在机甲的脚上.然后迅速摧毁倒下的机甲."
+  },
+  {
+    "id": "Gear_Actuator_Spiked_Boots.Description.UIName",
+    "content": "长钉靴腿部模块"
+  },
+  {
+    "id": "Gear_Actuator_Spiked_Boots.Description.Name",
+    "content": "长钉靴腿部模块 "
+  },
+  {
+    "id": "Gear_Actuator_Spiked_Boots.Description.Manufacturer",
+    "content": "杰尼乌斯"
+  },
+  {
+    "id": "Gear_Actuator_Spiked_Boots.Hand_MeleeAttacks_Punch.statusEffects0.Details",
+    "content": "近战武器精度修正"
+  },
+  {
+    "id": "Gear_Actuator_Spiked_Boots.Fists_Damage_Punch.statusEffects1.Details",
+    "content": "伤害修正"
+  },
+  {
+    "id": "Gear_Actuator_Spiked_Boots.Fists_Stability_Punch.statusEffects2.Details",
+    "content": "伤害修正"
+  },
+  {
+    "id": "Gear_Actuator_Spiked_Boots.Hand_MeleeAttacks_Punch.statusEffects0.Name",
+    "content": "近战武器精度修正"
+  },
+  {
+    "id": "Gear_Actuator_Spiked_Boots.Fists_Damage_Punch.statusEffects1.Name",
+    "content": "近战武器伤害模块"
+  },
+  {
+    "id": "Gear_Actuator_Spiked_Boots.Fists_Stability_Punch.statusEffects2.Name",
+    "content": "近战武器伤害模块"
+  },
+  {
+    "id": "Gear_Aftermarket_EWS.Description.Details",
+    "content": "需要一个ECM,但不想为他们的一个麻烦一个廖家族的销售代表?我们在QuicSell支持你!我们的轻量级EWS 6000X可以做到EWS一切可以做的,并且只有一半的价格！"
+  },
+  {
+    "id": "Gear_Aftermarket_EWS.Description.UIName",
+    "content": "战争套件(QS)"
+  },
+  {
+    "id": "Gear_Aftermarket_EWS.Description.Name",
+    "content": "战争套件(QS)"
+  },
+  {
+    "id": "Gear_Aftermarket_EWS.Description.Manufacturer",
+    "content": "Quicsell"
+  },
+  {
+    "id": "Gear_Aftermarket_EWS.MineFieldDetection.statusEffects0.Details",
+    "content": "探测雷场"
+  },
+  {
+    "id": "Gear_Aftermarket_EWS.LV_PROBE_CARRIER.statusEffects1.Details",
+    "content": "降低隐身和ECM护罩单元的效果"
+  },
+  {
+    "id": "Gear_Aftermarket_EWS.LV_ADVANCED_SENSORS.statusEffects2.Details",
+    "content": "提供敌军单位的详细信息"
+  },
+  {
+    "id": "Gear_Aftermarket_EWS.AdvancedProbeSensor.statusEffects3.Details",
+    "content": "增加 视野/传感器效率/健康."
+  },
+  {
+    "id": "Gear_Aftermarket_EWS.AdvancedProbeSight.statusEffects4.Details",
+    "content": "+50m发现距离"
+  },
+  {
+    "id": "Gear_Aftermarket_EWS.ECMPassiveShield.statusEffects5.Details",
+    "content": "被动ECM保护"
+  },
+  {
+    "id": "Gear_Aftermarket_EWS.ECMPassiveJam.statusEffects6.Details",
+    "content": "被动干扰保护"
+  },
+  {
+    "id": "Gear_Aftermarket_EWS.MineFieldDetection.statusEffects0.Name",
+    "content": "主动探测器(被动)"
+  },
+  {
+    "id": "Gear_Aftermarket_EWS.LV_PROBE_CARRIER.statusEffects1.Name",
+    "content": "主动探测器(被动)"
+  },
+  {
+    "id": "Gear_Aftermarket_EWS.LV_ADVANCED_SENSORS.statusEffects2.Name",
+    "content": "先进传感器"
+  },
+  {
+    "id": "Gear_Aftermarket_EWS.AdvancedProbeSensor.statusEffects3.Name",
+    "content": "探测传感器"
+  },
+  {
+    "id": "Gear_Aftermarket_EWS.AdvancedProbeSight.statusEffects4.Name",
+    "content": "探测器视野"
+  },
+  {
+    "id": "Gear_Aftermarket_EWS.ECMPassiveShield.statusEffects5.Name",
+    "content": "ECM被动护罩"
+  },
+  {
+    "id": "Gear_Aftermarket_EWS.ECMPassiveJam.statusEffects6.Name",
+    "content": "ECM被动干扰"
+  },
+  {
+    "id": "Gear_Cockpit_Tricorne.Description.Details",
+    "content": "是的,这本质上是一个装甲前围,很好地加强了头部姿态,经过焊接成型,看起来像一个适配Atlas大小的的三角帽!甚至有完整的敖德桑Raxx皮革眼罩的带子...."
+  },
+  {
+    "id": "Gear_Cockpit_Tricorne.Description.UIName",
+    "content": "三角帽"
+  },
+  {
+    "id": "Gear_Cockpit_Tricorne.Description.Name",
+    "content": "三角帽装甲前围"
+  },
+  {
+    "id": "Gear_Cockpit_Tricorne.Description.Manufacturer",
+    "content": "谷神星金属"
+  },
+  {
+    "id": "Gear_Cockpit_Tricorne.Status-ArmorCowlStructure-{location}.statusEffects0.Details",
+    "content": "改进头部结构"
+  },
+  {
+    "id": "Gear_Cockpit_Tricorne.Status-ArmorCowlArmor-{location}.statusEffects1.Details",
+    "content": "改进头部装甲"
+  },
+  {
+    "id": "Gear_Cockpit_Tricorne.CockpitInitativeEffect.statusEffects2.Details",
+    "content": "+1主动性和其他一些增益"
+  },
+  {
+    "id": "Gear_Cockpit_Tricorne.CockpitBleed.statusEffects3.Details",
+    "content": "失血速度 x 0.6"
+  },
+  {
+    "id": "Gear_Cockpit_Tricorne.Status-ArmorCowlStructure-{location}.statusEffects0.Name",
+    "content": "装甲前围"
+  },
+  {
+    "id": "Gear_Cockpit_Tricorne.Status-ArmorCowlArmor-{location}.statusEffects1.Name",
+    "content": "装甲前围"
+  },
+  {
+    "id": "Gear_Cockpit_Tricorne.CockpitInitativeEffect.statusEffects2.Name",
+    "content": "驾驶舱技术奖励"
+  },
+  {
+    "id": "Gear_Cockpit_Tricorne.CockpitBleed.statusEffects3.Name",
+    "content": "降低失血速度"
+  },
+  {
+    "id": "Gear_Pirate_ECM.Description.Details",
+    "content": "基本上仍是电子对抗措施(ECM),可以干扰敌人的瞄准和导弹系统,但不太优雅,因为它只是在任何可能的频率上发送古老的重金属摇滚,而不是红外和磁..."
+  },
+  {
+    "id": "Gear_Pirate_ECM.Description.UIName",
+    "content": "ECM(P)"
+  },
+  {
+    "id": "Gear_Pirate_ECM.Description.Name",
+    "content": "憎恶之盒"
+  },
+  {
+    "id": "Gear_Pirate_ECM.Description.Manufacturer",
+    "content": "猛攻"
+  },
+  {
+    "id": "Gear_Pirate_ECM.PirateJammer_Signature.statusEffects0.Details",
+    "content": "信号特征状态效果."
+  },
+  {
+    "id": "Gear_Pirate_ECM.PirateJammer_Visibility.statusEffects1.Details",
+    "content": "可见性状态效果."
+  },
+  {
+    "id": "Gear_Pirate_ECM.LV_ADVANCED_SENSORS.statusEffects2.Details",
+    "content": "提供敌军单位的详细信息"
+  },
+  {
+    "id": "Gear_Pirate_ECM.PirateJammer_Signature.statusEffects0.Name",
+    "content": "减少隐身信号特征"
+  },
+  {
+    "id": "Gear_Pirate_ECM.PirateJammer_Visibility.statusEffects1.Name",
+    "content": "降低隐身可见性"
+  },
+  {
+    "id": "Gear_Pirate_ECM.LV_ADVANCED_SENSORS.statusEffects2.Name",
+    "content": "先进传感器"
+  },
+  {
+    "id": "Gear_Sensors_FifthElementDetector.Description.Details",
+    "content": "一些经常妄想的海盗对扫雷传感器是什么样子的想法.目前还不清楚它是如何工作的,但不知何故,它可以找到附近的地雷...和花岗岩?此外,出于某种原因,它在15千赫的本地电台上播放一些奇怪的流行歌剧,这使得它的更容易被发现."
+  },
+  {
+    "id": "Gear_Sensors_FifthElementDetector.Description.UIName",
+    "content": "第五元素探测器"
+  },
+  {
+    "id": "Gear_Sensors_FifthElementDetector.Description.Name",
+    "content": "改良传感器包"
+  },
+  {
+    "id": "Gear_Sensors_FifthElementDetector.Description.Manufacturer",
+    "content": "弗鲁斯比利斯"
+  },
+  {
+    "id": "Gear_Sensors_FifthElementDetector.BAProbe.statusEffects0.Details",
+    "content": "增加视野/传感器"
+  },
+  {
+    "id": "Gear_Sensors_FifthElementDetector.HP-CockpitSensors-Spot.statusEffects1.Details",
+    "content": "+50m发现距离"
+  },
+  {
+    "id": "Gear_Sensors_FifthElementDetector.PirateJammer_Signature.statusEffects2.Details",
+    "content": "信号特征状态效果."
+  },
+  {
+    "id": "Gear_Sensors_FifthElementDetector.PirateJammer_Visibility.statusEffects3.Details",
+    "content": "可见性状态效果."
+  },
+  {
+    "id": "Gear_Sensors_FifthElementDetector.BAProbe.statusEffects0.Name",
+    "content": "HP-驾驶舱传感器-传感器"
+  },
+  {
+    "id": "Gear_Sensors_FifthElementDetector.HP-CockpitSensors-Spot.statusEffects1.Name",
+    "content": "提升发现距离"
+  },
+  {
+    "id": "Gear_Sensors_FifthElementDetector.PirateJammer_Signature.statusEffects2.Name",
+    "content": "减少隐身信号特征"
+  },
+  {
+    "id": "Gear_Sensors_FifthElementDetector.PirateJammer_Visibility.statusEffects3.Name",
+    "content": "降低隐身可见性"
+  },
+  {
+    "id": "Gear_Spiked_Fist.Description.Details",
+    "content": "一些小丑拿了一只标准的铰接式战斗机甲手部,用废金属装满它,焊接它,然后用六英寸半的尖刺盖住它.有效吗?当然有效,但相当不优雅.<b><color=#800080>近战手部执行器。</color></b>禁用臂装武器加成。"
+  },
+  {
+    "id": "Gear_Spiked_Fist.Description.UIName",
+    "content": "尖刺拳"
+  },
+  {
+    "id": "Gear_Spiked_Fist.Description.Name",
+    "content": "尖头机构"
+  },
+  {
+    "id": "Gear_Spiked_Fist.Description.Manufacturer",
+    "content": "王臭鼬工厂"
+  },
+  {
+    "id": "Gear_Spiked_Fist.SpikedFist_Accuracy_Bonus.statusEffects0.Details",
+    "content": "近战武器精度修正"
+  },
+  {
+    "id": "Gear_Spiked_Fist.Fists_Damage_Punch.statusEffects1.Details",
+    "content": "伤害修正"
+  },
+  {
+    "id": "Gear_Spiked_Fist.Fists_Stability_Punch.statusEffects2.Details",
+    "content": "伤害修正"
+  },
+  {
+    "id": "Gear_Spiked_Fist.SpikedFist_Accuracy_Bonus.statusEffects0.Name",
+    "content": "近战武器精度修正"
+  },
+  {
+    "id": "Gear_Spiked_Fist.Fists_Damage_Punch.statusEffects1.Name",
+    "content": "近战武器伤害模块"
+  },
+  {
+    "id": "Gear_Spiked_Fist.Fists_Stability_Punch.statusEffects2.Name",
+    "content": "近战武器伤害模块"
+  }
+]

@@ -1,0 +1,2050 @@
+[
+  {
+    "id": "Weapon_Autocannon_AC10_HYPER.Description.Details",
+    "content": "超高速自动加农炮(HVAC)系列武器是以自动炮为基础的.虽然和普通自动炮有相同等级的伤害,但他们的射程要远的多.然而,为了获得更大的弹道射程,超高速弹药更大,并使用了特殊推进剂,这降低了每吨弹药的发数,同时还存在这诸如武器爆炸,每次开火产生浓烟等一些其他缺点.\n\n<b><color=#ffcc00>使用HVAC10弹药</color></b>."
+  },
+  {
+    "id": "Weapon_Autocannon_AC10_HYPER.Description.UIName",
+    "content": "HVAC/10 高速自动炮"
+  },
+  {
+    "id": "Weapon_Autocannon_AC10_HYPER.Description.Name",
+    "content": "HVAC/10 高速自动炮"
+  },
+  {
+    "id": "Weapon_Autocannon_AC10_HYPER.Description.Manufacturer",
+    "content": "西部"
+  },
+  {
+    "id": "Weapon_Autocannon_AC10_HYPER.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Autocannon_AC10_HYPER.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Autocannon_AC10_LBX.Description.Details",
+    "content": "由卢巴林弹道公司为人类霸权开发的LB-X自动炮是标准和相对原始的自动炮的衍生品.该公司利用先进材料,仅需稍微稍微增加体积即可减轻武器重量,可以将其与先进水星VII瞄准系统配合,以提高其射程.\n\n<b><color=#ffcc00>使用LBX10弹药</color></b>."
+  },
+  {
+    "id": "Weapon_Autocannon_AC10_LBX.Description.UIName",
+    "content": "LBX AC/10"
+  },
+  {
+    "id": "Weapon_Autocannon_AC10_LBX.Description.Name",
+    "content": "LBX AC/10"
+  },
+  {
+    "id": "Weapon_Autocannon_AC10_LBX.Description.Manufacturer",
+    "content": "西部"
+  },
+  {
+    "id": "Weapon_Autocannon_AC10_LBX.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Autocannon_AC10_LBX.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Autocannon_AC10_LBX_Prototype.Description.Details",
+    "content": "自动加农炮LB 10-X-P是最终成为普通LB 10-X的原型.LB10-X-P是为了满足对既有强大直接火力又有防空火力的两用武器的需求而开发的,它使用了两种不同的弹药类型:传统的穿甲弹和箭型弹,它们在防空上与在反装甲和杀伤人员上同样有效.星联防卫军及时推出了自动加农炮原型,参加了外部世界联盟和金牛座协约国的最后战斗,而这两个国家在战争结束前只派出了相对少数的原型."
+  },
+  {
+    "id": "Weapon_Autocannon_AC10_LBX_Prototype.Description.UIName",
+    "content": "LBX AC/10(原型)"
+  },
+  {
+    "id": "Weapon_Autocannon_AC10_LBX_Prototype.Description.Name",
+    "content": "LBX AC/10"
+  },
+  {
+    "id": "Weapon_Autocannon_AC10_LBX_Prototype.Description.Manufacturer",
+    "content": "西部"
+  },
+  {
+    "id": "Weapon_Autocannon_AC10_LBX_Prototype.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Autocannon_AC10_LBX_Prototype.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Autocannon_AC10_LIGHT.Description.Details",
+    "content": "轻型AC工程是自动炮的一种更轻、更小的分支.但也有类似缺点,而且卡住的可能性更高.\n\n<b><color=#ffcc00>使用AC弹药</color></b>."
+  },
+  {
+    "id": "Weapon_Autocannon_AC10_LIGHT.Description.UIName",
+    "content": "轻型AC/10"
+  },
+  {
+    "id": "Weapon_Autocannon_AC10_LIGHT.Description.Name",
+    "content": "轻型AC/10"
+  },
+  {
+    "id": "Weapon_Autocannon_AC10_LIGHT.Description.Manufacturer",
+    "content": "西部"
+  },
+  {
+    "id": "Weapon_Autocannon_AC10_LIGHT.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Autocannon_AC10_LIGHT.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Autocannon_AC10_Ultra.Description.Details",
+    "content": "超级自动炮到射速是普通自动炮的两倍,重量、体积和热量只是适度增加.UAC10是最适合你的标准重型炮,具有全面良好的伤害、射程和热效率.\n\n<b><color=#ffcc00>使用UAC10弹药</color></b>. "
+  },
+  {
+    "id": "Weapon_Autocannon_AC10_Ultra.Description.UIName",
+    "content": "超级AC/10"
+  },
+  {
+    "id": "Weapon_Autocannon_AC10_Ultra.Description.Name",
+    "content": "UAC/10 高速自动炮"
+  },
+  {
+    "id": "Weapon_Autocannon_AC10_Ultra.Description.Manufacturer",
+    "content": "西部"
+  },
+  {
+    "id": "Weapon_Autocannon_AC10_Ultra.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Autocannon_AC10_Ultra.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Autocannon_AC20_HYPER.Description.Details",
+    "content": "超高速自动加农炮(HVAC)系列武器是以自动炮为基础的.虽然和普通自动炮有相同等级的伤害,但他们的射程要远的多.然而,为了获得更大的弹道射程,超高速弹药更大,并使用了特殊推进剂,这降低了每吨弹药的发数,同时还存在这诸如武器爆炸,每次开火产生浓烟等一些其他缺点.\n\n<b><color=#ffcc00>使用HVAC20弹药</color></b>."
+  },
+  {
+    "id": "Weapon_Autocannon_AC20_HYPER.Description.UIName",
+    "content": "HVAC/20 高速自动炮"
+  },
+  {
+    "id": "Weapon_Autocannon_AC20_HYPER.Description.Name",
+    "content": "HVAC/20 高速自动炮"
+  },
+  {
+    "id": "Weapon_Autocannon_AC20_HYPER.Description.Manufacturer",
+    "content": "Kali Yama"
+  },
+  {
+    "id": "Weapon_Autocannon_AC20_LBX.Description.Details",
+    "content": "由卢巴林弹道公司为人类霸权开发的LB-X自动炮是标准和相对原始的自动炮的衍生品.该公司利用先进材料,仅需稍微稍微增加体积即可减轻武器重量,可以将其与先进水星VII瞄准系统配合,以提高其射程.\n\n<b><color=#ffcc00>使用LBX20弹药</color></b>."
+  },
+  {
+    "id": "Weapon_Autocannon_AC20_LBX.Description.UIName",
+    "content": "LBX AC/20"
+  },
+  {
+    "id": "Weapon_Autocannon_AC20_LBX.Description.Name",
+    "content": "LBX AC/20"
+  },
+  {
+    "id": "Weapon_Autocannon_AC20_LBX.Description.Manufacturer",
+    "content": "Kali Yama"
+  },
+  {
+    "id": "Weapon_Autocannon_AC20_LIGHT.Description.Details",
+    "content": "轻型AC工程是自动炮的一种更轻、更小的分支.但也有类似缺点,而且卡住的可能性更高.\n\n<b><color=#ffcc00>使用AC20弹药</color></b>."
+  },
+  {
+    "id": "Weapon_Autocannon_AC20_LIGHT.Description.UIName",
+    "content": "轻型AC/20"
+  },
+  {
+    "id": "Weapon_Autocannon_AC20_LIGHT.Description.Name",
+    "content": "轻型AC/20"
+  },
+  {
+    "id": "Weapon_Autocannon_AC20_LIGHT.Description.Manufacturer",
+    "content": "Kali Yama"
+  },
+  {
+    "id": "Weapon_Autocannon_AC20_Ultra.Description.Details",
+    "content": "超级自动炮到射速是普通自动炮的两倍,重量、体积和热量只是适度增加.UAC/20是战场上最可怕的武器之一.\n\n<b><color=#ffcc00>使用UAC20弹药</color></b>. "
+  },
+  {
+    "id": "Weapon_Autocannon_AC20_Ultra.Description.UIName",
+    "content": "超级AC/20 "
+  },
+  {
+    "id": "Weapon_Autocannon_AC20_Ultra.Description.Name",
+    "content": "UAC/20 高速自动炮"
+  },
+  {
+    "id": "Weapon_Autocannon_AC20_Ultra.Description.Manufacturer",
+    "content": "Kali Yama"
+  },
+  {
+    "id": "Weapon_Autocannon_AC2_HYPER.Description.Details",
+    "content": "超高速自动加农炮(HVAC)系列武器是以自动炮为基础的.虽然和普通自动炮有相同等级的伤害,但他们的射程要远的多.然而,为了获得更大的弹道射程,超高速弹药更大,并使用了特殊推进剂,这降低了每吨弹药的发数,同时还存在这诸如武器爆炸,每次开火产生浓烟等一些其他缺点.\n\n<b><color=#ffcc00>使用HVAC2弹药</color></b>."
+  },
+  {
+    "id": "Weapon_Autocannon_AC2_HYPER.Description.UIName",
+    "content": "HVAC/2 高速自动炮"
+  },
+  {
+    "id": "Weapon_Autocannon_AC2_HYPER.Description.Name",
+    "content": "HVAC/2 高速自动炮"
+  },
+  {
+    "id": "Weapon_Autocannon_AC2_HYPER.Description.Manufacturer",
+    "content": "GM"
+  },
+  {
+    "id": "Weapon_Autocannon_AC2_HYPER.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Autocannon_AC2_HYPER.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Autocannon_AC2_LBX.Description.Details",
+    "content": "由卢巴林弹道公司为人类霸权开发的LB-X自动炮是标准和相对原始的自动炮的衍生品.该公司利用先进材料,仅需稍微稍微增加体积即可减轻武器重量,可以将其与先进水星VII瞄准系统配合,以提高其射程.\n\n<b><color=#ffcc00>使用LBX2弹药</color></b>."
+  },
+  {
+    "id": "Weapon_Autocannon_AC2_LBX.Description.UIName",
+    "content": "LBX AC/2"
+  },
+  {
+    "id": "Weapon_Autocannon_AC2_LBX.Description.Name",
+    "content": "LBX AC/2"
+  },
+  {
+    "id": "Weapon_Autocannon_AC2_LBX.Description.Manufacturer",
+    "content": "GM"
+  },
+  {
+    "id": "Weapon_Autocannon_AC2_LBX.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Autocannon_AC2_LBX.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Autocannon_AC2_LIGHT.Description.Details",
+    "content": "轻型AC工程是自动炮的一种更轻、更小的分支.但也有类似缺点,而且卡住的可能性更高.\n\n<b><color=#ffcc00>使用AC2弹药</color></b>."
+  },
+  {
+    "id": "Weapon_Autocannon_AC2_LIGHT.Description.UIName",
+    "content": "轻型AC/2"
+  },
+  {
+    "id": "Weapon_Autocannon_AC2_LIGHT.Description.Name",
+    "content": "轻型AC/2"
+  },
+  {
+    "id": "Weapon_Autocannon_AC2_LIGHT.Description.Manufacturer",
+    "content": "GM"
+  },
+  {
+    "id": "Weapon_Autocannon_AC2_LIGHT.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Autocannon_AC2_LIGHT.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Autocannon_AC2_Ultra.Description.Details",
+    "content": "超级自动炮到射速是普通自动炮的两倍,重量、体积和热量只是适度增加.虽然UAC2是系列中口径最小的,但它有无与伦比的暴头能力.\n\n<b><color=#ffcc00>使用UAC2弹药</color></b>. "
+  },
+  {
+    "id": "Weapon_Autocannon_AC2_Ultra.Description.UIName",
+    "content": "超级AC/2"
+  },
+  {
+    "id": "Weapon_Autocannon_AC2_Ultra.Description.Name",
+    "content": "UAC/2 高速自动炮"
+  },
+  {
+    "id": "Weapon_Autocannon_AC2_Ultra.Description.Manufacturer",
+    "content": "GM"
+  },
+  {
+    "id": "Weapon_Autocannon_AC2_Ultra.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Autocannon_AC2_Ultra.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Autocannon_AC5_HYPER.Description.Details",
+    "content": "超高速自动加农炮(HVAC)系列武器是以自动炮为基础的.虽然和普通自动炮有相同等级的伤害,但他们的射程要远的多.然而,为了获得更大的弹道射程,超高速弹药更大,并使用了特殊推进剂,这降低了每吨弹药的发数,同时还存在这诸如武器爆炸,每次开火产生浓烟等一些其他缺点.\n\n<b><color=#ffcc00>使用HVAC5弹药</color></b>."
+  },
+  {
+    "id": "Weapon_Autocannon_AC5_HYPER.Description.UIName",
+    "content": "HVAC/5 高速自动炮"
+  },
+  {
+    "id": "Weapon_Autocannon_AC5_HYPER.Description.Name",
+    "content": "HVAC/5 高速自动炮"
+  },
+  {
+    "id": "Weapon_Autocannon_AC5_HYPER.Description.Manufacturer",
+    "content": "GM"
+  },
+  {
+    "id": "Weapon_Autocannon_AC5_HYPER.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Autocannon_AC5_HYPER.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Autocannon_AC5_LBX.Description.Details",
+    "content": "由卢巴林弹道公司为人类霸权开发的LB-X自动炮是标准和相对原始的自动炮的衍生品.该公司利用先进材料,仅需稍微稍微增加体积即可减轻武器重量,可以将其与先进水星VII瞄准系统配合,以提高其射程.\n\n<b><color=#ffcc00>使用LBX5弹药</color></b>."
+  },
+  {
+    "id": "Weapon_Autocannon_AC5_LBX.Description.UIName",
+    "content": "LBX AC/5"
+  },
+  {
+    "id": "Weapon_Autocannon_AC5_LBX.Description.Name",
+    "content": "LBX AC/5"
+  },
+  {
+    "id": "Weapon_Autocannon_AC5_LBX.Description.Manufacturer",
+    "content": "GM"
+  },
+  {
+    "id": "Weapon_Autocannon_AC5_LBX.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Autocannon_AC5_LBX.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Autocannon_AC5_LIGHT.Description.Details",
+    "content": "轻型AC工程是自动炮的一种更轻、更小的分支.但也有类似缺点,而且卡住的可能性更高.\n\n<b><color=#ffcc00>使用AC5弹药</color></b>."
+  },
+  {
+    "id": "Weapon_Autocannon_AC5_LIGHT.Description.UIName",
+    "content": "轻型AC/5"
+  },
+  {
+    "id": "Weapon_Autocannon_AC5_LIGHT.Description.Name",
+    "content": "轻型AC/5"
+  },
+  {
+    "id": "Weapon_Autocannon_AC5_LIGHT.Description.Manufacturer",
+    "content": "GM"
+  },
+  {
+    "id": "Weapon_Autocannon_AC5_LIGHT.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Autocannon_AC5_LIGHT.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Autocannon_AC5_Ultra.Description.Details",
+    "content": "超级自动炮到射速是普通自动炮的两倍,重量、体积和热量只是适度增加.UAC/5是一种可靠的远程武器.\n\n<b><color=#ffcc00>使用UAC5弹药</color></b>. "
+  },
+  {
+    "id": "Weapon_Autocannon_AC5_Ultra.Description.UIName",
+    "content": "超级AC/5"
+  },
+  {
+    "id": "Weapon_Autocannon_AC5_Ultra.Description.Name",
+    "content": "UAC/5 高速自动炮"
+  },
+  {
+    "id": "Weapon_Autocannon_AC5_Ultra.Description.Manufacturer",
+    "content": "GM"
+  },
+  {
+    "id": "Weapon_Autocannon_AC5_Ultra.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Autocannon_AC5_Ultra.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_BinaryLaserCannon.Description.Details",
+    "content": "双体激光(绰号'开拓者')将两个大激光芯熔合在一起,允许它们一起发射.虽然这增加了穿透和射程,但结构的内聚力受到了影响.另一种方法是,芯体可以单独攻击,其功能很像单个大型激光."
+  },
+  {
+    "id": "Weapon_BinaryLaserCannon.Description.UIName",
+    "content": "双体激光"
+  },
+  {
+    "id": "Weapon_BinaryLaserCannon.Description.Name",
+    "content": "双体激光"
+  },
+  {
+    "id": "Weapon_BinaryLaserCannon.Description.Manufacturer",
+    "content": "反抗军"
+  },
+  {
+    "id": "Weapon_BinaryLaserCannon.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_BinaryLaserCannon.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Flamer_FlamerER.Description.Details",
+    "content": "增程喷火器(ER 喷火器)是一种射程更远的,威力更弱的聚变喷火器.被碧玉鹰氏族开发,并有联合太阳引入到内天体,增程喷火器使用更紧密的磁线圈和更窄的枪口直径来增加武器的射程."
+  },
+  {
+    "id": "Weapon_Flamer_FlamerER.Description.UIName",
+    "content": "增程喷火器"
+  },
+  {
+    "id": "Weapon_Flamer_FlamerER.Description.Name",
+    "content": "增程喷火器"
+  },
+  {
+    "id": "Weapon_Flamer_FlamerER.Description.Manufacturer",
+    "content": "天窗"
+  },
+  {
+    "id": "Weapon_Flamer_FlamerER.HeatDamageTakenSoftCapMultiplier.statusEffects0.Details",
+    "content": "-1%热伤害"
+  },
+  {
+    "id": "Weapon_Flamer_FlamerER.HeatDamageTakenSoftCapMultiplier.statusEffects0.Name",
+    "content": "4%热软限额"
+  },
+  {
+    "id": "Weapon_Flamer_Heavy_Vehicle.Description.Details",
+    "content": "车载喷火器的性能与机甲安装的喷火器相同,在目标处排放过热气体,使其过热/燃烧.由于大多数非\"机甲\"单位缺乏昂贵的聚变反应器,车辆的喷火器使用燃烧的弹药取而代之.\n\n<b><color=#F79232>使用车辆喷火器弹药</color></b>."
+  },
+  {
+    "id": "Weapon_Flamer_Heavy_Vehicle.Description.UIName",
+    "content": "重型喷火器"
+  },
+  {
+    "id": "Weapon_Flamer_Heavy_Vehicle.Description.Name",
+    "content": "重型喷火器"
+  },
+  {
+    "id": "Weapon_Flamer_Heavy_Vehicle.Description.Manufacturer",
+    "content": "GM闪点"
+  },
+  {
+    "id": "Weapon_Flamer_Vehicle.Description.Details",
+    "content": "车载喷火器的性能与机甲安装的喷火器相同,在目标处排放过热气体,使其过热/燃烧.由于大多数非\"机甲\"单位缺乏昂贵的聚变反应器,车辆的喷火器使用燃烧的弹药取而代之.\n\n<b><color=#F79232>使用车辆喷火器弹药</color></b>."
+  },
+  {
+    "id": "Weapon_Flamer_Vehicle.Description.UIName",
+    "content": "车载喷火器"
+  },
+  {
+    "id": "Weapon_Flamer_Vehicle.Description.Name",
+    "content": "车载喷火器"
+  },
+  {
+    "id": "Weapon_Flamer_Vehicle.Description.Manufacturer",
+    "content": "GM闪点"
+  },
+  {
+    "id": "Weapon_FluidGun.Description.Details",
+    "content": "液体喷枪只不过是一个军事化的液体喷射器.索拉里斯VII的工程师们通过强化供给管线和储罐,创建了一个大致相当于火焰器的系统.然而,与火焰器不同; 液体喷枪可以存储并喷射多种液体.聪明的竟技场战士在比赛中使用了水、浮油、炼狱燃料、冷却液和腐蚀性液体.\n\n<b><color=#ffcc00>使用液体罐(弹药)</color></b>."
+  },
+  {
+    "id": "Weapon_FluidGun.Description.UIName",
+    "content": "液体喷枪"
+  },
+  {
+    "id": "Weapon_FluidGun.Description.Name",
+    "content": "液体喷枪"
+  },
+  {
+    "id": "Weapon_FluidGun.Description.Manufacturer",
+    "content": "索拉里斯武装"
+  },
+  {
+    "id": "Weapon_Gauss_Gauss_2-Norse.Description.Details",
+    "content": "高斯线膛炮使用电磁电荷以极高的速度发射金属子弹,单靠动能造成巨大的伤害.\n\n<b><color=#ffcc00>使用高斯弹药</color></b>\n\n<b><color=#099ff2>不稳定!</color></b>"
+  },
+  {
+    "id": "Weapon_Gauss_Gauss_2-Norse.Description.UIName",
+    "content": "挪威风暴高斯线膛炮"
+  },
+  {
+    "id": "Weapon_Gauss_Gauss_2-Norse.Description.Name",
+    "content": "挪威人高斯线膛炮"
+  },
+  {
+    "id": "Weapon_Gauss_Gauss_2-Norse.Description.Manufacturer",
+    "content": "NorseStorm"
+  },
+  {
+    "id": "Weapon_Gauss_Gauss_2-Norse.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Gauss_Gauss_2-Norse.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Gauss_Gauss_3-Blackwell.Description.Details",
+    "content": "高斯线膛炮使用电磁电荷以极高的速度发射金属子弹,单靠动能造成巨大的伤害.\n\n<b><color=#ffcc00>使用高斯弹药</color></b>\n\n<b><color=#099ff2>不稳定!</color></b>"
+  },
+  {
+    "id": "Weapon_Gauss_Gauss_3-Blackwell.Description.UIName",
+    "content": "布莱克威尔高斯线膛炮"
+  },
+  {
+    "id": "Weapon_Gauss_Gauss_3-Blackwell.Description.Name",
+    "content": "布莱克威尔高斯线膛炮"
+  },
+  {
+    "id": "Weapon_Gauss_Gauss_3-Blackwell.Description.Manufacturer",
+    "content": "Blackwell"
+  },
+  {
+    "id": "Weapon_Gauss_Gauss_3-Blackwell.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Gauss_Gauss_3-Blackwell.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Gauss_Gauss_HEAVY.Description.Details",
+    "content": "重型高斯线膛炮是天琴座同盟国科学家与达法恩工业公司和塔里斯公司合作开发的一项新的致命创造.将其\"越多越好\"的理念应用于高斯技术,重型高斯是现存最重的战场设备之一.\n\n<b><color=#ffcc00>使用重型高斯弹药</color></b>\n\n<b><color=#099ff2>不稳定!</color></b>"
+  },
+  {
+    "id": "Weapon_Gauss_Gauss_HEAVY.Description.UIName",
+    "content": "重型高斯线膛炮"
+  },
+  {
+    "id": "Weapon_Gauss_Gauss_HEAVY.Description.Name",
+    "content": "重型高斯线膛炮"
+  },
+  {
+    "id": "Weapon_Gauss_Gauss_HEAVY.Description.Manufacturer",
+    "content": "反抗军"
+  },
+  {
+    "id": "Weapon_Gauss_Gauss_HEAVY.WeaponEffect-SelfknockdownCheck_OnFire.statusEffects0.Details",
+    "content": "慷慨激昂"
+  },
+  {
+    "id": "Weapon_Gauss_Gauss_HEAVY.WeaponEffect-SelfknockdownCheck_OnFire.statusEffects0.Name",
+    "content": "慷慨激昂"
+  },
+  {
+    "id": "Weapon_Gauss_Gauss_LIGHT.Description.Details",
+    "content": "轻型高斯线膛炮是有自由世界联盟推出的.它的功能和高斯线膛炮相同,使用电磁将弹头加速到高速,能远程造成巨大伤害.然而,顾名思义,轻型高斯设计的更紧凑,允许高斯线膛炮安装在较小的作战单位上.\n\n<b><color=#ffcc00>使用轻型高斯弹药</color></b> <b><color=#099ff2>不稳定!</color></b>"
+  },
+  {
+    "id": "Weapon_Gauss_Gauss_LIGHT.Description.UIName",
+    "content": "轻型高斯线膛炮"
+  },
+  {
+    "id": "Weapon_Gauss_Gauss_LIGHT.Description.Name",
+    "content": "轻型高斯线膛炮"
+  },
+  {
+    "id": "Weapon_Gauss_Gauss_LIGHT.Description.Manufacturer",
+    "content": "统治者"
+  },
+  {
+    "id": "Weapon_Gauss_Gauss_LIGHT.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Gauss_Gauss_LIGHT.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Gauss_Gauss_Silverbullet.Description.Details",
+    "content": "NAIS开发了银弹高斯线膛炮(或SB高斯),试图将LB-X自动炮的功能加入到高斯线膛炮.虽然集群弹药更容易集中目标,并且在防空任务中特别有效,但它的损伤曲线并不十分优秀.\n\n<b><color=#ffcc00>使用高斯弹药</color></b> \n\n<b><color=#099ff2>不稳定!</color></b>"
+  },
+  {
+    "id": "Weapon_Gauss_Gauss_Silverbullet.Description.UIName",
+    "content": "银弹高斯"
+  },
+  {
+    "id": "Weapon_Gauss_Gauss_Silverbullet.Description.Name",
+    "content": "银弹高斯"
+  },
+  {
+    "id": "Weapon_Gauss_Gauss_Silverbullet.Description.Manufacturer",
+    "content": "星际军团"
+  },
+  {
+    "id": "Weapon_Gauss_Gauss_Silverbullet.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Gauss_Gauss_Silverbullet.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Gauss_Heavy_Magshot.Description.Details",
+    "content": "这种'弹射加农炮'是基于AP弹射高斯线膛炮的技术和自由世界联盟轻型高斯线膛炮的约翰斯顿工业公司成功地创造了一种超轻量高斯线膛炮.不同寻常的是,它使用标准弹射药,但发射的'堆叠'五个弹头在飞行中保持在一起,单独的射弹会击中同一个地方,可以抵抗某些类型的反应装甲.另一种'爆裂模式'分别以机枪的方式发射五颗子弹.<b><color=#f79232>每轮5发,使用弹射弹药.</color></b>.<b><color=#099ff2>不稳定!</color></b>"
+  },
+  {
+    "id": "Weapon_Gauss_Heavy_Magshot.Description.UIName",
+    "content": "弹丸加农炮"
+  },
+  {
+    "id": "Weapon_Gauss_Heavy_Magshot.Description.Name",
+    "content": "弹丸加农炮"
+  },
+  {
+    "id": "Weapon_Gauss_Heavy_Magshot.Description.Manufacturer",
+    "content": "约翰斯顿"
+  },
+  {
+    "id": "Weapon_Gauss_Improved_HEAVY.Description.Details",
+    "content": "虽然重型高斯线膛炮大部分时候都是有效的,但工程师们认为他们可以提高弹丸的弹道性能.这将提供更一致的损伤分布,使改进后的重型高斯线膛炮在所有射程都有效.经过四年的工作,工程师们创造出了一种武器,其占用空间和重型高斯线膛炮相同,但能够在所有射程范围拥有一致的性损伤曲线.\n\n<b><color=#ffcc00>使用重型高斯弹药</color></b> \n\n<b><color=#099ff2>不稳定!</color></b>"
+  },
+  {
+    "id": "Weapon_Gauss_Improved_HEAVY.Description.UIName",
+    "content": "改良重型高斯线膛炮"
+  },
+  {
+    "id": "Weapon_Gauss_Improved_HEAVY.Description.Name",
+    "content": "重型高斯线膛炮"
+  },
+  {
+    "id": "Weapon_Gauss_Improved_HEAVY.Description.Manufacturer",
+    "content": "反抗军"
+  },
+  {
+    "id": "Weapon_Gauss_Improved_HEAVY.WeaponEffect-SelfknockdownCheck_OnFire.statusEffects0.Details",
+    "content": "慷慨激昂"
+  },
+  {
+    "id": "Weapon_Gauss_Improved_HEAVY.WeaponEffect-SelfknockdownCheck_OnFire.statusEffects0.Name",
+    "content": "慷慨激昂"
+  },
+  {
+    "id": "Weapon_Gauss_Magshot.Description.Details",
+    "content": "一种和机甲大小匹配的步兵高斯线膛炮原型.以中型激光阵列的替代品在索拉里斯的沙漠里测试.<b><color=#F79232>使用弹丸弹药</color></b>.<b><color=#099ff2>不稳定!</color></b>"
+  },
+  {
+    "id": "Weapon_Gauss_Magshot.Description.UIName",
+    "content": "弹丸"
+  },
+  {
+    "id": "Weapon_Gauss_Magshot.Description.Name",
+    "content": "弹射步枪"
+  },
+  {
+    "id": "Weapon_Gauss_Magshot.Description.Manufacturer",
+    "content": "约翰斯顿"
+  },
+  {
+    "id": "Weapon_Laser_LargeLaserER_Prototype.Description.Details",
+    "content": "大型增程激光原型."
+  },
+  {
+    "id": "Weapon_Laser_LargeLaserER_Prototype.Description.UIName",
+    "content": "大型增程激光(原型)"
+  },
+  {
+    "id": "Weapon_Laser_LargeLaserER_Prototype.Description.Name",
+    "content": "大型增程激光"
+  },
+  {
+    "id": "Weapon_Laser_LargeLaserER_Prototype.Description.Manufacturer",
+    "content": "SCI"
+  },
+  {
+    "id": "Weapon_Laser_LargeLaserER_Prototype.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Laser_LargeLaserER_Prototype.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Laser_LargeLaserPulse_VSPL.Description.Details",
+    "content": "大型变速脉冲(VSP)激光是目前使用的最大的变速脉冲激光.大型VSP激光的重量几乎相当于重型粒子炮,可以对目标造成几乎相同的伤害,并有更高的命中率.\n\n<b><color=#00ffff>移动越远伤害和产热越低</color> </b>"
+  },
+  {
+    "id": "Weapon_Laser_LargeLaserPulse_VSPL.Description.UIName",
+    "content": "大型变速脉冲激光"
+  },
+  {
+    "id": "Weapon_Laser_LargeLaserPulse_VSPL.Description.Name",
+    "content": "大型脉冲"
+  },
+  {
+    "id": "Weapon_Laser_LargeLaserPulse_VSPL.Description.Manufacturer",
+    "content": "Blankenburg"
+  },
+  {
+    "id": "Weapon_Laser_LargeLaserPulse_VSPL.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Laser_LargeLaserPulse_VSPL.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Laser_LargeLaserPulse_X.Description.Details",
+    "content": "X脉冲激光是联邦技术人员的一项尝试,目的是增加脉冲激光的射程,以于标准型号在更长射程上竞争.X脉冲激光本身不是一种新武器,而是对脉冲激光的一种升级,它通过系统增加额外的能量,以增加其射程."
+  },
+  {
+    "id": "Weapon_Laser_LargeLaserPulse_X.Description.UIName",
+    "content": "大型X脉冲激光"
+  },
+  {
+    "id": "Weapon_Laser_LargeLaserPulse_X.Description.Name",
+    "content": "大型X脉冲激光"
+  },
+  {
+    "id": "Weapon_Laser_LargeLaserPulse_X.Description.Manufacturer",
+    "content": "反抗军"
+  },
+  {
+    "id": "Weapon_Laser_LargeLaserPulse_X.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Laser_LargeLaserPulse_X.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Laser_LargeLaser_Bombast.Description.Details",
+    "content": "由天琴同盟国开发,璀璨激光被设计为激光武器的最终解释.在设计过程中,其工程师不得不降低武器的重量.这种牺牲来自于电源,这使武器需要长时间充能."
+  },
+  {
+    "id": "Weapon_Laser_LargeLaser_Bombast.Description.UIName",
+    "content": "璀璨激光"
+  },
+  {
+    "id": "Weapon_Laser_LargeLaser_Bombast.Description.Name",
+    "content": "璀璨激光"
+  },
+  {
+    "id": "Weapon_Laser_LargeLaser_Bombast.Description.Manufacturer",
+    "content": "反抗军"
+  },
+  {
+    "id": "Weapon_Laser_LargeLaser_Bombast.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Laser_LargeLaser_Bombast.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Laser_LargeLaser_Reengineered.Description.Details",
+    "content": "重设计激光是通过尝试将脉冲激光和重型激光匹配而开发的.尽管这一努力失败了,但所开发出来的武器有一个奇怪的好处: 他们完全忽视了专业反激光装甲,对装备有该装甲的单位造成了完全上海.重新设计的激光器发射的双脉冲如此紧密地命中目标,以至于直接直接穿透了它."
+  },
+  {
+    "id": "Weapon_Laser_LargeLaser_Reengineered.Description.UIName",
+    "content": "大型增程激光"
+  },
+  {
+    "id": "Weapon_Laser_LargeLaser_Reengineered.Description.Name",
+    "content": "大型激光"
+  },
+  {
+    "id": "Weapon_Laser_LargeLaser_Reengineered.Description.Manufacturer",
+    "content": "克虏伯"
+  },
+  {
+    "id": "Weapon_Laser_LargeLaser_Reengineered.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Laser_LargeLaser_Reengineered.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Laser_MediumLaserPulse_VSPL.Description.Details",
+    "content": "名为启示的正在使用的中型变速脉冲(VSP)激光,\n\n<b><color=#00ffff>移动越远伤害和产热就越低</color> </b>"
+  },
+  {
+    "id": "Weapon_Laser_MediumLaserPulse_VSPL.Description.UIName",
+    "content": "中型变速脉冲激光"
+  },
+  {
+    "id": "Weapon_Laser_MediumLaserPulse_VSPL.Description.Name",
+    "content": "中型变速脉冲激光"
+  },
+  {
+    "id": "Weapon_Laser_MediumLaserPulse_VSPL.Description.Manufacturer",
+    "content": "耙-IV"
+  },
+  {
+    "id": "Weapon_Laser_MediumLaserPulse_X.Description.Details",
+    "content": "X脉冲激光是联邦技术人员的一项尝试,目的是增加脉冲激光的射程,以于标准型号在更长射程上竞争.X脉冲激光本身不是一种新武器,而是对脉冲激光的一种升级,它通过系统增加额外的能量,以增加其射程."
+  },
+  {
+    "id": "Weapon_Laser_MediumLaserPulse_X.Description.UIName",
+    "content": "中型X脉冲激光"
+  },
+  {
+    "id": "Weapon_Laser_MediumLaserPulse_X.Description.Name",
+    "content": "中型X脉冲激光"
+  },
+  {
+    "id": "Weapon_Laser_MediumLaserPulse_X.Description.Manufacturer",
+    "content": "外星辰"
+  },
+  {
+    "id": "Weapon_Laser_MediumLaser_Reengineered.Description.Details",
+    "content": "重设计激光是通过尝试将脉冲激光和重型激光匹配而开发的.尽管这一努力失败了,但所开发出来的武器有一个奇怪的好处: 他们完全忽视了专业反激光装甲,对装备有该装甲的单位造成了完全上海.重新设计的激光器发射的双脉冲如此紧密地命中目标,以至于直接直接穿透了它."
+  },
+  {
+    "id": "Weapon_Laser_MediumLaser_Reengineered.Description.UIName",
+    "content": "重设中型激光"
+  },
+  {
+    "id": "Weapon_Laser_MediumLaser_Reengineered.Description.Name",
+    "content": "重设中型激光"
+  },
+  {
+    "id": "Weapon_Laser_MediumLaser_Reengineered.Description.Manufacturer",
+    "content": "地狱"
+  },
+  {
+    "id": "Weapon_Laser_SmallLaserPulse_VSPL.Description.Details",
+    "content": "名为启示小型变速脉冲激光的正在使用的最小的变速脉冲(VSP)激光. 这种武器通常被安装在小型脉冲激光的位置,主要用于轻型机甲上.\n\n<b><color=#00ffff>移动越远伤害和产热就越低</color> </b>"
+  },
+  {
+    "id": "Weapon_Laser_SmallLaserPulse_VSPL.Description.UIName",
+    "content": "小型变速脉冲激光"
+  },
+  {
+    "id": "Weapon_Laser_SmallLaserPulse_VSPL.Description.Name",
+    "content": "小型变速脉冲激光"
+  },
+  {
+    "id": "Weapon_Laser_SmallLaserPulse_VSPL.Description.Manufacturer",
+    "content": "朝霞"
+  },
+  {
+    "id": "Weapon_Laser_SmallLaserPulse_X.Description.Details",
+    "content": "X脉冲激光是联邦技术人员的一项尝试,目的是增加脉冲激光的射程,以于标准型号在更长射程上竞争.X脉冲激光本身不是一种新武器,而是对脉冲激光的一种升级,它通过系统增加额外的能量,以增加其射程."
+  },
+  {
+    "id": "Weapon_Laser_SmallLaserPulse_X.Description.UIName",
+    "content": "小型X脉冲激光"
+  },
+  {
+    "id": "Weapon_Laser_SmallLaserPulse_X.Description.Name",
+    "content": "小型X脉冲激光"
+  },
+  {
+    "id": "Weapon_Laser_SmallLaserPulse_X.Description.Manufacturer",
+    "content": "谷神星武装"
+  },
+  {
+    "id": "Weapon_Laser_SmallLaser_Reengineered.Description.Details",
+    "content": "重设计激光是通过尝试将脉冲激光和重型激光匹配而开发的.尽管这一努力失败了,但所开发出来的武器有一个奇怪的好处: 他们完全忽视了专业反激光装甲,对装备有该装甲的单位造成了完全上海.重新设计的激光器发射的双脉冲如此紧密地命中目标,以至于直接直接穿透了它."
+  },
+  {
+    "id": "Weapon_Laser_SmallLaser_Reengineered.Description.UIName",
+    "content": "小型重设激光"
+  },
+  {
+    "id": "Weapon_Laser_SmallLaser_Reengineered.Description.Name",
+    "content": "小型激光"
+  },
+  {
+    "id": "Weapon_Laser_SmallLaser_Reengineered.Description.Manufacturer",
+    "content": "麦克塞尔"
+  },
+  {
+    "id": "Weapon_Laser_TAG.Description.Details",
+    "content": "星联科技的另一个创新,这种目标捕获装备(TAG)结合了几个主动扫描系统,就像一个机甲的激光指示器,并将目标信息共享给小队."
+  },
+  {
+    "id": "Weapon_Laser_TAG.Description.UIName",
+    "content": "目标寻获装备"
+  },
+  {
+    "id": "Weapon_Laser_TAG.Description.Name",
+    "content": "目标寻获装备"
+  },
+  {
+    "id": "Weapon_Laser_TAG.Description.Manufacturer",
+    "content": "NAIS"
+  },
+  {
+    "id": "Weapon_Laser_TAG.PainterEffect.statusEffects0.Details",
+    "content": "目标被捕获+1命中."
+  },
+  {
+    "id": "Weapon_Laser_TAG.PainterEffect2.statusEffects1.Details",
+    "content": "目标捕获装备增加可见性"
+  },
+  {
+    "id": "Weapon_Laser_TAG.StatusEffect-TAG-IndicatorVFX.statusEffects2.Details",
+    "content": "TAG效果的视觉指示器"
+  },
+  {
+    "id": "Weapon_Laser_TAG.PainterEffect.statusEffects0.Name",
+    "content": "获取目标"
+  },
+  {
+    "id": "Weapon_Laser_TAG.PainterEffect2.statusEffects1.Name",
+    "content": "检测到"
+  },
+  {
+    "id": "Weapon_Laser_TAG.StatusEffect-TAG-IndicatorVFX.statusEffects2.Name",
+    "content": "目标捕获装备已标记"
+  },
+  {
+    "id": "Weapon_LRM_LRM10_ENHANCED.Description.Details",
+    "content": "增强型远程导弹是联邦为了应对氏族性能卓越的武器而开发的. 这些新型远程导弹使用更复杂的武装机制来提高其在近距离的生存能力. 结果是,与远程导弹相比,盲点小得多,同时仍保持相同的远程功能. 虽然没有最低射程,但在近距离下伤害会大大降低"
+  },
+  {
+    "id": "Weapon_LRM_LRM10_ENHANCED.Description.UIName",
+    "content": "增强LRM10"
+  },
+  {
+    "id": "Weapon_LRM_LRM10_ENHANCED.Description.Name",
+    "content": "LRM10"
+  },
+  {
+    "id": "Weapon_LRM_LRM10_ENHANCED.Description.Manufacturer",
+    "content": "杰克逊"
+  },
+  {
+    "id": "Weapon_LRM_LRM10_ENHANCED.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_LRM_LRM10_ENHANCED.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_LRM_LRM10_EXTENDED.Description.Details",
+    "content": "增程LRM(ELRM)系统由联邦的工程师设计. ELRM将标准LRM与助推器系统匹配,从而为导弹提供更多燃料,以增加射程. 抵消射程优势的是,武器的最低射程增加了50%以上,在加上弹容量减少且发射器更重、更笨重. "
+  },
+  {
+    "id": "Weapon_LRM_LRM10_EXTENDED.Description.UIName",
+    "content": "ELRM/10 高速自动炮"
+  },
+  {
+    "id": "Weapon_LRM_LRM10_EXTENDED.Description.Name",
+    "content": "LRM/10 高速自动炮"
+  },
+  {
+    "id": "Weapon_LRM_LRM10_EXTENDED.Description.Manufacturer",
+    "content": "杰克逊"
+  },
+  {
+    "id": "Weapon_LRM_LRM10_EXTENDED.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_LRM_LRM10_EXTENDED.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_LRM_LRM15_ENHANCED.Description.Details",
+    "content": "增强型远程导弹是联邦为了应对氏族性能卓越的武器而开发的. 这些新型远程导弹使用更复杂的武装机制来提高其在近距离的生存能力. 结果是,与远程导弹相比,盲点小得多,同时仍保持相同的远程功能. 虽然没有最低射程,但在近距离下伤害会大大降低"
+  },
+  {
+    "id": "Weapon_LRM_LRM15_ENHANCED.Description.UIName",
+    "content": "增强LRM15"
+  },
+  {
+    "id": "Weapon_LRM_LRM15_ENHANCED.Description.Name",
+    "content": "LRM15"
+  },
+  {
+    "id": "Weapon_LRM_LRM15_ENHANCED.Description.Manufacturer",
+    "content": "Irian"
+  },
+  {
+    "id": "Weapon_LRM_LRM15_ENHANCED.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_LRM_LRM15_ENHANCED.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_LRM_LRM15_EXTENDED.Description.Details",
+    "content": "增程LRM(ELRM)系统由联邦的工程师设计. ELRM将标准LRM与助推器系统匹配,从而为导弹提供更多燃料,以增加射程. 抵消射程优势的是,武器的最低射程增加了50%以上,在加上弹容量减少且发射器更重、更笨重. "
+  },
+  {
+    "id": "Weapon_LRM_LRM15_EXTENDED.Description.UIName",
+    "content": "ELRM/15 高速自动炮"
+  },
+  {
+    "id": "Weapon_LRM_LRM15_EXTENDED.Description.Name",
+    "content": "LRM/15 高速自动炮"
+  },
+  {
+    "id": "Weapon_LRM_LRM15_EXTENDED.Description.Manufacturer",
+    "content": "Irian"
+  },
+  {
+    "id": "Weapon_LRM_LRM15_EXTENDED.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_LRM_LRM15_EXTENDED.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_LRM_LRM20_ENHANCED.Description.Details",
+    "content": "增强型远程导弹是联邦为了应对氏族性能卓越的武器而开发的. 这些新型远程导弹使用更复杂的武装机制来提高其在近距离的生存能力. 结果是,与远程导弹相比,盲点小得多,同时仍保持相同的远程功能. 虽然没有最低射程,但在近距离下伤害会大大降低"
+  },
+  {
+    "id": "Weapon_LRM_LRM20_ENHANCED.Description.UIName",
+    "content": "增强LRM20"
+  },
+  {
+    "id": "Weapon_LRM_LRM20_ENHANCED.Description.Name",
+    "content": "LRM20"
+  },
+  {
+    "id": "Weapon_LRM_LRM20_ENHANCED.Description.Manufacturer",
+    "content": "杰克逊"
+  },
+  {
+    "id": "Weapon_LRM_LRM20_ENHANCED.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_LRM_LRM20_ENHANCED.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_LRM_LRM20_EXTENDED.Description.Details",
+    "content": "增程LRM(ELRM)系统由联邦的工程师设计. ELRM将标准LRM与助推器系统匹配,从而为导弹提供更多燃料,以增加射程. 抵消射程优势的是,武器的最低射程增加了50%以上,在加上弹容量减少且发射器更重、更笨重. "
+  },
+  {
+    "id": "Weapon_LRM_LRM20_EXTENDED.Description.UIName",
+    "content": "ELRM/20 高速自动炮"
+  },
+  {
+    "id": "Weapon_LRM_LRM20_EXTENDED.Description.Name",
+    "content": "LRM/20 高速自动炮"
+  },
+  {
+    "id": "Weapon_LRM_LRM20_EXTENDED.Description.Manufacturer",
+    "content": "杰克逊"
+  },
+  {
+    "id": "Weapon_LRM_LRM20_EXTENDED.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_LRM_LRM20_EXTENDED.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_LRM_LRM5_ENHANCED.Description.Details",
+    "content": "增强型远程导弹是联邦为了应对氏族性能卓越的武器而开发的. 这些新型远程导弹使用更复杂的武装机制来提高其在近距离的生存能力. 结果是,与远程导弹相比,盲点小得多,同时仍保持相同的远程功能. 虽然没有最低射程,但在近距离下伤害会大大降低"
+  },
+  {
+    "id": "Weapon_LRM_LRM5_ENHANCED.Description.UIName",
+    "content": "增强LRM5"
+  },
+  {
+    "id": "Weapon_LRM_LRM5_ENHANCED.Description.Name",
+    "content": "LRM5"
+  },
+  {
+    "id": "Weapon_LRM_LRM5_ENHANCED.Description.Manufacturer",
+    "content": "Irian"
+  },
+  {
+    "id": "Weapon_LRM_LRM5_ENHANCED.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_LRM_LRM5_ENHANCED.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_LRM_LRM5_EXTENDED.Description.Details",
+    "content": "增程LRM(ELRM)系统由联邦的工程师设计. ELRM将标准LRM与助推器系统匹配,从而为导弹提供更多燃料,以增加射程. 抵消射程优势的是,武器的最低射程增加了50%以上,在加上弹容量减少且发射器更重、更笨重. "
+  },
+  {
+    "id": "Weapon_LRM_LRM5_EXTENDED.Description.UIName",
+    "content": "ELRM/5 高速自动炮"
+  },
+  {
+    "id": "Weapon_LRM_LRM5_EXTENDED.Description.Name",
+    "content": "LRM/5 高速自动炮"
+  },
+  {
+    "id": "Weapon_LRM_LRM5_EXTENDED.Description.Manufacturer",
+    "content": "Irian"
+  },
+  {
+    "id": "Weapon_LRM_LRM5_EXTENDED.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_LRM_LRM5_EXTENDED.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_LRM_Thunderbolt10.Description.Details",
+    "content": "霹雳火发射器是标准LRM技术的一个分支. 霹雳火发射装置不是发射多组导弹,而是发射一枚导弹.\n\n<b><color=#ffcc00>使用霹雳火10弹药</color></b>."
+  },
+  {
+    "id": "Weapon_LRM_Thunderbolt10.Description.UIName",
+    "content": "霹雳火10"
+  },
+  {
+    "id": "Weapon_LRM_Thunderbolt10.Description.Name",
+    "content": "霹雳火10"
+  },
+  {
+    "id": "Weapon_LRM_Thunderbolt10.Description.Manufacturer",
+    "content": "NAIS"
+  },
+  {
+    "id": "Weapon_LRM_Thunderbolt15.Description.Details",
+    "content": "霹雳火发射器是标准LRM技术的一个分支. 霹雳火发射装置不是发射多组导弹,而是发射一枚导弹.\n\n<b><color=#ffcc00>使用霹雳火15弹药</color></b>."
+  },
+  {
+    "id": "Weapon_LRM_Thunderbolt15.Description.UIName",
+    "content": "霹雳火15"
+  },
+  {
+    "id": "Weapon_LRM_Thunderbolt15.Description.Name",
+    "content": "TBM15"
+  },
+  {
+    "id": "Weapon_LRM_Thunderbolt15.Description.Manufacturer",
+    "content": "NAIS"
+  },
+  {
+    "id": "Weapon_LRM_Thunderbolt20.Description.Details",
+    "content": "霹雳火发射器是标准LRM技术的一个分支. 霹雳火发射装置不是发射多组导弹,而是发射一枚导弹.\n\n<b><color=#ffcc00>使用霹雳火20弹药</color></b>."
+  },
+  {
+    "id": "Weapon_LRM_Thunderbolt20.Description.UIName",
+    "content": "霹雳火20"
+  },
+  {
+    "id": "Weapon_LRM_Thunderbolt20.Description.Name",
+    "content": "TBM20"
+  },
+  {
+    "id": "Weapon_LRM_Thunderbolt20.Description.Manufacturer",
+    "content": "NAIS"
+  },
+  {
+    "id": "Weapon_LRM_Thunderbolt5.Description.Details",
+    "content": "霹雳火发射器是标准LRM技术的一个分支. 霹雳火发射装置不是发射多组导弹,而是发射一枚导弹.\n\n<b><color=#ffcc00>使用霹雳火5弹药</color></b>."
+  },
+  {
+    "id": "Weapon_LRM_Thunderbolt5.Description.UIName",
+    "content": "霹雳火5"
+  },
+  {
+    "id": "Weapon_LRM_Thunderbolt5.Description.Name",
+    "content": "TBM5"
+  },
+  {
+    "id": "Weapon_LRM_Thunderbolt5.Description.Manufacturer",
+    "content": "NAIS"
+  },
+  {
+    "id": "Weapon_MachineGun_ARRAY.Description.Details",
+    "content": "机枪阵列是多支机枪连接在一起同时开火,由4支机枪组成.\n\n<b><color=#ffcc00>使用机枪弹药</color></b>. "
+  },
+  {
+    "id": "Weapon_MachineGun_ARRAY.Description.UIName",
+    "content": "机枪阵列"
+  },
+  {
+    "id": "Weapon_MachineGun_ARRAY.Description.Name",
+    "content": "机枪阵列"
+  },
+  {
+    "id": "Weapon_MachineGun_ARRAY.Description.Manufacturer",
+    "content": "斯佩里·勃朗宁"
+  },
+  {
+    "id": "Weapon_MachineGun_ARRAY_HEAVY.Description.Details",
+    "content": "机枪阵列是多支机枪连接在一起同时开火,由3支重机枪组成.氏族版本在更高的开火频率下也不容易卡壳.\n\n<b><color=#ffcc00>使用重机枪弹药</color></b> <b><color=#00ffff>左键点击 数量/伤害 以切换射击模式</color> </b>"
+  },
+  {
+    "id": "Weapon_MachineGun_ARRAY_HEAVY.Description.UIName",
+    "content": "重机枪阵列"
+  },
+  {
+    "id": "Weapon_MachineGun_ARRAY_HEAVY.Description.Name",
+    "content": "重机枪阵列"
+  },
+  {
+    "id": "Weapon_MachineGun_ARRAY_HEAVY.Description.Manufacturer",
+    "content": "斯佩里·勃朗宁"
+  },
+  {
+    "id": "Weapon_MachineGun_ARRAY_LIGHT.Description.Details",
+    "content": "机枪阵列是多支机枪连接在一起同时开火,由4支轻机枪组成.\n\n<b><color=#ffcc00>使用轻机枪弹药</color></b> <b><color=#00ffff>左键点击 数量/伤害 以切换射击模式</color> </b>"
+  },
+  {
+    "id": "Weapon_MachineGun_ARRAY_LIGHT.Description.UIName",
+    "content": "轻机枪阵列 "
+  },
+  {
+    "id": "Weapon_MachineGun_ARRAY_LIGHT.Description.Name",
+    "content": "轻机枪阵列"
+  },
+  {
+    "id": "Weapon_MachineGun_ARRAY_LIGHT.Description.Manufacturer",
+    "content": "斯佩里·勃朗宁"
+  },
+  {
+    "id": "Weapon_MachineGun_Blackwell.Description.Details",
+    "content": "机枪造成的伤害非常低,射程非常有限,并且依赖于不稳定的弹药. 然而,当他们撞击已剥去装甲的目标时,造成严重损伤的机率大大增加.\n\n<b><color=#ffcc00>使用机枪弹药</color></b>. "
+  },
+  {
+    "id": "Weapon_MachineGun_Blackwell.Description.UIName",
+    "content": "机枪 +"
+  },
+  {
+    "id": "Weapon_MachineGun_Blackwell.Description.Name",
+    "content": "机枪 +"
+  },
+  {
+    "id": "Weapon_MachineGun_Blackwell.Description.Manufacturer",
+    "content": "Blackwell"
+  },
+  {
+    "id": "Weapon_MachineGun_HEAVY.Description.Details",
+    "content": "顾名思义,重机枪(HMG)与其说是机枪(MG),不如说是自动榴弹发射器. HMG造成的伤害更大,穿透和摧毁关键部件的机会更大,但重量是普通机枪的两倍,并且存在后座问题.\n\n<b><color=#ffcc00>使用重机枪弹药</color></b>. "
+  },
+  {
+    "id": "Weapon_MachineGun_HEAVY.Description.UIName",
+    "content": "重机枪"
+  },
+  {
+    "id": "Weapon_MachineGun_HEAVY.Description.Name",
+    "content": "重机枪"
+  },
+  {
+    "id": "Weapon_MachineGun_HEAVY.Description.Manufacturer",
+    "content": "斯佩里·勃朗宁"
+  },
+  {
+    "id": "Weapon_MachineGun_LIGHT.Description.Details",
+    "content": "轻机枪(LMG)发射小口径炮弹,但拥有比标准机枪更高的射速和更大的射程.\n\n<b><color=#ffcc00>使用轻机枪弹药</color></b>. "
+  },
+  {
+    "id": "Weapon_MachineGun_LIGHT.Description.UIName",
+    "content": "轻机枪"
+  },
+  {
+    "id": "Weapon_MachineGun_LIGHT.Description.Name",
+    "content": "轻机枪"
+  },
+  {
+    "id": "Weapon_MachineGun_LIGHT.Description.Manufacturer",
+    "content": "斯佩里·勃朗宁"
+  },
+  {
+    "id": "Weapon_MachineGun_MachineGun_Dual.Description.Details",
+    "content": "机枪造成的伤害非常低,射程非常有限,并且依赖于不稳定的弹药. 然而,当他们撞击已剥去装甲的目标时,造成严重损伤的机率大大增加. 这个只是将两个普通机枪焊接在一起,只占用一个挂载点.\n\n<b><color=#ffcc00>U使用机枪弹药</color></b> "
+  },
+  {
+    "id": "Weapon_MachineGun_MachineGun_Dual.Description.UIName",
+    "content": "双管机枪"
+  },
+  {
+    "id": "Weapon_MachineGun_MachineGun_Dual.Description.Name",
+    "content": "双管机枪"
+  },
+  {
+    "id": "Weapon_MachineGun_MachineGun_Dual.Description.Manufacturer",
+    "content": "斯佩里·勃朗宁"
+  },
+  {
+    "id": "Weapon_MECHMORTAR_2.Description.Details",
+    "content": "基于步兵几个世纪以来使用的武器,机甲迫击炮能够以高弧度发射一枚小炮弹落在目标上. 虽然机甲迫击炮是人类霸权发明的,但到了2835年,继承战争已将其变为历史. 随着反导系统的重新引入,工程师们重新提出了机甲迫击炮的概念. 迫击炮使用的弹药,尽管通常是有限制导包,但在测试中没有被AMS系统摧毁. 迫击炮弹的适应性也很强,可以使用多种类型弹药.\n\n<b><color=#ffcc00>使用迫击炮弹药</color></b>"
+  },
+  {
+    "id": "Weapon_MECHMORTAR_2.Description.UIName",
+    "content": "MTR/2 高速自动炮"
+  },
+  {
+    "id": "Weapon_MECHMORTAR_2.Description.Name",
+    "content": "MTR/2 高速自动炮"
+  },
+  {
+    "id": "Weapon_MECHMORTAR_2.Description.Manufacturer",
+    "content": "Valiant"
+  },
+  {
+    "id": "Weapon_MECHMORTAR_4.Description.Details",
+    "content": "基于步兵几个世纪以来使用的武器,机甲迫击炮能够以高弧度发射一枚小炮弹落在目标上. 虽然机甲迫击炮是人类霸权发明的,但到了2835年,继承战争已将其变为历史. 随着反导系统的重新引入,工程师们重新提出了机甲迫击炮的概念. 迫击炮使用的弹药,尽管通常是有限制导包,但在测试中没有被AMS系统摧毁. 迫击炮弹的适应性也很强,可以使用多种类型弹药.\n\n<b><color=#ffcc00>使用迫击炮弹药</color></b>"
+  },
+  {
+    "id": "Weapon_MECHMORTAR_4.Description.UIName",
+    "content": "MTR/4 高速自动炮"
+  },
+  {
+    "id": "Weapon_MECHMORTAR_4.Description.Name",
+    "content": "MTR/4 高速自动炮"
+  },
+  {
+    "id": "Weapon_MECHMORTAR_4.Description.Manufacturer",
+    "content": "独眼巨人公司"
+  },
+  {
+    "id": "Weapon_MECHMORTAR_6.Description.Details",
+    "content": "基于步兵几个世纪以来使用的武器,机甲迫击炮能够以高弧度发射一枚小炮弹落在目标上. 虽然机甲迫击炮是人类霸权发明的,但到了2835年,继承战争已将其变为历史. 随着反导系统的重新引入,工程师们重新提出了机甲迫击炮的概念. 迫击炮使用的弹药,尽管通常是有限制导包,但在测试中没有被AMS系统摧毁. 迫击炮弹的适应性也很强,可以使用多种类型弹药.\n\n<b><color=#ffcc00>使用迫击炮弹药</color></b>"
+  },
+  {
+    "id": "Weapon_MECHMORTAR_6.Description.UIName",
+    "content": "MTR/6 高速自动炮"
+  },
+  {
+    "id": "Weapon_MECHMORTAR_6.Description.Name",
+    "content": "MTR/6 高速自动炮"
+  },
+  {
+    "id": "Weapon_MECHMORTAR_6.Description.Manufacturer",
+    "content": "谷神星金属"
+  },
+  {
+    "id": "Weapon_MECHMORTAR_8.Description.Details",
+    "content": "基于步兵几个世纪以来使用的武器,机甲迫击炮能够以高弧度发射一枚小炮弹落在目标上. 虽然机甲迫击炮是人类霸权发明的,但到了2835年,继承战争已将其变为历史. 随着反导系统的重新引入,工程师们重新提出了机甲迫击炮的概念. 迫击炮使用的弹药,尽管通常是有限制导包,但在测试中没有被AMS系统摧毁. 迫击炮弹的适应性也很强,可以使用多种类型弹药.\n\n<b><color=#ffcc00>使用迫击炮弹药</color></b>"
+  },
+  {
+    "id": "Weapon_MECHMORTAR_8.Description.UIName",
+    "content": "MTR/8 高速自动炮"
+  },
+  {
+    "id": "Weapon_MECHMORTAR_8.Description.Name",
+    "content": "MTR/8 高速自动炮"
+  },
+  {
+    "id": "Weapon_MECHMORTAR_8.Description.Manufacturer",
+    "content": "赫勒海"
+  },
+  {
+    "id": "Weapon_MML_3.Description.Details",
+    "content": "多联装导弹发射器可以发射LRM和SRM,包括任何特殊弹头类型,并与月神IV火控系统兼容.\n\n<b><color=#ffcc00>使用SRM/LRM弹药</color></b>.\n\n<b><color=#00ffff>左键点击弹药可以在战斗中切换SRM/LRM弹药模式</color> </b>."
+  },
+  {
+    "id": "Weapon_MML_3.Description.UIName",
+    "content": "MML3"
+  },
+  {
+    "id": "Weapon_MML_3.Description.Name",
+    "content": "MML3"
+  },
+  {
+    "id": "Weapon_MML_3.Description.Manufacturer",
+    "content": "Irian"
+  },
+  {
+    "id": "Weapon_MML_3.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_MML_3.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_MML_5.Description.Details",
+    "content": "多联装导弹发射器可以发射LRM和SRM,包括任何特殊弹头类型,并与月神IV火控系统兼容.\n\n<b><color=#ffcc00>使用SRM/LRM弹药</color></b>.\n\n<b><color=#00ffff>左键点击弹药可以在战斗中切换SRM/LRM弹药模式</color> </b>."
+  },
+  {
+    "id": "Weapon_MML_5.Description.UIName",
+    "content": "MML5"
+  },
+  {
+    "id": "Weapon_MML_5.Description.Name",
+    "content": "MML5"
+  },
+  {
+    "id": "Weapon_MML_5.Description.Manufacturer",
+    "content": "杰克逊"
+  },
+  {
+    "id": "Weapon_MML_5.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_MML_5.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_MML_7.Description.Details",
+    "content": "多联装导弹发射器可以发射LRM和SRM,包括任何特殊弹头类型,并与月神IV火控系统兼容.\n\n<b><color=#ffcc00>使用SRM/LRM弹药</color></b>.\n\n<b><color=#00ffff>左键点击弹药可以在战斗中切换SRM/LRM弹药模式</color> </b>."
+  },
+  {
+    "id": "Weapon_MML_7.Description.UIName",
+    "content": "MML7"
+  },
+  {
+    "id": "Weapon_MML_7.Description.Name",
+    "content": "MML7"
+  },
+  {
+    "id": "Weapon_MML_7.Description.Manufacturer",
+    "content": "Irian"
+  },
+  {
+    "id": "Weapon_MML_7.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_MML_7.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_MML_9.Description.Details",
+    "content": "多联装导弹发射器可以发射LRM和SRM,包括任何特殊弹头类型,并与月神IV火控系统兼容.\n\n<b><color=#ffcc00>使用SRM/LRM弹药</color></b>.\n\n<b><color=#00ffff>左键点击弹药可以在战斗中切换SRM/LRM弹药模式</color> </b>."
+  },
+  {
+    "id": "Weapon_MML_9.Description.UIName",
+    "content": "MML9"
+  },
+  {
+    "id": "Weapon_MML_9.Description.Name",
+    "content": "MML9"
+  },
+  {
+    "id": "Weapon_MML_9.Description.Manufacturer",
+    "content": "杰克逊"
+  },
+  {
+    "id": "Weapon_MML_9.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_MML_9.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_MRM_10.Description.Details",
+    "content": "中程导弹发射器(MRM)是由Luhine Amor Works的科学家设计的.MRM是死火导弹,发射的方式更像激光,而不是导弹. 为了将尽可能多的到导弹一齐发射,科学家们拆除了它们的制导系统,并使整个整个武器包更小. 尽管这被视为技术发展的一步,但廉价且致命的MRM在天龙联合体和许多雇用兵单位中传播.\n\n<b><color=#ffcc00>使用MRM弹药</color></b>。"
+  },
+  {
+    "id": "Weapon_MRM_10.Description.UIName",
+    "content": "MRM10"
+  },
+  {
+    "id": "Weapon_MRM_10.Description.Name",
+    "content": "MRM10"
+  },
+  {
+    "id": "Weapon_MRM_10.Description.Manufacturer",
+    "content": "香农"
+  },
+  {
+    "id": "Weapon_MRM_20.Description.Details",
+    "content": "中程导弹发射器(MRM)是由Luhine Amor Works的科学家设计的.MRM是死火导弹,发射的方式更像激光,而不是导弹. 为了将尽可能多的到导弹一齐发射,科学家们拆除了它们的制导系统,并使整个整个武器包更小. 尽管这被视为技术发展的一步,但廉价且致命的MRM在天龙联合体和许多雇用兵单位中传播.\n\n<b><color=#ffcc00>使用MRM弹药</color></b>。"
+  },
+  {
+    "id": "Weapon_MRM_20.Description.UIName",
+    "content": "MRM20"
+  },
+  {
+    "id": "Weapon_MRM_20.Description.Name",
+    "content": "MRM20"
+  },
+  {
+    "id": "Weapon_MRM_20.Description.Manufacturer",
+    "content": "斯科贝尔"
+  },
+  {
+    "id": "Weapon_MRM_30.Description.Details",
+    "content": "中程导弹发射器(MRM)是由Luhine Amor Works的科学家设计的.MRM是死火导弹,发射的方式更像激光,而不是导弹. 为了将尽可能多的到导弹一齐发射,科学家们拆除了它们的制导系统,并使整个整个武器包更小. 尽管这被视为技术发展的一步,但廉价且致命的MRM在天龙联合体和许多雇用兵单位中传播.\n\n<b><color=#ffcc00>使用MRM弹药</color></b>。"
+  },
+  {
+    "id": "Weapon_MRM_30.Description.UIName",
+    "content": "MRM30"
+  },
+  {
+    "id": "Weapon_MRM_30.Description.Name",
+    "content": "MRM30"
+  },
+  {
+    "id": "Weapon_MRM_30.Description.Manufacturer",
+    "content": "谷神星/美洲狮"
+  },
+  {
+    "id": "Weapon_MRM_40.Description.Details",
+    "content": "中程导弹发射器(MRM)是由Luhine Amor Works的科学家设计的.MRM是死火导弹,发射的方式更像激光,而不是导弹. 为了将尽可能多的到导弹一齐发射,科学家们拆除了它们的制导系统,并使整个整个武器包更小. 尽管这被视为技术发展的一步,但廉价且致命的MRM在天龙联合体和许多雇用兵单位中传播.\n\n<b><color=#ffcc00>使用MRM弹药</color></b>。"
+  },
+  {
+    "id": "Weapon_MRM_40.Description.UIName",
+    "content": "MRM40"
+  },
+  {
+    "id": "Weapon_MRM_40.Description.Name",
+    "content": "MRM40"
+  },
+  {
+    "id": "Weapon_MRM_40.Description.Manufacturer",
+    "content": "志贡嘎"
+  },
+  {
+    "id": "Weapon_PLASMA.Description.Details",
+    "content": "这个等离子加农炮原型将一个\"等离子泡沫\"弹药加速并加热到激发态,将其转换为等离子体发射,产生巨大的动能和热冲击. \n\n<b><color=#ffcc00>使用等离子弹药</color></b> <b><color=#099ff2>不稳定!</color></b>."
+  },
+  {
+    "id": "Weapon_PLASMA.Description.UIName",
+    "content": "等离子加农炮"
+  },
+  {
+    "id": "Weapon_PLASMA.Description.Name",
+    "content": "等离子加农炮"
+  },
+  {
+    "id": "Weapon_PLASMA.Description.Manufacturer",
+    "content": "胜利"
+  },
+  {
+    "id": "Weapon_PLASMA.PLASMA-Effect.statusEffects0.Details",
+    "content": "高能残渣使散热效率-15%."
+  },
+  {
+    "id": "Weapon_PLASMA.PLASMA-Effect.statusEffects0.Name",
+    "content": "等离子残渣"
+  },
+  {
+    "id": "Weapon_PPC_HEAVY.Description.Details",
+    "content": "重型粒子炮是由天龙联合体开发,是粒子投射加农炮的更大、更强版本,能够对敌人及其传感器造成毁灭性打击.\n\n<b><color=#00ffff>在战斗中左键点击以切换到场抑制器关闭(FIOFF)模式,没有最低射程惩罚,但可能失火.</color> </b>"
+  },
+  {
+    "id": "Weapon_PPC_HEAVY.Description.UIName",
+    "content": "重型粒子炮"
+  },
+  {
+    "id": "Weapon_PPC_HEAVY.Description.Name",
+    "content": "重型粒子炮"
+  },
+  {
+    "id": "Weapon_PPC_HEAVY.Description.Manufacturer",
+    "content": "扶丝贡"
+  },
+  {
+    "id": "Weapon_PPC_HEAVY.AbilityDefPPC.statusEffects0.Details",
+    "content": "电磁干扰降低传感器效率."
+  },
+  {
+    "id": "Weapon_PPC_HEAVY.AbilityDefPPC.statusEffects0.Name",
+    "content": "传感器削弱"
+  },
+  {
+    "id": "Weapon_PPC_HEAVY_CAPACITATOR.Description.Details",
+    "content": "布莱克之道的重型粒子炮设计有内置电容器,'天罚'没有最低射程,且可以在远程下射出更强更具毁灭力的粒子束. \n\n <b><color=#00ffff>在战斗中左键点击以起用电容器.激活电容器会增加伤害、射程,有机会卡壳</color></b>."
+  },
+  {
+    "id": "Weapon_PPC_HEAVY_CAPACITATOR.Description.UIName",
+    "content": "重型电容粒子炮"
+  },
+  {
+    "id": "Weapon_PPC_HEAVY_CAPACITATOR.Description.Name",
+    "content": "HPPC+CAP"
+  },
+  {
+    "id": "Weapon_PPC_HEAVY_CAPACITATOR.Description.Manufacturer",
+    "content": "布莱克之道"
+  },
+  {
+    "id": "Weapon_PPC_HEAVY_CAPACITATOR.AbilityDefPPC.statusEffects0.Details",
+    "content": "电磁干扰降低传感器效率."
+  },
+  {
+    "id": "Weapon_PPC_HEAVY_CAPACITATOR.AbilityDefPPC.statusEffects0.Name",
+    "content": "传感器削弱"
+  },
+  {
+    "id": "Weapon_PPC_LIGHT.Description.Details",
+    "content": "轻型粒子炮是粒子投射炮的较轻版本. 天龙联合体的眼睛表明,它的伤害较小,射程比标准PPC短,但重量不到一半."
+  },
+  {
+    "id": "Weapon_PPC_LIGHT.Description.UIName",
+    "content": "轻型粒子炮"
+  },
+  {
+    "id": "Weapon_PPC_LIGHT.Description.Name",
+    "content": "轻型粒子炮"
+  },
+  {
+    "id": "Weapon_PPC_LIGHT.Description.Manufacturer",
+    "content": "扶丝贡"
+  },
+  {
+    "id": "Weapon_PPC_LIGHT.AbilityDefPPC.statusEffects0.Details",
+    "content": "电磁干扰降低传感器效率."
+  },
+  {
+    "id": "Weapon_PPC_LIGHT.AAAFactor.statusEffects1.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_PPC_LIGHT.AbilityDefPPC.statusEffects0.Name",
+    "content": "传感器削弱"
+  },
+  {
+    "id": "Weapon_PPC_LIGHT.AAAFactor.statusEffects1.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_PPC_LIGHT_CAPACITATOR.Description.Details",
+    "content": "一种和电容器融合的轻型粒子炮"
+  },
+  {
+    "id": "Weapon_PPC_LIGHT_CAPACITATOR.Description.UIName",
+    "content": "轻型电容粒子炮"
+  },
+  {
+    "id": "Weapon_PPC_LIGHT_CAPACITATOR.Description.Name",
+    "content": "轻型电容粒子炮"
+  },
+  {
+    "id": "Weapon_PPC_LIGHT_CAPACITATOR.Description.Manufacturer",
+    "content": "扶丝贡"
+  },
+  {
+    "id": "Weapon_PPC_LIGHT_CAPACITATOR.AbilityDefPPC.statusEffects0.Details",
+    "content": "电磁干扰降低传感器效率."
+  },
+  {
+    "id": "Weapon_PPC_LIGHT_CAPACITATOR.AAAFactor.statusEffects1.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_PPC_LIGHT_CAPACITATOR.AbilityDefPPC.statusEffects0.Name",
+    "content": "传感器削弱"
+  },
+  {
+    "id": "Weapon_PPC_LIGHT_CAPACITATOR.AAAFactor.statusEffects1.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_PPC_SNUBNOSE.Description.Details",
+    "content": "平头PPC和粒子投射炮的关系锯断的霰弹枪和霰弹枪之间的关系一样. 这个版本的PPC比标准PPC稍轻,但其能量释放速度要快得多,导致射程较短,在射程内的伤害能力降低. 一个有趣的副作用是,近射程大幅增加. 比几乎任何其他武器都长."
+  },
+  {
+    "id": "Weapon_PPC_SNUBNOSE.Description.UIName",
+    "content": "平头粒子炮"
+  },
+  {
+    "id": "Weapon_PPC_SNUBNOSE.Description.Name",
+    "content": "平头PPC"
+  },
+  {
+    "id": "Weapon_PPC_SNUBNOSE.Description.Manufacturer",
+    "content": "领主之光"
+  },
+  {
+    "id": "Weapon_PPC_SNUBNOSE.AbilityDefPPC.statusEffects0.Details",
+    "content": "电磁干扰降低传感器效率."
+  },
+  {
+    "id": "Weapon_PPC_SNUBNOSE.AAAFactor.statusEffects1.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_PPC_SNUBNOSE.AbilityDefPPC.statusEffects0.Name",
+    "content": "传感器削弱"
+  },
+  {
+    "id": "Weapon_PPC_SNUBNOSE.AAAFactor.statusEffects1.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Rotary_Autocannon_2.Description.Details",
+    "content": "转轮式自动炮(RAC)仅在一定成都上基于自动炮. 虽然它们有相同的口径,但其发射能力是其标准同类的六倍,使其造成的伤害甚至是超级自动炮的三倍. 同时,发射每增加一次,自动炮产生的热量也会增加,并增加发生卡壳的可能性.\n\n<b><color=#ffcc00>使用RAC2弹药</color></b> "
+  },
+  {
+    "id": "Weapon_Rotary_Autocannon_2.Description.UIName",
+    "content": "转轮AC/2"
+  },
+  {
+    "id": "Weapon_Rotary_Autocannon_2.Description.Name",
+    "content": "RAC2"
+  },
+  {
+    "id": "Weapon_Rotary_Autocannon_2.Description.Manufacturer",
+    "content": "Mydron"
+  },
+  {
+    "id": "Weapon_Rotary_Autocannon_2.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Rotary_Autocannon_2.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Rotary_Autocannon_5.Description.Details",
+    "content": "转轮式自动炮(RAC)仅在一定成都上基于自动炮. 虽然它们有相同的口径,但其发射能力是其标准同类的六倍,使其造成的伤害甚至是超级自动炮的三倍. 同时,发射每增加一次,自动炮产生的热量也会增加,并增加发生卡壳的可能性.\n\n<b><color=#ffcc00>使用RAC5弹药</color></b> "
+  },
+  {
+    "id": "Weapon_Rotary_Autocannon_5.Description.UIName",
+    "content": "转轮AC/5"
+  },
+  {
+    "id": "Weapon_Rotary_Autocannon_5.Description.Name",
+    "content": "RAC5"
+  },
+  {
+    "id": "Weapon_Rotary_Autocannon_5.Description.Manufacturer",
+    "content": "Mydron"
+  },
+  {
+    "id": "Weapon_Rotary_Autocannon_5.AAAFactor.statusEffects0.Details",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_Rotary_Autocannon_5.AAAFactor.statusEffects0.Name",
+    "content": "防空系数"
+  },
+  {
+    "id": "Weapon_SRM_SRM2_I-OS.Description.Details",
+    "content": "改进的SRM2的一次性射击版本.过移除供弹机构,弹药直接储存在内置供弹器中,比原本的SRM2更轻.当然重这装填是不可能的."
+  },
+  {
+    "id": "Weapon_SRM_SRM2_I-OS.Description.UIName",
+    "content": "SRM2(I-OS)"
+  },
+  {
+    "id": "Weapon_SRM_SRM2_I-OS.Description.Name",
+    "content": "SRM2"
+  },
+  {
+    "id": "Weapon_SRM_SRM2_I-OS.Description.Manufacturer",
+    "content": "Holly"
+  },
+  {
+    "id": "Weapon_SRM_SRM2_STREAK.Description.Details",
+    "content": "急射(Streak)SMR2发射器是一种原型SRM,使用先进的主动制导系统来跟踪目标,但代价是产热和重量提高了50%.\n\n<b><color=#ffcc00>使用急射SRM弹药</color></b>."
+  },
+  {
+    "id": "Weapon_SRM_SRM2_STREAK.Description.UIName",
+    "content": "急射SRM2"
+  },
+  {
+    "id": "Weapon_SRM_SRM2_STREAK.Description.Name",
+    "content": "急射SRM2"
+  },
+  {
+    "id": "Weapon_SRM_SRM2_STREAK.Description.Manufacturer",
+    "content": "Holly"
+  },
+  {
+    "id": "Weapon_SRM_SRM4_STREAK.Description.Details",
+    "content": "急射(Streak)SMR4发射器是一种原型SRM,使用先进的主动制导系统来跟踪目标,但代价是产热和重量增加50%.\n\n<b><color=#ffcc00>使用急射SRM弹药</color></b>."
+  },
+  {
+    "id": "Weapon_SRM_SRM4_STREAK.Description.UIName",
+    "content": "急射SRM4"
+  },
+  {
+    "id": "Weapon_SRM_SRM4_STREAK.Description.Name",
+    "content": "急射SRM4"
+  },
+  {
+    "id": "Weapon_SRM_SRM4_STREAK.Description.Manufacturer",
+    "content": "Holly"
+  },
+  {
+    "id": "Weapon_SRM_SRM6_OS.Description.Details",
+    "content": "SRM6是目前可用的最大型短程导弹发射器,具有相当大的威力,同时重量轻. 与其他武器相比,所有SRM6射击的命中率高于平均水平.这是一个一次性版本,只允许发射内部储存的六枚导弹."
+  },
+  {
+    "id": "Weapon_SRM_SRM6_OS.Description.UIName",
+    "content": "SRM6(OS)"
+  },
+  {
+    "id": "Weapon_SRM_SRM6_OS.Description.Name",
+    "content": "SRM6"
+  },
+  {
+    "id": "Weapon_SRM_SRM6_OS.Description.Manufacturer",
+    "content": "塔尔赫斯"
+  },
+  {
+    "id": "Weapon_SRM_SRM6_STREAK.Description.Details",
+    "content": "急射(Streak)SMR4发射器是一种原型SRM,使用先进的主动制导系统来跟踪目标,但代价是产热和重量增加50%.\n\n<b><color=#ffcc00>使用急射SRM弹药</color></b>."
+  },
+  {
+    "id": "Weapon_SRM_SRM6_STREAK.Description.UIName",
+    "content": "急射SRM6"
+  },
+  {
+    "id": "Weapon_SRM_SRM6_STREAK.Description.Name",
+    "content": "急射SRM6"
+  },
+  {
+    "id": "Weapon_SRM_SRM6_STREAK.Description.Manufacturer",
+    "content": "Holly"
+  },
+  {
+    "id": "Weapon_SRM_SRM_iNARC.Description.Details",
+    "content": "该发射器发射一个单独的iNARC信标,将其黏附到敌人身上,并向所有友军武器发射定位信号. \n\n<b><color=#ffcc00>使用iNARC弹药</color></b>."
+  },
+  {
+    "id": "Weapon_SRM_SRM_iNARC.Description.UIName",
+    "content": "iNARC发射器"
+  },
+  {
+    "id": "Weapon_SRM_SRM_iNARC.Description.Name",
+    "content": "iNARC发射器"
+  },
+  {
+    "id": "Weapon_SRM_SRM_iNARC.Description.Manufacturer",
+    "content": "地球工厂"
+  },
+  {
+    "id": "Weapon_SRM_SRM_NARC.Description.Details",
+    "content": "该发射器发射一个单独的NARC信标,将其黏附到敌人身上,并向所有友军武器发射定位信号. \n\n<b><color=#ffcc00>使用NARC弹药</color></b>."
+  },
+  {
+    "id": "Weapon_SRM_SRM_NARC.Description.UIName",
+    "content": "NARC发射器"
+  },
+  {
+    "id": "Weapon_SRM_SRM_NARC.Description.Name",
+    "content": "城市猎人发射系统"
+  },
+  {
+    "id": "Weapon_SRM_SRM_NARC.Description.Manufacturer",
+    "content": "地球工厂"
+  },
+  {
+    "id": "Weapon_Suspicious_Cargo.Description.Details",
+    "content": "这只是捆在一起的几吨炸药"
+  },
+  {
+    "id": "Weapon_Suspicious_Cargo.Description.UIName",
+    "content": "可疑货物"
+  },
+  {
+    "id": "Weapon_Suspicious_Cargo.Description.Name",
+    "content": "大量爆炸"
+  },
+  {
+    "id": "Weapon_Suspicious_Cargo.Description.Manufacturer",
+    "content": "刮板机"
+  },
+  {
+    "id": "Weapon_Suspicious_Cargo.CargExplodeChance.statusEffects0.Details",
+    "content": "引擎发出轰鸣"
+  },
+  {
+    "id": "Weapon_Suspicious_Cargo.CargExplodeDmg.statusEffects1.Details",
+    "content": "引擎发出轰鸣"
+  },
+  {
+    "id": "Weapon_Suspicious_Cargo.CargExplodeRange.statusEffects2.Details",
+    "content": "引擎发出轰鸣"
+  },
+  {
+    "id": "Weapon_Suspicious_Cargo.CargExplodeDmg.statusEffects3.Details",
+    "content": "引擎发出轰鸣"
+  },
+  {
+    "id": "Weapon_Suspicious_Cargo.CargExplodeChance.statusEffects0.Name",
+    "content": "自杀炸弹"
+  },
+  {
+    "id": "Weapon_Suspicious_Cargo.CargExplodeDmg.statusEffects1.Name",
+    "content": "自杀炸弹"
+  },
+  {
+    "id": "Weapon_Suspicious_Cargo.CargExplodeRange.statusEffects2.Name",
+    "content": "自杀炸弹"
+  },
+  {
+    "id": "Weapon_Suspicious_Cargo.CargExplodeDmg.statusEffects3.Name",
+    "content": "自杀炸弹"
+  },
+  {
+    "id": "Weapon_Suspicious_Cargo_Firebomb.Description.Details",
+    "content": "这不过是捆在一起的几吨易燃易暴物品"
+  },
+  {
+    "id": "Weapon_Suspicious_Cargo_Firebomb.Description.UIName",
+    "content": "燃料罐"
+  },
+  {
+    "id": "Weapon_Suspicious_Cargo_Firebomb.Description.Name",
+    "content": "燃烧炸弹"
+  },
+  {
+    "id": "Weapon_Suspicious_Cargo_Firebomb.Description.Manufacturer",
+    "content": "刮板机"
+  },
+  {
+    "id": "Weapon_Suspicious_Cargo_Firebomb.Effect_InfernoHeat.statusEffects0.Details",
+    "content": "该单位被易燃化学物质覆盖,下次激活时获得15热量."
+  },
+  {
+    "id": "Weapon_Suspicious_Cargo_Firebomb.CargExplodeChance.statusEffects1.Details",
+    "content": "引擎发出轰鸣"
+  },
+  {
+    "id": "Weapon_Suspicious_Cargo_Firebomb.CargExplodeDmg.statusEffects2.Details",
+    "content": "引擎发出轰鸣"
+  },
+  {
+    "id": "Weapon_Suspicious_Cargo_Firebomb.CargExplodeHeat.statusEffects3.Details",
+    "content": "引擎发出轰鸣"
+  },
+  {
+    "id": "Weapon_Suspicious_Cargo_Firebomb.CargExplodeRange.statusEffects4.Details",
+    "content": "引擎发出轰鸣"
+  },
+  {
+    "id": "Weapon_Suspicious_Cargo_Firebomb.CargExplodeDmg.statusEffects5.Details",
+    "content": "引擎发出轰鸣"
+  },
+  {
+    "id": "Weapon_Suspicious_Cargo_Firebomb.CargExplodeFireStr.statusEffects6.Details",
+    "content": "引擎发出轰鸣"
+  },
+  {
+    "id": "Weapon_Suspicious_Cargo_Firebomb.CargExplodeFireAOE.statusEffects7.Details",
+    "content": "引擎发出轰鸣"
+  },
+  {
+    "id": "Weapon_Suspicious_Cargo_Firebomb.CargExplodeFireDuration.statusEffects8.Details",
+    "content": "引擎发出轰鸣"
+  },
+  {
+    "id": "Weapon_Suspicious_Cargo_Firebomb.Effect_InfernoHeat.statusEffects0.Name",
+    "content": "炼狱"
+  },
+  {
+    "id": "Weapon_Suspicious_Cargo_Firebomb.CargExplodeChance.statusEffects1.Name",
+    "content": "自杀炸弹"
+  },
+  {
+    "id": "Weapon_Suspicious_Cargo_Firebomb.CargExplodeDmg.statusEffects2.Name",
+    "content": "自杀炸弹"
+  },
+  {
+    "id": "Weapon_Suspicious_Cargo_Firebomb.CargExplodeHeat.statusEffects3.Name",
+    "content": "自杀炸弹"
+  },
+  {
+    "id": "Weapon_Suspicious_Cargo_Firebomb.CargExplodeRange.statusEffects4.Name",
+    "content": "自杀炸弹"
+  },
+  {
+    "id": "Weapon_Suspicious_Cargo_Firebomb.CargExplodeDmg.statusEffects5.Name",
+    "content": "自杀炸弹"
+  },
+  {
+    "id": "Weapon_Suspicious_Cargo_Firebomb.CargExplodeFireStr.statusEffects6.Name",
+    "content": "自杀炸弹"
+  },
+  {
+    "id": "Weapon_Suspicious_Cargo_Firebomb.CargExplodeFireAOE.statusEffects7.Name",
+    "content": "自杀炸弹"
+  },
+  {
+    "id": "Weapon_Suspicious_Cargo_Firebomb.CargExplodeFireDuration.statusEffects8.Name",
+    "content": "自杀炸弹"
+  },
+  {
+    "id": "Weapon_Suspicious_Cargo_Nuke.Description.Details",
+    "content": "嗯... 这是一个带有大红色按钮的脏弹"
+  },
+  {
+    "id": "Weapon_Suspicious_Cargo_Nuke.Description.UIName",
+    "content": "裂变反应堆"
+  },
+  {
+    "id": "Weapon_Suspicious_Cargo_Nuke.Description.Name",
+    "content": "大量爆炸"
+  },
+  {
+    "id": "Weapon_Suspicious_Cargo_Nuke.Description.Manufacturer",
+    "content": "刮板机"
+  },
+  {
+    "id": "Weapon_Suspicious_Cargo_Nuke.CargExplodeChance.statusEffects0.Details",
+    "content": "引擎发出轰鸣"
+  },
+  {
+    "id": "Weapon_Suspicious_Cargo_Nuke.CargExplodeDmg.statusEffects1.Details",
+    "content": "引擎发出轰鸣"
+  },
+  {
+    "id": "Weapon_Suspicious_Cargo_Nuke.CargExplodeRange.statusEffects2.Details",
+    "content": "引擎发出轰鸣"
+  },
+  {
+    "id": "Weapon_Suspicious_Cargo_Nuke.CargExplodeDmg.statusEffects3.Details",
+    "content": "引擎发出轰鸣"
+  },
+  {
+    "id": "Weapon_Suspicious_Cargo_Nuke.CargExplodeFireStr.statusEffects4.Details",
+    "content": "引擎发出轰鸣"
+  },
+  {
+    "id": "Weapon_Suspicious_Cargo_Nuke.CargExplodeFireAOE.statusEffects5.Details",
+    "content": "引擎发出轰鸣"
+  },
+  {
+    "id": "Weapon_Suspicious_Cargo_Nuke.CargExplodeFireDuration.statusEffects6.Details",
+    "content": "引擎发出轰鸣"
+  },
+  {
+    "id": "Weapon_Suspicious_Cargo_Nuke.CargExplodeChance.statusEffects0.Name",
+    "content": "自杀炸弹"
+  },
+  {
+    "id": "Weapon_Suspicious_Cargo_Nuke.CargExplodeDmg.statusEffects1.Name",
+    "content": "自杀炸弹"
+  },
+  {
+    "id": "Weapon_Suspicious_Cargo_Nuke.CargExplodeRange.statusEffects2.Name",
+    "content": "自杀炸弹"
+  },
+  {
+    "id": "Weapon_Suspicious_Cargo_Nuke.CargExplodeDmg.statusEffects3.Name",
+    "content": "自杀炸弹"
+  },
+  {
+    "id": "Weapon_Suspicious_Cargo_Nuke.CargExplodeFireStr.statusEffects4.Name",
+    "content": "自杀炸弹"
+  },
+  {
+    "id": "Weapon_Suspicious_Cargo_Nuke.CargExplodeFireAOE.statusEffects5.Name",
+    "content": "自杀炸弹"
+  },
+  {
+    "id": "Weapon_Suspicious_Cargo_Nuke.CargExplodeFireDuration.statusEffects6.Name",
+    "content": "自杀炸弹"
+  },
+  {
+    "id": "Weapon_VehicleGrenadeLauncher.Description.Details",
+    "content": "手榴弹发射器基于步兵几个世纪以来的武器,以高弧度发射一枚落在目标上的小炮弹,\n\n<b><color=#ffcc00>使用迫击炮弹药</color></b>"
+  },
+  {
+    "id": "Weapon_VehicleGrenadeLauncher.Description.UIName",
+    "content": "手榴弹发射器"
+  },
+  {
+    "id": "Weapon_VehicleGrenadeLauncher.Description.Name",
+    "content": "手榴弹发射器"
+  },
+  {
+    "id": "Weapon_VehicleGrenadeLauncher.Description.Manufacturer",
+    "content": "Valiant"
+  }
+]

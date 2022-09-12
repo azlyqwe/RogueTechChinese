@@ -1,0 +1,1450 @@
+[
+  {
+    "id": "Gear_JumpJet_Mechanical_1.Description.Details",
+    "content": "战斗机甲机械跳跃助推器目的是为了提供简单、无热的跳跃能力.和普通跳跃推进器不同,这些机械式跳跃助推器本质上是巨大的液压油缸和充当巨大弹簧的人工肌肉束."
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_1.Description.UIName",
+    "content": "机械式跳跃系统(1)"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_1.Description.Name",
+    "content": "机械式跳跃系统"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_1.Description.Manufacturer",
+    "content": "NAIS"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_1.MechJJJumpPenalty.statusEffects0.Details",
+    "content": "跳跃后造成伤害增加20%,跳跃距离增加20%"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_1.MechJJDFAPenaltyDamage.statusEffects1.Details",
+    "content": "DAF造成额外10%伤害"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_1.MechJJDFAPenaltySelfDamage.statusEffects2.Details",
+    "content": "DFA减少10%自伤."
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_1.MechJJDFAPenaltyAcc.statusEffects3.Details",
+    "content": "DFA减少10%自伤."
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_1.StatusEffect-JumpHeat.statusEffects4.Details",
+    "content": "这个跳跃推进器每格产热"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_1.StatusEffect-JumpAmount.statusEffects5.Details",
+    "content": "最大跳跃推进器量每行走里程"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_1.StatusEffect-RotationPenalty.statusEffects6.Details",
+    "content": "不能改变朝向"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_1.MechJJJumpPenalty.statusEffects0.Name",
+    "content": "矢量推进套件"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_1.MechJJDFAPenaltyDamage.statusEffects1.Name",
+    "content": "DAF伤害提升"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_1.MechJJDFAPenaltySelfDamage.statusEffects2.Name",
+    "content": "降低DFA自伤"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_1.MechJJDFAPenaltyAcc.statusEffects3.Name",
+    "content": "降低DFA自伤"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_1.StatusEffect-JumpHeat.statusEffects4.Name",
+    "content": "跳跃推进器热量"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_1.StatusEffect-JumpAmount.statusEffects5.Name",
+    "content": "跳跃推进器量"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_1.StatusEffect-RotationPenalty.statusEffects6.Name",
+    "content": "只能直线跳跃"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_10.Description.Details",
+    "content": "战斗机甲机械跳跃助推器目的是为了提供简单、无热的跳跃能力.和普通跳跃推进器不同,这些机械式跳跃助推器本质上是巨大的液压油缸和充当巨大弹簧的人工肌肉束."
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_10.Description.UIName",
+    "content": "机械式跳跃系统(10)"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_10.Description.Name",
+    "content": "机械式跳跃系统"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_10.Description.Manufacturer",
+    "content": "NAIS"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_10.MechJJJumpPenalty.statusEffects0.Details",
+    "content": "跳跃后造成伤害增加20%,跳跃距离增加20%"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_10.MechJJDFAPenaltyDamage.statusEffects1.Details",
+    "content": "DAF造成额外10%伤害"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_10.MechJJDFAPenaltySelfDamage.statusEffects2.Details",
+    "content": "DFA减少10%自伤."
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_10.MechJJDFAPenaltyAcc.statusEffects3.Details",
+    "content": "DFA减少10%自伤."
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_10.StatusEffect-JumpHeat.statusEffects4.Details",
+    "content": "这个跳跃推进器每格产热"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_10.StatusEffect-JumpAmount.statusEffects5.Details",
+    "content": "最大跳跃推进器量每行走里程"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_10.StatusEffect-RotationPenalty.statusEffects6.Details",
+    "content": "不能改变朝向"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_10.MechJJJumpPenalty.statusEffects0.Name",
+    "content": "矢量推进套件"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_10.MechJJDFAPenaltyDamage.statusEffects1.Name",
+    "content": "DAF伤害提升"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_10.MechJJDFAPenaltySelfDamage.statusEffects2.Name",
+    "content": "降低DFA自伤"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_10.MechJJDFAPenaltyAcc.statusEffects3.Name",
+    "content": "降低DFA自伤"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_10.StatusEffect-JumpHeat.statusEffects4.Name",
+    "content": "跳跃推进器热量"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_10.StatusEffect-JumpAmount.statusEffects5.Name",
+    "content": "跳跃推进器量"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_10.StatusEffect-RotationPenalty.statusEffects6.Name",
+    "content": "只能直线跳跃"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_2.Description.Details",
+    "content": "战斗机甲机械跳跃助推器目的是为了提供简单、无热的跳跃能力.和普通跳跃推进器不同,这些机械式跳跃助推器本质上是巨大的液压油缸和充当巨大弹簧的人工肌肉束."
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_2.Description.UIName",
+    "content": "机械式跳跃系统(2)"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_2.Description.Name",
+    "content": "机械式跳跃系统"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_2.Description.Manufacturer",
+    "content": "NAIS"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_2.MechJJJumpPenalty.statusEffects0.Details",
+    "content": "跳跃后造成伤害增加20%,跳跃距离增加20%"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_2.MechJJDFAPenaltyDamage.statusEffects1.Details",
+    "content": "DAF造成额外10%伤害"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_2.MechJJDFAPenaltySelfDamage.statusEffects2.Details",
+    "content": "DFA减少10%自伤."
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_2.MechJJDFAPenaltyAcc.statusEffects3.Details",
+    "content": "DFA减少10%自伤."
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_2.StatusEffect-JumpHeat.statusEffects4.Details",
+    "content": "这个跳跃推进器每格产热"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_2.StatusEffect-JumpAmount.statusEffects5.Details",
+    "content": "最大跳跃推进器量每行走里程"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_2.StatusEffect-RotationPenalty.statusEffects6.Details",
+    "content": "不能改变朝向"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_2.MechJJJumpPenalty.statusEffects0.Name",
+    "content": "矢量推进套件"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_2.MechJJDFAPenaltyDamage.statusEffects1.Name",
+    "content": "DAF伤害提升"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_2.MechJJDFAPenaltySelfDamage.statusEffects2.Name",
+    "content": "降低DFA自伤"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_2.MechJJDFAPenaltyAcc.statusEffects3.Name",
+    "content": "降低DFA自伤"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_2.StatusEffect-JumpHeat.statusEffects4.Name",
+    "content": "跳跃推进器热量"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_2.StatusEffect-JumpAmount.statusEffects5.Name",
+    "content": "跳跃推进器量"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_2.StatusEffect-RotationPenalty.statusEffects6.Name",
+    "content": "只能直线跳跃"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_3.Description.Details",
+    "content": "战斗机甲机械跳跃助推器目的是为了提供简单、无热的跳跃能力.和普通跳跃推进器不同,这些机械式跳跃助推器本质上是巨大的液压油缸和充当巨大弹簧的人工肌肉束."
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_3.Description.UIName",
+    "content": "机械式跳跃系统(3)"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_3.Description.Name",
+    "content": "机械式跳跃系统"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_3.Description.Manufacturer",
+    "content": "NAIS"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_3.MechJJJumpPenalty.statusEffects0.Details",
+    "content": "跳跃后造成伤害增加20%,跳跃距离增加20%"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_3.MechJJDFAPenaltyDamage.statusEffects1.Details",
+    "content": "DAF造成额外10%伤害"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_3.MechJJDFAPenaltySelfDamage.statusEffects2.Details",
+    "content": "DFA减少10%自伤."
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_3.MechJJDFAPenaltyAcc.statusEffects3.Details",
+    "content": "DFA减少10%自伤."
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_3.StatusEffect-JumpHeat.statusEffects4.Details",
+    "content": "这个跳跃推进器每格产热"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_3.StatusEffect-JumpAmount.statusEffects5.Details",
+    "content": "最大跳跃推进器量每行走里程"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_3.StatusEffect-RotationPenalty.statusEffects6.Details",
+    "content": "不能改变朝向"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_3.MechJJJumpPenalty.statusEffects0.Name",
+    "content": "矢量推进套件"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_3.MechJJDFAPenaltyDamage.statusEffects1.Name",
+    "content": "DAF伤害提升"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_3.MechJJDFAPenaltySelfDamage.statusEffects2.Name",
+    "content": "降低DFA自伤"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_3.MechJJDFAPenaltyAcc.statusEffects3.Name",
+    "content": "降低DFA自伤"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_3.StatusEffect-JumpHeat.statusEffects4.Name",
+    "content": "跳跃推进器热量"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_3.StatusEffect-JumpAmount.statusEffects5.Name",
+    "content": "跳跃推进器量"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_3.StatusEffect-RotationPenalty.statusEffects6.Name",
+    "content": "只能直线跳跃"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_4.Description.Details",
+    "content": "战斗机甲机械跳跃助推器目的是为了提供简单、无热的跳跃能力.和普通跳跃推进器不同,这些机械式跳跃助推器本质上是巨大的液压油缸和充当巨大弹簧的人工肌肉束."
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_4.Description.UIName",
+    "content": "机械式跳跃系统(4)"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_4.Description.Name",
+    "content": "机械式跳跃系统"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_4.Description.Manufacturer",
+    "content": "NAIS"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_4.MechJJJumpPenalty.statusEffects0.Details",
+    "content": "跳跃后造成伤害增加20%,跳跃距离增加20%"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_4.MechJJDFAPenaltyDamage.statusEffects1.Details",
+    "content": "DAF造成额外10%伤害"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_4.MechJJDFAPenaltySelfDamage.statusEffects2.Details",
+    "content": "DFA减少10%自伤."
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_4.MechJJDFAPenaltyAcc.statusEffects3.Details",
+    "content": "DFA减少10%自伤."
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_4.StatusEffect-JumpHeat.statusEffects4.Details",
+    "content": "这个跳跃推进器每格产热"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_4.StatusEffect-JumpAmount.statusEffects5.Details",
+    "content": "最大跳跃推进器量每行走里程"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_4.StatusEffect-RotationPenalty.statusEffects6.Details",
+    "content": "不能改变朝向"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_4.MechJJJumpPenalty.statusEffects0.Name",
+    "content": "矢量推进套件"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_4.MechJJDFAPenaltyDamage.statusEffects1.Name",
+    "content": "DAF伤害提升"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_4.MechJJDFAPenaltySelfDamage.statusEffects2.Name",
+    "content": "降低DFA自伤"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_4.MechJJDFAPenaltyAcc.statusEffects3.Name",
+    "content": "降低DFA自伤"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_4.StatusEffect-JumpHeat.statusEffects4.Name",
+    "content": "跳跃推进器热量"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_4.StatusEffect-JumpAmount.statusEffects5.Name",
+    "content": "跳跃推进器量"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_4.StatusEffect-RotationPenalty.statusEffects6.Name",
+    "content": "只能直线跳跃"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_5.Description.Details",
+    "content": "战斗机甲机械跳跃助推器目的是为了提供简单、无热的跳跃能力.和普通跳跃推进器不同,这些机械式跳跃助推器本质上是巨大的液压油缸和充当巨大弹簧的人工肌肉束."
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_5.Description.UIName",
+    "content": "机械式跳跃系统(5)"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_5.Description.Name",
+    "content": "机械式跳跃系统"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_5.Description.Manufacturer",
+    "content": "NAIS"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_5.MechJJJumpPenalty.statusEffects0.Details",
+    "content": "跳跃后造成伤害增加20%,跳跃距离增加20%"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_5.MechJJDFAPenaltyDamage.statusEffects1.Details",
+    "content": "DAF造成额外10%伤害"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_5.MechJJDFAPenaltySelfDamage.statusEffects2.Details",
+    "content": "DFA减少10%自伤."
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_5.MechJJDFAPenaltyAcc.statusEffects3.Details",
+    "content": "DFA减少10%自伤."
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_5.StatusEffect-JumpHeat.statusEffects4.Details",
+    "content": "这个跳跃推进器每格产热"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_5.StatusEffect-JumpAmount.statusEffects5.Details",
+    "content": "最大跳跃推进器量每行走里程"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_5.StatusEffect-RotationPenalty.statusEffects6.Details",
+    "content": "不能改变朝向"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_5.MechJJJumpPenalty.statusEffects0.Name",
+    "content": "矢量推进套件"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_5.MechJJDFAPenaltyDamage.statusEffects1.Name",
+    "content": "DAF伤害提升"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_5.MechJJDFAPenaltySelfDamage.statusEffects2.Name",
+    "content": "降低DFA自伤"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_5.MechJJDFAPenaltyAcc.statusEffects3.Name",
+    "content": "降低DFA自伤"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_5.StatusEffect-JumpHeat.statusEffects4.Name",
+    "content": "跳跃推进器热量"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_5.StatusEffect-JumpAmount.statusEffects5.Name",
+    "content": "跳跃推进器量"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_5.StatusEffect-RotationPenalty.statusEffects6.Name",
+    "content": "只能直线跳跃"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_6.Description.Details",
+    "content": "战斗机甲机械跳跃助推器目的是为了提供简单、无热的跳跃能力.和普通跳跃推进器不同,这些机械式跳跃助推器本质上是巨大的液压油缸和充当巨大弹簧的人工肌肉束."
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_6.Description.UIName",
+    "content": "机械式跳跃系统(6)"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_6.Description.Name",
+    "content": "机械式跳跃系统"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_6.Description.Manufacturer",
+    "content": "NAIS"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_6.MechJJJumpPenalty.statusEffects0.Details",
+    "content": "跳跃后造成伤害增加20%,跳跃距离增加20%"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_6.MechJJDFAPenaltyDamage.statusEffects1.Details",
+    "content": "DAF造成额外10%伤害"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_6.MechJJDFAPenaltySelfDamage.statusEffects2.Details",
+    "content": "DFA减少10%自伤."
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_6.MechJJDFAPenaltyAcc.statusEffects3.Details",
+    "content": "DFA减少10%自伤."
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_6.StatusEffect-JumpHeat.statusEffects4.Details",
+    "content": "这个跳跃推进器每格产热"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_6.StatusEffect-JumpAmount.statusEffects5.Details",
+    "content": "最大跳跃推进器量每行走里程"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_6.StatusEffect-RotationPenalty.statusEffects6.Details",
+    "content": "不能改变朝向"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_6.MechJJJumpPenalty.statusEffects0.Name",
+    "content": "矢量推进套件"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_6.MechJJDFAPenaltyDamage.statusEffects1.Name",
+    "content": "DAF伤害提升"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_6.MechJJDFAPenaltySelfDamage.statusEffects2.Name",
+    "content": "降低DFA自伤"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_6.MechJJDFAPenaltyAcc.statusEffects3.Name",
+    "content": "降低DFA自伤"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_6.StatusEffect-JumpHeat.statusEffects4.Name",
+    "content": "跳跃推进器热量"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_6.StatusEffect-JumpAmount.statusEffects5.Name",
+    "content": "跳跃推进器量"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_6.StatusEffect-RotationPenalty.statusEffects6.Name",
+    "content": "只能直线跳跃"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_7.Description.Details",
+    "content": "战斗机甲机械跳跃助推器目的是为了提供简单、无热的跳跃能力.和普通跳跃推进器不同,这些机械式跳跃助推器本质上是巨大的液压油缸和充当巨大弹簧的人工肌肉束."
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_7.Description.UIName",
+    "content": "机械式跳跃系统(7)"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_7.Description.Name",
+    "content": "机械式跳跃系统"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_7.Description.Manufacturer",
+    "content": "NAIS"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_7.MechJJJumpPenalty.statusEffects0.Details",
+    "content": "跳跃后造成伤害增加20%,跳跃距离增加20%"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_7.MechJJDFAPenaltyDamage.statusEffects1.Details",
+    "content": "DAF造成额外10%伤害"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_7.MechJJDFAPenaltySelfDamage.statusEffects2.Details",
+    "content": "DFA减少10%自伤."
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_7.MechJJDFAPenaltyAcc.statusEffects3.Details",
+    "content": "DFA减少10%自伤."
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_7.StatusEffect-JumpHeat.statusEffects4.Details",
+    "content": "这个跳跃推进器每格产热"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_7.StatusEffect-JumpAmount.statusEffects5.Details",
+    "content": "最大跳跃推进器量每行走里程"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_7.StatusEffect-RotationPenalty.statusEffects6.Details",
+    "content": "不能改变朝向"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_7.MechJJJumpPenalty.statusEffects0.Name",
+    "content": "矢量推进套件"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_7.MechJJDFAPenaltyDamage.statusEffects1.Name",
+    "content": "DAF伤害提升"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_7.MechJJDFAPenaltySelfDamage.statusEffects2.Name",
+    "content": "降低DFA自伤"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_7.MechJJDFAPenaltyAcc.statusEffects3.Name",
+    "content": "降低DFA自伤"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_7.StatusEffect-JumpHeat.statusEffects4.Name",
+    "content": "跳跃推进器热量"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_7.StatusEffect-JumpAmount.statusEffects5.Name",
+    "content": "跳跃推进器量"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_7.StatusEffect-RotationPenalty.statusEffects6.Name",
+    "content": "只能直线跳跃"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_8.Description.Details",
+    "content": "战斗机甲机械跳跃助推器目的是为了提供简单、无热的跳跃能力.和普通跳跃推进器不同,这些机械式跳跃助推器本质上是巨大的液压油缸和充当巨大弹簧的人工肌肉束."
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_8.Description.UIName",
+    "content": "机械式跳跃系统(8)"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_8.Description.Name",
+    "content": "机械式跳跃系统"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_8.Description.Manufacturer",
+    "content": "NAIS"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_8.MechJJJumpPenalty.statusEffects0.Details",
+    "content": "跳跃后造成伤害增加20%,跳跃距离增加20%"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_8.MechJJDFAPenaltyDamage.statusEffects1.Details",
+    "content": "DAF造成额外10%伤害"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_8.MechJJDFAPenaltySelfDamage.statusEffects2.Details",
+    "content": "DFA减少10%自伤."
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_8.MechJJDFAPenaltyAcc.statusEffects3.Details",
+    "content": "DFA减少10%自伤."
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_8.StatusEffect-JumpHeat.statusEffects4.Details",
+    "content": "这个跳跃推进器每格产热"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_8.StatusEffect-JumpAmount.statusEffects5.Details",
+    "content": "最大跳跃推进器量每行走里程"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_8.StatusEffect-RotationPenalty.statusEffects6.Details",
+    "content": "不能改变朝向"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_8.MechJJJumpPenalty.statusEffects0.Name",
+    "content": "矢量推进套件"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_8.MechJJDFAPenaltyDamage.statusEffects1.Name",
+    "content": "DAF伤害提升"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_8.MechJJDFAPenaltySelfDamage.statusEffects2.Name",
+    "content": "降低DFA自伤"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_8.MechJJDFAPenaltyAcc.statusEffects3.Name",
+    "content": "降低DFA自伤"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_8.StatusEffect-JumpHeat.statusEffects4.Name",
+    "content": "跳跃推进器热量"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_8.StatusEffect-JumpAmount.statusEffects5.Name",
+    "content": "跳跃推进器量"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_8.StatusEffect-RotationPenalty.statusEffects6.Name",
+    "content": "只能直线跳跃"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_9.Description.Details",
+    "content": "战斗机甲机械跳跃助推器目的是为了提供简单、无热的跳跃能力.和普通跳跃推进器不同,这些机械式跳跃助推器本质上是巨大的液压油缸和充当巨大弹簧的人工肌肉束."
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_9.Description.UIName",
+    "content": "机械式跳跃系统(9)"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_9.Description.Name",
+    "content": "机械式跳跃系统"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_9.Description.Manufacturer",
+    "content": "NAIS"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_9.MechJJJumpPenalty.statusEffects0.Details",
+    "content": "跳跃后造成伤害增加20%,跳跃距离增加20%"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_9.MechJJDFAPenaltyDamage.statusEffects1.Details",
+    "content": "DAF造成额外10%伤害"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_9.MechJJDFAPenaltySelfDamage.statusEffects2.Details",
+    "content": "DFA减少10%自伤."
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_9.MechJJDFAPenaltyAcc.statusEffects3.Details",
+    "content": "DFA减少10%自伤."
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_9.StatusEffect-JumpHeat.statusEffects4.Details",
+    "content": "这个跳跃推进器每格产热"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_9.StatusEffect-JumpAmount.statusEffects5.Details",
+    "content": "最大跳跃推进器量每行走里程"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_9.StatusEffect-RotationPenalty.statusEffects6.Details",
+    "content": "不能改变朝向"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_9.MechJJJumpPenalty.statusEffects0.Name",
+    "content": "矢量推进套件"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_9.MechJJDFAPenaltyDamage.statusEffects1.Name",
+    "content": "DAF伤害提升"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_9.MechJJDFAPenaltySelfDamage.statusEffects2.Name",
+    "content": "降低DFA自伤"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_9.MechJJDFAPenaltyAcc.statusEffects3.Name",
+    "content": "降低DFA自伤"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_9.StatusEffect-JumpHeat.statusEffects4.Name",
+    "content": "跳跃推进器热量"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_9.StatusEffect-JumpAmount.statusEffects5.Name",
+    "content": "跳跃推进器量"
+  },
+  {
+    "id": "Gear_JumpJet_Mechanical_9.StatusEffect-RotationPenalty.statusEffects6.Name",
+    "content": "只能直线跳跃"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_1.Description.Details",
+    "content": "战斗机甲机械跳跃助推器目的是为了提供简单、无热的跳跃能力.和普通跳跃推进器不同,这些机械式跳跃助推器本质上是巨大的液压油缸和充当巨大弹簧的人工肌肉束."
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_1.Description.UIName",
+    "content": "机械式跳跃系统(1)"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_1.Description.Name",
+    "content": "机械式跳跃系统"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_1.Description.Manufacturer",
+    "content": "NAIS"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_1.MechJJJumpPenalty.statusEffects0.Details",
+    "content": "跳跃后造成伤害增加20%,跳跃距离增加20%"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_1.MechJJJumpPenalty.statusEffects1.Details",
+    "content": "跳跃后造成伤害增加20%,跳跃距离增加20%"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_1.MechJJDFAPenaltyDamage.statusEffects2.Details",
+    "content": "DAF造成额外10%伤害"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_1.MechJJDFAPenaltySelfDamage.statusEffects3.Details",
+    "content": "DFA减少10%自伤."
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_1.MechJJDFAPenaltyAcc.statusEffects4.Details",
+    "content": "DFA减少10%自伤."
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_1.StatusEffect-JumpHeat.statusEffects5.Details",
+    "content": "这个跳跃推进器每格产热"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_1.StatusEffect-JumpAmount.statusEffects6.Details",
+    "content": "最大跳跃推进器量每行走里程"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_1.StatusEffect-RotationPenalty.statusEffects7.Details",
+    "content": "不能改变朝向"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_1.MechJJJumpPenalty.statusEffects0.Name",
+    "content": "矢量推进套件"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_1.MechJJJumpPenalty.statusEffects1.Name",
+    "content": "矢量推进套件"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_1.MechJJDFAPenaltyDamage.statusEffects2.Name",
+    "content": "DAF伤害提升"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_1.MechJJDFAPenaltySelfDamage.statusEffects3.Name",
+    "content": "降低DFA自伤"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_1.MechJJDFAPenaltyAcc.statusEffects4.Name",
+    "content": "降低DFA自伤"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_1.StatusEffect-JumpHeat.statusEffects5.Name",
+    "content": "跳跃推进器热量"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_1.StatusEffect-JumpAmount.statusEffects6.Name",
+    "content": "跳跃推进器量"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_1.StatusEffect-RotationPenalty.statusEffects7.Name",
+    "content": "只能直线跳跃"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_10.Description.Details",
+    "content": "战斗机甲机械跳跃助推器目的是为了提供简单、无热的跳跃能力.和普通跳跃推进器不同,这些机械式跳跃助推器本质上是巨大的液压油缸和充当巨大弹簧的人工肌肉束."
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_10.Description.UIName",
+    "content": "机械式跳跃系统(10)"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_10.Description.Name",
+    "content": "机械式跳跃系统"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_10.Description.Manufacturer",
+    "content": "NAIS"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_10.MechJJJumpPenalty.statusEffects0.Details",
+    "content": "跳跃后造成伤害增加20%,跳跃距离增加20%"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_10.MechJJDFAPenaltyDamage.statusEffects1.Details",
+    "content": "DAF造成额外10%伤害"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_10.MechJJDFAPenaltySelfDamage.statusEffects2.Details",
+    "content": "DFA减少10%自伤."
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_10.MechJJDFAPenaltyAcc.statusEffects3.Details",
+    "content": "DFA减少10%自伤."
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_10.StatusEffect-JumpHeat.statusEffects4.Details",
+    "content": "这个跳跃推进器每格产热"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_10.StatusEffect-JumpAmount.statusEffects5.Details",
+    "content": "最大跳跃推进器量每行走里程"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_10.StatusEffect-RotationPenalty.statusEffects6.Details",
+    "content": "不能改变朝向"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_10.MechJJJumpPenalty.statusEffects0.Name",
+    "content": "矢量推进套件"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_10.MechJJDFAPenaltyDamage.statusEffects1.Name",
+    "content": "DAF伤害提升"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_10.MechJJDFAPenaltySelfDamage.statusEffects2.Name",
+    "content": "降低DFA自伤"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_10.MechJJDFAPenaltyAcc.statusEffects3.Name",
+    "content": "降低DFA自伤"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_10.StatusEffect-JumpHeat.statusEffects4.Name",
+    "content": "跳跃推进器热量"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_10.StatusEffect-JumpAmount.statusEffects5.Name",
+    "content": "跳跃推进器量"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_10.StatusEffect-RotationPenalty.statusEffects6.Name",
+    "content": "只能直线跳跃"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_2.Description.Details",
+    "content": "战斗机甲机械跳跃助推器目的是为了提供简单、无热的跳跃能力.和普通跳跃推进器不同,这些机械式跳跃助推器本质上是巨大的液压油缸和充当巨大弹簧的人工肌肉束."
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_2.Description.UIName",
+    "content": "机械式跳跃系统(2)"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_2.Description.Name",
+    "content": "机械式跳跃系统"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_2.Description.Manufacturer",
+    "content": "NAIS"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_2.MechJJJumpPenalty.statusEffects0.Details",
+    "content": "跳跃后造成伤害增加20%,跳跃距离增加20%"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_2.MechJJDFAPenaltyDamage.statusEffects1.Details",
+    "content": "DAF造成额外10%伤害"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_2.MechJJDFAPenaltySelfDamage.statusEffects2.Details",
+    "content": "DFA减少10%自伤."
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_2.MechJJDFAPenaltyAcc.statusEffects3.Details",
+    "content": "DFA减少10%自伤."
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_2.StatusEffect-JumpHeat.statusEffects4.Details",
+    "content": "这个跳跃推进器每格产热"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_2.StatusEffect-JumpAmount.statusEffects5.Details",
+    "content": "最大跳跃推进器量每行走里程"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_2.StatusEffect-RotationPenalty.statusEffects6.Details",
+    "content": "不能改变朝向"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_2.MechJJJumpPenalty.statusEffects0.Name",
+    "content": "矢量推进套件"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_2.MechJJDFAPenaltyDamage.statusEffects1.Name",
+    "content": "DAF伤害提升"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_2.MechJJDFAPenaltySelfDamage.statusEffects2.Name",
+    "content": "降低DFA自伤"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_2.MechJJDFAPenaltyAcc.statusEffects3.Name",
+    "content": "降低DFA自伤"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_2.StatusEffect-JumpHeat.statusEffects4.Name",
+    "content": "跳跃推进器热量"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_2.StatusEffect-JumpAmount.statusEffects5.Name",
+    "content": "跳跃推进器量"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_2.StatusEffect-RotationPenalty.statusEffects6.Name",
+    "content": "只能直线跳跃"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_3.Description.Details",
+    "content": "战斗机甲机械跳跃助推器目的是为了提供简单、无热的跳跃能力.和普通跳跃推进器不同,这些机械式跳跃助推器本质上是巨大的液压油缸和充当巨大弹簧的人工肌肉束."
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_3.Description.UIName",
+    "content": "机械式跳跃系统(3)"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_3.Description.Name",
+    "content": "机械式跳跃系统"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_3.Description.Manufacturer",
+    "content": "NAIS"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_3.MechJJJumpPenalty.statusEffects0.Details",
+    "content": "跳跃后造成伤害增加20%,跳跃距离增加20%"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_3.MechJJDFAPenaltyDamage.statusEffects1.Details",
+    "content": "DAF造成额外10%伤害"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_3.MechJJDFAPenaltySelfDamage.statusEffects2.Details",
+    "content": "DFA减少10%自伤."
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_3.MechJJDFAPenaltyAcc.statusEffects3.Details",
+    "content": "DFA减少10%自伤."
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_3.StatusEffect-JumpHeat.statusEffects4.Details",
+    "content": "这个跳跃推进器每格产热"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_3.StatusEffect-JumpAmount.statusEffects5.Details",
+    "content": "最大跳跃推进器量每行走里程"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_3.StatusEffect-RotationPenalty.statusEffects6.Details",
+    "content": "不能改变朝向"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_3.MechJJJumpPenalty.statusEffects0.Name",
+    "content": "矢量推进套件"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_3.MechJJDFAPenaltyDamage.statusEffects1.Name",
+    "content": "DAF伤害提升"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_3.MechJJDFAPenaltySelfDamage.statusEffects2.Name",
+    "content": "降低DFA自伤"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_3.MechJJDFAPenaltyAcc.statusEffects3.Name",
+    "content": "降低DFA自伤"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_3.StatusEffect-JumpHeat.statusEffects4.Name",
+    "content": "跳跃推进器热量"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_3.StatusEffect-JumpAmount.statusEffects5.Name",
+    "content": "跳跃推进器量"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_3.StatusEffect-RotationPenalty.statusEffects6.Name",
+    "content": "只能直线跳跃"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_4.Description.Details",
+    "content": "战斗机甲机械跳跃助推器目的是为了提供简单、无热的跳跃能力.和普通跳跃推进器不同,这些机械式跳跃助推器本质上是巨大的液压油缸和充当巨大弹簧的人工肌肉束."
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_4.Description.UIName",
+    "content": "机械式跳跃系统(4)"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_4.Description.Name",
+    "content": "机械式跳跃系统"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_4.Description.Manufacturer",
+    "content": "NAIS"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_4.MechJJJumpPenalty.statusEffects0.Details",
+    "content": "跳跃后造成伤害增加20%,跳跃距离增加20%"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_4.MechJJDFAPenaltyDamage.statusEffects1.Details",
+    "content": "DAF造成额外10%伤害"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_4.MechJJDFAPenaltySelfDamage.statusEffects2.Details",
+    "content": "DFA减少10%自伤."
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_4.MechJJDFAPenaltyAcc.statusEffects3.Details",
+    "content": "DFA减少10%自伤."
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_4.StatusEffect-JumpHeat.statusEffects4.Details",
+    "content": "这个跳跃推进器每格产热"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_4.StatusEffect-JumpAmount.statusEffects5.Details",
+    "content": "最大跳跃推进器量每行走里程"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_4.StatusEffect-RotationPenalty.statusEffects6.Details",
+    "content": "不能改变朝向"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_4.MechJJJumpPenalty.statusEffects0.Name",
+    "content": "矢量推进套件"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_4.MechJJDFAPenaltyDamage.statusEffects1.Name",
+    "content": "DAF伤害提升"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_4.MechJJDFAPenaltySelfDamage.statusEffects2.Name",
+    "content": "降低DFA自伤"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_4.MechJJDFAPenaltyAcc.statusEffects3.Name",
+    "content": "降低DFA自伤"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_4.StatusEffect-JumpHeat.statusEffects4.Name",
+    "content": "跳跃推进器热量"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_4.StatusEffect-JumpAmount.statusEffects5.Name",
+    "content": "跳跃推进器量"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_4.StatusEffect-RotationPenalty.statusEffects6.Name",
+    "content": "只能直线跳跃"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_5.Description.Details",
+    "content": "战斗机甲机械跳跃助推器目的是为了提供简单、无热的跳跃能力.和普通跳跃推进器不同,这些机械式跳跃助推器本质上是巨大的液压油缸和充当巨大弹簧的人工肌肉束."
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_5.Description.UIName",
+    "content": "机械式跳跃系统(5)"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_5.Description.Name",
+    "content": "机械式跳跃系统"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_5.Description.Manufacturer",
+    "content": "NAIS"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_5.MechJJJumpPenalty.statusEffects0.Details",
+    "content": "跳跃后造成伤害增加20%,跳跃距离增加20%"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_5.MechJJDFAPenaltyDamage.statusEffects1.Details",
+    "content": "DAF造成额外10%伤害"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_5.MechJJDFAPenaltySelfDamage.statusEffects2.Details",
+    "content": "DFA减少10%自伤."
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_5.MechJJDFAPenaltyAcc.statusEffects3.Details",
+    "content": "DFA减少10%自伤."
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_5.StatusEffect-JumpHeat.statusEffects4.Details",
+    "content": "这个跳跃推进器每格产热"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_5.StatusEffect-JumpAmount.statusEffects5.Details",
+    "content": "最大跳跃推进器量每行走里程"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_5.StatusEffect-RotationPenalty.statusEffects6.Details",
+    "content": "不能改变朝向"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_5.MechJJJumpPenalty.statusEffects0.Name",
+    "content": "矢量推进套件"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_5.MechJJDFAPenaltyDamage.statusEffects1.Name",
+    "content": "DAF伤害提升"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_5.MechJJDFAPenaltySelfDamage.statusEffects2.Name",
+    "content": "降低DFA自伤"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_5.MechJJDFAPenaltyAcc.statusEffects3.Name",
+    "content": "降低DFA自伤"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_5.StatusEffect-JumpHeat.statusEffects4.Name",
+    "content": "跳跃推进器热量"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_5.StatusEffect-JumpAmount.statusEffects5.Name",
+    "content": "跳跃推进器量"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_5.StatusEffect-RotationPenalty.statusEffects6.Name",
+    "content": "只能直线跳跃"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_6.Description.Details",
+    "content": "战斗机甲机械跳跃助推器目的是为了提供简单、无热的跳跃能力.和普通跳跃推进器不同,这些机械式跳跃助推器本质上是巨大的液压油缸和充当巨大弹簧的人工肌肉束."
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_6.Description.UIName",
+    "content": "机械式跳跃系统(6)"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_6.Description.Name",
+    "content": "机械式跳跃系统"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_6.Description.Manufacturer",
+    "content": "NAIS"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_6.MechJJJumpPenalty.statusEffects0.Details",
+    "content": "跳跃后造成伤害增加20%,跳跃距离增加20%"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_6.MechJJDFAPenaltyDamage.statusEffects1.Details",
+    "content": "DAF造成额外10%伤害"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_6.MechJJDFAPenaltySelfDamage.statusEffects2.Details",
+    "content": "DFA减少10%自伤."
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_6.MechJJDFAPenaltyAcc.statusEffects3.Details",
+    "content": "DFA减少10%自伤."
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_6.StatusEffect-JumpHeat.statusEffects4.Details",
+    "content": "这个跳跃推进器每格产热"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_6.StatusEffect-JumpAmount.statusEffects5.Details",
+    "content": "最大跳跃推进器量每行走里程"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_6.StatusEffect-RotationPenalty.statusEffects6.Details",
+    "content": "不能改变朝向"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_6.MechJJJumpPenalty.statusEffects0.Name",
+    "content": "矢量推进套件"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_6.MechJJDFAPenaltyDamage.statusEffects1.Name",
+    "content": "DAF伤害提升"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_6.MechJJDFAPenaltySelfDamage.statusEffects2.Name",
+    "content": "降低DFA自伤"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_6.MechJJDFAPenaltyAcc.statusEffects3.Name",
+    "content": "降低DFA自伤"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_6.StatusEffect-JumpHeat.statusEffects4.Name",
+    "content": "跳跃推进器热量"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_6.StatusEffect-JumpAmount.statusEffects5.Name",
+    "content": "跳跃推进器量"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_6.StatusEffect-RotationPenalty.statusEffects6.Name",
+    "content": "只能直线跳跃"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_7.Description.Details",
+    "content": "战斗机甲机械跳跃助推器目的是为了提供简单、无热的跳跃能力.和普通跳跃推进器不同,这些机械式跳跃助推器本质上是巨大的液压油缸和充当巨大弹簧的人工肌肉束."
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_7.Description.UIName",
+    "content": "机械式跳跃系统(7)"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_7.Description.Name",
+    "content": "机械式跳跃系统"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_7.Description.Manufacturer",
+    "content": "NAIS"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_7.MechJJJumpPenalty.statusEffects0.Details",
+    "content": "跳跃后造成伤害增加20%,跳跃距离增加20%"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_7.MechJJDFAPenaltyDamage.statusEffects1.Details",
+    "content": "DAF造成额外10%伤害"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_7.MechJJDFAPenaltySelfDamage.statusEffects2.Details",
+    "content": "DFA减少10%自伤."
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_7.MechJJDFAPenaltyAcc.statusEffects3.Details",
+    "content": "DFA减少10%自伤."
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_7.StatusEffect-JumpHeat.statusEffects4.Details",
+    "content": "这个跳跃推进器每格产热"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_7.StatusEffect-JumpAmount.statusEffects5.Details",
+    "content": "最大跳跃推进器量每行走里程"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_7.StatusEffect-RotationPenalty.statusEffects6.Details",
+    "content": "不能改变朝向"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_7.MechJJJumpPenalty.statusEffects0.Name",
+    "content": "矢量推进套件"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_7.MechJJDFAPenaltyDamage.statusEffects1.Name",
+    "content": "DAF伤害提升"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_7.MechJJDFAPenaltySelfDamage.statusEffects2.Name",
+    "content": "降低DFA自伤"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_7.MechJJDFAPenaltyAcc.statusEffects3.Name",
+    "content": "降低DFA自伤"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_7.StatusEffect-JumpHeat.statusEffects4.Name",
+    "content": "跳跃推进器热量"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_7.StatusEffect-JumpAmount.statusEffects5.Name",
+    "content": "跳跃推进器量"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_7.StatusEffect-RotationPenalty.statusEffects6.Name",
+    "content": "只能直线跳跃"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_8.Description.Details",
+    "content": "战斗机甲机械跳跃助推器目的是为了提供简单、无热的跳跃能力.和普通跳跃推进器不同,这些机械式跳跃助推器本质上是巨大的液压油缸和充当巨大弹簧的人工肌肉束."
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_8.Description.UIName",
+    "content": "机械式跳跃系统(8)"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_8.Description.Name",
+    "content": "机械式跳跃系统"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_8.Description.Manufacturer",
+    "content": "NAIS"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_8.MechJJJumpPenalty.statusEffects0.Details",
+    "content": "跳跃后造成伤害增加20%,跳跃距离增加20%"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_8.MechJJDFAPenaltyDamage.statusEffects1.Details",
+    "content": "DAF造成额外10%伤害"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_8.MechJJDFAPenaltySelfDamage.statusEffects2.Details",
+    "content": "DFA减少10%自伤."
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_8.MechJJDFAPenaltyAcc.statusEffects3.Details",
+    "content": "DFA减少10%自伤."
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_8.StatusEffect-JumpHeat.statusEffects4.Details",
+    "content": "这个跳跃推进器每格产热"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_8.StatusEffect-JumpAmount.statusEffects5.Details",
+    "content": "最大跳跃推进器量每行走里程"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_8.StatusEffect-RotationPenalty.statusEffects6.Details",
+    "content": "不能改变朝向"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_8.MechJJJumpPenalty.statusEffects0.Name",
+    "content": "矢量推进套件"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_8.MechJJDFAPenaltyDamage.statusEffects1.Name",
+    "content": "DAF伤害提升"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_8.MechJJDFAPenaltySelfDamage.statusEffects2.Name",
+    "content": "降低DFA自伤"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_8.MechJJDFAPenaltyAcc.statusEffects3.Name",
+    "content": "降低DFA自伤"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_8.StatusEffect-JumpHeat.statusEffects4.Name",
+    "content": "跳跃推进器热量"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_8.StatusEffect-JumpAmount.statusEffects5.Name",
+    "content": "跳跃推进器量"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_8.StatusEffect-RotationPenalty.statusEffects6.Name",
+    "content": "只能直线跳跃"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_9.Description.Details",
+    "content": "战斗机甲机械跳跃助推器目的是为了提供简单、无热的跳跃能力.和普通跳跃推进器不同,这些机械式跳跃助推器本质上是巨大的液压油缸和充当巨大弹簧的人工肌肉束."
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_9.Description.UIName",
+    "content": "机械式跳跃系统(9)"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_9.Description.Name",
+    "content": "机械式跳跃系统"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_9.Description.Manufacturer",
+    "content": "NAIS"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_9.MechJJJumpPenalty.statusEffects0.Details",
+    "content": "跳跃后造成伤害增加20%,跳跃距离增加20%"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_9.MechJJDFAPenaltyDamage.statusEffects1.Details",
+    "content": "DAF造成额外10%伤害"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_9.MechJJDFAPenaltySelfDamage.statusEffects2.Details",
+    "content": "DFA减少10%自伤."
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_9.MechJJDFAPenaltyAcc.statusEffects3.Details",
+    "content": "DFA减少10%自伤."
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_9.StatusEffect-JumpHeat.statusEffects4.Details",
+    "content": "这个跳跃推进器每格产热"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_9.StatusEffect-JumpAmount.statusEffects5.Details",
+    "content": "最大跳跃推进器量每行走里程"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_9.StatusEffect-RotationPenalty.statusEffects6.Details",
+    "content": "不能改变朝向"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_9.MechJJJumpPenalty.statusEffects0.Name",
+    "content": "矢量推进套件"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_9.MechJJDFAPenaltyDamage.statusEffects1.Name",
+    "content": "DAF伤害提升"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_9.MechJJDFAPenaltySelfDamage.statusEffects2.Name",
+    "content": "降低DFA自伤"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_9.MechJJDFAPenaltyAcc.statusEffects3.Name",
+    "content": "降低DFA自伤"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_9.StatusEffect-JumpHeat.statusEffects4.Name",
+    "content": "跳跃推进器热量"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_9.StatusEffect-JumpAmount.statusEffects5.Name",
+    "content": "跳跃推进器量"
+  },
+  {
+    "id": "Linked_JumpJet_Mechanical_9.StatusEffect-RotationPenalty.statusEffects6.Name",
+    "content": "只能直线跳跃"
+  }
+]

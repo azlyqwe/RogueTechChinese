@@ -1,0 +1,178 @@
+[
+  {
+    "id": "emod_structureslots_endocomposite.Description.Details",
+    "content": "天琴同盟国试图改进内构钢,复合内构钢使用了标准装甲钢和内构钢的混合组合,使用复合内构钢制造的底盘重量仅为标准底盘的75%,但相比于内构钢,重量有所增加.\r\n\r\n复合内构钢占用<b>5</b>槽位以使内部结构重量降低到<b>75%</b>."
+  },
+  {
+    "id": "emod_structureslots_endocomposite.Description.UIName",
+    "content": "复合内构钢"
+  },
+  {
+    "id": "emod_structureslots_endocomposite.Description.Name",
+    "content": "内构钢结构"
+  },
+  {
+    "id": "emod_structureslots_endocomposite.Description.Manufacturer",
+    "content": "考文垂"
+  },
+  {
+    "id": "emod_structureslots_endosteel.Description.Details",
+    "content": "有人类霸权于2487年开发,内构钢是专门作为战斗机甲骨架设计的.在零重量技术下将高密度钢和低密度的铝和钛均匀混合,单位重量下强度是标准骨架材料的两倍,以使地盘重量减半,但体积增加了."
+  },
+  {
+    "id": "emod_structureslots_endosteel.Description.UIName",
+    "content": "内构钢结构"
+  },
+  {
+    "id": "emod_structureslots_endosteel.Description.Name",
+    "content": "内构钢结构"
+  },
+  {
+    "id": "emod_structureslots_endosteel.Description.Manufacturer",
+    "content": "L.A.W."
+  },
+  {
+    "id": "emod_structureslots_superheavy.Description.Details",
+    "content": "增强战斗机甲的极具弹性内部结构"
+  },
+  {
+    "id": "emod_structureslots_superheavy.Description.UIName",
+    "content": "超重型结构"
+  },
+  {
+    "id": "emod_structureslots_superheavy.Description.Name",
+    "content": "超重型结构"
+  },
+  {
+    "id": "emod_structureslots_superheavy.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "emod_structureslots_superheavy_endocomposite.Description.Details",
+    "content": "超重型战斗机甲的复合内构钢"
+  },
+  {
+    "id": "emod_structureslots_superheavy_endocomposite.Description.UIName",
+    "content": "超重型复合内构钢结构"
+  },
+  {
+    "id": "emod_structureslots_superheavy_endocomposite.Description.Name",
+    "content": "复合内构钢结构"
+  },
+  {
+    "id": "emod_structureslots_superheavy_endocomposite.Description.Manufacturer",
+    "content": "恒星熔炉公司"
+  },
+  {
+    "id": "emod_structureslots_superheavy_endosteel.Description.Details",
+    "content": "增强超重型战斗机甲复合内构钢"
+  },
+  {
+    "id": "emod_structureslots_superheavy_endosteel.Description.UIName",
+    "content": "超重型内构钢结构"
+  },
+  {
+    "id": "emod_structureslots_superheavy_endosteel.Description.Name",
+    "content": "内构钢结构"
+  },
+  {
+    "id": "emod_structureslots_superheavy_endosteel.Description.Manufacturer",
+    "content": "恒星熔炉公司"
+  },
+  {
+    "id": "emod_structureslots_superheavy_industrial.Description.Details",
+    "content": "工业机甲底盘和战斗机甲的底盘类似,但使用了更重更低效的材料和更笨重的人工肌肉束,这造成生产出的底盘重量是同类战斗机甲底盘代两倍重,对武器攻击的抵御效果很低,但更适合体力劳动,产成本也更低."
+  },
+  {
+    "id": "emod_structureslots_superheavy_industrial.Description.UIName",
+    "content": "超重型工业化结构"
+  },
+  {
+    "id": "emod_structureslots_superheavy_industrial.Description.Name",
+    "content": "工业化结构"
+  },
+  {
+    "id": "emod_structureslots_superheavy_industrial.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "emod_structureslots_superheavy_lam.Description.Details",
+    "content": "陆空机甲的强化超重型结构的实验高度不稳定版本."
+  },
+  {
+    "id": "emod_structureslots_superheavy_lam.Description.UIName",
+    "content": "超重型LAM结构"
+  },
+  {
+    "id": "emod_structureslots_superheavy_lam.Description.Name",
+    "content": "陆空机甲转换设备"
+  },
+  {
+    "id": "emod_structureslots_superheavy_lam.Description.Manufacturer",
+    "content": "盟军航空航天"
+  },
+  {
+    "id": "emod_structureslots_superheavy_reinforced.Description.Details",
+    "content": "超重型战斗机甲增强型加固内部结构"
+  },
+  {
+    "id": "emod_structureslots_superheavy_reinforced.Description.UIName",
+    "content": "增强型加固结构"
+  },
+  {
+    "id": "emod_structureslots_superheavy_reinforced.Description.Name",
+    "content": "增强型加固结构"
+  },
+  {
+    "id": "emod_structureslots_superheavy_reinforced.Description.Manufacturer",
+    "content": "恒星熔炉公司"
+  },
+  {
+    "id": "emod_structureslots_superheavy_reinforced.ReinforcedCritImmune.statusEffects0.Details",
+    "content": "强化结构降低致命损伤率."
+  },
+  {
+    "id": "emod_structureslots_superheavy_reinforced.ReinforcedCritImmune.statusEffects0.Name",
+    "content": "强化结构"
+  },
+  {
+    "id": "Gear_structureslots_Composite.Description.Details",
+    "content": "恒星联邦引入复合内部结构.受内构钢(Endo-Stell)制地盘的启发,联合太阳的的工程师制成了一种重量轻但不像内构钢骨架那么笨重的地盘.尽管他们取得了成功,但复合结构中使用的材料非常脆弱."
+  },
+  {
+    "id": "Gear_structureslots_Composite.Description.UIName",
+    "content": "复合"
+  },
+  {
+    "id": "Gear_structureslots_Composite.Description.Name",
+    "content": "复合结构"
+  },
+  {
+    "id": "Gear_structureslots_Composite.Description.Manufacturer",
+    "content": "NAIS"
+  },
+  {
+    "id": "Gear_structureslots_Reinforced.Description.Details",
+    "content": "强化结构是通过提高内部结构的耐久来增强战斗机甲生存能力的一种尝试.减少受到的致命损伤率."
+  },
+  {
+    "id": "Gear_structureslots_Reinforced.Description.UIName",
+    "content": "强化"
+  },
+  {
+    "id": "Gear_structureslots_Reinforced.Description.Name",
+    "content": "强化结构"
+  },
+  {
+    "id": "Gear_structureslots_Reinforced.Description.Manufacturer",
+    "content": "LIC"
+  },
+  {
+    "id": "Gear_structureslots_Reinforced.ReinforcedCritImmune.statusEffects0.Details",
+    "content": "强化结构降低致命损伤率."
+  },
+  {
+    "id": "Gear_structureslots_Reinforced.ReinforcedCritImmune.statusEffects0.Name",
+    "content": "强化结构"
+  }
+]

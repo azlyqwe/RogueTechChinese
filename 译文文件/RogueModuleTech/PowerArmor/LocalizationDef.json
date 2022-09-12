@@ -1,0 +1,3338 @@
+[
+  {
+    "id": "Elemental_Harjel.Description.Details",
+    "content": "所有的氏族元素战斗装甲(BA)的共同点是'哈杰尔'系统,该系统可自动密封装甲上的任何缺口,同时给穿戴者注射药物和治疗化合物,使那些'讨厌鬼'在受伤后依然可以战斗很久."
+  },
+  {
+    "id": "Elemental_Harjel.Description.UIName",
+    "content": "哈杰尔"
+  },
+  {
+    "id": "Elemental_Harjel.Description.Name",
+    "content": "哈杰尔自修复系统"
+  },
+  {
+    "id": "Elemental_Harjel.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "PA_BasicManipulators.Description.Details",
+    "content": "伺服机构是战斗装甲肢体的一个组件,由关节、人工肌肉纤维和肌肉运动控制单元组成."
+  },
+  {
+    "id": "PA_BasicManipulators.Description.UIName",
+    "content": "基础操纵器"
+  },
+  {
+    "id": "PA_BasicManipulators.Description.Name",
+    "content": "标准手部机构"
+  },
+  {
+    "id": "PA_BasicManipulators.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "PA_BasicManipulators.PunchIsPhysical.statusEffects0.Details",
+    "content": "这是一把实体武器,使用近战规则."
+  },
+  {
+    "id": "PA_BasicManipulators.PhysicalWeaponIgnoreActuators.statusEffects1.Details",
+    "content": "这个实体武器忽略伺服机构的伤害."
+  },
+  {
+    "id": "PA_BasicManipulators.CBTBE_PHYSICAL_WEAPON_APPLY_UNSTEADY.statusEffects2.Details",
+    "content": "Foo"
+  },
+  {
+    "id": "PA_BasicManipulators.CBTBE_PHYSICAL_WEAPON_LOCATION_TABLE.statusEffects3.Details",
+    "content": "Foo"
+  },
+  {
+    "id": "PA_BasicManipulators.Punch_Damage_Base.statusEffects4.Details",
+    "content": "伤害修正"
+  },
+  {
+    "id": "PA_BasicManipulators.Punch_Damage_Base.statusEffects5.Details",
+    "content": "伤害修正"
+  },
+  {
+    "id": "PA_BasicManipulators.CanSwarmStat.statusEffects6.Details",
+    "content": "战斗装甲(BA)可以进行群体攻击."
+  },
+  {
+    "id": "PA_BasicManipulators.PunchIsPhysical.statusEffects0.Name",
+    "content": "这是一种实体武器"
+  },
+  {
+    "id": "PA_BasicManipulators.PhysicalWeaponIgnoreActuators.statusEffects1.Name",
+    "content": "实体武器忽略伺服机构的伤害"
+  },
+  {
+    "id": "PA_BasicManipulators.CBTBE_PHYSICAL_WEAPON_APPLY_UNSTEADY.statusEffects2.Name",
+    "content": "目标将失稳"
+  },
+  {
+    "id": "PA_BasicManipulators.CBTBE_PHYSICAL_WEAPON_LOCATION_TABLE.statusEffects3.Name",
+    "content": "需要使用位置表"
+  },
+  {
+    "id": "PA_BasicManipulators.Punch_Damage_Base.statusEffects4.Name",
+    "content": "基础击打伤害"
+  },
+  {
+    "id": "PA_BasicManipulators.Punch_Damage_Base.statusEffects5.Name",
+    "content": "基础击打伤害"
+  },
+  {
+    "id": "PA_BasicManipulators.CanSwarmStat.statusEffects6.Name",
+    "content": "战斗装甲(BA)可以进行群体攻击."
+  },
+  {
+    "id": "PA_BattleClaw.Description.Details",
+    "content": "伺服机构是战斗装甲肢体的一个组件,由关节、人工肌肉纤维和肌肉运动控制单元组成."
+  },
+  {
+    "id": "PA_BattleClaw.Description.UIName",
+    "content": "战爪"
+  },
+  {
+    "id": "PA_BattleClaw.Description.Name",
+    "content": "标准手部机构"
+  },
+  {
+    "id": "PA_BattleClaw.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "PA_BattleClaw.PunchIsPhysical.statusEffects0.Details",
+    "content": "这是一把实体武器,使用近战规则."
+  },
+  {
+    "id": "PA_BattleClaw.PhysicalWeaponIgnoreActuators.statusEffects1.Details",
+    "content": "这个实体武器忽略伺服机构的伤害."
+  },
+  {
+    "id": "PA_BattleClaw.CBTBE_PHYSICAL_WEAPON_APPLY_UNSTEADY.statusEffects2.Details",
+    "content": "Foo"
+  },
+  {
+    "id": "PA_BattleClaw.CBTBE_PHYSICAL_WEAPON_LOCATION_TABLE.statusEffects3.Details",
+    "content": "Foo"
+  },
+  {
+    "id": "PA_BattleClaw.Punch_Damage_Base.statusEffects4.Details",
+    "content": "伤害修正"
+  },
+  {
+    "id": "PA_BattleClaw.Punch_Damage_Base.statusEffects5.Details",
+    "content": "伤害修正"
+  },
+  {
+    "id": "PA_BattleClaw.PunchIsPhysical.statusEffects0.Name",
+    "content": "这是一种实体武器"
+  },
+  {
+    "id": "PA_BattleClaw.PhysicalWeaponIgnoreActuators.statusEffects1.Name",
+    "content": "实体武器忽略伺服机构的伤害"
+  },
+  {
+    "id": "PA_BattleClaw.CBTBE_PHYSICAL_WEAPON_APPLY_UNSTEADY.statusEffects2.Name",
+    "content": "目标将失稳"
+  },
+  {
+    "id": "PA_BattleClaw.CBTBE_PHYSICAL_WEAPON_LOCATION_TABLE.statusEffects3.Name",
+    "content": "需要使用位置表"
+  },
+  {
+    "id": "PA_BattleClaw.Punch_Damage_Base.statusEffects4.Name",
+    "content": "基础击打伤害"
+  },
+  {
+    "id": "PA_BattleClaw.Punch_Damage_Base.statusEffects5.Name",
+    "content": "基础击打伤害"
+  },
+  {
+    "id": "PA_BlackCarapace_Quirk.Description.Details",
+    "content": "基于LV-426上发现的独特哈杰尔化合物,它具有分解和吸收电磁波和光波的能力,黑甲壳具有自我修复能力和基本的隐身功能."
+  },
+  {
+    "id": "PA_BlackCarapace_Quirk.Description.UIName",
+    "content": "黑甲壳"
+  },
+  {
+    "id": "PA_BlackCarapace_Quirk.Description.Name",
+    "content": "黑甲壳"
+  },
+  {
+    "id": "PA_BlackCarapace_Quirk.Description.Manufacturer",
+    "content": "女王"
+  },
+  {
+    "id": "PA_BlackCarapace_Quirk.LV_MIMETIC.statusEffects0.Details",
+    "content": "使携带隐身设备的单位更被肉眼看到"
+  },
+  {
+    "id": "PA_BlackCarapace_Quirk.LV_Stealth_Effect.statusEffects1.Details",
+    "content": "使携带隐身设备的单位更难被发现和侦测"
+  },
+  {
+    "id": "PA_BlackCarapace_Quirk.Stealth_Signature_Decrease_Stealth.statusEffects2.Details",
+    "content": "信号特征状态效果."
+  },
+  {
+    "id": "PA_BlackCarapace_Quirk.Stealth_Visibility_Decrease_Stealth.statusEffects3.Details",
+    "content": "可见性状态效果."
+  },
+  {
+    "id": "PA_BlackCarapace_Quirk.LV_MIMETIC.statusEffects0.Name",
+    "content": "伪装装甲"
+  },
+  {
+    "id": "PA_BlackCarapace_Quirk.LV_Stealth_Effect.statusEffects1.Name",
+    "content": "隐身"
+  },
+  {
+    "id": "PA_BlackCarapace_Quirk.Stealth_Signature_Decrease_Stealth.statusEffects2.Name",
+    "content": "减少隐身信号特征"
+  },
+  {
+    "id": "PA_BlackCarapace_Quirk.Stealth_Visibility_Decrease_Stealth.statusEffects3.Name",
+    "content": "降低隐身可见性"
+  },
+  {
+    "id": "PA_BlackCarapace_Slot.Description.Details",
+    "content": "基于LV-426上发现的独特哈杰尔化合物,它具有分解和吸收电磁波和光波的能力,黑甲壳具有自我修复能力和基本的隐身功能."
+  },
+  {
+    "id": "PA_BlackCarapace_Slot.Description.UIName",
+    "content": "黑甲壳"
+  },
+  {
+    "id": "PA_BlackCarapace_Slot.Description.Name",
+    "content": "黑甲壳"
+  },
+  {
+    "id": "PA_BlackCarapace_Slot.Description.Manufacturer",
+    "content": "女王"
+  },
+  {
+    "id": "PA_BoardingClawCU.Description.Details",
+    "content": "伺服机构是战斗装甲肢体的一个组件,由关节、人工肌肉纤维和肌肉运动控制单元组成."
+  },
+  {
+    "id": "PA_BoardingClawCU.Description.UIName",
+    "content": "机载爪"
+  },
+  {
+    "id": "PA_BoardingClawCU.Description.Name",
+    "content": "标准手部机构"
+  },
+  {
+    "id": "PA_BoardingClawCU.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "PA_BoardingClawCU.PunchIsPhysical.statusEffects0.Details",
+    "content": "这是一把实体武器,使用近战规则."
+  },
+  {
+    "id": "PA_BoardingClawCU.PhysicalWeaponIgnoreActuators.statusEffects1.Details",
+    "content": "这个实体武器忽略伺服机构的伤害."
+  },
+  {
+    "id": "PA_BoardingClawCU.CBTBE_PHYSICAL_WEAPON_APPLY_UNSTEADY.statusEffects2.Details",
+    "content": "Foo"
+  },
+  {
+    "id": "PA_BoardingClawCU.CBTBE_PHYSICAL_WEAPON_LOCATION_TABLE.statusEffects3.Details",
+    "content": "Foo"
+  },
+  {
+    "id": "PA_BoardingClawCU.Punch_Damage_Base.statusEffects4.Details",
+    "content": "伤害修正"
+  },
+  {
+    "id": "PA_BoardingClawCU.Punch_Damage_Base.statusEffects5.Details",
+    "content": "伤害修正"
+  },
+  {
+    "id": "PA_BoardingClawCU.CanSwarmStat.statusEffects6.Details",
+    "content": "战斗装甲(BA)可以进行群体攻击."
+  },
+  {
+    "id": "PA_BoardingClawCU.PunchIsPhysical.statusEffects0.Name",
+    "content": "这是一种实体武器"
+  },
+  {
+    "id": "PA_BoardingClawCU.PhysicalWeaponIgnoreActuators.statusEffects1.Name",
+    "content": "实体武器忽略伺服机构的伤害"
+  },
+  {
+    "id": "PA_BoardingClawCU.CBTBE_PHYSICAL_WEAPON_APPLY_UNSTEADY.statusEffects2.Name",
+    "content": "目标将失稳"
+  },
+  {
+    "id": "PA_BoardingClawCU.CBTBE_PHYSICAL_WEAPON_LOCATION_TABLE.statusEffects3.Name",
+    "content": "需要使用位置表"
+  },
+  {
+    "id": "PA_BoardingClawCU.Punch_Damage_Base.statusEffects4.Name",
+    "content": "基础击打伤害"
+  },
+  {
+    "id": "PA_BoardingClawCU.Punch_Damage_Base.statusEffects5.Name",
+    "content": "基础击打伤害"
+  },
+  {
+    "id": "PA_BoardingClawCU.CanSwarmStat.statusEffects6.Name",
+    "content": "战斗装甲(BA)可以进行群体攻击."
+  },
+  {
+    "id": "PA_C3.Description.Details",
+    "content": "一台小型C3电脑,能将目标的基本消息传入连队网络"
+  },
+  {
+    "id": "PA_C3.Description.UIName",
+    "content": "战斗装甲C3"
+  },
+  {
+    "id": "PA_C3.Description.Name",
+    "content": "战斗装甲C3"
+  },
+  {
+    "id": "PA_C3.Description.Manufacturer",
+    "content": "通讯之星"
+  },
+  {
+    "id": "PA_C3.C3i.statusEffects0.Details",
+    "content": "当队友移动时显示他们的视野"
+  },
+  {
+    "id": "PA_C3.C3_AI.statusEffects1.Details",
+    "content": "当队友移动时显示他们的视野"
+  },
+  {
+    "id": "PA_C3.LV_Shares_Vision.statusEffects2.Details",
+    "content": "当队友移动时显示他们的视野"
+  },
+  {
+    "id": "PA_C3.C3i.statusEffects0.Name",
+    "content": "C3i网络"
+  },
+  {
+    "id": "PA_C3.C3_AI.statusEffects1.Name",
+    "content": "C3 AI"
+  },
+  {
+    "id": "PA_C3.LV_Shares_Vision.statusEffects2.Name",
+    "content": "视野共享"
+  },
+  {
+    "id": "PA_Controls.Description.Details",
+    "content": "每一个战斗装甲(BA)被一个特殊训练的驾驶员驾驶"
+  },
+  {
+    "id": "PA_Controls.Description.UIName",
+    "content": "BA控制"
+  },
+  {
+    "id": "PA_Controls.Description.Name",
+    "content": "战斗装甲(BA)控制"
+  },
+  {
+    "id": "PA_Controls.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "PA_Controls.StatusEffect-CarefulIgnoreMines.statusEffects0.Details",
+    "content": "该单位忽略了地形加成和惩罚以及地雷,但是大大减少了移动力."
+  },
+  {
+    "id": "PA_Controls.HeadShotDamageImmunity.statusEffects1.Details",
+    "content": "头部被命中时,驾驶员不再受伤"
+  },
+  {
+    "id": "PA_Controls.StatusEffect-MeleeEvaIgnore.statusEffects2.Details",
+    "content": "+1闪避忽略"
+  },
+  {
+    "id": "PA_Controls.Swarm_to_Hit.statusEffects3.Details",
+    "content": "+2精度,+50%致命损伤率,+30%射程,-50%所有武器最低射程."
+  },
+  {
+    "id": "PA_Controls.StatusEffect-CarefulIgnoreMines.statusEffects0.Name",
+    "content": "小心操做"
+  },
+  {
+    "id": "PA_Controls.HeadShotDamageImmunity.statusEffects1.Name",
+    "content": "免疫"
+  },
+  {
+    "id": "PA_Controls.StatusEffect-MeleeEvaIgnore.statusEffects2.Name",
+    "content": "忽略闪避"
+  },
+  {
+    "id": "PA_Controls.Swarm_to_Hit.statusEffects3.Name",
+    "content": "氏族TTS"
+  },
+  {
+    "id": "PA_ECM.Description.Details",
+    "content": "这种基本的电子对抗设备(ECM)可以干扰敌人的瞄准和导弹系统,是对机甲标准ECM设备的有效升级"
+  },
+  {
+    "id": "PA_ECM.Description.UIName",
+    "content": "BA ECM"
+  },
+  {
+    "id": "PA_ECM.Description.Name",
+    "content": "电子对抗措施"
+  },
+  {
+    "id": "PA_ECM.Description.Manufacturer",
+    "content": "谷神星"
+  },
+  {
+    "id": "PA_ECM.ECMPassiveShield.statusEffects0.Details",
+    "content": "被动ECM保护"
+  },
+  {
+    "id": "PA_ECM.ECMPassiveJam.statusEffects1.Details",
+    "content": "被动干扰保护"
+  },
+  {
+    "id": "PA_ECM.ECMPassiveShield.statusEffects0.Name",
+    "content": "ECM被动护罩"
+  },
+  {
+    "id": "PA_ECM.ECMPassiveJam.statusEffects1.Name",
+    "content": "ECM被动干扰"
+  },
+  {
+    "id": "PA_EWS.Description.Details",
+    "content": "这款战斗装甲(BA)配备了标准的BA ECM和BA探测器"
+  },
+  {
+    "id": "PA_EWS.Description.UIName",
+    "content": "BA电子战套件"
+  },
+  {
+    "id": "PA_EWS.Description.Name",
+    "content": "电子战套件"
+  },
+  {
+    "id": "PA_EWS.Description.Manufacturer",
+    "content": "谷神星"
+  },
+  {
+    "id": "PA_EWS.ECMPassiveShield.statusEffects0.Details",
+    "content": "被动ECM保护"
+  },
+  {
+    "id": "PA_EWS.ECMPassiveJam.statusEffects1.Details",
+    "content": "被动干扰保护"
+  },
+  {
+    "id": "PA_EWS.LV_PROBE_CARRIER.statusEffects2.Details",
+    "content": "降低隐身和ECM护罩单元的效果"
+  },
+  {
+    "id": "PA_EWS.LV_ADVANCED_SENSORS.statusEffects3.Details",
+    "content": "提供敌军单位的详细信息"
+  },
+  {
+    "id": "PA_EWS.BloodhoundProbe.statusEffects4.Details",
+    "content": "增加视野/传感器"
+  },
+  {
+    "id": "PA_EWS.BAP-Spotting_Gain-T1.statusEffects5.Details",
+    "content": "+50m发现距离"
+  },
+  {
+    "id": "PA_EWS.MineFieldDetection.statusEffects6.Details",
+    "content": "探测雷场"
+  },
+  {
+    "id": "PA_EWS.ECMPassiveShield.statusEffects0.Name",
+    "content": "ECM被动护罩"
+  },
+  {
+    "id": "PA_EWS.ECMPassiveJam.statusEffects1.Name",
+    "content": "ECM被动干扰"
+  },
+  {
+    "id": "PA_EWS.LV_PROBE_CARRIER.statusEffects2.Name",
+    "content": "主动探测器(被动)"
+  },
+  {
+    "id": "PA_EWS.LV_ADVANCED_SENSORS.statusEffects3.Name",
+    "content": "先进传感器"
+  },
+  {
+    "id": "PA_EWS.BloodhoundProbe.statusEffects4.Name",
+    "content": "寻血犬探测器"
+  },
+  {
+    "id": "PA_EWS.BAP-Spotting_Gain-T1.statusEffects5.Name",
+    "content": "提升发现距离"
+  },
+  {
+    "id": "PA_EWS.MineFieldDetection.statusEffects6.Name",
+    "content": "主动探测器(被动)"
+  },
+  {
+    "id": "PA_FakeArmsCU.Description.Details",
+    "content": "This item does nothing. It has to be there for technical reasons."
+  },
+  {
+    "id": "PA_FakeArmsCU.Description.UIName",
+    "content": "Nothing"
+  },
+  {
+    "id": "PA_FakeArmsCU.Description.Name",
+    "content": "nothing"
+  },
+  {
+    "id": "PA_FakeArmsCU.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "PA_General.Description.Details",
+    "content": "战斗装甲是装甲步兵.它们重达2吨,通常以4到6个单位的小队作战"
+  },
+  {
+    "id": "PA_General.Description.UIName",
+    "content": "战斗装甲(BA)"
+  },
+  {
+    "id": "PA_General.Description.Name",
+    "content": "战斗装甲(BA)"
+  },
+  {
+    "id": "PA_General.PAWalk.statusEffects0.Details",
+    "content": "战斗装甲(BA)行走距离倍率"
+  },
+  {
+    "id": "PA_General.StatusEffect-Defense_ToHit-T3.statusEffects1.Details",
+    "content": "对该单位的所有攻击提供惩罚."
+  },
+  {
+    "id": "PA_General.MaxEvasion.statusEffects2.Details",
+    "content": "该单位从移动中获得额外的闪避(直到最大值)."
+  },
+  {
+    "id": "PA_General.GainEvasion.statusEffects3.Details",
+    "content": "该单位从移动中获得额外的闪避(直到最大值)."
+  },
+  {
+    "id": "PA_General.GyroGenericThreshhold.statusEffects4.Details",
+    "content": "陀螺仪有助于机甲稳定重心"
+  },
+  {
+    "id": "PA_General.PowerArmorEject.statusEffects5.Details",
+    "content": "被动:使用单武器攻击时忽略目标的遮蔽和守备状态."
+  },
+  {
+    "id": "PA_General.AbilityDefBattleArmorMount_test.statusEffects6.Details",
+    "content": "激活能力(使用射击动作).执行战斗装甲(BA)安装的能力."
+  },
+  {
+    "id": "PA_General.BAWalk.statusEffects7.Details",
+    "content": "人工肌肉加速信号电路(MASC)"
+  },
+  {
+    "id": "PA_General.PAWalk.statusEffects0.Name",
+    "content": "战斗装甲(BA)行走"
+  },
+  {
+    "id": "PA_General.StatusEffect-Defense_ToHit-T3.statusEffects1.Name",
+    "content": "更难命中"
+  },
+  {
+    "id": "PA_General.MaxEvasion.statusEffects2.Name",
+    "content": "闪避机动"
+  },
+  {
+    "id": "PA_General.GainEvasion.statusEffects3.Name",
+    "content": "闪避机动"
+  },
+  {
+    "id": "PA_General.GyroGenericThreshhold.statusEffects4.Name",
+    "content": "陀螺仪稳定器"
+  },
+  {
+    "id": "PA_General.PowerArmorEject.statusEffects5.Name",
+    "content": "没有弹射"
+  },
+  {
+    "id": "PA_General.AbilityDefBattleArmorMount_test.statusEffects6.Name",
+    "content": "战斗装甲安装的事物"
+  },
+  {
+    "id": "PA_General.BAWalk.statusEffects7.Name",
+    "content": "BA"
+  },
+  {
+    "id": "PA_HeavyBattleClaw.Description.Details",
+    "content": "伺服机构是战斗装甲肢体的一个组件,由关节、人工肌肉纤维和肌肉运动控制单元组成."
+  },
+  {
+    "id": "PA_HeavyBattleClaw.Description.UIName",
+    "content": "重型战爪"
+  },
+  {
+    "id": "PA_HeavyBattleClaw.Description.Name",
+    "content": "标准手部机构"
+  },
+  {
+    "id": "PA_HeavyBattleClaw.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "PA_HeavyBattleClaw.PunchIsPhysical.statusEffects0.Details",
+    "content": "这是一把实体武器,使用近战规则."
+  },
+  {
+    "id": "PA_HeavyBattleClaw.PhysicalWeaponIgnoreActuators.statusEffects1.Details",
+    "content": "这个实体武器忽略伺服机构的伤害."
+  },
+  {
+    "id": "PA_HeavyBattleClaw.CBTBE_PHYSICAL_WEAPON_APPLY_UNSTEADY.statusEffects2.Details",
+    "content": "Foo"
+  },
+  {
+    "id": "PA_HeavyBattleClaw.CBTBE_PHYSICAL_WEAPON_LOCATION_TABLE.statusEffects3.Details",
+    "content": "Foo"
+  },
+  {
+    "id": "PA_HeavyBattleClaw.Punch_Damage_Base.statusEffects4.Details",
+    "content": "伤害修正"
+  },
+  {
+    "id": "PA_HeavyBattleClaw.Punch_Damage_Base.statusEffects5.Details",
+    "content": "伤害修正"
+  },
+  {
+    "id": "PA_HeavyBattleClaw.PunchIsPhysical.statusEffects0.Name",
+    "content": "这是一种实体武器"
+  },
+  {
+    "id": "PA_HeavyBattleClaw.PhysicalWeaponIgnoreActuators.statusEffects1.Name",
+    "content": "实体武器忽略伺服机构的伤害"
+  },
+  {
+    "id": "PA_HeavyBattleClaw.CBTBE_PHYSICAL_WEAPON_APPLY_UNSTEADY.statusEffects2.Name",
+    "content": "目标将失稳"
+  },
+  {
+    "id": "PA_HeavyBattleClaw.CBTBE_PHYSICAL_WEAPON_LOCATION_TABLE.statusEffects3.Name",
+    "content": "需要使用位置表"
+  },
+  {
+    "id": "PA_HeavyBattleClaw.Punch_Damage_Base.statusEffects4.Name",
+    "content": "基础击打伤害"
+  },
+  {
+    "id": "PA_HeavyBattleClaw.Punch_Damage_Base.statusEffects5.Name",
+    "content": "基础击打伤害"
+  },
+  {
+    "id": "PA_Legs.Description.Details",
+    "content": "加固腿部组件能增加它所安装部位的结构和装甲."
+  },
+  {
+    "id": "PA_Legs.Description.UIName",
+    "content": "腿部"
+  },
+  {
+    "id": "PA_Legs.Description.Name",
+    "content": "加固腿部模块MK1"
+  },
+  {
+    "id": "PA_Legs.Description.Manufacturer",
+    "content": "谷神星金属"
+  },
+  {
+    "id": "PA_Magnetic.Description.Details",
+    "content": "战斗装甲是装甲步兵.它们重达2吨,通常以4到6个单位的小队作战"
+  },
+  {
+    "id": "PA_Magnetic.Description.UIName",
+    "content": "战斗装甲(BA)"
+  },
+  {
+    "id": "PA_Magnetic.Description.Name",
+    "content": "战斗装甲(BA)"
+  },
+  {
+    "id": "PA_Magnetic.PAWalk.statusEffects0.Details",
+    "content": "战斗装甲(BA)行走距离倍率"
+  },
+  {
+    "id": "PA_Magnetic.StatusEffect-Defense_ToHit-T3.statusEffects1.Details",
+    "content": "对该单位的所有攻击提供惩罚."
+  },
+  {
+    "id": "PA_Magnetic.MaxEvasion.statusEffects2.Details",
+    "content": "该单位从移动中获得额外的闪避(直到最大值)."
+  },
+  {
+    "id": "PA_Magnetic.GainEvasion.statusEffects3.Details",
+    "content": "该单位从移动中获得额外的闪避(直到最大值)."
+  },
+  {
+    "id": "PA_Magnetic.GyroGenericThreshhold.statusEffects4.Details",
+    "content": "陀螺仪有助于机甲稳定重心"
+  },
+  {
+    "id": "PA_Magnetic.PowerArmorEject.statusEffects5.Details",
+    "content": "被动:使用单武器攻击时忽略目标的遮蔽和守备状态."
+  },
+  {
+    "id": "PA_Magnetic.CanSwarmStat.statusEffects6.Details",
+    "content": "战斗装甲(BA)可以进行群体攻击."
+  },
+  {
+    "id": "PA_Magnetic.AbilityDefBattleArmorMount_test.statusEffects7.Details",
+    "content": "激活能力(使用射击动作).执行战斗装甲(BA)安装的能力."
+  },
+  {
+    "id": "PA_Magnetic.BAWalk.statusEffects8.Details",
+    "content": "人工肌肉加速信号电路(MASC)"
+  },
+  {
+    "id": "PA_Magnetic.PAWalk.statusEffects0.Name",
+    "content": "战斗装甲(BA)行走"
+  },
+  {
+    "id": "PA_Magnetic.StatusEffect-Defense_ToHit-T3.statusEffects1.Name",
+    "content": "更难命中"
+  },
+  {
+    "id": "PA_Magnetic.MaxEvasion.statusEffects2.Name",
+    "content": "闪避机动"
+  },
+  {
+    "id": "PA_Magnetic.GainEvasion.statusEffects3.Name",
+    "content": "闪避机动"
+  },
+  {
+    "id": "PA_Magnetic.GyroGenericThreshhold.statusEffects4.Name",
+    "content": "陀螺仪稳定器"
+  },
+  {
+    "id": "PA_Magnetic.PowerArmorEject.statusEffects5.Name",
+    "content": "没有弹射"
+  },
+  {
+    "id": "PA_Magnetic.CanSwarmStat.statusEffects6.Name",
+    "content": "战斗装甲(BA)可以进行群体攻击."
+  },
+  {
+    "id": "PA_Magnetic.AbilityDefBattleArmorMount_test.statusEffects7.Name",
+    "content": "战斗装甲安装的事物"
+  },
+  {
+    "id": "PA_Magnetic.BAWalk.statusEffects8.Name",
+    "content": "BA"
+  },
+  {
+    "id": "PA_Move_MP1.Description.Details",
+    "content": "BA +1额外步行移动力"
+  },
+  {
+    "id": "PA_Move_MP1.Description.UIName",
+    "content": "BA系统"
+  },
+  {
+    "id": "PA_Move_MP1.Description.Name",
+    "content": "BA系统"
+  },
+  {
+    "id": "PA_Move_MP1.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "PA_Move_MP1.PAWalk_MP1.statusEffects0.Details",
+    "content": "战斗装甲(BA)行走距离倍率"
+  },
+  {
+    "id": "PA_Move_MP1.PAWalk_MP1.statusEffects0.Name",
+    "content": "战斗装甲(BA)行走"
+  },
+  {
+    "id": "PA_Move_MP1MJB.Description.Details",
+    "content": "BA +1额外步行移动力"
+  },
+  {
+    "id": "PA_Move_MP1MJB.Description.UIName",
+    "content": "BA系统"
+  },
+  {
+    "id": "PA_Move_MP1MJB.Description.Name",
+    "content": "BA系统"
+  },
+  {
+    "id": "PA_Move_MP1MJB.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "PA_Move_MP1MJB.PAWalk_MP1.statusEffects0.Details",
+    "content": "战斗装甲(BA)行走距离倍率"
+  },
+  {
+    "id": "PA_Move_MP1MJB.PAWalk_MP1.statusEffects0.Name",
+    "content": "战斗装甲(BA)行走"
+  },
+  {
+    "id": "PA_Move_MP2.Description.Details",
+    "content": "BA +2额外步行移动力"
+  },
+  {
+    "id": "PA_Move_MP2.Description.UIName",
+    "content": "BA系统"
+  },
+  {
+    "id": "PA_Move_MP2.Description.Name",
+    "content": "BA系统"
+  },
+  {
+    "id": "PA_Move_MP2.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "PA_Move_MP2.PAWalk_MP2.statusEffects0.Details",
+    "content": "战斗装甲(BA)行走距离倍率"
+  },
+  {
+    "id": "PA_Move_MP2.PAWalk_MP2.statusEffects0.Name",
+    "content": "战斗装甲(BA)行走"
+  },
+  {
+    "id": "PA_Move_MP3.Description.Details",
+    "content": "BA +2额外步行移动力"
+  },
+  {
+    "id": "PA_Move_MP3.Description.UIName",
+    "content": "BA系统"
+  },
+  {
+    "id": "PA_Move_MP3.Description.Name",
+    "content": "BA系统"
+  },
+  {
+    "id": "PA_Move_MP3.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "PA_Move_MP3.PAWalk_MP2.statusEffects0.Details",
+    "content": "战斗装甲(BA)行走距离倍率"
+  },
+  {
+    "id": "PA_Move_MP3.PAWalk_MP2.statusEffects0.Name",
+    "content": "战斗装甲(BA)行走"
+  },
+  {
+    "id": "PA_Move_MP3Q.Description.Details",
+    "content": "BA +3额外步行移动力"
+  },
+  {
+    "id": "PA_Move_MP3Q.Description.UIName",
+    "content": "BA系统"
+  },
+  {
+    "id": "PA_Move_MP3Q.Description.Name",
+    "content": "BA系统"
+  },
+  {
+    "id": "PA_Move_MP3Q.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "PA_Move_MP3Q.PAWalk_MP2.statusEffects0.Details",
+    "content": "战斗装甲(BA)行走距离倍率"
+  },
+  {
+    "id": "PA_Move_MP3Q.PAWalk_MP2.statusEffects0.Name",
+    "content": "战斗装甲(BA)行走"
+  },
+  {
+    "id": "PA_NotHandsy.Description.Details",
+    "content": "战斗装甲是装甲步兵.它们重达2吨,通常以4到6个单位的小队作战"
+  },
+  {
+    "id": "PA_NotHandsy.Description.UIName",
+    "content": "战斗装甲(BA)"
+  },
+  {
+    "id": "PA_NotHandsy.Description.Name",
+    "content": "战斗装甲(BA)"
+  },
+  {
+    "id": "PA_NotHandsy.PAWalk.statusEffects0.Details",
+    "content": "战斗装甲(BA)行走距离倍率"
+  },
+  {
+    "id": "PA_NotHandsy.StatusEffect-Defense_ToHit-T3.statusEffects1.Details",
+    "content": "对该单位的所有攻击提供惩罚."
+  },
+  {
+    "id": "PA_NotHandsy.MaxEvasion.statusEffects2.Details",
+    "content": "该单位从移动中获得额外的闪避(直到最大值)."
+  },
+  {
+    "id": "PA_NotHandsy.GainEvasion.statusEffects3.Details",
+    "content": "该单位从移动中获得额外的闪避(直到最大值)."
+  },
+  {
+    "id": "PA_NotHandsy.GyroGenericThreshhold.statusEffects4.Details",
+    "content": "陀螺仪有助于机甲稳定重心"
+  },
+  {
+    "id": "PA_NotHandsy.PowerArmorEject.statusEffects5.Details",
+    "content": "被动:使用单武器攻击时忽略目标的遮蔽和守备状态."
+  },
+  {
+    "id": "PA_NotHandsy.CanSwarmStat.statusEffects6.Details",
+    "content": "战斗装甲(BA)可以进行群体攻击."
+  },
+  {
+    "id": "PA_NotHandsy.AbilityDefBattleArmorMount_test.statusEffects7.Details",
+    "content": "激活能力(使用射击动作).执行战斗装甲(BA)安装的能力."
+  },
+  {
+    "id": "PA_NotHandsy.BAWalk.statusEffects8.Details",
+    "content": "人工肌肉加速信号电路(MASC)"
+  },
+  {
+    "id": "PA_NotHandsy.PAWalk.statusEffects0.Name",
+    "content": "战斗装甲(BA)行走"
+  },
+  {
+    "id": "PA_NotHandsy.StatusEffect-Defense_ToHit-T3.statusEffects1.Name",
+    "content": "更难命中"
+  },
+  {
+    "id": "PA_NotHandsy.MaxEvasion.statusEffects2.Name",
+    "content": "闪避机动"
+  },
+  {
+    "id": "PA_NotHandsy.GainEvasion.statusEffects3.Name",
+    "content": "闪避机动"
+  },
+  {
+    "id": "PA_NotHandsy.GyroGenericThreshhold.statusEffects4.Name",
+    "content": "陀螺仪稳定器"
+  },
+  {
+    "id": "PA_NotHandsy.PowerArmorEject.statusEffects5.Name",
+    "content": "没有弹射"
+  },
+  {
+    "id": "PA_NotHandsy.CanSwarmStat.statusEffects6.Name",
+    "content": "战斗装甲(BA)可以进行群体攻击."
+  },
+  {
+    "id": "PA_NotHandsy.AbilityDefBattleArmorMount_test.statusEffects7.Name",
+    "content": "战斗装甲安装的事物"
+  },
+  {
+    "id": "PA_NotHandsy.BAWalk.statusEffects8.Name",
+    "content": "BA"
+  },
+  {
+    "id": "PA_Probe.Description.Details",
+    "content": "寻血犬主动探测器最初由通讯之星开发,以猎兔犬主动探测器作为这套增强系统的技术基础,当接入通用电子传感器,装备的单位能够检测和区分除常规步兵外的其他战场单位,无论他们是伪装或关闭."
+  },
+  {
+    "id": "PA_Probe.Description.UIName",
+    "content": "BA主动探测器"
+  },
+  {
+    "id": "PA_Probe.Description.Name",
+    "content": "BA主动探测器"
+  },
+  {
+    "id": "PA_Probe.Description.Manufacturer",
+    "content": "阿赫纳尔"
+  },
+  {
+    "id": "PA_Probe.LV_PROBE_CARRIER.statusEffects0.Details",
+    "content": "降低隐身和ECM护罩单元的效果"
+  },
+  {
+    "id": "PA_Probe.LV_ADVANCED_SENSORS.statusEffects1.Details",
+    "content": "提供敌军单位的详细信息"
+  },
+  {
+    "id": "PA_Probe.BloodhoundProbe.statusEffects2.Details",
+    "content": "增加视野/传感器"
+  },
+  {
+    "id": "PA_Probe.BAP-Spotting_Gain-T1.statusEffects3.Details",
+    "content": "+50m发现距离"
+  },
+  {
+    "id": "PA_Probe.MineFieldDetection.statusEffects4.Details",
+    "content": "探测雷场"
+  },
+  {
+    "id": "PA_Probe.LV_PROBE_CARRIER.statusEffects0.Name",
+    "content": "主动探测器(被动)"
+  },
+  {
+    "id": "PA_Probe.LV_ADVANCED_SENSORS.statusEffects1.Name",
+    "content": "先进传感器"
+  },
+  {
+    "id": "PA_Probe.BloodhoundProbe.statusEffects2.Name",
+    "content": "寻血犬探测器"
+  },
+  {
+    "id": "PA_Probe.BAP-Spotting_Gain-T1.statusEffects3.Name",
+    "content": "提升发现距离"
+  },
+  {
+    "id": "PA_Probe.MineFieldDetection.statusEffects4.Name",
+    "content": "主动探测器(被动)"
+  },
+  {
+    "id": "PA_Quad.Description.Details",
+    "content": "战斗装甲(BA)是装甲步兵.它们重达2吨,通常以4到6个单位的小队作战.四足战斗装甲(BA)速度很快而且更难被击中,但无法进行近战,群体攻击和挂载到泛用机甲."
+  },
+  {
+    "id": "PA_Quad.Description.UIName",
+    "content": "四足战斗装甲(BA)"
+  },
+  {
+    "id": "PA_Quad.Description.Name",
+    "content": "四足战斗装甲(BA)"
+  },
+  {
+    "id": "PA_Quad.PAWalk.statusEffects0.Details",
+    "content": "战斗装甲(BA)行走距离倍率"
+  },
+  {
+    "id": "PA_Quad.StatusEffect-Defense_ToHit-T3.statusEffects1.Details",
+    "content": "对该单位的所有攻击提供惩罚."
+  },
+  {
+    "id": "PA_Quad.MaxEvasion.statusEffects2.Details",
+    "content": "该单位从移动中获得额外的闪避(直到最大值)."
+  },
+  {
+    "id": "PA_Quad.GainEvasion.statusEffects3.Details",
+    "content": "该单位从移动中获得额外的闪避(直到最大值)."
+  },
+  {
+    "id": "PA_Quad.GyroGenericThreshhold.statusEffects4.Details",
+    "content": "陀螺仪有助于机甲稳定重心"
+  },
+  {
+    "id": "PA_Quad.PowerArmorEject.statusEffects5.Details",
+    "content": "被动:使用单武器攻击时忽略目标的遮蔽和守备状态."
+  },
+  {
+    "id": "PA_Quad.CanSwarmStat.statusEffects6.Details",
+    "content": "战斗装甲(BA)可以进行群体攻击."
+  },
+  {
+    "id": "PA_Quad.AbilityDefBattleArmorMount_test.statusEffects7.Details",
+    "content": "激活能力(使用射击动作).执行战斗装甲(BA)安装的能力."
+  },
+  {
+    "id": "PA_Quad.BAWalk.statusEffects8.Details",
+    "content": "人工肌肉加速信号电路(MASC)"
+  },
+  {
+    "id": "PA_Quad.PAWalk.statusEffects0.Name",
+    "content": "战斗装甲(BA)行走"
+  },
+  {
+    "id": "PA_Quad.StatusEffect-Defense_ToHit-T3.statusEffects1.Name",
+    "content": "更难命中"
+  },
+  {
+    "id": "PA_Quad.MaxEvasion.statusEffects2.Name",
+    "content": "闪避机动"
+  },
+  {
+    "id": "PA_Quad.GainEvasion.statusEffects3.Name",
+    "content": "闪避机动"
+  },
+  {
+    "id": "PA_Quad.GyroGenericThreshhold.statusEffects4.Name",
+    "content": "陀螺仪稳定器"
+  },
+  {
+    "id": "PA_Quad.PowerArmorEject.statusEffects5.Name",
+    "content": "没有弹射"
+  },
+  {
+    "id": "PA_Quad.CanSwarmStat.statusEffects6.Name",
+    "content": "战斗装甲(BA)可以进行群体攻击."
+  },
+  {
+    "id": "PA_Quad.AbilityDefBattleArmorMount_test.statusEffects7.Name",
+    "content": "战斗装甲安装的事物"
+  },
+  {
+    "id": "PA_Quad.BAWalk.statusEffects8.Name",
+    "content": "BA"
+  },
+  {
+    "id": "PA_Quad_Turret.Description.Details",
+    "content": "战斗装甲(BA)是装甲步兵.它们重达2吨,通常以4到6个单位的小队作战.四足战斗装甲(BA)速度很快而且更难被击中,但无法进行近战,群体攻击和挂载到泛用机甲."
+  },
+  {
+    "id": "PA_Quad_Turret.Description.UIName",
+    "content": "四足战斗装甲(BA)"
+  },
+  {
+    "id": "PA_Quad_Turret.Description.Name",
+    "content": "四足战斗装甲(BA)"
+  },
+  {
+    "id": "PA_Quad_Turret.PAWalk.statusEffects0.Details",
+    "content": "战斗装甲(BA)行走距离倍率"
+  },
+  {
+    "id": "PA_Quad_Turret.StatusEffect-Defense_ToHit-T3.statusEffects1.Details",
+    "content": "对该单位的所有攻击提供惩罚."
+  },
+  {
+    "id": "PA_Quad_Turret.MaxEvasion.statusEffects2.Details",
+    "content": "该单位从移动中获得额外的闪避(直到最大值)."
+  },
+  {
+    "id": "PA_Quad_Turret.GainEvasion.statusEffects3.Details",
+    "content": "该单位从移动中获得额外的闪避(直到最大值)."
+  },
+  {
+    "id": "PA_Quad_Turret.GyroGenericThreshhold.statusEffects4.Details",
+    "content": "陀螺仪有助于机甲稳定重心"
+  },
+  {
+    "id": "PA_Quad_Turret.PowerArmorEject.statusEffects5.Details",
+    "content": "被动:使用单武器攻击时忽略目标的遮蔽和守备状态."
+  },
+  {
+    "id": "PA_Quad_Turret.CanSwarmStat.statusEffects6.Details",
+    "content": "战斗装甲(BA)可以进行群体攻击."
+  },
+  {
+    "id": "PA_Quad_Turret.AbilityDefBattleArmorMount_test.statusEffects7.Details",
+    "content": "激活能力(使用射击动作).执行战斗装甲(BA)安装的能力."
+  },
+  {
+    "id": "PA_Quad_Turret.BAWalk.statusEffects8.Details",
+    "content": "人工肌肉加速信号电路(MASC)"
+  },
+  {
+    "id": "PA_Quad_Turret.StatusEffect-FCS_Flak.statusEffects9.Details",
+    "content": "+1闪避忽略"
+  },
+  {
+    "id": "PA_Quad_Turret.TCCALLSHOT.statusEffects11.Details",
+    "content": "精确射击双倍可靠"
+  },
+  {
+    "id": "PA_Quad_Turret.TC-TO-HIT.statusEffects12.Details",
+    "content": "突破射击, 提高精度/后座"
+  },
+  {
+    "id": "PA_Quad_Turret.PAWalk.statusEffects0.Name",
+    "content": "战斗装甲(BA)行走"
+  },
+  {
+    "id": "PA_Quad_Turret.StatusEffect-Defense_ToHit-T3.statusEffects1.Name",
+    "content": "更难命中"
+  },
+  {
+    "id": "PA_Quad_Turret.MaxEvasion.statusEffects2.Name",
+    "content": "闪避机动"
+  },
+  {
+    "id": "PA_Quad_Turret.GainEvasion.statusEffects3.Name",
+    "content": "闪避机动"
+  },
+  {
+    "id": "PA_Quad_Turret.GyroGenericThreshhold.statusEffects4.Name",
+    "content": "陀螺仪稳定器"
+  },
+  {
+    "id": "PA_Quad_Turret.PowerArmorEject.statusEffects5.Name",
+    "content": "没有弹射"
+  },
+  {
+    "id": "PA_Quad_Turret.CanSwarmStat.statusEffects6.Name",
+    "content": "战斗装甲(BA)可以进行群体攻击."
+  },
+  {
+    "id": "PA_Quad_Turret.AbilityDefBattleArmorMount_test.statusEffects7.Name",
+    "content": "战斗装甲安装的事物"
+  },
+  {
+    "id": "PA_Quad_Turret.BAWalk.statusEffects8.Name",
+    "content": "BA"
+  },
+  {
+    "id": "PA_Quad_Turret.StatusEffect-FCS_Flak.statusEffects9.Name",
+    "content": "忽略闪避"
+  },
+  {
+    "id": "PA_Quad_Turret.StatusEffect-FCS_Flak2.statusEffects10.Name",
+    "content": "高射炮火控系统"
+  },
+  {
+    "id": "PA_Quad_Turret.TCCALLSHOT.statusEffects11.Name",
+    "content": "提升精确射击"
+  },
+  {
+    "id": "PA_Quad_Turret.TC-TO-HIT.statusEffects12.Name",
+    "content": "瞄准电脑"
+  },
+  {
+    "id": "PA_VibroClaw.Description.Details",
+    "content": "伺服机构是战斗装甲肢体的一个组件,由关节、人工肌肉纤维和肌肉运动控制单元组成."
+  },
+  {
+    "id": "PA_VibroClaw.Description.UIName",
+    "content": "振动爪"
+  },
+  {
+    "id": "PA_VibroClaw.Description.Name",
+    "content": "标准手部机构"
+  },
+  {
+    "id": "PA_VibroClaw.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "PA_VibroClaw.PunchIsPhysical.statusEffects0.Details",
+    "content": "这是一把实体武器,使用近战规则."
+  },
+  {
+    "id": "PA_VibroClaw.PhysicalWeaponIgnoreActuators.statusEffects1.Details",
+    "content": "这个实体武器忽略伺服机构的伤害."
+  },
+  {
+    "id": "PA_VibroClaw.CBTBE_PHYSICAL_WEAPON_APPLY_UNSTEADY.statusEffects2.Details",
+    "content": "Foo"
+  },
+  {
+    "id": "PA_VibroClaw.CBTBE_PHYSICAL_WEAPON_LOCATION_TABLE.statusEffects3.Details",
+    "content": "Foo"
+  },
+  {
+    "id": "PA_VibroClaw.Punch_Damage_Base.statusEffects4.Details",
+    "content": "伤害修正"
+  },
+  {
+    "id": "PA_VibroClaw.Punch_Damage_Base.statusEffects5.Details",
+    "content": "伤害修正"
+  },
+  {
+    "id": "PA_VibroClaw.CanSwarmStat.statusEffects6.Details",
+    "content": "战斗装甲(BA)可以进行群体攻击."
+  },
+  {
+    "id": "PA_VibroClaw.PunchIsPhysical.statusEffects0.Name",
+    "content": "这是一种实体武器"
+  },
+  {
+    "id": "PA_VibroClaw.PhysicalWeaponIgnoreActuators.statusEffects1.Name",
+    "content": "实体武器忽略伺服机构的伤害"
+  },
+  {
+    "id": "PA_VibroClaw.CBTBE_PHYSICAL_WEAPON_APPLY_UNSTEADY.statusEffects2.Name",
+    "content": "目标将失稳"
+  },
+  {
+    "id": "PA_VibroClaw.CBTBE_PHYSICAL_WEAPON_LOCATION_TABLE.statusEffects3.Name",
+    "content": "需要使用位置表"
+  },
+  {
+    "id": "PA_VibroClaw.Punch_Damage_Base.statusEffects4.Name",
+    "content": "基础击打伤害"
+  },
+  {
+    "id": "PA_VibroClaw.Punch_Damage_Base.statusEffects5.Name",
+    "content": "基础击打伤害"
+  },
+  {
+    "id": "PA_VibroClaw.CanSwarmStat.statusEffects6.Name",
+    "content": "战斗装甲(BA)可以进行群体攻击."
+  },
+  {
+    "id": "PA_XenoClaws.Description.Details",
+    "content": "这些爪子锋利,轻盈,似乎是由本能引导的.但那不可能,对吧?"
+  },
+  {
+    "id": "PA_XenoClaws.Description.UIName",
+    "content": "异型爪"
+  },
+  {
+    "id": "PA_XenoClaws.Description.Name",
+    "content": "标准手部机构"
+  },
+  {
+    "id": "PA_XenoClaws.Description.Manufacturer",
+    "content": "女王"
+  },
+  {
+    "id": "PA_XenoClaws.PunchIsPhysical.statusEffects0.Details",
+    "content": "这是一把实体武器,使用近战规则."
+  },
+  {
+    "id": "PA_XenoClaws.PhysicalWeaponIgnoreActuators.statusEffects1.Details",
+    "content": "这个实体武器忽略伺服机构的伤害."
+  },
+  {
+    "id": "PA_XenoClaws.CBTBE_PHYSICAL_WEAPON_APPLY_UNSTEADY.statusEffects2.Details",
+    "content": "Foo"
+  },
+  {
+    "id": "PA_XenoClaws.CBTBE_PHYSICAL_WEAPON_LOCATION_TABLE.statusEffects3.Details",
+    "content": "Foo"
+  },
+  {
+    "id": "PA_XenoClaws.Punch_Damage_Base.statusEffects4.Details",
+    "content": "伤害修正"
+  },
+  {
+    "id": "PA_XenoClaws.Punch_Damage_Base.statusEffects5.Details",
+    "content": "伤害修正"
+  },
+  {
+    "id": "PA_XenoClaws.CanSwarmStat.statusEffects6.Details",
+    "content": "战斗装甲(BA)可以进行群体攻击."
+  },
+  {
+    "id": "PA_XenoClaws.MeleeAccuracy_Sword.statusEffects7.Details",
+    "content": "近战武器精度修正"
+  },
+  {
+    "id": "PA_XenoClaws.PunchIsPhysical.statusEffects0.Name",
+    "content": "这是一种实体武器"
+  },
+  {
+    "id": "PA_XenoClaws.PhysicalWeaponIgnoreActuators.statusEffects1.Name",
+    "content": "实体武器忽略伺服机构的伤害"
+  },
+  {
+    "id": "PA_XenoClaws.CBTBE_PHYSICAL_WEAPON_APPLY_UNSTEADY.statusEffects2.Name",
+    "content": "目标将失稳"
+  },
+  {
+    "id": "PA_XenoClaws.CBTBE_PHYSICAL_WEAPON_LOCATION_TABLE.statusEffects3.Name",
+    "content": "需要使用位置表"
+  },
+  {
+    "id": "PA_XenoClaws.Punch_Damage_Base.statusEffects4.Name",
+    "content": "基础击打伤害"
+  },
+  {
+    "id": "PA_XenoClaws.Punch_Damage_Base.statusEffects5.Name",
+    "content": "基础击打伤害"
+  },
+  {
+    "id": "PA_XenoClaws.CanSwarmStat.statusEffects6.Name",
+    "content": "战斗装甲(BA)可以进行群体攻击."
+  },
+  {
+    "id": "PA_XenoClaws.MeleeAccuracy_Sword.statusEffects7.Name",
+    "content": "近战武器精度修正"
+  },
+  {
+    "id": "PA_JumpJetsBooster.Description.Details",
+    "content": "战斗装甲跳跃推进器可以在战场上进行超远跳跃,通常是在在机甲没有防备的掩护下."
+  },
+  {
+    "id": "PA_JumpJetsBooster.Description.UIName",
+    "content": "战斗装甲跳跃助推器"
+  },
+  {
+    "id": "PA_JumpJetsBooster.Description.Name",
+    "content": "战斗装甲跳跃助推器"
+  },
+  {
+    "id": "PA_JumpJetsBooster.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "PA_JumpJetsBooster.StatusEffect-QuirkWings.statusEffects0.Details",
+    "content": "-20%产热"
+  },
+  {
+    "id": "PA_JumpJetsBooster.StatusEffect-JumpAmount.statusEffects1.Details",
+    "content": "最大跳跃推进器量每行走里程"
+  },
+  {
+    "id": "PA_JumpJetsBooster.StatusEffect-QuirkWings.statusEffects0.Name",
+    "content": "减少产热"
+  },
+  {
+    "id": "PA_JumpJetsBooster.StatusEffect-JumpAmount.statusEffects1.Name",
+    "content": "跳跃推进器量"
+  },
+  {
+    "id": "PA_JumpJetsCU.Description.Details",
+    "content": "战斗装甲跳跃推进器可以在战场上进行超远跳跃,通常是在在机甲没有防备的掩护下."
+  },
+  {
+    "id": "PA_JumpJetsCU.Description.UIName",
+    "content": "BA跳跃推进器"
+  },
+  {
+    "id": "PA_JumpJetsCU.Description.Name",
+    "content": "BA跳跃推进器"
+  },
+  {
+    "id": "PA_JumpJetsCU.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "PA_JumpJetsCU.StatusEffect-QuirkWings.statusEffects0.Details",
+    "content": "-20%产热"
+  },
+  {
+    "id": "PA_JumpJetsCU.StatusEffect-JumpAmount.statusEffects1.Details",
+    "content": "最大跳跃推进器量每行走里程"
+  },
+  {
+    "id": "PA_JumpJetsCU.StatusEffect-QuirkWings.statusEffects0.Name",
+    "content": "减少产热"
+  },
+  {
+    "id": "PA_JumpJetsCU.StatusEffect-JumpAmount.statusEffects1.Name",
+    "content": "跳跃推进器量"
+  },
+  {
+    "id": "PA_JumpJetsHeavy.Description.Details",
+    "content": "战斗装甲跳跃推进器可以在战场上进行超远跳跃,通常是在在机甲没有防备的掩护下."
+  },
+  {
+    "id": "PA_JumpJetsHeavy.Description.UIName",
+    "content": "BA跳跃推进器"
+  },
+  {
+    "id": "PA_JumpJetsHeavy.Description.Name",
+    "content": "BA跳跃推进器"
+  },
+  {
+    "id": "PA_JumpJetsHeavy.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "PA_JumpJetsHeavy.StatusEffect-QuirkWings.statusEffects0.Details",
+    "content": "-20%产热"
+  },
+  {
+    "id": "PA_JumpJetsHeavy.StatusEffect-JumpAmount.statusEffects1.Details",
+    "content": "最大跳跃推进器量每行走里程"
+  },
+  {
+    "id": "PA_JumpJetsHeavy.StatusEffect-QuirkWings.statusEffects0.Name",
+    "content": "减少产热"
+  },
+  {
+    "id": "PA_JumpJetsHeavy.StatusEffect-JumpAmount.statusEffects1.Name",
+    "content": "跳跃推进器量"
+  },
+  {
+    "id": "PA_JumpJetsHeavyMechanical.Description.Details",
+    "content": "战斗装甲机械式跳跃推进器也有它较大表亲的优点和局限性.它们的跳跃能力非常有限,在空中很难以操纵.然而,战斗装甲上使用的机械跳跃助助推器比它们机甲尺寸的表亲有一个显著优势:他们可以让战斗装甲的士兵使用跳跃取代正常的步行状态,从而使战斗装甲士兵能够穿过更多地形."
+  },
+  {
+    "id": "PA_JumpJetsHeavyMechanical.Description.UIName",
+    "content": "BA机械式跳跃系统"
+  },
+  {
+    "id": "PA_JumpJetsHeavyMechanical.Description.Name",
+    "content": "BA机械式跳跃系统"
+  },
+  {
+    "id": "PA_JumpJetsHeavyMechanical.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "PA_JumpJetsHeavyMechanical.StatusEffect-QuirkWings.statusEffects0.Details",
+    "content": "-20%产热"
+  },
+  {
+    "id": "PA_JumpJetsHeavyMechanical.StatusEffect-JumpAmount.statusEffects1.Details",
+    "content": "最大跳跃推进器量每行走里程"
+  },
+  {
+    "id": "PA_JumpJetsHeavyMechanical.StatusEffect-RotationPenalty.statusEffects2.Details",
+    "content": "不能改变朝向"
+  },
+  {
+    "id": "PA_JumpJetsHeavyMechanical.StatusEffect-QuirkWings.statusEffects0.Name",
+    "content": "减少产热"
+  },
+  {
+    "id": "PA_JumpJetsHeavyMechanical.StatusEffect-JumpAmount.statusEffects1.Name",
+    "content": "跳跃推进器量"
+  },
+  {
+    "id": "PA_JumpJetsHeavyMechanical.StatusEffect-RotationPenalty.statusEffects2.Name",
+    "content": "只能直线跳跃"
+  },
+  {
+    "id": "PA_JumpJetsLight.Description.Details",
+    "content": "战斗装甲跳跃推进器可以在战场上进行超远跳跃,通常是在在机甲没有防备的掩护下."
+  },
+  {
+    "id": "PA_JumpJetsLight.Description.UIName",
+    "content": "BA跳跃推进器"
+  },
+  {
+    "id": "PA_JumpJetsLight.Description.Name",
+    "content": "BA跳跃推进器"
+  },
+  {
+    "id": "PA_JumpJetsLight.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "PA_JumpJetsLight.StatusEffect-QuirkWings.statusEffects0.Details",
+    "content": "-20%产热"
+  },
+  {
+    "id": "PA_JumpJetsLight.StatusEffect-JumpAmount.statusEffects1.Details",
+    "content": "最大跳跃推进器量每行走里程"
+  },
+  {
+    "id": "PA_JumpJetsLight.StatusEffect-QuirkWings.statusEffects0.Name",
+    "content": "减少产热"
+  },
+  {
+    "id": "PA_JumpJetsLight.StatusEffect-JumpAmount.statusEffects1.Name",
+    "content": "跳跃推进器量"
+  },
+  {
+    "id": "Type_Advanced.Description.Details",
+    "content": "先进的BA装甲是由FWL和布莱克斯特科学家共同努力创造的,试图更细致地复制氏族元素装甲.虽然仍然比氏族版本重,但明显比标准装甲轻"
+  },
+  {
+    "id": "Type_Advanced.Description.UIName",
+    "content": "先进"
+  },
+  {
+    "id": "Type_Advanced.Description.Name",
+    "content": "先进"
+  },
+  {
+    "id": "Type_Advanced.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Type_Armored.Description.Details",
+    "content": "装甲化战斗装甲提供了极好的保护"
+  },
+  {
+    "id": "Type_Armored.Description.UIName",
+    "content": "装甲的"
+  },
+  {
+    "id": "Type_Armored.Description.Name",
+    "content": "装甲的"
+  },
+  {
+    "id": "Type_Armored.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Type_Armored.StatusEffect-CFL.statusEffects0.Details",
+    "content": "-20%即将受到的伤害."
+  },
+  {
+    "id": "Type_Armored.HardenedCritImmune.statusEffects1.Details",
+    "content": "更快的速度."
+  },
+  {
+    "id": "Type_Armored.StatusEffect-CFL.statusEffects0.Name",
+    "content": "降低受到的伤害"
+  },
+  {
+    "id": "Type_Armored.HardenedCritImmune.statusEffects1.Name",
+    "content": "冲刺撞击"
+  },
+  {
+    "id": "Type_Elemental.Description.Details",
+    "content": "元素战系统是衡量所有战斗装甲的标准.这是氏族工程上的一个奇迹,允许一群操作员击毁大型机甲并在战斗中幸存下来.虽然正常大小的人也可以使用战斗装甲,但这种设计专门为氏族巨型元素战士量身定做的,只有他们才能发挥其最大潜力."
+  },
+  {
+    "id": "Type_Elemental.Description.UIName",
+    "content": "元素"
+  },
+  {
+    "id": "Type_Elemental.Description.Name",
+    "content": "元素"
+  },
+  {
+    "id": "Type_Elemental.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Type_Exoskeleton.Description.Details",
+    "content": "环境密闭的无装甲外骨骼.显然不适合战斗,但绝望的时刻只有绝望的办法,人们试图用装有激光切割机和工业钻头的外骨骼涌向机甲."
+  },
+  {
+    "id": "Type_Exoskeleton.Description.UIName",
+    "content": "外骨骼"
+  },
+  {
+    "id": "Type_Exoskeleton.Description.Name",
+    "content": "外骨骼"
+  },
+  {
+    "id": "Type_Exoskeleton.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Type_Exoskeleton.TunedActuatorsAffinityAccPhys.statusEffects0.Details",
+    "content": "近战武器精度修正"
+  },
+  {
+    "id": "Type_Exoskeleton.Swarm_to_Hit.statusEffects1.Details",
+    "content": "+2精度,+50%致命损伤率,+30%射程,-50%所有武器最低射程."
+  },
+  {
+    "id": "Type_Exoskeleton.TunedActuatorsAffinityAccPhys.statusEffects0.Name",
+    "content": "近战武器精度修正"
+  },
+  {
+    "id": "Type_Exoskeleton.Swarm_to_Hit.statusEffects1.Name",
+    "content": "蜂群攻击"
+  },
+  {
+    "id": "Type_InnerSphereStandard.Description.Details",
+    "content": "内天体标准最初是在氏族入侵的推动下制定的,因为内天势力争相复制氏族部署的战斗装甲技术.然而,由于缺乏任何战场打捞,工程师们被迫拜托了关于早期战斗装甲(BA)套装的古老传闻,如\"夜鹰\",更类似于装甲外骨骼,而不是在已知空间中肆虐的\"蟾蜍\"."
+  },
+  {
+    "id": "Type_InnerSphereStandard.Description.UIName",
+    "content": "内天体标准"
+  },
+  {
+    "id": "Type_InnerSphereStandard.Description.Name",
+    "content": "内天体标准"
+  },
+  {
+    "id": "Type_InnerSphereStandard.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Type_Marauder.Description.Details",
+    "content": "这单位笨重的装甲维护成本较低,并提供额外的稳定性以帮助武器瞄准"
+  },
+  {
+    "id": "Type_Marauder.Description.UIName",
+    "content": "掠夺者"
+  },
+  {
+    "id": "Type_Marauder.Description.Name",
+    "content": "掠夺者"
+  },
+  {
+    "id": "Type_Marauder.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Type_Marauder.TCRecoil.statusEffects0.Details",
+    "content": "精确射击双倍可靠"
+  },
+  {
+    "id": "Type_Marauder.TCCALLSHOT.statusEffects1.Details",
+    "content": "精确射击双倍可靠"
+  },
+  {
+    "id": "Type_Marauder.TC-TO-HIT.statusEffects2.Details",
+    "content": "突破射击, 提高精度/后座"
+  },
+  {
+    "id": "Type_Marauder.TCRecoil.statusEffects0.Name",
+    "content": "提升精确射击"
+  },
+  {
+    "id": "Type_Marauder.TCCALLSHOT.statusEffects1.Name",
+    "content": "提升精确射击"
+  },
+  {
+    "id": "Type_Marauder.TC-TO-HIT.statusEffects2.Name",
+    "content": "瞄准电脑"
+  },
+  {
+    "id": "Type_Mimetic.Description.Details",
+    "content": "伪装战斗装甲用一些有效载荷换取了隐藏自己的能力"
+  },
+  {
+    "id": "Type_Mimetic.Description.UIName",
+    "content": "伪装"
+  },
+  {
+    "id": "Type_Mimetic.Description.Name",
+    "content": "伪装"
+  },
+  {
+    "id": "Type_Mimetic.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Type_Mimetic.LV_MIMETIC.statusEffects0.Details",
+    "content": "使携带隐身设备的单位更被肉眼看到"
+  },
+  {
+    "id": "Type_Mimetic.Stealth_Signature_Decrease_Stealth.statusEffects1.Details",
+    "content": "信号特征状态效果."
+  },
+  {
+    "id": "Type_Mimetic.Stealth_Visibility_Decrease_Stealth.statusEffects2.Details",
+    "content": "可见性状态效果."
+  },
+  {
+    "id": "Type_Mimetic.LV_MIMETIC.statusEffects0.Name",
+    "content": "伪装装甲"
+  },
+  {
+    "id": "Type_Mimetic.Stealth_Signature_Decrease_Stealth.statusEffects1.Name",
+    "content": "减少隐身信号特征"
+  },
+  {
+    "id": "Type_Mimetic.Stealth_Visibility_Decrease_Stealth.statusEffects2.Name",
+    "content": "降低隐身可见性"
+  },
+  {
+    "id": "Type_Ravager.Description.Details",
+    "content": "该单位笨重的装甲维护成本低得多,但也不太可能被打碎."
+  },
+  {
+    "id": "Type_Ravager.Description.UIName",
+    "content": "掠夺者"
+  },
+  {
+    "id": "Type_Ravager.Description.Name",
+    "content": "掠夺者"
+  },
+  {
+    "id": "Type_Ravager.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Type_Ravager.HardenedCritImmune.statusEffects0.Details",
+    "content": "更快的速度."
+  },
+  {
+    "id": "Type_Ravager.ReinforcedCritImmune.statusEffects1.Details",
+    "content": "强化结构降低致命损伤率."
+  },
+  {
+    "id": "Type_Ravager.HardenedCritImmune.statusEffects0.Name",
+    "content": "冲刺撞击"
+  },
+  {
+    "id": "Type_Ravager.ReinforcedCritImmune.statusEffects1.Name",
+    "content": "强化结构"
+  },
+  {
+    "id": "Type_RISC.Description.Details",
+    "content": "RISC的科学家试图用模仿来达到氏族级别的战斗装甲装甲效率.结果是...成功了一半.虽然这种装甲的重量明显较轻,但它也很容易破碎,损坏设备,伤害士兵."
+  },
+  {
+    "id": "Type_RISC.Description.UIName",
+    "content": "RISC"
+  },
+  {
+    "id": "Type_RISC.Description.Name",
+    "content": "RISC"
+  },
+  {
+    "id": "Type_RISC.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Type_RISC.DNI-Penalty.statusEffects0.Details",
+    "content": "当内部结构受损时,驾驶员将受伤."
+  },
+  {
+    "id": "Type_RISC.ReinforcedCritImmune.statusEffects1.Details",
+    "content": "强化结构降低致命损伤率."
+  },
+  {
+    "id": "Type_RISC.LV_MIMETIC.statusEffects2.Details",
+    "content": "使携带隐身设备的单位更被肉眼看到"
+  },
+  {
+    "id": "Type_RISC.Stealth_Signature_Decrease_Stealth.statusEffects3.Details",
+    "content": "信号特征状态效果."
+  },
+  {
+    "id": "Type_RISC.Stealth_Visibility_Decrease_Stealth.statusEffects4.Details",
+    "content": "可见性状态效果."
+  },
+  {
+    "id": "Type_RISC.DNI-Penalty.statusEffects0.Name",
+    "content": "当结构受损时受伤"
+  },
+  {
+    "id": "Type_RISC.ReinforcedCritImmune.statusEffects1.Name",
+    "content": "强化结构"
+  },
+  {
+    "id": "Type_RISC.LV_MIMETIC.statusEffects2.Name",
+    "content": "伪装装甲"
+  },
+  {
+    "id": "Type_RISC.Stealth_Signature_Decrease_Stealth.statusEffects3.Name",
+    "content": "减少隐身信号特征"
+  },
+  {
+    "id": "Type_RISC.Stealth_Visibility_Decrease_Stealth.statusEffects4.Name",
+    "content": "降低隐身可见性"
+  },
+  {
+    "id": "Type_Salamander.Description.Details",
+    "content": "使用耐火装甲覆盖单位,可以使单位几乎不受火灾伤害."
+  },
+  {
+    "id": "Type_Salamander.Description.UIName",
+    "content": "蝾螈"
+  },
+  {
+    "id": "Type_Salamander.Description.Name",
+    "content": "蝾螈"
+  },
+  {
+    "id": "Type_Salamander.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Type_Salamander.HeatDamageTaken_Salamander.statusEffects0.Details",
+    "content": "-20%产热"
+  },
+  {
+    "id": "Type_Salamander.HeatDamageTaken_Salamander.statusEffects0.Name",
+    "content": "减少产热"
+  },
+  {
+    "id": "Type_Stealthed.Description.Details",
+    "content": "隐形战斗装甲用一些有效载荷换取了隐身能力"
+  },
+  {
+    "id": "Type_Stealthed.Description.UIName",
+    "content": "BA 隐身"
+  },
+  {
+    "id": "Type_Stealthed.Description.Name",
+    "content": "隐身"
+  },
+  {
+    "id": "Type_Stealthed.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Type_Stealthed.LV_Stealth_Effect.statusEffects0.Details",
+    "content": "使携带隐身设备的单位更难被发现和侦测"
+  },
+  {
+    "id": "Type_Stealthed.Stealth_Signature_Decrease_Stealth.statusEffects1.Details",
+    "content": "信号特征状态效果."
+  },
+  {
+    "id": "Type_Stealthed.Stealth_Visibility_Decrease_Stealth.statusEffects2.Details",
+    "content": "可见性状态效果."
+  },
+  {
+    "id": "Type_Stealthed.LV_Stealth_Effect.statusEffects0.Name",
+    "content": "隐身"
+  },
+  {
+    "id": "Type_Stealthed.Stealth_Signature_Decrease_Stealth.statusEffects1.Name",
+    "content": "减少隐身信号特征"
+  },
+  {
+    "id": "Type_Stealthed.Stealth_Visibility_Decrease_Stealth.statusEffects2.Name",
+    "content": "降低隐身可见性"
+  },
+  {
+    "id": "Type_Stealthed_Clan.Description.Details",
+    "content": "虽然氏族最初避免使用隐身技术,并认为它们是不光彩的,但与内天体的深入接触最终打破了这一制约,地狱马氏族开发了他们自己版本的战斗装甲隐身装甲,几乎和起源元素的一样有效。"
+  },
+  {
+    "id": "Type_Stealthed_Clan.Description.UIName",
+    "content": "BA隐身(C)"
+  },
+  {
+    "id": "Type_Stealthed_Clan.Description.Name",
+    "content": "隐身(C)"
+  },
+  {
+    "id": "Type_Stealthed_Clan.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Type_Stealthed_Clan.LV_Stealth_Effect.statusEffects0.Details",
+    "content": "使携带隐身设备的单位更难被发现和侦测"
+  },
+  {
+    "id": "Type_Stealthed_Clan.Stealth_Signature_Decrease_Stealth.statusEffects1.Details",
+    "content": "信号特征状态效果."
+  },
+  {
+    "id": "Type_Stealthed_Clan.Stealth_Visibility_Decrease_Stealth.statusEffects2.Details",
+    "content": "可见性状态效果."
+  },
+  {
+    "id": "Type_Stealthed_Clan.LV_Stealth_Effect.statusEffects0.Name",
+    "content": "隐身"
+  },
+  {
+    "id": "Type_Stealthed_Clan.Stealth_Signature_Decrease_Stealth.statusEffects1.Name",
+    "content": "减少隐身信号特征"
+  },
+  {
+    "id": "Type_Stealthed_Clan.Stealth_Visibility_Decrease_Stealth.statusEffects2.Name",
+    "content": "降低隐身可见性"
+  },
+  {
+    "id": "Type_Void.Description.Details",
+    "content": "虚无战斗装甲结合了隐身和伪装的能力"
+  },
+  {
+    "id": "Type_Void.Description.UIName",
+    "content": "虚无"
+  },
+  {
+    "id": "Type_Void.Description.Name",
+    "content": "虚无"
+  },
+  {
+    "id": "Type_Void.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Type_Void.LV_MIMETIC.statusEffects0.Details",
+    "content": "使携带隐身设备的单位更被肉眼看到"
+  },
+  {
+    "id": "Type_Void.LV_Stealth_Effect.statusEffects1.Details",
+    "content": "使携带隐身设备的单位更难被发现和侦测"
+  },
+  {
+    "id": "Type_Void.Stealth_Signature_Decrease_Stealth.statusEffects2.Details",
+    "content": "信号特征状态效果."
+  },
+  {
+    "id": "Type_Void.Stealth_Visibility_Decrease_Stealth.statusEffects3.Details",
+    "content": "可见性状态效果."
+  },
+  {
+    "id": "Type_Void.LV_MIMETIC.statusEffects0.Name",
+    "content": "伪装装甲"
+  },
+  {
+    "id": "Type_Void.LV_Stealth_Effect.statusEffects1.Name",
+    "content": "隐身"
+  },
+  {
+    "id": "Type_Void.Stealth_Signature_Decrease_Stealth.statusEffects2.Name",
+    "content": "减少隐身信号特征"
+  },
+  {
+    "id": "Type_Void.Stealth_Visibility_Decrease_Stealth.statusEffects3.Name",
+    "content": "降低隐身可见性"
+  },
+  {
+    "id": "PA_Core_002.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\n聚变引擎根据其<b>引擎额定功率</b>区分.对于机甲来说,引擎额定功率是其重量和最大步行或巡航速度的数学乘积."
+  },
+  {
+    "id": "PA_Core_002.Description.UIName",
+    "content": "战斗装甲核心002"
+  },
+  {
+    "id": "PA_Core_002.Description.Name",
+    "content": "战斗装甲核心002"
+  },
+  {
+    "id": "PA_Core_002.Description.Manufacturer",
+    "content": "GM"
+  },
+  {
+    "id": "PA_Core_003.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\n聚变引擎根据其<b>引擎额定功率</b>区分.对于机甲来说,引擎额定功率是其重量和最大步行或巡航速度的数学乘积."
+  },
+  {
+    "id": "PA_Core_003.Description.UIName",
+    "content": "战斗装甲核心003"
+  },
+  {
+    "id": "PA_Core_003.Description.Name",
+    "content": "战斗装甲核心003"
+  },
+  {
+    "id": "PA_Core_003.Description.Manufacturer",
+    "content": "GM"
+  },
+  {
+    "id": "PA_Core_004.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\n聚变引擎根据其<b>引擎额定功率</b>区分.对于机甲来说,引擎额定功率是其重量和最大步行或巡航速度的数学乘积."
+  },
+  {
+    "id": "PA_Core_004.Description.UIName",
+    "content": "战斗装甲核心004"
+  },
+  {
+    "id": "PA_Core_004.Description.Name",
+    "content": "战斗装甲核心004"
+  },
+  {
+    "id": "PA_Core_004.Description.Manufacturer",
+    "content": "GM"
+  },
+  {
+    "id": "PA_Core_005.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\n聚变引擎根据其<b>引擎额定功率</b>区分.对于机甲来说,引擎额定功率是其重量和最大步行或巡航速度的数学乘积."
+  },
+  {
+    "id": "PA_Core_005.Description.UIName",
+    "content": "战斗装甲核心005"
+  },
+  {
+    "id": "PA_Core_005.Description.Name",
+    "content": "战斗装甲核心005"
+  },
+  {
+    "id": "PA_Core_005.Description.Manufacturer",
+    "content": "GM"
+  },
+  {
+    "id": "PA_Core_006.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\n聚变引擎根据其<b>引擎额定功率</b>区分.对于机甲来说,引擎额定功率是其重量和最大步行或巡航速度的数学乘积."
+  },
+  {
+    "id": "PA_Core_006.Description.UIName",
+    "content": "战斗装甲核心006"
+  },
+  {
+    "id": "PA_Core_006.Description.Name",
+    "content": "战斗装甲核心006"
+  },
+  {
+    "id": "PA_Core_006.Description.Manufacturer",
+    "content": "GM"
+  },
+  {
+    "id": "PA_Core_008.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\n聚变引擎根据其<b>引擎额定功率</b>区分.对于机甲来说,引擎额定功率是其重量和最大步行或巡航速度的数学乘积."
+  },
+  {
+    "id": "PA_Core_008.Description.UIName",
+    "content": "战斗装甲核心008"
+  },
+  {
+    "id": "PA_Core_008.Description.Name",
+    "content": "战斗装甲核心008"
+  },
+  {
+    "id": "PA_Core_008.Description.Manufacturer",
+    "content": "GM"
+  },
+  {
+    "id": "PA_Core_009.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\n聚变引擎根据其<b>引擎额定功率</b>区分.对于机甲来说,引擎额定功率是其重量和最大步行或巡航速度的数学乘积."
+  },
+  {
+    "id": "PA_Core_009.Description.UIName",
+    "content": "战斗装甲核心009"
+  },
+  {
+    "id": "PA_Core_009.Description.Name",
+    "content": "战斗装甲核心009"
+  },
+  {
+    "id": "PA_Core_009.Description.Manufacturer",
+    "content": "GM"
+  },
+  {
+    "id": "PA_Core_010.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\n聚变引擎根据其<b>引擎额定功率</b>区分.对于机甲来说,引擎额定功率是其重量和最大步行或巡航速度的数学乘积."
+  },
+  {
+    "id": "PA_Core_010.Description.UIName",
+    "content": "战斗装甲核心010"
+  },
+  {
+    "id": "PA_Core_010.Description.Name",
+    "content": "战斗装甲核心010"
+  },
+  {
+    "id": "PA_Core_010.Description.Manufacturer",
+    "content": "GM"
+  },
+  {
+    "id": "PA_Core_012.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\n聚变引擎根据其<b>引擎额定功率</b>区分.对于机甲来说,引擎额定功率是其重量和最大步行或巡航速度的数学乘积."
+  },
+  {
+    "id": "PA_Core_012.Description.UIName",
+    "content": "战斗装甲核心012"
+  },
+  {
+    "id": "PA_Core_012.Description.Name",
+    "content": "战斗装甲核心012"
+  },
+  {
+    "id": "PA_Core_012.Description.Manufacturer",
+    "content": "GM"
+  },
+  {
+    "id": "PA_Systems.Description.Details",
+    "content": "所有战斗装甲都由可靠的小规模聚变引擎提供动力,并由简单的陀螺仪稳定器提供支持.他们通常5个单位为一组."
+  },
+  {
+    "id": "PA_Systems.Description.UIName",
+    "content": "BA系统"
+  },
+  {
+    "id": "PA_Systems.Description.Name",
+    "content": "战斗装甲(BA)"
+  },
+  {
+    "id": "PA_Systems.Description.Manufacturer",
+    "content": "弗拉尔"
+  },
+  {
+    "id": "PA_Systems.BreachImmunity.statusEffects0.Details",
+    "content": "不受机体破损影响"
+  },
+  {
+    "id": "PA_Systems.BreachImmunity.statusEffects0.Name",
+    "content": "免疫损坏"
+  },
+  {
+    "id": "Weapon_Laser_TAG_Barrage_PA.Description.Details",
+    "content": "目标捕获装备用于机动步兵给近距支援火炮标记目标"
+  },
+  {
+    "id": "Weapon_Laser_TAG_Barrage_PA.Description.UIName",
+    "content": "火力网BA TAG"
+  },
+  {
+    "id": "Weapon_Laser_TAG_Barrage_PA.Description.Name",
+    "content": "目标寻获装备"
+  },
+  {
+    "id": "Weapon_Laser_TAG_Barrage_PA.Description.Manufacturer",
+    "content": "NAIS"
+  },
+  {
+    "id": "Weapon_Laser_TAG_PA.Description.Details",
+    "content": "这各目标捕获装备(TAG)被设计用于机动步兵携带"
+  },
+  {
+    "id": "Weapon_Laser_TAG_PA.Description.UIName",
+    "content": "战斗装甲(BA)目标捕获装备"
+  },
+  {
+    "id": "Weapon_Laser_TAG_PA.Description.Name",
+    "content": "目标寻获装备"
+  },
+  {
+    "id": "Weapon_Laser_TAG_PA.Description.Manufacturer",
+    "content": "NAIS"
+  },
+  {
+    "id": "Weapon_Laser_TAG_PA.PainterEffect.statusEffects0.Details",
+    "content": "目标被捕获+1命中."
+  },
+  {
+    "id": "Weapon_Laser_TAG_PA.PainterEffect2.statusEffects1.Details",
+    "content": "目标捕获装备增加可见性"
+  },
+  {
+    "id": "Weapon_Laser_TAG_PA.StatusEffect-TAG-IndicatorVFX.statusEffects2.Details",
+    "content": "TAG效果的视觉指示器"
+  },
+  {
+    "id": "Weapon_Laser_TAG_PA.PainterEffect.statusEffects0.Name",
+    "content": "获取目标"
+  },
+  {
+    "id": "Weapon_Laser_TAG_PA.PainterEffect2.statusEffects1.Name",
+    "content": "检测到"
+  },
+  {
+    "id": "Weapon_Laser_TAG_PA.StatusEffect-TAG-IndicatorVFX.statusEffects2.Name",
+    "content": "目标捕获装备已标记"
+  },
+  {
+    "id": "Weapon_PA_Acid_Spit.Description.Details",
+    "content": "这是一个战斗装甲大小的'流体喷枪',在近距离喷酸.老大,我不知道酸到底是从哪里来的.我的船员没有更换任何罐子. \n\n <b><color=#ffcc00>含有8发</color></b>"
+  },
+  {
+    "id": "Weapon_PA_Acid_Spit.Description.UIName",
+    "content": "喷酸"
+  },
+  {
+    "id": "Weapon_PA_Acid_Spit.Description.Name",
+    "content": "喷酸"
+  },
+  {
+    "id": "Weapon_PA_Acid_Spit.Effect_AcidSpit.statusEffects0.Details",
+    "content": "该单位被腐蚀性酸覆盖.受到的伤害增加30%.可以叠加.持续2回合."
+  },
+  {
+    "id": "Weapon_PA_Acid_Spit.Effect_AcidSpit.statusEffects0.Name",
+    "content": "迷幻"
+  },
+  {
+    "id": "Weapon_PA_Tail.Description.Details",
+    "content": "老大,这东西可以自己动吗?"
+  },
+  {
+    "id": "Weapon_PA_Tail.Description.UIName",
+    "content": "尾"
+  },
+  {
+    "id": "Weapon_PA_Tail.Description.Name",
+    "content": "尾"
+  },
+  {
+    "id": "Weapon_PowerArmor_AMS.Description.Details",
+    "content": "一这战斗装甲点防御系统,可以拦截附近敌人的导弹. \n\n<b><color=#ffcc00>战斗装甲专用武器,只能被战斗装甲(BA)单位安装</color></b>."
+  },
+  {
+    "id": "Weapon_PowerArmor_AMS.Description.UIName",
+    "content": "BA AMS"
+  },
+  {
+    "id": "Weapon_PowerArmor_AMS.Description.Name",
+    "content": "BA AMS"
+  },
+  {
+    "id": "Weapon_PowerArmor_AMS.Description.Manufacturer",
+    "content": "RISC"
+  },
+  {
+    "id": "Weapon_PowerArmor_Cutter.Description.Details",
+    "content": "建筑和工程机甲使用激光切割机将垃圾拆成碎片.在紧急情况下,这些精确的光束可以用于近战战斗机甲. 与所有工业武器一样,激光切割机受到命中惩罚."
+  },
+  {
+    "id": "Weapon_PowerArmor_Cutter.Description.UIName",
+    "content": "激光切割机"
+  },
+  {
+    "id": "Weapon_PowerArmor_Cutter.Description.Name",
+    "content": "激光切割机"
+  },
+  {
+    "id": "Weapon_PowerArmor_Cutter.Description.Manufacturer",
+    "content": "韦兰"
+  },
+  {
+    "id": "Weapon_PowerArmor_David.Description.Details",
+    "content": "一支装有8发弹药的'大卫王'高斯步枪.\n\n<b><color=#ffcc00>战斗装甲专用武器,只能被战斗装甲(BA)单位安装</color></b>"
+  },
+  {
+    "id": "Weapon_PowerArmor_David.Description.UIName",
+    "content": "BA大卫王高斯"
+  },
+  {
+    "id": "Weapon_PowerArmor_David.Description.Name",
+    "content": "弹射步枪"
+  },
+  {
+    "id": "Weapon_PowerArmor_David.Description.Manufacturer",
+    "content": "大卫"
+  },
+  {
+    "id": "Weapon_PowerArmor_Flamer.Description.Details",
+    "content": "战斗装甲火焰喷射器.\n\n<b><color=#ffcc00>战斗装甲专用武器,只能被战斗装甲(BA)单位安装</color></b>"
+  },
+  {
+    "id": "Weapon_PowerArmor_Flamer.Description.UIName",
+    "content": "增程喷火器"
+  },
+  {
+    "id": "Weapon_PowerArmor_Flamer.Description.Name",
+    "content": "喷火器"
+  },
+  {
+    "id": "Weapon_PowerArmor_Flamer.Description.Manufacturer",
+    "content": "天光"
+  },
+  {
+    "id": "Weapon_PowerArmor_Flamer.HeatDamageTakenSoftCapMultiplier.statusEffects0.Details",
+    "content": "-1%热伤害"
+  },
+  {
+    "id": "Weapon_PowerArmor_Flamer.HeatDamageTakenSoftCapMultiplier.statusEffects0.Name",
+    "content": "3%热软限额"
+  },
+  {
+    "id": "Weapon_PowerArmor_Harpoon.Description.Details",
+    "content": "一个战斗装甲'鱼叉'. 对于那些没有手工改造他们装备的一半愚蠢海盗来说,这使得小队可以干翻并俘获几乎所有机甲.\n\n<b><color=#ffcc00>战斗装甲专用武器,只能被战斗装甲(BA)单位安装</color></b>."
+  },
+  {
+    "id": "Weapon_PowerArmor_Harpoon.Description.UIName",
+    "content": "BA鱼叉"
+  },
+  {
+    "id": "Weapon_PowerArmor_Harpoon.Description.Name",
+    "content": "鱼叉步枪"
+  },
+  {
+    "id": "Weapon_PowerArmor_Harpoon.Description.Manufacturer",
+    "content": "亚哈"
+  },
+  {
+    "id": "Weapon_PowerArmor_Harpoon.Harpoon-Effect.statusEffects0.Details",
+    "content": "被鱼叉命中了,你这个陆地生物!稳定阈值-15%"
+  },
+  {
+    "id": "Weapon_PowerArmor_Harpoon.Harpoon-Effect.statusEffects0.Name",
+    "content": "呃,命中,蹒跚"
+  },
+  {
+    "id": "Weapon_PowerArmor_HeavyMortar.Description.Details",
+    "content": "一种战斗装甲(BA)迫击炮,有足用于任何战斗的弹药.\n\n<b><color=#ffcc00>战斗装甲专用武器,只能被战斗装甲(BA)单位安装</color></b>."
+  },
+  {
+    "id": "Weapon_PowerArmor_HeavyMortar.Description.UIName",
+    "content": "BA重型迫击炮"
+  },
+  {
+    "id": "Weapon_PowerArmor_HeavyMortar.Description.Name",
+    "content": "重型迫击炮"
+  },
+  {
+    "id": "Weapon_PowerArmor_HeavyMortar.Description.Manufacturer",
+    "content": "Valiant"
+  },
+  {
+    "id": "Weapon_PowerArmor_HEAVYPLASMA.Description.Details",
+    "content": "一只携带12发弹药的战斗装甲(BA)重型等离子步枪.\n\n<b><color=#ffcc00>战斗装甲专用武器,只能被战斗装甲(BA)单位安装</color></b>"
+  },
+  {
+    "id": "Weapon_PowerArmor_HEAVYPLASMA.Description.UIName",
+    "content": "BA重型等离子步枪"
+  },
+  {
+    "id": "Weapon_PowerArmor_HEAVYPLASMA.Description.Name",
+    "content": "等离子步枪"
+  },
+  {
+    "id": "Weapon_PowerArmor_HEAVYPLASMA.Description.Manufacturer",
+    "content": "胜利"
+  },
+  {
+    "id": "Weapon_PowerArmor_HEAVYPLASMA.HeatDamageTakenSoftCapMultiplier.statusEffects0.Details",
+    "content": "-1%热伤害"
+  },
+  {
+    "id": "Weapon_PowerArmor_HEAVYPLASMA.PA_PLASMA-Effect.statusEffects1.Details",
+    "content": "高能残渣降低散热效率."
+  },
+  {
+    "id": "Weapon_PowerArmor_HEAVYPLASMA.HeatDamageTakenSoftCapMultiplier.statusEffects0.Name",
+    "content": "3%热软限额"
+  },
+  {
+    "id": "Weapon_PowerArmor_HEAVYPLASMA.PA_PLASMA-Effect.statusEffects1.Name",
+    "content": "等离子残渣"
+  },
+  {
+    "id": "Weapon_PowerArmor_HeavyRifle.Description.Details",
+    "content": "一支20发弹容的战斗装甲(BA)重型无后座步枪.\n\n<b><color=#ffcc00>战斗装甲专用武器,只能被战斗装甲(BA)单位安装</color></b>."
+  },
+  {
+    "id": "Weapon_PowerArmor_HeavyRifle.Description.UIName",
+    "content": "BA重型步枪"
+  },
+  {
+    "id": "Weapon_PowerArmor_HeavyRifle.Description.Name",
+    "content": "重型线膛炮"
+  },
+  {
+    "id": "Weapon_PowerArmor_HeavyRifle.Description.Manufacturer",
+    "content": "GM"
+  },
+  {
+    "id": "Weapon_PowerArmor_HEAVY_ROCKETLAUNCHER2.Description.Details",
+    "content": "火箭发射器是一种廉价、无制导、一次性的导弹发射器.有马里安霸权开发,他们通常替代外围国家负担不起或无法维修的更复杂设备.<b><color=#F79232>1发装!</color></b> \n\n<b><color=#ffcc00>战斗装甲专用武器,只能被战斗装甲(BA)单位安装</color></b>."
+  },
+  {
+    "id": "Weapon_PowerArmor_HEAVY_ROCKETLAUNCHER2.Description.UIName",
+    "content": "重型RL2"
+  },
+  {
+    "id": "Weapon_PowerArmor_HEAVY_ROCKETLAUNCHER2.Description.Name",
+    "content": "RL2"
+  },
+  {
+    "id": "Weapon_PowerArmor_HEAVY_ROCKETLAUNCHER2.Description.Manufacturer",
+    "content": "死亡之花"
+  },
+  {
+    "id": "Weapon_PowerArmor_KingDavid.Description.Details",
+    "content": "一支装有8发弹药的'大卫王'高斯步枪.\n\n<b><color=#ffcc00>战斗装甲专用武器,只能被战斗装甲(BA)单位安装</color></b>"
+  },
+  {
+    "id": "Weapon_PowerArmor_KingDavid.Description.UIName",
+    "content": "BA大卫王高斯"
+  },
+  {
+    "id": "Weapon_PowerArmor_KingDavid.Description.Name",
+    "content": "弹射步枪"
+  },
+  {
+    "id": "Weapon_PowerArmor_KingDavid.Description.Manufacturer",
+    "content": "大卫"
+  },
+  {
+    "id": "Weapon_PowerArmor_Laser.Description.Details",
+    "content": "战斗装甲反装甲激光.\n\n<b><color=#ffcc00>战斗装甲专用武器,只能被战斗装甲(BA)单位安装</color></b>"
+  },
+  {
+    "id": "Weapon_PowerArmor_Laser.Description.UIName",
+    "content": "BA激光"
+  },
+  {
+    "id": "Weapon_PowerArmor_Laser.Description.Name",
+    "content": "BA激光"
+  },
+  {
+    "id": "Weapon_PowerArmor_Laser.Description.Manufacturer",
+    "content": "马爹利"
+  },
+  {
+    "id": "Weapon_PowerArmor_LaserER.Description.Details",
+    "content": "战斗装甲反装甲激光.\n\n<b><color=#ffcc00>战斗装甲专用武器,只能被战斗装甲(BA)单位安装</color></b>"
+  },
+  {
+    "id": "Weapon_PowerArmor_LaserER.Description.UIName",
+    "content": "BA增程激光"
+  },
+  {
+    "id": "Weapon_PowerArmor_LaserER.Description.Name",
+    "content": "BA增程激光"
+  },
+  {
+    "id": "Weapon_PowerArmor_LaserER.Description.Manufacturer",
+    "content": "马爹利"
+  },
+  {
+    "id": "Weapon_PowerArmor_LaserPulse.Description.Details",
+    "content": "战斗装甲小型脉冲激光.\n\n<b><color=#ffcc00>战斗装甲专用武器,只能被战斗装甲(BA)单位安装</color></b>"
+  },
+  {
+    "id": "Weapon_PowerArmor_LaserPulse.Description.UIName",
+    "content": "BA脉冲激光"
+  },
+  {
+    "id": "Weapon_PowerArmor_LaserPulse.Description.Name",
+    "content": "BA脉冲激光"
+  },
+  {
+    "id": "Weapon_PowerArmor_LaserPulse.Description.Manufacturer",
+    "content": "马爹利"
+  },
+  {
+    "id": "Weapon_PowerArmor_LightGauss.Description.Details",
+    "content": "一支弹容8发的'轻型'高斯步枪.\n\n<b><color=#ffcc00>战斗装甲专用武器,只能被战斗装甲(BA)单位安装</color></b>."
+  },
+  {
+    "id": "Weapon_PowerArmor_LightGauss.Description.UIName",
+    "content": "轻型高斯"
+  },
+  {
+    "id": "Weapon_PowerArmor_LightGauss.Description.Name",
+    "content": "弹射步枪"
+  },
+  {
+    "id": "Weapon_PowerArmor_LightGauss.Description.Manufacturer",
+    "content": "大卫"
+  },
+  {
+    "id": "Weapon_PowerArmor_LMG.Description.Details",
+    "content": "一支战斗装甲(BA)轻机枪,有足用于任何战斗的弹药.\n\n<b><color=#ffcc00>战斗装甲专用武器,只能被战斗装甲(BA)单位安装</color</b>\n\n<b><color=#ffcc00>不需要额外弹药</color></b> "
+  },
+  {
+    "id": "Weapon_PowerArmor_LMG.Description.UIName",
+    "content": "BA轻机枪"
+  },
+  {
+    "id": "Weapon_PowerArmor_LMG.Description.Name",
+    "content": "机枪"
+  },
+  {
+    "id": "Weapon_PowerArmor_LRM.Description.Details",
+    "content": "2管LRM发射器,单发装填. \n\n<b><color=#ffcc00>战斗装甲专用武器,只能被战斗装甲(BA)单位安装</color></b>"
+  },
+  {
+    "id": "Weapon_PowerArmor_LRM.Description.UIName",
+    "content": "战斗装甲LRM"
+  },
+  {
+    "id": "Weapon_PowerArmor_LRM.Description.Name",
+    "content": "战斗装甲LRM"
+  },
+  {
+    "id": "Weapon_PowerArmor_LRM.Description.Manufacturer",
+    "content": "Irian"
+  },
+  {
+    "id": "Weapon_PowerArmor_LRM3.Description.Details",
+    "content": "一个有8发弹容的3管LRM发射器.\n\n<b><color=#ffcc00>战斗装甲专用武器,只能被战斗装甲(BA)单位安装</color></b>."
+  },
+  {
+    "id": "Weapon_PowerArmor_LRM3.Description.UIName",
+    "content": "战斗装甲LRM3"
+  },
+  {
+    "id": "Weapon_PowerArmor_LRM3.Description.Name",
+    "content": "LRM3"
+  },
+  {
+    "id": "Weapon_PowerArmor_LRM3.Description.Manufacturer",
+    "content": "Irian"
+  },
+  {
+    "id": "Weapon_PowerArmor_Magshot.Description.Details",
+    "content": "一支10发弹容的战斗装甲(BA)高斯.\n\n<b><color=#ffcc00>战斗装甲专用武器,只能被战斗装甲(BA)单位安装</color></b>"
+  },
+  {
+    "id": "Weapon_PowerArmor_Magshot.Description.UIName",
+    "content": "BA高斯"
+  },
+  {
+    "id": "Weapon_PowerArmor_Magshot.Description.Name",
+    "content": "弹射步枪"
+  },
+  {
+    "id": "Weapon_PowerArmor_Magshot.Description.Manufacturer",
+    "content": "大卫"
+  },
+  {
+    "id": "Weapon_PowerArmor_MediumLaser.Description.Details",
+    "content": "中型激光的重量轻,且据有相当大的伤害.因此,在战场上的大多数单位上都至少装备一台."
+  },
+  {
+    "id": "Weapon_PowerArmor_MediumLaser.Description.UIName",
+    "content": "BA中型激光"
+  },
+  {
+    "id": "Weapon_PowerArmor_MediumLaser.Description.Name",
+    "content": "中型激光"
+  },
+  {
+    "id": "Weapon_PowerArmor_MediumLaser.Description.Manufacturer",
+    "content": "地狱"
+  },
+  {
+    "id": "Weapon_PowerArmor_MediumLaserER.Description.Details",
+    "content": "中型激光的重量轻,且据有相当大的伤害.因此,在战场上的大多数单位上都至少装备一台."
+  },
+  {
+    "id": "Weapon_PowerArmor_MediumLaserER.Description.UIName",
+    "content": "BA中型增程激光"
+  },
+  {
+    "id": "Weapon_PowerArmor_MediumLaserER.Description.Name",
+    "content": "中型增程激光"
+  },
+  {
+    "id": "Weapon_PowerArmor_MediumLaserER.Description.Manufacturer",
+    "content": "地狱"
+  },
+  {
+    "id": "Weapon_PowerArmor_MediumLaserPulse.Description.Details",
+    "content": "战斗装甲(BA)中型脉冲激光.\n\n<b><color=#ffcc00>战斗装甲专用武器,只能被战斗装甲(BA)单位安装</color></b>"
+  },
+  {
+    "id": "Weapon_PowerArmor_MediumLaserPulse.Description.UIName",
+    "content": "BA中型脉冲激光"
+  },
+  {
+    "id": "Weapon_PowerArmor_MediumLaserPulse.Description.Name",
+    "content": "BA中型脉冲激光"
+  },
+  {
+    "id": "Weapon_PowerArmor_MediumLaserPulse.Description.Manufacturer",
+    "content": "马爹利"
+  },
+  {
+    "id": "Weapon_PowerArmor_MediumRifle.Description.Details",
+    "content": "一支20发弹容的战斗装甲(BA)中型无后座步枪.\n\n<b><color=#ffcc00>战斗装甲专用武器,只能被战斗装甲(BA)单位安装</color></b>."
+  },
+  {
+    "id": "Weapon_PowerArmor_MediumRifle.Description.UIName",
+    "content": "BA中型步枪"
+  },
+  {
+    "id": "Weapon_PowerArmor_MediumRifle.Description.Name",
+    "content": "中型步枪"
+  },
+  {
+    "id": "Weapon_PowerArmor_MediumRifle.Description.Manufacturer",
+    "content": "GM"
+  },
+  {
+    "id": "Weapon_PowerArmor_MediumVSPL.Description.Details",
+    "content": "变速脉冲激光(VSP)在近距离造成更大的伤害但是更远距离的伤害下降."
+  },
+  {
+    "id": "Weapon_PowerArmor_MediumVSPL.Description.UIName",
+    "content": "BA中型变速脉冲激光"
+  },
+  {
+    "id": "Weapon_PowerArmor_MediumVSPL.Description.Name",
+    "content": "中型变速脉冲激光"
+  },
+  {
+    "id": "Weapon_PowerArmor_MediumVSPL.Description.Manufacturer",
+    "content": "地狱"
+  },
+  {
+    "id": "Weapon_PowerArmor_MG.Description.Details",
+    "content": "一支战斗装甲(BA)重机枪,有足用于任何战斗的弹药.\n\n<b><color=#ffcc00>战斗装甲专用武器,只能被战斗装甲(BA)单位安装</color</b>\n\n<b><color=#ffcc00>不需要额外弹药</color></b>. "
+  },
+  {
+    "id": "Weapon_PowerArmor_MG.Description.UIName",
+    "content": "BA重机枪"
+  },
+  {
+    "id": "Weapon_PowerArmor_MG.Description.Name",
+    "content": "机枪"
+  },
+  {
+    "id": "Weapon_PowerArmor_MINE_DISPENSER.Description.Details",
+    "content": "基于FASCAM技术和一次性火箭发射器的组合,该地雷抛撒器允许在战斗中部署单个雷场.<b><color=#F79232>1发!</color> <b><color=#ffcc00>不稳定!</color></b> \n\n<b><color=#ffcc00>战斗装甲专用武器,只能被战斗装甲(BA)单位安装</color></b>"
+  },
+  {
+    "id": "Weapon_PowerArmor_MINE_DISPENSER.Description.UIName",
+    "content": "BA布雷器"
+  },
+  {
+    "id": "Weapon_PowerArmor_MINE_DISPENSER.Description.Name",
+    "content": "布雷器"
+  },
+  {
+    "id": "Weapon_PowerArmor_MINE_DISPENSER.Description.Manufacturer",
+    "content": "死亡之花"
+  },
+  {
+    "id": "Weapon_PowerArmor_Mortar.Description.Details",
+    "content": "一种战斗装甲(BA)迫击炮,有足用于任何战斗的弹药.\n\n<b><color=#ffcc00>战斗装甲专用武器,只能被战斗装甲(BA)单位安装</color></b>."
+  },
+  {
+    "id": "Weapon_PowerArmor_Mortar.Description.UIName",
+    "content": "战斗装甲迫击炮"
+  },
+  {
+    "id": "Weapon_PowerArmor_Mortar.Description.Name",
+    "content": "手榴弹发射器"
+  },
+  {
+    "id": "Weapon_PowerArmor_Mortar.Description.Manufacturer",
+    "content": "勇士"
+  },
+  {
+    "id": "Weapon_PowerArmor_MRM.Description.Details",
+    "content": "一个有8发弹容的单管MRM发射器.\n\n<b><color=#ffcc00>战斗装甲专用武器,只能被战斗装甲(BA)单位安装</color></b>."
+  },
+  {
+    "id": "Weapon_PowerArmor_MRM.Description.UIName",
+    "content": "战斗装甲MRM"
+  },
+  {
+    "id": "Weapon_PowerArmor_MRM.Description.Name",
+    "content": "战斗装甲MRM"
+  },
+  {
+    "id": "Weapon_PowerArmor_MRM.Description.Manufacturer",
+    "content": "香农"
+  },
+  {
+    "id": "Weapon_PowerArmor_PLASMA.Description.Details",
+    "content": "一支8发弹容的等离子步枪.\n\n<b><color=#ffcc00>战斗装甲专用武器,只能被战斗装甲(BA)单位安装</color></b>"
+  },
+  {
+    "id": "Weapon_PowerArmor_PLASMA.Description.UIName",
+    "content": "战斗装甲等离子步枪"
+  },
+  {
+    "id": "Weapon_PowerArmor_PLASMA.Description.Name",
+    "content": "等离子步枪"
+  },
+  {
+    "id": "Weapon_PowerArmor_PLASMA.Description.Manufacturer",
+    "content": "胜利"
+  },
+  {
+    "id": "Weapon_PowerArmor_PLASMA.PA_PLASMA-Effect.statusEffects0.Details",
+    "content": "高能残渣降低散热效率."
+  },
+  {
+    "id": "Weapon_PowerArmor_PLASMA.PA_PLASMA-Effect.statusEffects0.Name",
+    "content": "等离子残渣"
+  },
+  {
+    "id": "Weapon_PowerArmor_PopUp_Mine.Description.Details",
+    "content": "他的武器确实很罕见,是一个弹出式地雷,设计用于安装在'树懒'战斗装甲服上,作为第一个四足战斗装甲,'树懒'被设计用来携带这种地雷进入战斗,并在目标机甲的正下方部署它.然后地雷会弹出,从下面穿透装甲,造成直接的结构伤害.BA级弹出式地雷只在'树懒'上部署过,随着技术的进步和过于复杂的套件结构,它与'树懒'一起失宠了. \n\n<b><color=#ffcc00>战斗装甲专用武器,只能被战斗装甲(BA)单位安装</color></b>"
+  },
+  {
+    "id": "Weapon_PowerArmor_PopUp_Mine.Description.UIName",
+    "content": "BA弹出式地雷"
+  },
+  {
+    "id": "Weapon_PowerArmor_PopUp_Mine.Description.Name",
+    "content": "BA弹出式地雷"
+  },
+  {
+    "id": "Weapon_PowerArmor_PopUp_Mine.Description.Manufacturer",
+    "content": "埃菲昂斯"
+  },
+  {
+    "id": "Weapon_PowerArmor_PPC.Description.Details",
+    "content": "战斗装甲(BA)支援PPC.\n\n<b><color=#ffcc00>战斗装甲专用武器,只能被战斗装甲(BA)单位安装</color></b>."
+  },
+  {
+    "id": "Weapon_PowerArmor_PPC.Description.UIName",
+    "content": "战斗装甲PPC"
+  },
+  {
+    "id": "Weapon_PowerArmor_PPC.Description.Name",
+    "content": "粒子炮"
+  },
+  {
+    "id": "Weapon_PowerArmor_PPC.Description.Manufacturer",
+    "content": "麦格纳"
+  },
+  {
+    "id": "Weapon_PowerArmor_PPC.AbilityDefPPC.statusEffects0.Details",
+    "content": "电磁干扰降低传感器效率."
+  },
+  {
+    "id": "Weapon_PowerArmor_PPC.AbilityDefPPC.statusEffects0.Name",
+    "content": "传感器削弱"
+  },
+  {
+    "id": "Weapon_PowerArmor_Rifle.Description.Details",
+    "content": "一支20发弹容的战斗装甲(BA)无后座步枪.\n\n<b><color=#ffcc00>战斗装甲专用武器,只能被战斗装甲(BA)单位安装</color></b>."
+  },
+  {
+    "id": "Weapon_PowerArmor_Rifle.Description.UIName",
+    "content": "BA轻型步枪"
+  },
+  {
+    "id": "Weapon_PowerArmor_Rifle.Description.Name",
+    "content": "轻型线膛炮"
+  },
+  {
+    "id": "Weapon_PowerArmor_Rifle.Description.Manufacturer",
+    "content": "GM"
+  },
+  {
+    "id": "Weapon_PowerArmor_Shotgun.Description.Details",
+    "content": "战斗装甲(BA)机载猎枪\n\n<b><color=#ffcc00战斗装甲专用武器,只能被战斗装甲(BA)单位安装</color></b>."
+  },
+  {
+    "id": "Weapon_PowerArmor_Shotgun.Description.UIName",
+    "content": "战斗装甲猎枪"
+  },
+  {
+    "id": "Weapon_PowerArmor_Shotgun.Description.Name",
+    "content": "轻型线膛炮"
+  },
+  {
+    "id": "Weapon_PowerArmor_Shotgun.Description.Manufacturer",
+    "content": "UAC"
+  },
+  {
+    "id": "Weapon_PowerArmor_SRM.Description.Details",
+    "content": "2管SRM发射器,单发装填. \n\n<b><color=#ffcc00>战斗装甲专用武器,只能被战斗装甲(BA)单位安装</color></b>"
+  },
+  {
+    "id": "Weapon_PowerArmor_SRM.Description.UIName",
+    "content": "BA SRM2"
+  },
+  {
+    "id": "Weapon_PowerArmor_SRM.Description.Name",
+    "content": "BA SRM2"
+  },
+  {
+    "id": "Weapon_PowerArmor_SRM.Description.Manufacturer",
+    "content": "冬青"
+  },
+  {
+    "id": "Weapon_PowerArmor_SRM3.Description.Details",
+    "content": "3管SRM发射器,单发装填. \n\n<b><color=#ffcc00>战斗装甲专用武器,只能被战斗装甲(BA)单位安装</color></b>"
+  },
+  {
+    "id": "Weapon_PowerArmor_SRM3.Description.UIName",
+    "content": "BA SRM3"
+  },
+  {
+    "id": "Weapon_PowerArmor_SRM3.Description.Name",
+    "content": "BA SRM3"
+  },
+  {
+    "id": "Weapon_PowerArmor_SRM3.Description.Manufacturer",
+    "content": "冬青"
+  },
+  {
+    "id": "Weapon_PowerArmor_SRM4.Description.Details",
+    "content": "4管SRM发射器,单发装填. \n\n<b><color=#ffcc00>战斗装甲专用武器,只能被战斗装甲(BA)单位安装</color></b>"
+  },
+  {
+    "id": "Weapon_PowerArmor_SRM4.Description.UIName",
+    "content": "BA SRM4"
+  },
+  {
+    "id": "Weapon_PowerArmor_SRM4.Description.Name",
+    "content": "BA SRM4"
+  },
+  {
+    "id": "Weapon_PowerArmor_SRM4.Description.Manufacturer",
+    "content": "冬青"
+  },
+  {
+    "id": "Weapon_PowerArmor_SRM4_7.Description.Details",
+    "content": "一个有7发弹容的4管SRM发射器.\n\n<b><color=#ffcc00>战斗装甲专用武器,只能被战斗装甲(BA)单位安装</color></b>."
+  },
+  {
+    "id": "Weapon_PowerArmor_SRM4_7.Description.UIName",
+    "content": "BA SRM4"
+  },
+  {
+    "id": "Weapon_PowerArmor_SRM4_7.Description.Name",
+    "content": "BA SRM4"
+  },
+  {
+    "id": "Weapon_PowerArmor_SRM4_7.Description.Manufacturer",
+    "content": "冬青"
+  },
+  {
+    "id": "Weapon_PowerArmor_SRM_Baka.Description.Details",
+    "content": "2管SRM发射器,单发装填. \n\n<b><color=#ffcc00>战斗装甲专用武器,只能被战斗装甲(BA)单位安装</color></b>"
+  },
+  {
+    "id": "Weapon_PowerArmor_SRM_Baka.Description.UIName",
+    "content": "战斗巴卡SRM"
+  },
+  {
+    "id": "Weapon_PowerArmor_SRM_Baka.Description.Name",
+    "content": "战斗装甲SRM"
+  },
+  {
+    "id": "Weapon_PowerArmor_SRM_Baka.Description.Manufacturer",
+    "content": "冬青"
+  },
+  {
+    "id": "Weapon_PowerArmor_SRM_Inferno.Description.Details",
+    "content": "双管SRM发射器,单发装填. 该变体带有炼狱凝胶.\n\n<b><color=#ffcc00>战斗装甲专用武器,只能被战斗装甲(BA)单位安装</color></b>"
+  },
+  {
+    "id": "Weapon_PowerArmor_SRM_Inferno.Description.UIName",
+    "content": "BA炼狱SRM2"
+  },
+  {
+    "id": "Weapon_PowerArmor_SRM_Inferno.Description.Name",
+    "content": "BA SRM2"
+  },
+  {
+    "id": "Weapon_PowerArmor_SRM_Inferno.Description.Manufacturer",
+    "content": "冬青"
+  },
+  {
+    "id": "Weapon_PowerArmor_SRM_Inferno.HeatDamageTakenSoftCapMultiplier.statusEffects0.Details",
+    "content": "-1%热伤害"
+  },
+  {
+    "id": "Weapon_PowerArmor_SRM_Inferno.HeatDamageTakenSoftCapMultiplier.statusEffects0.Name",
+    "content": "3%热软限额"
+  },
+  {
+    "id": "Weapon_PowerArmor_SRM_OS.Description.Details",
+    "content": "双管单发SRM\n\n<b><color=#ffcc00>战斗装甲专用武器,只能被战斗装甲(BA)单位安装</color></b>."
+  },
+  {
+    "id": "Weapon_PowerArmor_SRM_OS.Description.UIName",
+    "content": "BA SRM 2(OS)"
+  },
+  {
+    "id": "Weapon_PowerArmor_SRM_OS.Description.Name",
+    "content": "BA SRM 2(OS)"
+  },
+  {
+    "id": "Weapon_PowerArmor_SRM_OS.Description.Manufacturer",
+    "content": "冬青"
+  },
+  {
+    "id": "Weapon_PowerArmor_Flamer_CLAN.Description.Details",
+    "content": "战斗装甲火焰喷射器.\n\n<b><color=#ffcc00>战斗装甲专用武器,只能被战斗装甲(BA)单位安装</color></b>"
+  },
+  {
+    "id": "Weapon_PowerArmor_Flamer_CLAN.Description.UIName",
+    "content": "战斗装甲喷火器(C)"
+  },
+  {
+    "id": "Weapon_PowerArmor_Flamer_CLAN.Description.Name",
+    "content": "喷火器"
+  },
+  {
+    "id": "Weapon_PowerArmor_Flamer_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_PowerArmor_Flamer_CLAN.HeatDamageTakenSoftCapMultiplier.statusEffects0.Details",
+    "content": "-1%热伤害"
+  },
+  {
+    "id": "Weapon_PowerArmor_Flamer_CLAN.HeatDamageTakenSoftCapMultiplier.statusEffects0.Name",
+    "content": "3%热软限额"
+  },
+  {
+    "id": "Weapon_PowerArmor_HeavyRifle_CLAN.Description.Details",
+    "content": "一支20发弹容的战斗装甲(BA)重型无后座步枪.\n\n<b><color=#ffcc00>战斗装甲专用武器,只能被战斗装甲(BA)单位安装</color></b>."
+  },
+  {
+    "id": "Weapon_PowerArmor_HeavyRifle_CLAN.Description.UIName",
+    "content": "BA重型步枪(C)"
+  },
+  {
+    "id": "Weapon_PowerArmor_HeavyRifle_CLAN.Description.Name",
+    "content": "重型线膛炮"
+  },
+  {
+    "id": "Weapon_PowerArmor_HeavyRifle_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_PowerArmor_HMG_CLAN.Description.Details",
+    "content": "一支战斗装甲机枪,有足用于任何战斗的弹药.\n\n<b><color=#ffcc00>战斗装甲专用武器,只能被战斗装甲(BA)单位安装</color</b>\n\n<b><color=#ffcc00>不需要额外弹药</color></b> "
+  },
+  {
+    "id": "Weapon_PowerArmor_HMG_CLAN.Description.UIName",
+    "content": "战斗装甲重机枪(C)"
+  },
+  {
+    "id": "Weapon_PowerArmor_HMG_CLAN.Description.Name",
+    "content": "机枪(C)"
+  },
+  {
+    "id": "Weapon_PowerArmor_HMG_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_PowerArmor_INFERNO_CLAN.Description.Details",
+    "content": "双管炼狱SRM发射器,单发装填.\n\n<b><color=#ffcc00>战斗装甲专用武器,只能被战斗装甲(BA)单位安装</color></b>."
+  },
+  {
+    "id": "Weapon_PowerArmor_INFERNO_CLAN.Description.UIName",
+    "content": "战斗装甲炼狱SRM(C)"
+  },
+  {
+    "id": "Weapon_PowerArmor_INFERNO_CLAN.Description.Name",
+    "content": "战斗装甲炼狱SRM"
+  },
+  {
+    "id": "Weapon_PowerArmor_INFERNO_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_PowerArmor_INFERNO_CLAN.HeatDamageTakenSoftCapMultiplier.statusEffects0.Details",
+    "content": "-1%热伤害"
+  },
+  {
+    "id": "Weapon_PowerArmor_INFERNO_CLAN.Effect_InfernoSRMHeat.statusEffects1.Details",
+    "content": "本装置含有易燃化学品."
+  },
+  {
+    "id": "Weapon_PowerArmor_INFERNO_CLAN.HeatDamageTakenSoftCapMultiplier.statusEffects0.Name",
+    "content": "3%热软限额"
+  },
+  {
+    "id": "Weapon_PowerArmor_INFERNO_CLAN.Effect_InfernoSRMHeat.statusEffects1.Name",
+    "content": "炼狱"
+  },
+  {
+    "id": "Weapon_PowerArmor_INFERNO_CLAN_OS.Description.Details",
+    "content": "一个有8发弹容的单管炼狱SRM发射器.\n\n<b><color=#ffcc00>战斗装甲专用武器,只能被战斗装甲(BA)单位安装</color></b>."
+  },
+  {
+    "id": "Weapon_PowerArmor_INFERNO_CLAN_OS.Description.UIName",
+    "content": "战斗装甲炼狱SRM(C)"
+  },
+  {
+    "id": "Weapon_PowerArmor_INFERNO_CLAN_OS.Description.Name",
+    "content": "战斗装甲炼狱SRM"
+  },
+  {
+    "id": "Weapon_PowerArmor_INFERNO_CLAN_OS.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_PowerArmor_INFERNO_CLAN_OS.HeatDamageTakenSoftCapMultiplier.statusEffects0.Details",
+    "content": "-1%热伤害"
+  },
+  {
+    "id": "Weapon_PowerArmor_INFERNO_CLAN_OS.Effect_InfernoSRMHeat.statusEffects1.Details",
+    "content": "本装置含有易燃化学品."
+  },
+  {
+    "id": "Weapon_PowerArmor_INFERNO_CLAN_OS.HeatDamageTakenSoftCapMultiplier.statusEffects0.Name",
+    "content": "3%热软限额"
+  },
+  {
+    "id": "Weapon_PowerArmor_INFERNO_CLAN_OS.Effect_InfernoSRMHeat.statusEffects1.Name",
+    "content": "炼狱"
+  },
+  {
+    "id": "Weapon_PowerArmor_LaserER_CLAN.Description.Details",
+    "content": "战斗装甲反装甲激光.\n\n<b><color=#ffcc00>战斗装甲专用武器,只能被战斗装甲(BA)单位安装</color></b>"
+  },
+  {
+    "id": "Weapon_PowerArmor_LaserER_CLAN.Description.UIName",
+    "content": "BA增程激光(C)"
+  },
+  {
+    "id": "Weapon_PowerArmor_LaserER_CLAN.Description.Name",
+    "content": "BA增程激光 "
+  },
+  {
+    "id": "Weapon_PowerArmor_LaserER_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_PowerArmor_LaserPulse_CLAN.Description.Details",
+    "content": "战斗装甲小型脉冲激光.\n\n<b><color=#ffcc00>战斗装甲专用武器,只能被战斗装甲(BA)单位安装</color></b>"
+  },
+  {
+    "id": "Weapon_PowerArmor_LaserPulse_CLAN.Description.UIName",
+    "content": "BA脉冲激光(C)"
+  },
+  {
+    "id": "Weapon_PowerArmor_LaserPulse_CLAN.Description.Name",
+    "content": "BA脉冲激光"
+  },
+  {
+    "id": "Weapon_PowerArmor_LaserPulse_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_PowerArmor_Laser_CLAN.Description.Details",
+    "content": "战斗装甲反装甲激光.\n\n<b><color=#ffcc00>战斗装甲专用武器,只能被战斗装甲(BA)单位安装</color></b>"
+  },
+  {
+    "id": "Weapon_PowerArmor_Laser_CLAN.Description.UIName",
+    "content": "BA激光(C)"
+  },
+  {
+    "id": "Weapon_PowerArmor_Laser_CLAN.Description.Name",
+    "content": "BA激光"
+  },
+  {
+    "id": "Weapon_PowerArmor_Laser_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_PowerArmor_LRM3_CLAN.Description.Details",
+    "content": "一个有4发弹容的3管LRM发射器.\n\n<b><color=#ffcc00>战斗装甲专用武器,只能被战斗装甲(BA)单位安装</color></b>."
+  },
+  {
+    "id": "Weapon_PowerArmor_LRM3_CLAN.Description.UIName",
+    "content": "BA LRM3(C)"
+  },
+  {
+    "id": "Weapon_PowerArmor_LRM3_CLAN.Description.Name",
+    "content": "战斗装甲LRM3"
+  },
+  {
+    "id": "Weapon_PowerArmor_LRM3_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_PowerArmor_LRM4_10_CLAN.Description.Details",
+    "content": "一个有10发弹容的4管LRM发射器.\n\n<b><color=#ffcc00>战斗装甲专用武器,只能被战斗装甲(BA)单位安装</color></b>."
+  },
+  {
+    "id": "Weapon_PowerArmor_LRM4_10_CLAN.Description.UIName",
+    "content": "BA LRM4(C)"
+  },
+  {
+    "id": "Weapon_PowerArmor_LRM4_10_CLAN.Description.Name",
+    "content": "战斗装甲LRM4"
+  },
+  {
+    "id": "Weapon_PowerArmor_LRM4_10_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_PowerArmor_LRM_CLAN.Description.Details",
+    "content": "2管LRM发射器,单发装填. \n\n<b><color=#ffcc00>战斗装甲专用武器,只能被战斗装甲(BA)单位安装</color></b>"
+  },
+  {
+    "id": "Weapon_PowerArmor_LRM_CLAN.Description.UIName",
+    "content": "战斗装甲LRM(C)"
+  },
+  {
+    "id": "Weapon_PowerArmor_LRM_CLAN.Description.Name",
+    "content": "战斗装甲LRM"
+  },
+  {
+    "id": "Weapon_PowerArmor_LRM_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_PowerArmor_LRM_CLAN_OS.Description.Details",
+    "content": "双管单发LRM\n\n<b><color=#ffcc00>战斗装甲专用武器,只能被战斗装甲(BA)单位安装</color></b"
+  },
+  {
+    "id": "Weapon_PowerArmor_LRM_CLAN_OS.Description.UIName",
+    "content": "战斗装甲LRM(C)"
+  },
+  {
+    "id": "Weapon_PowerArmor_LRM_CLAN_OS.Description.Name",
+    "content": "战斗装甲LRM"
+  },
+  {
+    "id": "Weapon_PowerArmor_LRM_CLAN_OS.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_PowerArmor_Magshot_CLAN.Description.Details",
+    "content": "一支10发弹容的战斗装甲高斯.\n\n<b><color=#ffcc00>战斗装甲专用武器,只能被战斗装甲(BA)单位安装</color></b>"
+  },
+  {
+    "id": "Weapon_PowerArmor_Magshot_CLAN.Description.UIName",
+    "content": "BA AP高斯(C)"
+  },
+  {
+    "id": "Weapon_PowerArmor_Magshot_CLAN.Description.Name",
+    "content": "AP高斯步枪"
+  },
+  {
+    "id": "Weapon_PowerArmor_Magshot_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_PowerArmor_MediumLaserPulse_CLAN.Description.Details",
+    "content": "战斗装甲(BA)中型脉冲激光.\n\n<b><color=#ffcc00>战斗装甲专用武器,只能被战斗装甲(BA)单位安装</color></b>"
+  },
+  {
+    "id": "Weapon_PowerArmor_MediumLaserPulse_CLAN.Description.UIName",
+    "content": "BA中型脉冲激光(C)"
+  },
+  {
+    "id": "Weapon_PowerArmor_MediumLaserPulse_CLAN.Description.Name",
+    "content": "BA中型脉冲激光"
+  },
+  {
+    "id": "Weapon_PowerArmor_MediumLaserPulse_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_PowerArmor_MG_CLAN.Description.Details",
+    "content": "一支战斗装甲机枪,有足用于任何战斗的弹药.\n\n<b><color=#ffcc00>战斗装甲专用武器,只能被战斗装甲(BA)单位安装</color</b>\n\n<b><color=#ffcc00>不需要额外弹药</color></b> "
+  },
+  {
+    "id": "Weapon_PowerArmor_MG_CLAN.Description.UIName",
+    "content": "战斗装甲MG(C)"
+  },
+  {
+    "id": "Weapon_PowerArmor_MG_CLAN.Description.Name",
+    "content": "机枪(C)"
+  },
+  {
+    "id": "Weapon_PowerArmor_MG_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_PowerArmor_MicroLaserER_CLAN.Description.Details",
+    "content": "战斗装甲微型增程激光.\n\n<b><color=#ffcc00>战斗装甲专用武器,只能被战斗装甲(BA)单位安装</color></b>"
+  },
+  {
+    "id": "Weapon_PowerArmor_MicroLaserER_CLAN.Description.UIName",
+    "content": "BA微型增程激光(C)"
+  },
+  {
+    "id": "Weapon_PowerArmor_MicroLaserER_CLAN.Description.Name",
+    "content": "BA微型增程激光(C)"
+  },
+  {
+    "id": "Weapon_PowerArmor_MicroLaserER_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_PowerArmor_PLASMA_CLAN.Description.Details",
+    "content": "一支8发弹容的等离子步枪.\n\n<b><color=#ffcc00>战斗装甲专用武器,只能被战斗装甲(BA)单位安装</color></b>"
+  },
+  {
+    "id": "Weapon_PowerArmor_PLASMA_CLAN.Description.UIName",
+    "content": "战斗装甲等离子步枪(C)"
+  },
+  {
+    "id": "Weapon_PowerArmor_PLASMA_CLAN.Description.Name",
+    "content": "等离子步枪"
+  },
+  {
+    "id": "Weapon_PowerArmor_PLASMA_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_PowerArmor_PLASMA_CLAN.HeatDamageTakenSoftCapMultiplier.statusEffects0.Details",
+    "content": "-1%热伤害"
+  },
+  {
+    "id": "Weapon_PowerArmor_PLASMA_CLAN.PA_PLASMA-Effect.statusEffects1.Details",
+    "content": "高能残渣降低散热效率."
+  },
+  {
+    "id": "Weapon_PowerArmor_PLASMA_CLAN.HeatDamageTakenSoftCapMultiplier.statusEffects0.Name",
+    "content": "4%热软限额"
+  },
+  {
+    "id": "Weapon_PowerArmor_PLASMA_CLAN.PA_PLASMA-Effect.statusEffects1.Name",
+    "content": "等离子残渣"
+  },
+  {
+    "id": "Weapon_PowerArmor_PPC_CLAN.Description.Details",
+    "content": "战斗装甲(BA)支援PPC.\n\n<b><color=#ffcc00>战斗装甲专用武器,只能被战斗装甲(BA)单位安装</color></b>."
+  },
+  {
+    "id": "Weapon_PowerArmor_PPC_CLAN.Description.UIName",
+    "content": "战斗装甲PPC(C)"
+  },
+  {
+    "id": "Weapon_PowerArmor_PPC_CLAN.Description.Name",
+    "content": "粒子炮"
+  },
+  {
+    "id": "Weapon_PowerArmor_PPC_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_PowerArmor_PPC_CLAN.AbilityDefPPC.statusEffects0.Details",
+    "content": "电磁干扰降低传感器效率."
+  },
+  {
+    "id": "Weapon_PowerArmor_PPC_CLAN.AbilityDefPPC.statusEffects0.Name",
+    "content": "传感器削弱"
+  },
+  {
+    "id": "Weapon_PowerArmor_Rifle_CLAN.Description.Details",
+    "content": "一支20发弹容的战斗装甲无后座步枪.\n\n<b><color=#ffcc00>战斗装甲专用武器,只能被战斗装甲(BA)单位安装</color></b>."
+  },
+  {
+    "id": "Weapon_PowerArmor_Rifle_CLAN.Description.UIName",
+    "content": "战斗装甲步枪(C)"
+  },
+  {
+    "id": "Weapon_PowerArmor_Rifle_CLAN.Description.Name",
+    "content": "轻型线膛炮"
+  },
+  {
+    "id": "Weapon_PowerArmor_Rifle_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_PowerArmor_SRM5_6_CLAN.Description.Details",
+    "content": "一个有6发弹容的5管SRM发射器.\n\n<b><color=#ffcc00>战斗装甲专用武器,只能被战斗装甲(BA)单位安装</color></b>."
+  },
+  {
+    "id": "Weapon_PowerArmor_SRM5_6_CLAN.Description.UIName",
+    "content": "BA SRM5(C)"
+  },
+  {
+    "id": "Weapon_PowerArmor_SRM5_6_CLAN.Description.Name",
+    "content": "战斗装甲SRM5"
+  },
+  {
+    "id": "Weapon_PowerArmor_SRM5_6_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_PowerArmor_SRM5_CLAN.Description.Details",
+    "content": "5管SRM发射器,2发装填. \n\n<b><color=#ffcc00>战斗装甲专用武器,只能被战斗装甲(BA)单位安装</color></b>"
+  },
+  {
+    "id": "Weapon_PowerArmor_SRM5_CLAN.Description.UIName",
+    "content": "BA SRM5(C)"
+  },
+  {
+    "id": "Weapon_PowerArmor_SRM5_CLAN.Description.Name",
+    "content": "战斗装甲SRM5"
+  },
+  {
+    "id": "Weapon_PowerArmor_SRM5_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_PowerArmor_SRM_Advanced_CLAN.Description.Details",
+    "content": "双管先进SRM发射器,单发装填.\n\n<b><color=#ffcc00>战斗装甲专用武器,只能被战斗装甲(BA)单位安装</color></b>."
+  },
+  {
+    "id": "Weapon_PowerArmor_SRM_Advanced_CLAN.Description.UIName",
+    "content": "BA先进SRM(C)"
+  },
+  {
+    "id": "Weapon_PowerArmor_SRM_Advanced_CLAN.Description.Name",
+    "content": "BA先进SRM"
+  },
+  {
+    "id": "Weapon_PowerArmor_SRM_Advanced_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_PowerArmor_SRM_Advanced_CLAN_OS.Description.Details",
+    "content": "双管先进SRM发射器,单发装填.\n\n<b><color=#ffcc00>战斗装甲专用武器,只能被战斗装甲(BA)单位安装</color></b>."
+  },
+  {
+    "id": "Weapon_PowerArmor_SRM_Advanced_CLAN_OS.Description.UIName",
+    "content": "BA先进SRM(C)"
+  },
+  {
+    "id": "Weapon_PowerArmor_SRM_Advanced_CLAN_OS.Description.Name",
+    "content": "BA先进SRM"
+  },
+  {
+    "id": "Weapon_PowerArmor_SRM_Advanced_CLAN_OS.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_PowerArmor_SRM_CLAN.Description.Details",
+    "content": "2管SRM发射器,单发装填. \n\n<b><color=#ffcc00>战斗装甲专用武器,只能被战斗装甲(BA)单位安装</color></b>"
+  },
+  {
+    "id": "Weapon_PowerArmor_SRM_CLAN.Description.UIName",
+    "content": "战斗装甲SRM(C)"
+  },
+  {
+    "id": "Weapon_PowerArmor_SRM_CLAN.Description.Name",
+    "content": "战斗装甲SRM"
+  },
+  {
+    "id": "Weapon_PowerArmor_SRM_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_PowerArmor_SRM_CLAN_OS.Description.Details",
+    "content": "单管单发SRM发射器.\n\n<b><color=#ffcc00>战斗装甲专用武器,只能被战斗装甲(BA)单位安装</color></b>."
+  },
+  {
+    "id": "Weapon_PowerArmor_SRM_CLAN_OS.Description.UIName",
+    "content": "战斗装甲SRM(C)"
+  },
+  {
+    "id": "Weapon_PowerArmor_SRM_CLAN_OS.Description.Name",
+    "content": "战斗装甲SRM"
+  },
+  {
+    "id": "Weapon_PowerArmor_SRM_CLAN_OS.Description.Manufacturer",
+    "content": "氏族"
+  }
+]

@@ -1,0 +1,2258 @@
+[
+  {
+    "id": "LAM_Aluminium_Default.Description.Details",
+    "content": "超轻陆空机甲(LAM)铝合金装甲是在星联时期构思的,目的是打造一种耐用、重量轻、足以支飞行系统的装甲."
+  },
+  {
+    "id": "LAM_Aluminium_Default.Description.UIName",
+    "content": "LAM铝合金装甲"
+  },
+  {
+    "id": "LAM_Aluminium_Default.Description.Name",
+    "content": "轻型铝装甲"
+  },
+  {
+    "id": "LAM_Aluminium_Default.Description.Manufacturer",
+    "content": "盟军航空航天"
+  },
+  {
+    "id": "LAM_Aluminium_Ferro.Description.Details",
+    "content": "先进的氏族纤维钢装甲技术使这种超轻装甲能够减轻LAM的防护重量,甚至能够使用氏族CASE II系统<b><color=#00ff00>启用CASE</color></b>"
+  },
+  {
+    "id": "LAM_Aluminium_Ferro.Description.UIName",
+    "content": "LAM纤维铝装甲"
+  },
+  {
+    "id": "LAM_Aluminium_Ferro.Description.Name",
+    "content": "铝合金装甲"
+  },
+  {
+    "id": "LAM_Aluminium_Ferro.Description.Manufacturer",
+    "content": "雪鸦氏族"
+  },
+  {
+    "id": "LAM_Aluminium_Lamellor.Description.Details",
+    "content": "由雪鸦氏族在纹层(Lamellor)钢的实验中创造,这种装甲提供了极好的保护,但由于很昂贵笨重而很少使用 <b><color=#00ff00>启用CASE</color></b>"
+  },
+  {
+    "id": "LAM_Aluminium_Lamellor.Description.UIName",
+    "content": "LAM纹层铝装甲"
+  },
+  {
+    "id": "LAM_Aluminium_Lamellor.Description.Name",
+    "content": "铝合金装甲"
+  },
+  {
+    "id": "LAM_Aluminium_Lamellor.Description.Manufacturer",
+    "content": "雪鸦氏族"
+  },
+  {
+    "id": "LAM_Aluminium_Lamellor.StatusEffect-CFL.statusEffects0.Details",
+    "content": "-20%即将受到的伤害."
+  },
+  {
+    "id": "LAM_Aluminium_Lamellor.HardenedCritImmune.statusEffects1.Details",
+    "content": "更快的速度."
+  },
+  {
+    "id": "LAM_Aluminium_Lamellor.StatusEffect-CFL.statusEffects0.Name",
+    "content": "降低受到的伤害"
+  },
+  {
+    "id": "LAM_Aluminium_Lamellor.HardenedCritImmune.statusEffects1.Name",
+    "content": "冲刺撞击"
+  },
+  {
+    "id": "LAM_Aluminium_Stealth.Description.Details",
+    "content": "为了创建先进的侦查单位,胜利武器公司将其最新的先进隐身技术整合到一种LAM铝合金装甲中.它包含一个特殊的CASE系统.除了头部,每个部位都占用一个槽位.需要一个ECM."
+  },
+  {
+    "id": "LAM_Aluminium_Stealth.Description.UIName",
+    "content": "LAM隐身装甲"
+  },
+  {
+    "id": "LAM_Aluminium_Stealth.Description.Name",
+    "content": "隐身装甲"
+  },
+  {
+    "id": "LAM_Aluminium_Stealth.Description.Manufacturer",
+    "content": "胜利兵器"
+  },
+  {
+    "id": "LAM_Aluminium_Stealth.LV_Stealth_Effect.CAE0.Details",
+    "content": "使携带隐身设备的单位更难被发现和侦测"
+  },
+  {
+    "id": "LAM_Aluminium_Stealth.Stealth_Signature_Decrease_Stealth.CAE1.Details",
+    "content": "信号特征状态效果."
+  },
+  {
+    "id": "LAM_Aluminium_Stealth.Stealth_Visibility_Decrease_Stealth.CAE2.Details",
+    "content": "可见性状态效果."
+  },
+  {
+    "id": "LAM_Aluminium_Stealth.Stealth_Heat_Generation_Stealth.CAE3.Details",
+    "content": "增加热量"
+  },
+  {
+    "id": "LAM_Aluminium_Stealth.Stealth_Heat_Capacity_Stealth.CAE4.Details",
+    "content": "降低散热能力"
+  },
+  {
+    "id": "LAM_Aluminium_Stealth.LV_Stealth_Effect.CAE0.Name",
+    "content": "隐身"
+  },
+  {
+    "id": "LAM_Aluminium_Stealth.Stealth_Signature_Decrease_Stealth.CAE1.Name",
+    "content": "减少隐身信号特征"
+  },
+  {
+    "id": "LAM_Aluminium_Stealth.Stealth_Visibility_Decrease_Stealth.CAE2.Name",
+    "content": "降低隐身可见性"
+  },
+  {
+    "id": "LAM_Aluminium_Stealth.Stealth_Heat_Generation_Stealth.CAE3.Name",
+    "content": "增加热量"
+  },
+  {
+    "id": "LAM_Aluminium_Stealth.Stealth_Heat_Capacity_Stealth.CAE4.Name",
+    "content": "降低散热能力"
+  },
+  {
+    "id": "Linked_LAM_Aluminium_Stealth.Description.Details",
+    "content": "为了创建先进的侦查单位,胜利武器公司将其最新的先进隐身技术整合到一种LAM铝合金装甲中.它包含一个特殊的CASE系统.除了头部,每个部位都占用一个槽位.需要一个ECM."
+  },
+  {
+    "id": "Linked_LAM_Aluminium_Stealth.Description.UIName",
+    "content": "LAM隐身装甲"
+  },
+  {
+    "id": "Linked_LAM_Aluminium_Stealth.Description.Name",
+    "content": "隐身装甲"
+  },
+  {
+    "id": "Linked_LAM_Aluminium_Stealth.Description.Manufacturer",
+    "content": "胜利兵器"
+  },
+  {
+    "id": "LAM_BattleArmorBay.Description.Details",
+    "content": "一个专门设计的内部储存运输舱,可以让LAM获得携带战斗装甲的能力."
+  },
+  {
+    "id": "LAM_BattleArmorBay.Description.UIName",
+    "content": "LAM战斗装甲扩展隔间"
+  },
+  {
+    "id": "LAM_BattleArmorBay.Description.Name",
+    "content": "LAM战斗装甲扩展隔间"
+  },
+  {
+    "id": "LAM_BattleArmorBay.Description.Manufacturer",
+    "content": "星联防卫部队"
+  },
+  {
+    "id": "LAM_InfantryCompartment_BA1.Description.Details",
+    "content": "这是一个专门设计的隔间,可以让一个LAM携带战斗装甲小队有效快速地进入战斗."
+  },
+  {
+    "id": "LAM_InfantryCompartment_BA1.Description.UIName",
+    "content": "LAM步兵隔间(1 BA)"
+  },
+  {
+    "id": "LAM_InfantryCompartment_BA1.Description.Name",
+    "content": "LAM步兵隔间(1 BA)"
+  },
+  {
+    "id": "LAM_InfantryCompartment_BA1.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "LAM_InfantryCompartment_BA1.StatusEffect-getHasBattleArmorMounts.statusEffects0.Details",
+    "content": "获得战斗装甲挂在点"
+  },
+  {
+    "id": "LAM_InfantryCompartment_BA1.StatusEffect-getHasBattleArmorMounts.statusEffects0.Name",
+    "content": "获得战斗装甲挂在点"
+  },
+  {
+    "id": "LAM_InfantryCompartment_BA2.Description.Details",
+    "content": "这是一个专门设计的隔间,可以让一个LAM携带战斗装甲小队有效地快速进入战斗."
+  },
+  {
+    "id": "LAM_InfantryCompartment_BA2.Description.UIName",
+    "content": "LAM步兵隔间(2 BA)"
+  },
+  {
+    "id": "LAM_InfantryCompartment_BA2.Description.Name",
+    "content": "LAM步兵隔间(2 BA)"
+  },
+  {
+    "id": "LAM_InfantryCompartment_BA2.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "LAM_InfantryCompartment_BA2.StatusEffect-getHasBattleArmorMounts.statusEffects0.Details",
+    "content": "获得战斗装甲挂在点"
+  },
+  {
+    "id": "LAM_InfantryCompartment_BA2.StatusEffect-getHasBattleArmorMounts.statusEffects0.Name",
+    "content": "获得战斗装甲挂在点"
+  },
+  {
+    "id": "LAM_InfantryCompartment_BA3.Description.Details",
+    "content": "这是一个特别设计的隔间，旨在让一个LAM携带战斗装甲小队快速有效地进入战斗。"
+  },
+  {
+    "id": "LAM_InfantryCompartment_BA3.Description.UIName",
+    "content": "LAM步兵隔间(3 BA)"
+  },
+  {
+    "id": "LAM_InfantryCompartment_BA3.Description.Name",
+    "content": "LAM步兵隔间(3 BA)"
+  },
+  {
+    "id": "LAM_InfantryCompartment_BA3.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "LAM_InfantryCompartment_BA3.StatusEffect-getHasBattleArmorMounts.statusEffects0.Details",
+    "content": "获得战斗装甲挂在点"
+  },
+  {
+    "id": "LAM_InfantryCompartment_BA3.StatusEffect-getHasBattleArmorMounts.statusEffects0.Name",
+    "content": "获得战斗装甲挂在点"
+  },
+  {
+    "id": "LAM_InfantryCompartment_BA4.Description.Details",
+    "content": "这是一个特别设计的隔间，旨在让一个LAM携带战斗装甲小队快速有效地进入战斗。"
+  },
+  {
+    "id": "LAM_InfantryCompartment_BA4.Description.UIName",
+    "content": "LAM步兵隔间(4 BA)"
+  },
+  {
+    "id": "LAM_InfantryCompartment_BA4.Description.Name",
+    "content": "LAM步兵隔间(4 BA)"
+  },
+  {
+    "id": "LAM_InfantryCompartment_BA4.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "LAM_InfantryCompartment_BA4.StatusEffect-getHasBattleArmorMounts.statusEffects0.Details",
+    "content": "获得战斗装甲挂在点"
+  },
+  {
+    "id": "LAM_InfantryCompartment_BA4.StatusEffect-getHasBattleArmorMounts.statusEffects0.Name",
+    "content": "获得战斗装甲挂在点"
+  },
+  {
+    "id": "LAM_WingMount.Description.Details",
+    "content": "能够容纳更换多种弹药的陆空机甲外部挂载点系统.\n\n<b><color=#ff0066>该武器所有的状态都来自其装载的弹药</color></b> \n\n<b><color=#ff0066>需要特殊糟和(HP)弹药</color></b>."
+  },
+  {
+    "id": "LAM_WingMount.Description.UIName",
+    "content": "陆空机甲挂载点"
+  },
+  {
+    "id": "LAM_WingMount.Description.Name",
+    "content": "外部挂载点"
+  },
+  {
+    "id": "LAM_WingMount.Description.Manufacturer",
+    "content": "洛克希德-CBM"
+  },
+  {
+    "id": "LAM_WingMounted_NARC.Description.Details",
+    "content": "一种用于空中侦查单位的独特NARC发射系统.具有额外的射程和瞄准系统,可在高速机动时可靠的描绘目标."
+  },
+  {
+    "id": "LAM_WingMounted_NARC.Description.UIName",
+    "content": "NARC挂载点"
+  },
+  {
+    "id": "LAM_WingMounted_NARC.Description.Name",
+    "content": "NARC发射系统"
+  },
+  {
+    "id": "LAM_WingMounted_NARC.Description.Manufacturer",
+    "content": "德林"
+  },
+  {
+    "id": "LAM_WingMounted_NARC.PainterEffect.statusEffects0.Details",
+    "content": "这各目标被NARC系统标记了,+2命中并且使用导弹额外+1"
+  },
+  {
+    "id": "LAM_WingMounted_NARC.PainterEffect2.statusEffects1.Details",
+    "content": "目标寻获装备增加可见性"
+  },
+  {
+    "id": "LAM_WingMounted_NARC.NARC-Missiles.statusEffects2.Details",
+    "content": "NARC导弹奖励"
+  },
+  {
+    "id": "LAM_WingMounted_NARC.NARC-Probe.statusEffects3.Details",
+    "content": "共享附近目标的传感器信息"
+  },
+  {
+    "id": "LAM_WingMounted_NARC.StatusEffect-NARC-IndicatorVFX.statusEffects4.Details",
+    "content": "NARC效果的视觉指示器"
+  },
+  {
+    "id": "LAM_WingMounted_NARC.PainterEffect.statusEffects0.Name",
+    "content": "寻获目标"
+  },
+  {
+    "id": "LAM_WingMounted_NARC.PainterEffect2.statusEffects1.Name",
+    "content": "检测到"
+  },
+  {
+    "id": "LAM_WingMounted_NARC.NARC-Missiles.statusEffects2.Name",
+    "content": "标记过"
+  },
+  {
+    "id": "LAM_WingMounted_NARC.NARC-Probe.statusEffects3.Name",
+    "content": "C3传感器信息"
+  },
+  {
+    "id": "LAM_WingMounted_NARC.StatusEffect-NARC-IndicatorVFX.statusEffects4.Name",
+    "content": "NARC已附着"
+  },
+  {
+    "id": "LAM_WingMounted_TAG.Description.Details",
+    "content": "一种专门为侦查单位设计的空中目标寻获装备(TAG)系统.其独特的效果提供了不可叠加范围大但有衰减的探测增益."
+  },
+  {
+    "id": "LAM_WingMounted_TAG.Description.UIName",
+    "content": "TAG挂载点"
+  },
+  {
+    "id": "LAM_WingMounted_TAG.Description.Name",
+    "content": "LAM目标寻获装备"
+  },
+  {
+    "id": "LAM_WingMounted_TAG.Description.Manufacturer",
+    "content": "塔纳迪"
+  },
+  {
+    "id": "LAM_WingMounted_TAG.PainterEffect.statusEffects0.Details",
+    "content": "目标被寻获+1命中."
+  },
+  {
+    "id": "LAM_WingMounted_TAG.SUPERTAG.statusEffects1.Details",
+    "content": "目标寻获装备增加可见性"
+  },
+  {
+    "id": "LAM_WingMounted_TAG.C3-SensorInfo.statusEffects2.Details",
+    "content": "共享附近目标的传感器信息"
+  },
+  {
+    "id": "LAM_WingMounted_TAG.PainterEffect2.statusEffects3.Details",
+    "content": "目标寻获装备增加可见性"
+  },
+  {
+    "id": "LAM_WingMounted_TAG.C3-SensorInfo.statusEffects4.Details",
+    "content": "共享附近目标的传感器信息"
+  },
+  {
+    "id": "LAM_WingMounted_TAG.PainterEffect2.statusEffects5.Details",
+    "content": "目标寻获装备增加可见性"
+  },
+  {
+    "id": "LAM_WingMounted_TAG.C3-SensorInfo.statusEffects6.Details",
+    "content": "共享附近目标的传感器信息"
+  },
+  {
+    "id": "LAM_WingMounted_TAG.StatusEffect-TAG-IndicatorVFX.statusEffects7.Details",
+    "content": "TAG效果的视觉指示器"
+  },
+  {
+    "id": "LAM_WingMounted_TAG.PainterEffect.statusEffects0.Name",
+    "content": "寻获目标"
+  },
+  {
+    "id": "LAM_WingMounted_TAG.SUPERTAG.statusEffects1.Name",
+    "content": "检测到"
+  },
+  {
+    "id": "LAM_WingMounted_TAG.C3-SensorInfo.statusEffects2.Name",
+    "content": "C3传感器信息"
+  },
+  {
+    "id": "LAM_WingMounted_TAG.PainterEffect2.statusEffects3.Name",
+    "content": "检测到"
+  },
+  {
+    "id": "LAM_WingMounted_TAG.C3-SensorInfo.statusEffects4.Name",
+    "content": "C3传感器信息"
+  },
+  {
+    "id": "LAM_WingMounted_TAG.PainterEffect2.statusEffects5.Name",
+    "content": "检测到"
+  },
+  {
+    "id": "LAM_WingMounted_TAG.C3-SensorInfo.statusEffects6.Name",
+    "content": "C3传感器信息"
+  },
+  {
+    "id": "LAM_WingMounted_TAG.StatusEffect-TAG-IndicatorVFX.statusEffects7.Name",
+    "content": "目标寻获装备已标记"
+  },
+  {
+    "id": "LAM_SuperBurner_1.Description.Details",
+    "content": "可为任何LAM安装的助推器包,提供额外的燃料和推进能力"
+  },
+  {
+    "id": "LAM_SuperBurner_1.Description.UIName",
+    "content": "LAM助推器包10%"
+  },
+  {
+    "id": "LAM_SuperBurner_1.Description.Name",
+    "content": "LAM助推器包"
+  },
+  {
+    "id": "LAM_SuperBurner_1.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "LAM_SuperBurner_1.StatusEffect-JumpAmount.statusEffects0.Details",
+    "content": "最大跳跃推进器量每行走里程"
+  },
+  {
+    "id": "LAM_SuperBurner_1.StatusEffect-JumpAmount.statusEffects0.Name",
+    "content": "跳跃推进器量"
+  },
+  {
+    "id": "LAM_SuperBurner_1.CockpitTSMHeat.CAE0.Details",
+    "content": "座舱TSM热量"
+  },
+  {
+    "id": "LAM_SuperBurner_1.TSMActive1.CAE1.Details",
+    "content": "更强的近战和更快的速度"
+  },
+  {
+    "id": "LAM_SuperBurner_1.LAM_Afterburner_Turbine.CAE2.Details",
+    "content": "提供70稳定并且-20%受到的稳定伤害."
+  },
+  {
+    "id": "LAM_SuperBurner_1.StatusEffect-JumpHeat.CAE3.Details",
+    "content": "这个跳跃推进器每格产热"
+  },
+  {
+    "id": "LAM_SuperBurner_1.CockpitTSMHeat.CAE0.Name",
+    "content": "座舱TSM热量"
+  },
+  {
+    "id": "LAM_SuperBurner_1.TSMActive1.CAE1.Name",
+    "content": "TSM激活!"
+  },
+  {
+    "id": "LAM_SuperBurner_1.LAM_Afterburner_Turbine.CAE2.Name",
+    "content": "LAM加力涡轮"
+  },
+  {
+    "id": "LAM_SuperBurner_1.StatusEffect-JumpHeat.CAE3.Name",
+    "content": "跳跃推进器热量"
+  },
+  {
+    "id": "LAM_SuperBurner_1.StatusEffect-JumpHeat.CAE0.Details",
+    "content": "这个跳跃推进器每格产热"
+  },
+  {
+    "id": "LAM_SuperBurner_1.StatusEffect-JumpHeat.CAE0.Name",
+    "content": "跳跃推进器热量"
+  },
+  {
+    "id": "LAM_SuperBurner_10.Description.Details",
+    "content": "可为任何LAM安装的助推器包,提供额外的燃料和推进能力"
+  },
+  {
+    "id": "LAM_SuperBurner_10.Description.UIName",
+    "content": "LAM助推器包100%"
+  },
+  {
+    "id": "LAM_SuperBurner_10.Description.Name",
+    "content": "LAM助推器包"
+  },
+  {
+    "id": "LAM_SuperBurner_10.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "LAM_SuperBurner_10.StatusEffect-JumpAmount.statusEffects0.Details",
+    "content": "最大跳跃推进器量每行走里程"
+  },
+  {
+    "id": "LAM_SuperBurner_10.StatusEffect-JumpAmount.statusEffects0.Name",
+    "content": "跳跃推进器量"
+  },
+  {
+    "id": "LAM_SuperBurner_10.CockpitTSMHeat.CAE0.Details",
+    "content": "座舱TSM热量"
+  },
+  {
+    "id": "LAM_SuperBurner_10.TSMActive1.CAE1.Details",
+    "content": "更强的近战和更快的速度"
+  },
+  {
+    "id": "LAM_SuperBurner_10.LAM_Afterburner_Turbine.CAE2.Details",
+    "content": "提供70稳定并且-20%受到的稳定伤害."
+  },
+  {
+    "id": "LAM_SuperBurner_10.StatusEffect-JumpHeat.CAE3.Details",
+    "content": "这个跳跃推进器每格产热"
+  },
+  {
+    "id": "LAM_SuperBurner_10.CockpitTSMHeat.CAE0.Name",
+    "content": "座舱TSM热量"
+  },
+  {
+    "id": "LAM_SuperBurner_10.TSMActive1.CAE1.Name",
+    "content": "TSM激活!"
+  },
+  {
+    "id": "LAM_SuperBurner_10.LAM_Afterburner_Turbine.CAE2.Name",
+    "content": "LAM加力涡轮"
+  },
+  {
+    "id": "LAM_SuperBurner_10.StatusEffect-JumpHeat.CAE3.Name",
+    "content": "跳跃推进器热量"
+  },
+  {
+    "id": "LAM_SuperBurner_10.StatusEffect-JumpHeat.CAE0.Details",
+    "content": "这个跳跃推进器每格产热"
+  },
+  {
+    "id": "LAM_SuperBurner_10.StatusEffect-JumpHeat.CAE0.Name",
+    "content": "跳跃推进器热量"
+  },
+  {
+    "id": "LAM_SuperBurner_2.Description.Details",
+    "content": "可为任何LAM安装的助推器包,提供额外的燃料和推进能力"
+  },
+  {
+    "id": "LAM_SuperBurner_2.Description.UIName",
+    "content": "LAM助推器包20%"
+  },
+  {
+    "id": "LAM_SuperBurner_2.Description.Name",
+    "content": "LAM助推器包"
+  },
+  {
+    "id": "LAM_SuperBurner_2.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "LAM_SuperBurner_2.StatusEffect-JumpAmount.statusEffects0.Details",
+    "content": "最大跳跃推进器量每行走里程"
+  },
+  {
+    "id": "LAM_SuperBurner_2.StatusEffect-JumpAmount.statusEffects0.Name",
+    "content": "跳跃推进器量"
+  },
+  {
+    "id": "LAM_SuperBurner_2.CockpitTSMHeat.CAE0.Details",
+    "content": "座舱TSM热量"
+  },
+  {
+    "id": "LAM_SuperBurner_2.TSMActive1.CAE1.Details",
+    "content": "更强的近战和更快的速度"
+  },
+  {
+    "id": "LAM_SuperBurner_2.LAM_Afterburner_Turbine.CAE2.Details",
+    "content": "提供70稳定并且-20%受到的稳定伤害."
+  },
+  {
+    "id": "LAM_SuperBurner_2.StatusEffect-JumpHeat.CAE3.Details",
+    "content": "这个跳跃推进器每格产热"
+  },
+  {
+    "id": "LAM_SuperBurner_2.CockpitTSMHeat.CAE0.Name",
+    "content": "座舱TSM热量"
+  },
+  {
+    "id": "LAM_SuperBurner_2.TSMActive1.CAE1.Name",
+    "content": "TSM激活!"
+  },
+  {
+    "id": "LAM_SuperBurner_2.LAM_Afterburner_Turbine.CAE2.Name",
+    "content": "LAM加力涡轮"
+  },
+  {
+    "id": "LAM_SuperBurner_2.StatusEffect-JumpHeat.CAE3.Name",
+    "content": "跳跃推进器热量"
+  },
+  {
+    "id": "LAM_SuperBurner_2.StatusEffect-JumpHeat.CAE0.Details",
+    "content": "这个跳跃推进器每格产热"
+  },
+  {
+    "id": "LAM_SuperBurner_2.StatusEffect-JumpHeat.CAE0.Name",
+    "content": "跳跃推进器热量"
+  },
+  {
+    "id": "LAM_SuperBurner_3.Description.Details",
+    "content": "可为任何LAM安装的助推器包,提供额外的燃料和推进能力"
+  },
+  {
+    "id": "LAM_SuperBurner_3.Description.UIName",
+    "content": "LAM助推器包30%"
+  },
+  {
+    "id": "LAM_SuperBurner_3.Description.Name",
+    "content": "LAM助推器包"
+  },
+  {
+    "id": "LAM_SuperBurner_3.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "LAM_SuperBurner_3.StatusEffect-JumpAmount.statusEffects0.Details",
+    "content": "最大跳跃推进器量每行走里程"
+  },
+  {
+    "id": "LAM_SuperBurner_3.StatusEffect-JumpAmount.statusEffects0.Name",
+    "content": "跳跃推进器量"
+  },
+  {
+    "id": "LAM_SuperBurner_3.CockpitTSMHeat.CAE0.Details",
+    "content": "座舱TSM热量"
+  },
+  {
+    "id": "LAM_SuperBurner_3.TSMActive1.CAE1.Details",
+    "content": "更强的近战和更快的速度"
+  },
+  {
+    "id": "LAM_SuperBurner_3.LAM_Afterburner_Turbine.CAE2.Details",
+    "content": "提供70稳定并且-20%受到的稳定伤害."
+  },
+  {
+    "id": "LAM_SuperBurner_3.StatusEffect-JumpHeat.CAE3.Details",
+    "content": "这个跳跃推进器每格产热"
+  },
+  {
+    "id": "LAM_SuperBurner_3.CockpitTSMHeat.CAE0.Name",
+    "content": "座舱TSM热量"
+  },
+  {
+    "id": "LAM_SuperBurner_3.TSMActive1.CAE1.Name",
+    "content": "TSM激活!"
+  },
+  {
+    "id": "LAM_SuperBurner_3.LAM_Afterburner_Turbine.CAE2.Name",
+    "content": "LAM加力涡轮"
+  },
+  {
+    "id": "LAM_SuperBurner_3.StatusEffect-JumpHeat.CAE3.Name",
+    "content": "跳跃推进器热量"
+  },
+  {
+    "id": "LAM_SuperBurner_3.StatusEffect-JumpHeat.CAE0.Details",
+    "content": "这个跳跃推进器每格产热"
+  },
+  {
+    "id": "LAM_SuperBurner_3.StatusEffect-JumpHeat.CAE0.Name",
+    "content": "跳跃推进器热量"
+  },
+  {
+    "id": "LAM_SuperBurner_4.Description.Details",
+    "content": "可为任何LAM安装的助推器包,提供额外的燃料和推进能力"
+  },
+  {
+    "id": "LAM_SuperBurner_4.Description.UIName",
+    "content": "LAM助推器包40%"
+  },
+  {
+    "id": "LAM_SuperBurner_4.Description.Name",
+    "content": "LAM助推器包"
+  },
+  {
+    "id": "LAM_SuperBurner_4.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "LAM_SuperBurner_4.StatusEffect-JumpAmount.statusEffects0.Details",
+    "content": "最大跳跃推进器量每行走里程"
+  },
+  {
+    "id": "LAM_SuperBurner_4.StatusEffect-JumpAmount.statusEffects0.Name",
+    "content": "跳跃推进器量"
+  },
+  {
+    "id": "LAM_SuperBurner_4.CockpitTSMHeat.CAE0.Details",
+    "content": "座舱TSM热量"
+  },
+  {
+    "id": "LAM_SuperBurner_4.TSMActive1.CAE1.Details",
+    "content": "更强的近战和更快的速度"
+  },
+  {
+    "id": "LAM_SuperBurner_4.LAM_Afterburner_Turbine.CAE2.Details",
+    "content": "提供70稳定并且-20%受到的稳定伤害."
+  },
+  {
+    "id": "LAM_SuperBurner_4.StatusEffect-JumpHeat.CAE3.Details",
+    "content": "这个跳跃推进器每格产热"
+  },
+  {
+    "id": "LAM_SuperBurner_4.CockpitTSMHeat.CAE0.Name",
+    "content": "座舱TSM热量"
+  },
+  {
+    "id": "LAM_SuperBurner_4.TSMActive1.CAE1.Name",
+    "content": "TSM激活!"
+  },
+  {
+    "id": "LAM_SuperBurner_4.LAM_Afterburner_Turbine.CAE2.Name",
+    "content": "LAM加力涡轮"
+  },
+  {
+    "id": "LAM_SuperBurner_4.StatusEffect-JumpHeat.CAE3.Name",
+    "content": "跳跃推进器热量"
+  },
+  {
+    "id": "LAM_SuperBurner_4.StatusEffect-JumpHeat.CAE0.Details",
+    "content": "这个跳跃推进器每格产热"
+  },
+  {
+    "id": "LAM_SuperBurner_4.StatusEffect-JumpHeat.CAE0.Name",
+    "content": "跳跃推进器热量"
+  },
+  {
+    "id": "LAM_SuperBurner_5.Description.Details",
+    "content": "可为任何LAM安装的助推器包,提供额外的燃料和推进能力"
+  },
+  {
+    "id": "LAM_SuperBurner_5.Description.UIName",
+    "content": "LAM助推器包50%"
+  },
+  {
+    "id": "LAM_SuperBurner_5.Description.Name",
+    "content": "LAM助推器包"
+  },
+  {
+    "id": "LAM_SuperBurner_5.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "LAM_SuperBurner_5.StatusEffect-JumpAmount.statusEffects0.Details",
+    "content": "最大跳跃推进器量每行走里程"
+  },
+  {
+    "id": "LAM_SuperBurner_5.StatusEffect-JumpAmount.statusEffects0.Name",
+    "content": "跳跃推进器量"
+  },
+  {
+    "id": "LAM_SuperBurner_5.CockpitTSMHeat.CAE0.Details",
+    "content": "座舱TSM热量"
+  },
+  {
+    "id": "LAM_SuperBurner_5.TSMActive1.CAE1.Details",
+    "content": "更强的近战和更快的速度"
+  },
+  {
+    "id": "LAM_SuperBurner_5.LAM_Afterburner_Turbine.CAE2.Details",
+    "content": "提供70稳定并且-20%受到的稳定伤害."
+  },
+  {
+    "id": "LAM_SuperBurner_5.StatusEffect-JumpHeat.CAE3.Details",
+    "content": "这个跳跃推进器每格产热"
+  },
+  {
+    "id": "LAM_SuperBurner_5.CockpitTSMHeat.CAE0.Name",
+    "content": "座舱TSM热量"
+  },
+  {
+    "id": "LAM_SuperBurner_5.TSMActive1.CAE1.Name",
+    "content": "TSM激活!"
+  },
+  {
+    "id": "LAM_SuperBurner_5.LAM_Afterburner_Turbine.CAE2.Name",
+    "content": "LAM加力涡轮"
+  },
+  {
+    "id": "LAM_SuperBurner_5.StatusEffect-JumpHeat.CAE3.Name",
+    "content": "跳跃推进器热量"
+  },
+  {
+    "id": "LAM_SuperBurner_5.StatusEffect-JumpHeat.CAE0.Details",
+    "content": "这个跳跃推进器每格产热"
+  },
+  {
+    "id": "LAM_SuperBurner_5.StatusEffect-JumpHeat.CAE0.Name",
+    "content": "跳跃推进器热量"
+  },
+  {
+    "id": "LAM_SuperBurner_6.Description.Details",
+    "content": "可为任何LAM安装的助推器包,提供额外的燃料和推进能力"
+  },
+  {
+    "id": "LAM_SuperBurner_6.Description.UIName",
+    "content": "LAM助推器包60%"
+  },
+  {
+    "id": "LAM_SuperBurner_6.Description.Name",
+    "content": "LAM助推器包"
+  },
+  {
+    "id": "LAM_SuperBurner_6.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "LAM_SuperBurner_6.StatusEffect-JumpAmount.statusEffects0.Details",
+    "content": "最大跳跃推进器量每行走里程"
+  },
+  {
+    "id": "LAM_SuperBurner_6.StatusEffect-JumpAmount.statusEffects0.Name",
+    "content": "跳跃推进器量"
+  },
+  {
+    "id": "LAM_SuperBurner_6.CockpitTSMHeat.CAE0.Details",
+    "content": "座舱TSM热量"
+  },
+  {
+    "id": "LAM_SuperBurner_6.TSMActive1.CAE1.Details",
+    "content": "更强的近战和更快的速度"
+  },
+  {
+    "id": "LAM_SuperBurner_6.LAM_Afterburner_Turbine.CAE2.Details",
+    "content": "提供70稳定并且-20%受到的稳定伤害."
+  },
+  {
+    "id": "LAM_SuperBurner_6.StatusEffect-JumpHeat.CAE3.Details",
+    "content": "这个跳跃推进器每格产热"
+  },
+  {
+    "id": "LAM_SuperBurner_6.CockpitTSMHeat.CAE0.Name",
+    "content": "座舱TSM热量"
+  },
+  {
+    "id": "LAM_SuperBurner_6.TSMActive1.CAE1.Name",
+    "content": "TSM激活!"
+  },
+  {
+    "id": "LAM_SuperBurner_6.LAM_Afterburner_Turbine.CAE2.Name",
+    "content": "LAM加力涡轮"
+  },
+  {
+    "id": "LAM_SuperBurner_6.StatusEffect-JumpHeat.CAE3.Name",
+    "content": "跳跃推进器热量"
+  },
+  {
+    "id": "LAM_SuperBurner_6.StatusEffect-JumpHeat.CAE0.Details",
+    "content": "这个跳跃推进器每格产热"
+  },
+  {
+    "id": "LAM_SuperBurner_6.StatusEffect-JumpHeat.CAE0.Name",
+    "content": "跳跃推进器热量"
+  },
+  {
+    "id": "LAM_SuperBurner_7.Description.Details",
+    "content": "可为任何LAM安装的助推器包,提供额外的燃料和推进能力"
+  },
+  {
+    "id": "LAM_SuperBurner_7.Description.UIName",
+    "content": "LAM助推器包70%"
+  },
+  {
+    "id": "LAM_SuperBurner_7.Description.Name",
+    "content": "LAM助推器包"
+  },
+  {
+    "id": "LAM_SuperBurner_7.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "LAM_SuperBurner_7.StatusEffect-JumpAmount.statusEffects0.Details",
+    "content": "最大跳跃推进器量每行走里程"
+  },
+  {
+    "id": "LAM_SuperBurner_7.StatusEffect-JumpAmount.statusEffects0.Name",
+    "content": "跳跃推进器量"
+  },
+  {
+    "id": "LAM_SuperBurner_7.CockpitTSMHeat.CAE0.Details",
+    "content": "座舱TSM热量"
+  },
+  {
+    "id": "LAM_SuperBurner_7.TSMActive1.CAE1.Details",
+    "content": "更强的近战和更快的速度"
+  },
+  {
+    "id": "LAM_SuperBurner_7.LAM_Afterburner_Turbine.CAE2.Details",
+    "content": "提供70稳定并且-20%受到的稳定伤害."
+  },
+  {
+    "id": "LAM_SuperBurner_7.StatusEffect-JumpHeat.CAE3.Details",
+    "content": "这个跳跃推进器每格产热"
+  },
+  {
+    "id": "LAM_SuperBurner_7.CockpitTSMHeat.CAE0.Name",
+    "content": "座舱TSM热量"
+  },
+  {
+    "id": "LAM_SuperBurner_7.TSMActive1.CAE1.Name",
+    "content": "TSM激活!"
+  },
+  {
+    "id": "LAM_SuperBurner_7.LAM_Afterburner_Turbine.CAE2.Name",
+    "content": "LAM加力涡轮"
+  },
+  {
+    "id": "LAM_SuperBurner_7.StatusEffect-JumpHeat.CAE3.Name",
+    "content": "跳跃推进器热量"
+  },
+  {
+    "id": "LAM_SuperBurner_7.StatusEffect-JumpHeat.CAE0.Details",
+    "content": "这个跳跃推进器每格产热"
+  },
+  {
+    "id": "LAM_SuperBurner_7.StatusEffect-JumpHeat.CAE0.Name",
+    "content": "跳跃推进器热量"
+  },
+  {
+    "id": "LAM_SuperBurner_8.Description.Details",
+    "content": "可为任何LAM安装的助推器包,提供额外的燃料和推进能力"
+  },
+  {
+    "id": "LAM_SuperBurner_8.Description.UIName",
+    "content": "LAM助推器包80%"
+  },
+  {
+    "id": "LAM_SuperBurner_8.Description.Name",
+    "content": "LAM助推器包"
+  },
+  {
+    "id": "LAM_SuperBurner_8.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "LAM_SuperBurner_8.StatusEffect-JumpAmount.statusEffects0.Details",
+    "content": "最大跳跃推进器量每行走里程"
+  },
+  {
+    "id": "LAM_SuperBurner_8.StatusEffect-JumpAmount.statusEffects0.Name",
+    "content": "跳跃推进器量"
+  },
+  {
+    "id": "LAM_SuperBurner_8.CockpitTSMHeat.CAE0.Details",
+    "content": "座舱TSM热量"
+  },
+  {
+    "id": "LAM_SuperBurner_8.TSMActive1.CAE1.Details",
+    "content": "更强的近战和更快的速度"
+  },
+  {
+    "id": "LAM_SuperBurner_8.LAM_Afterburner_Turbine.CAE2.Details",
+    "content": "提供70稳定并且-20%受到的稳定伤害."
+  },
+  {
+    "id": "LAM_SuperBurner_8.StatusEffect-JumpHeat.CAE3.Details",
+    "content": "这个跳跃推进器每格产热"
+  },
+  {
+    "id": "LAM_SuperBurner_8.CockpitTSMHeat.CAE0.Name",
+    "content": "座舱TSM热量"
+  },
+  {
+    "id": "LAM_SuperBurner_8.TSMActive1.CAE1.Name",
+    "content": "TSM激活!"
+  },
+  {
+    "id": "LAM_SuperBurner_8.LAM_Afterburner_Turbine.CAE2.Name",
+    "content": "LAM加力涡轮"
+  },
+  {
+    "id": "LAM_SuperBurner_8.StatusEffect-JumpHeat.CAE3.Name",
+    "content": "跳跃推进器热量"
+  },
+  {
+    "id": "LAM_SuperBurner_8.StatusEffect-JumpHeat.CAE0.Details",
+    "content": "这个跳跃推进器每格产热"
+  },
+  {
+    "id": "LAM_SuperBurner_8.StatusEffect-JumpHeat.CAE0.Name",
+    "content": "跳跃推进器热量"
+  },
+  {
+    "id": "LAM_SuperBurner_9.Description.Details",
+    "content": "可为任何LAM安装的助推器包,提供额外的燃料和推进能力"
+  },
+  {
+    "id": "LAM_SuperBurner_9.Description.UIName",
+    "content": "LAM助推器包90%"
+  },
+  {
+    "id": "LAM_SuperBurner_9.Description.Name",
+    "content": "LAM助推器包"
+  },
+  {
+    "id": "LAM_SuperBurner_9.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "LAM_SuperBurner_9.StatusEffect-JumpAmount.statusEffects0.Details",
+    "content": "最大跳跃推进器量每行走里程"
+  },
+  {
+    "id": "LAM_SuperBurner_9.StatusEffect-JumpAmount.statusEffects0.Name",
+    "content": "跳跃推进器量"
+  },
+  {
+    "id": "LAM_SuperBurner_9.CockpitTSMHeat.CAE0.Details",
+    "content": "座舱TSM热量"
+  },
+  {
+    "id": "LAM_SuperBurner_9.TSMActive1.CAE1.Details",
+    "content": "更强的近战和更快的速度"
+  },
+  {
+    "id": "LAM_SuperBurner_9.LAM_Afterburner_Turbine.CAE2.Details",
+    "content": "提供70稳定并且-20%受到的稳定伤害."
+  },
+  {
+    "id": "LAM_SuperBurner_9.StatusEffect-JumpHeat.CAE3.Details",
+    "content": "这个跳跃推进器每格产热"
+  },
+  {
+    "id": "LAM_SuperBurner_9.CockpitTSMHeat.CAE0.Name",
+    "content": "座舱TSM热量"
+  },
+  {
+    "id": "LAM_SuperBurner_9.TSMActive1.CAE1.Name",
+    "content": "TSM激活!"
+  },
+  {
+    "id": "LAM_SuperBurner_9.LAM_Afterburner_Turbine.CAE2.Name",
+    "content": "LAM加力涡轮"
+  },
+  {
+    "id": "LAM_SuperBurner_9.StatusEffect-JumpHeat.CAE3.Name",
+    "content": "跳跃推进器热量"
+  },
+  {
+    "id": "LAM_SuperBurner_9.StatusEffect-JumpHeat.CAE0.Details",
+    "content": "这个跳跃推进器每格产热"
+  },
+  {
+    "id": "LAM_SuperBurner_9.StatusEffect-JumpHeat.CAE0.Name",
+    "content": "跳跃推进器热量"
+  },
+  {
+    "id": "LAM_SuperBurner_SH.Description.Details",
+    "content": "可为任何LAM安装的助推器包,提供额外的燃料和推进能力"
+  },
+  {
+    "id": "LAM_SuperBurner_SH.Description.UIName",
+    "content": "LAM助推器包(SH)"
+  },
+  {
+    "id": "LAM_SuperBurner_SH.Description.Name",
+    "content": "LAM助推器包"
+  },
+  {
+    "id": "LAM_SuperBurner_SH.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "LAM_SuperBurner_SH.StatusEffect-JumpAmount.statusEffects0.Details",
+    "content": "最大跳跃推进器量每行走里程"
+  },
+  {
+    "id": "LAM_SuperBurner_SH.StatusEffect-JumpAmount.statusEffects0.Name",
+    "content": "跳跃推进器量"
+  },
+  {
+    "id": "LAM_SuperBurner_SH.CockpitTSMHeat.CAE0.Details",
+    "content": "座舱TSM热量"
+  },
+  {
+    "id": "LAM_SuperBurner_SH.TSMActive1.CAE1.Details",
+    "content": "更强的近战和更快的速度"
+  },
+  {
+    "id": "LAM_SuperBurner_SH.LAM_SuperBurner_SH.CAE2.Details",
+    "content": "提供70稳定并且-20%受到的稳定伤害."
+  },
+  {
+    "id": "LAM_SuperBurner_SH.StatusEffect-JumpHeat.CAE3.Details",
+    "content": "这个跳跃推进器每格产热"
+  },
+  {
+    "id": "LAM_SuperBurner_SH.CockpitTSMHeat.CAE0.Name",
+    "content": "座舱TSM热量"
+  },
+  {
+    "id": "LAM_SuperBurner_SH.TSMActive1.CAE1.Name",
+    "content": "TSM激活!"
+  },
+  {
+    "id": "LAM_SuperBurner_SH.LAM_SuperBurner_SH.CAE2.Name",
+    "content": "LAM加力涡轮"
+  },
+  {
+    "id": "LAM_SuperBurner_SH.StatusEffect-JumpHeat.CAE3.Name",
+    "content": "跳跃推进器热量"
+  },
+  {
+    "id": "LAM_SuperBurner_SH.StatusEffect-JumpHeat.CAE0.Details",
+    "content": "这个跳跃推进器每格产热"
+  },
+  {
+    "id": "LAM_SuperBurner_SH.StatusEffect-JumpHeat.CAE0.Name",
+    "content": "跳跃推进器热量"
+  },
+  {
+    "id": "LAM_Engine.Description.Details",
+    "content": "陆空机甲(LAM)引擎提供了一个特殊的能量概念.使机甲能够转变为地效机翼(WiGE)单位.\n<b><color=#ff0066>单位可以在陆空机甲(LAM)模式和普通机甲(Mech)模式切换.</color></b> \n\n<b><color=#ff0066>陆空机甲(LAM)模式:机甲会悬停在战场上,机甲的行走速度转换为飞行速度.</color></b> \n\n<b><color=#ff0066>LAM涡轮在飞行中提供额外的\"行走\"速度.</color></b> \n\n<b><color=#ff0066>在LAM模式下,机甲可以以增加热量(\"加力\")为代价下进行超长距离跳跃.</color></b> \n\n<b><color=#ff0066>在LAM模式下,机甲不会受到地形地面的影响</color></b>."
+  },
+  {
+    "id": "LAM_Engine.Description.UIName",
+    "content": "LAM引擎"
+  },
+  {
+    "id": "LAM_Engine.Description.Name",
+    "content": "陆空机甲引擎"
+  },
+  {
+    "id": "LAM_Engine.Description.Manufacturer",
+    "content": "盟军航空航天"
+  },
+  {
+    "id": "LAM_Engine_XL.Description.Details",
+    "content": "陆空机甲(LAM)引擎提供了一个特殊的能量概念.使机甲能够转变为地效机翼(WiGE)单位.\n<b><color=#ff0066>单位可以在陆空机甲(LAM)模式和普通机甲(Mech)模式切换.</color></b> \n\n<b><color=#ff0066>陆空机甲(LAM)模式:机甲会悬停在战场上,机甲的行走速度转换为飞行速度.</color></b> \n\n<b><color=#ff0066>LAM涡轮在飞行中提供额外的\"行走\"速度.</color></b> \n\n<b><color=#ff0066>在LAM模式下,机甲可以以增加热量(\"加力\")为代价下进行超长距离跳跃.</color></b> \n\n<b><color=#ff0066>在LAM模式下,机甲不会受到地形地面的影响</color></b>."
+  },
+  {
+    "id": "LAM_Engine_XL.Description.UIName",
+    "content": "LAM超轻型引擎"
+  },
+  {
+    "id": "LAM_Engine_XL.Description.Name",
+    "content": "陆空机甲引擎"
+  },
+  {
+    "id": "LAM_Engine_XL.Description.Manufacturer",
+    "content": "盟军航空航天"
+  },
+  {
+    "id": "LAM_Engine_XXLC.Description.Details",
+    "content": "陆空机甲(LAM)引擎提供了一个特殊的能量概念.使机甲能够转变为地效机翼(WiGE)单位.\n<b><color=#ff0066>单位可以在陆空机甲(LAM)模式和普通机甲(Mech)模式切换.</color></b> \n\n<b><color=#ff0066>陆空机甲(LAM)模式:机甲会悬停在战场上,机甲的行走速度转换为飞行速度.</color></b> \n\n<b><color=#ff0066>LAM涡轮在飞行中提供额外的\"行走\"速度.</color></b> \n\n<b><color=#ff0066>在LAM模式下,机甲可以以增加热量(\"加力\")为代价下进行超长距离跳跃.</color></b> \n\n<b><color=#ff0066>在LAM模式下,机甲不会受到地形地面的影响</color></b>."
+  },
+  {
+    "id": "LAM_Engine_XXLC.Description.UIName",
+    "content": "LAM极轻型引擎(C)"
+  },
+  {
+    "id": "LAM_Engine_XXLC.Description.Name",
+    "content": "陆空机甲引擎"
+  },
+  {
+    "id": "LAM_Engine_XXLC.Description.Manufacturer",
+    "content": "盟军航空航天"
+  },
+  {
+    "id": "Dropship_Turbine.Description.Details",
+    "content": "登陆舰涡轮是一种特殊的LAM涡轮系统,能够提供小型登陆舰升起时所必须的推力,甚至能够在需要时加速到逃逸速度."
+  },
+  {
+    "id": "Dropship_Turbine.Description.UIName",
+    "content": "登陆舰涡轮"
+  },
+  {
+    "id": "Dropship_Turbine.Description.Name",
+    "content": "LAM涡轮"
+  },
+  {
+    "id": "Dropship_Turbine.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Dropship_Turbine.CockpitTSMHeat.CAE0.Details",
+    "content": "座舱TSM热量"
+  },
+  {
+    "id": "Dropship_Turbine.TSMActive1.CAE1.Details",
+    "content": "更强的近战和更快的速度"
+  },
+  {
+    "id": "Dropship_Turbine.LAM_Afterburner_Turbine.CAE2.Details",
+    "content": "提供70稳定并且-20%受到的稳定伤害."
+  },
+  {
+    "id": "Dropship_Turbine.StatusEffect-JumpHeat.CAE3.Details",
+    "content": "这个跳跃推进器每格产热"
+  },
+  {
+    "id": "Dropship_Turbine.CockpitTSMHeat.CAE0.Name",
+    "content": "座舱TSM热量"
+  },
+  {
+    "id": "Dropship_Turbine.TSMActive1.CAE1.Name",
+    "content": "TSM激活!"
+  },
+  {
+    "id": "Dropship_Turbine.LAM_Afterburner_Turbine.CAE2.Name",
+    "content": "LAM加力涡轮"
+  },
+  {
+    "id": "Dropship_Turbine.StatusEffect-JumpHeat.CAE3.Name",
+    "content": "跳跃推进器热量"
+  },
+  {
+    "id": "Dropship_Turbine.StatusEffect-JumpHeat.CAE0.Details",
+    "content": "这个跳跃推进器每格产热"
+  },
+  {
+    "id": "Dropship_Turbine.StatusEffect-JumpHeat.CAE0.Name",
+    "content": "跳跃推进器热量"
+  },
+  {
+    "id": "LAM_FlightSystems_LT.Description.Details",
+    "content": "陆空机甲飞行系统基于涡轮和机翼."
+  },
+  {
+    "id": "LAM_FlightSystems_LT.Description.UIName",
+    "content": "LAM飞行系统"
+  },
+  {
+    "id": "LAM_FlightSystems_LT.Description.Name",
+    "content": "偏翼系统"
+  },
+  {
+    "id": "LAM_FlightSystems_LT.Description.Manufacturer",
+    "content": "固定槽位"
+  },
+  {
+    "id": "LAM_FlightSystems_LT.CockpitTSMHeat.CAE0.Details",
+    "content": "座舱TSM热量"
+  },
+  {
+    "id": "LAM_FlightSystems_LT.TSMActive1.CAE1.Details",
+    "content": "更强的近战和更快的速度"
+  },
+  {
+    "id": "LAM_FlightSystems_LT.LAM_Afterburner_Turbine.CAE2.Details",
+    "content": "提供70稳定并且-20%受到的稳定伤害."
+  },
+  {
+    "id": "LAM_FlightSystems_LT.StatusEffect-JumpHeat.CAE3.Details",
+    "content": "这个跳跃推进器每格产热"
+  },
+  {
+    "id": "LAM_FlightSystems_LT.CockpitTSMHeat.CAE0.Name",
+    "content": "座舱TSM热量"
+  },
+  {
+    "id": "LAM_FlightSystems_LT.TSMActive1.CAE1.Name",
+    "content": "TSM激活!"
+  },
+  {
+    "id": "LAM_FlightSystems_LT.LAM_Afterburner_Turbine.CAE2.Name",
+    "content": "LAM加力涡轮"
+  },
+  {
+    "id": "LAM_FlightSystems_LT.StatusEffect-JumpHeat.CAE3.Name",
+    "content": "跳跃推进器热量"
+  },
+  {
+    "id": "LAM_FlightSystems_LT.StatusEffect-JumpHeat.CAE0.Details",
+    "content": "这个跳跃推进器每格产热"
+  },
+  {
+    "id": "LAM_FlightSystems_LT.StatusEffect-JumpHeat.CAE0.Name",
+    "content": "跳跃推进器热量"
+  },
+  {
+    "id": "LAM_FlightSystems_RT.Description.Details",
+    "content": "陆空机甲飞行系统基于涡轮和机翼."
+  },
+  {
+    "id": "LAM_FlightSystems_RT.Description.UIName",
+    "content": "LAM飞行系统"
+  },
+  {
+    "id": "LAM_FlightSystems_RT.Description.Name",
+    "content": "LAM推进器系统"
+  },
+  {
+    "id": "LAM_FlightSystems_RT.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "LAM_FlightSystems_RT.CockpitTSMHeat.CAE0.Details",
+    "content": "座舱TSM热量"
+  },
+  {
+    "id": "LAM_FlightSystems_RT.TSMActive1.CAE1.Details",
+    "content": "更强的近战和更快的速度"
+  },
+  {
+    "id": "LAM_FlightSystems_RT.LAM_Afterburner_Turbine.CAE2.Details",
+    "content": "提供70稳定并且-20%受到的稳定伤害."
+  },
+  {
+    "id": "LAM_FlightSystems_RT.StatusEffect-JumpHeat.CAE3.Details",
+    "content": "这个跳跃推进器每格产热"
+  },
+  {
+    "id": "LAM_FlightSystems_RT.CockpitTSMHeat.CAE0.Name",
+    "content": "座舱TSM热量"
+  },
+  {
+    "id": "LAM_FlightSystems_RT.TSMActive1.CAE1.Name",
+    "content": "TSM激活!"
+  },
+  {
+    "id": "LAM_FlightSystems_RT.LAM_Afterburner_Turbine.CAE2.Name",
+    "content": "LAM加力涡轮"
+  },
+  {
+    "id": "LAM_FlightSystems_RT.StatusEffect-JumpHeat.CAE3.Name",
+    "content": "跳跃推进器热量"
+  },
+  {
+    "id": "LAM_FlightSystems_RT.StatusEffect-JumpHeat.CAE0.Details",
+    "content": "这个跳跃推进器每格产热"
+  },
+  {
+    "id": "LAM_FlightSystems_RT.StatusEffect-JumpHeat.CAE0.Name",
+    "content": "跳跃推进器热量"
+  },
+  {
+    "id": "LAM_Turbine.Description.Details",
+    "content": "LAM涡轮是一种专用的跳跃推进系统,能够提供VOTL上升所需要的推力,甚至在需要时能达到逃逸速度."
+  },
+  {
+    "id": "LAM_Turbine.Description.UIName",
+    "content": "LAM涡轮"
+  },
+  {
+    "id": "LAM_Turbine.Description.Name",
+    "content": "LAM涡轮"
+  },
+  {
+    "id": "LAM_Turbine.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "LAM_Turbine.CockpitTSMHeat.CAE0.Details",
+    "content": "座舱TSM热量"
+  },
+  {
+    "id": "LAM_Turbine.TSMActive1.CAE1.Details",
+    "content": "更强的近战和更快的速度"
+  },
+  {
+    "id": "LAM_Turbine.LAM_Afterburner_Turbine.CAE2.Details",
+    "content": "提供70稳定并且-20%受到的稳定伤害."
+  },
+  {
+    "id": "LAM_Turbine.StatusEffect-JumpHeat.CAE3.Details",
+    "content": "这个跳跃推进器每格产热"
+  },
+  {
+    "id": "LAM_Turbine.CockpitTSMHeat.CAE0.Name",
+    "content": "座舱TSM热量"
+  },
+  {
+    "id": "LAM_Turbine.TSMActive1.CAE1.Name",
+    "content": "TSM激活!"
+  },
+  {
+    "id": "LAM_Turbine.LAM_Afterburner_Turbine.CAE2.Name",
+    "content": "LAM加力涡轮"
+  },
+  {
+    "id": "LAM_Turbine.StatusEffect-JumpHeat.CAE3.Name",
+    "content": "跳跃推进器热量"
+  },
+  {
+    "id": "LAM_Turbine.StatusEffect-JumpHeat.CAE0.Details",
+    "content": "这个跳跃推进器每格产热"
+  },
+  {
+    "id": "LAM_Turbine.StatusEffect-JumpHeat.CAE0.Name",
+    "content": "跳跃推进器热量"
+  },
+  {
+    "id": "LAM_Turbine_Heavy.Description.Details",
+    "content": "LAM涡轮是一种专用的跳跃推进系统,能够提供VOTL上升所需要的推力,甚至在需要时能达到逃逸速度."
+  },
+  {
+    "id": "LAM_Turbine_Heavy.Description.UIName",
+    "content": "LAM涡轮(H)"
+  },
+  {
+    "id": "LAM_Turbine_Heavy.Description.Name",
+    "content": "LAM涡轮"
+  },
+  {
+    "id": "LAM_Turbine_Heavy.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "LAM_Turbine_Heavy.CockpitTSMHeat.CAE0.Details",
+    "content": "座舱TSM热量"
+  },
+  {
+    "id": "LAM_Turbine_Heavy.TSMActive1.CAE1.Details",
+    "content": "更强的近战和更快的速度"
+  },
+  {
+    "id": "LAM_Turbine_Heavy.LAM_Afterburner_Turbine.CAE2.Details",
+    "content": "提供70稳定并且-20%受到的稳定伤害."
+  },
+  {
+    "id": "LAM_Turbine_Heavy.StatusEffect-JumpHeat.CAE3.Details",
+    "content": "这个跳跃推进器每格产热"
+  },
+  {
+    "id": "LAM_Turbine_Heavy.CockpitTSMHeat.CAE0.Name",
+    "content": "座舱TSM热量"
+  },
+  {
+    "id": "LAM_Turbine_Heavy.TSMActive1.CAE1.Name",
+    "content": "TSM激活!"
+  },
+  {
+    "id": "LAM_Turbine_Heavy.LAM_Afterburner_Turbine.CAE2.Name",
+    "content": "LAM加力涡轮"
+  },
+  {
+    "id": "LAM_Turbine_Heavy.StatusEffect-JumpHeat.CAE3.Name",
+    "content": "跳跃推进器热量"
+  },
+  {
+    "id": "LAM_Turbine_Heavy.StatusEffect-JumpHeat.CAE0.Details",
+    "content": "这个跳跃推进器每格产热"
+  },
+  {
+    "id": "LAM_Turbine_Heavy.StatusEffect-JumpHeat.CAE0.Name",
+    "content": "跳跃推进器热量"
+  },
+  {
+    "id": "Ammunition_LAM_AGM.Description.Details",
+    "content": "远程导弹,能够在远距离上造成中等伤害.单发导弹缺乏攻击力,但如果一组导弹命中会造成大量伤害."
+  },
+  {
+    "id": "Ammunition_LAM_AGM.Description.UIName",
+    "content": "空对地导弹"
+  },
+  {
+    "id": "Ammunition_LAM_AGM.Description.Name",
+    "content": "空对地导弹(AGM)"
+  },
+  {
+    "id": "Ammunition_LAM_AGM_HE.Description.Details",
+    "content": "具有AOE伤害和雷场清理能力的高爆弹头,但是直接伤害低"
+  },
+  {
+    "id": "Ammunition_LAM_AGM_HE.Description.UIName",
+    "content": "群组"
+  },
+  {
+    "id": "Ammunition_LAM_AGM_HE.Description.Name",
+    "content": "集群空对地导弹(AGM)"
+  },
+  {
+    "id": "Ammunition_LAM_ArrowIV.Description.Details",
+    "content": "远程导弹,能够在远距离上造成中等伤害.单发导弹缺乏攻击力,但如果一组导弹命中会造成大量伤害."
+  },
+  {
+    "id": "Ammunition_LAM_ArrowIV.Description.UIName",
+    "content": "箭IV"
+  },
+  {
+    "id": "Ammunition_LAM_ArrowIV.Description.Name",
+    "content": "箭IV导弹"
+  },
+  {
+    "id": "Ammunition_LAM_FASCAM_Bomb.Description.Details",
+    "content": "为AC/20设计的巨大弹药,具有毁灭性的冲击力."
+  },
+  {
+    "id": "Ammunition_LAM_FASCAM_Bomb.Description.UIName",
+    "content": "FASCAM炸弹"
+  },
+  {
+    "id": "Ammunition_LAM_FASCAM_Bomb.Description.Name",
+    "content": "FASCAM炸弹"
+  },
+  {
+    "id": "Ammunition_LAM_Flare.Description.Details",
+    "content": "远程导弹,能够在远距离上造成中等伤害.单发导弹缺乏攻击力,但如果一组导弹命中会造成大量伤害."
+  },
+  {
+    "id": "Ammunition_LAM_Flare.Description.UIName",
+    "content": "AMS"
+  },
+  {
+    "id": "Ammunition_LAM_Flare.Description.Name",
+    "content": "热诱AMS"
+  },
+  {
+    "id": "Ammunition_LAM_HEBomb.Description.Details",
+    "content": "为AC/20设计的巨大弹药,具有毁灭性的冲击力."
+  },
+  {
+    "id": "Ammunition_LAM_HEBomb.Description.UIName",
+    "content": "高爆炸弹"
+  },
+  {
+    "id": "Ammunition_LAM_HEBomb.Description.Name",
+    "content": "高爆炸弹"
+  },
+  {
+    "id": "Ammunition_LAM_Hellfire.Description.Details",
+    "content": "远程导弹,能够在远距离上造成中等伤害.单发导弹缺乏攻击力,但如果一组导弹命中会造成大量伤害."
+  },
+  {
+    "id": "Ammunition_LAM_Hellfire.Description.UIName",
+    "content": "地狱火"
+  },
+  {
+    "id": "Ammunition_LAM_Hellfire.Description.Name",
+    "content": "地狱火导弹发射架"
+  },
+  {
+    "id": "Ammunition_LAM_InfernoBomb.Description.Details",
+    "content": "为AC/20设计的巨大弹药,具有毁灭性的冲击力."
+  },
+  {
+    "id": "Ammunition_LAM_InfernoBomb.Description.UIName",
+    "content": "炼狱"
+  },
+  {
+    "id": "Ammunition_LAM_InfernoBomb.Description.Name",
+    "content": "炼狱炸弹"
+  },
+  {
+    "id": "Ammunition_LAM_Phoenix.Description.Details",
+    "content": "远程导弹,能够在远距离上造成中等伤害.单发导弹缺乏攻击力,但如果一组导弹命中会造成大量伤害."
+  },
+  {
+    "id": "Ammunition_LAM_Phoenix.Description.UIName",
+    "content": "凤凰"
+  },
+  {
+    "id": "Ammunition_LAM_Phoenix.Description.Name",
+    "content": "凤凰迅捷导弹"
+  },
+  {
+    "id": "Ammunition_LAM_Vulcan.Description.Details",
+    "content": "远程导弹,能够在远距离上造成中等伤害.单发导弹缺乏攻击力,但如果一组导弹命中会造成大量伤害."
+  },
+  {
+    "id": "Ammunition_LAM_Vulcan.Description.UIName",
+    "content": "火神RAC"
+  },
+  {
+    "id": "Ammunition_LAM_Vulcan.Description.Name",
+    "content": "火神转轮加农炮"
+  },
+  {
+    "id": "Ammo_LAM_AGM.Description.Details",
+    "content": "通用空对地导弹"
+  },
+  {
+    "id": "Ammo_LAM_AGM.Description.UIName",
+    "content": "(HP)AGM"
+  },
+  {
+    "id": "Ammo_LAM_AGM.Description.Name",
+    "content": "空对地导弹(AGM)"
+  },
+  {
+    "id": "Ammo_LAM_AGM.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Ammo_LAM_AGM_HE.Description.Details",
+    "content": "装载有集群战斗部的空对地导弹"
+  },
+  {
+    "id": "Ammo_LAM_AGM_HE.Description.UIName",
+    "content": "(HP)集群战斗部"
+  },
+  {
+    "id": "Ammo_LAM_AGM_HE.Description.Name",
+    "content": "AGM集群战斗部"
+  },
+  {
+    "id": "Ammo_LAM_AGM_HE.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Ammo_LAM_ArrowIV.Description.Details",
+    "content": "一发箭IV导弹"
+  },
+  {
+    "id": "Ammo_LAM_ArrowIV.Description.UIName",
+    "content": "(HP)箭IV"
+  },
+  {
+    "id": "Ammo_LAM_ArrowIV.Description.Name",
+    "content": "箭IV导弹"
+  },
+  {
+    "id": "Ammo_LAM_ArrowIV.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Ammo_LAM_Bomb_FASCAM.Description.Details",
+    "content": "地面炮兵布雷(FASCAM)炸弹"
+  },
+  {
+    "id": "Ammo_LAM_Bomb_FASCAM.Description.UIName",
+    "content": "(HP)FASCAM炸弹"
+  },
+  {
+    "id": "Ammo_LAM_Bomb_FASCAM.Description.Name",
+    "content": "FASCAM炸弹"
+  },
+  {
+    "id": "Ammo_LAM_Bomb_FASCAM.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Ammo_LAM_Bomb_FASCAM_X2.Description.Details",
+    "content": "地面炮兵布雷(FASCAM)炸弹"
+  },
+  {
+    "id": "Ammo_LAM_Bomb_FASCAM_X2.Description.UIName",
+    "content": "(HP)FASCAM炸弹X2"
+  },
+  {
+    "id": "Ammo_LAM_Bomb_FASCAM_X2.Description.Name",
+    "content": "FASCAM炸弹"
+  },
+  {
+    "id": "Ammo_LAM_Bomb_FASCAM_X2.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Ammo_LAM_Bomb_FASCAM_X3.Description.Details",
+    "content": "地面炮兵布雷(FASCAM)炸弹"
+  },
+  {
+    "id": "Ammo_LAM_Bomb_FASCAM_X3.Description.UIName",
+    "content": "(HP)FASCAM炸弹X3"
+  },
+  {
+    "id": "Ammo_LAM_Bomb_FASCAM_X3.Description.Name",
+    "content": "FASCAM炸弹"
+  },
+  {
+    "id": "Ammo_LAM_Bomb_FASCAM_X3.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Ammo_LAM_Bomb_FASCAM_X4.Description.Details",
+    "content": "地面炮兵布雷(FASCAM)炸弹"
+  },
+  {
+    "id": "Ammo_LAM_Bomb_FASCAM_X4.Description.UIName",
+    "content": "(HP)FASCAM炸弹X4"
+  },
+  {
+    "id": "Ammo_LAM_Bomb_FASCAM_X4.Description.Name",
+    "content": "FASCAM炸弹"
+  },
+  {
+    "id": "Ammo_LAM_Bomb_FASCAM_X4.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Ammo_LAM_Bomb_HE.Description.Details",
+    "content": "一枚高爆炸弹"
+  },
+  {
+    "id": "Ammo_LAM_Bomb_HE.Description.UIName",
+    "content": "(HP)高爆炸弹"
+  },
+  {
+    "id": "Ammo_LAM_Bomb_HE.Description.Name",
+    "content": "高爆炸弹"
+  },
+  {
+    "id": "Ammo_LAM_Bomb_HE.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Ammo_LAM_Bomb_HE_X2.Description.Details",
+    "content": "一枚高爆炸弹"
+  },
+  {
+    "id": "Ammo_LAM_Bomb_HE_X2.Description.UIName",
+    "content": "(HP)高爆炸弹X2"
+  },
+  {
+    "id": "Ammo_LAM_Bomb_HE_X2.Description.Name",
+    "content": "高爆炸弹"
+  },
+  {
+    "id": "Ammo_LAM_Bomb_HE_X2.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Ammo_LAM_Bomb_HE_X3.Description.Details",
+    "content": "一枚高爆炸弹"
+  },
+  {
+    "id": "Ammo_LAM_Bomb_HE_X3.Description.UIName",
+    "content": "(HP)高爆炸弹X3"
+  },
+  {
+    "id": "Ammo_LAM_Bomb_HE_X3.Description.Name",
+    "content": "高爆炸弹"
+  },
+  {
+    "id": "Ammo_LAM_Bomb_HE_X3.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Ammo_LAM_Bomb_HE_X4.Description.Details",
+    "content": "一枚高爆炸弹"
+  },
+  {
+    "id": "Ammo_LAM_Bomb_HE_X4.Description.UIName",
+    "content": "(HP)高爆炸弹X4"
+  },
+  {
+    "id": "Ammo_LAM_Bomb_HE_X4.Description.Name",
+    "content": "高爆炸弹"
+  },
+  {
+    "id": "Ammo_LAM_Bomb_HE_X4.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Ammo_LAM_Bomb_Inferno.Description.Details",
+    "content": "一枚简易炼狱炸弹"
+  },
+  {
+    "id": "Ammo_LAM_Bomb_Inferno.Description.UIName",
+    "content": "(HP)炼狱炸弹"
+  },
+  {
+    "id": "Ammo_LAM_Bomb_Inferno.Description.Name",
+    "content": "炼狱炸弹"
+  },
+  {
+    "id": "Ammo_LAM_Bomb_Inferno.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Ammo_LAM_Bomb_Inferno_X2.Description.Details",
+    "content": "一枚简易炼狱炸弹"
+  },
+  {
+    "id": "Ammo_LAM_Bomb_Inferno_X2.Description.UIName",
+    "content": "(HP)炼狱炸弹X2"
+  },
+  {
+    "id": "Ammo_LAM_Bomb_Inferno_X2.Description.Name",
+    "content": "炼狱炸弹"
+  },
+  {
+    "id": "Ammo_LAM_Bomb_Inferno_X2.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Ammo_LAM_Bomb_Inferno_X3.Description.Details",
+    "content": "一枚简易炼狱炸弹"
+  },
+  {
+    "id": "Ammo_LAM_Bomb_Inferno_X3.Description.UIName",
+    "content": "(HP)炼狱炸弹X3"
+  },
+  {
+    "id": "Ammo_LAM_Bomb_Inferno_X3.Description.Name",
+    "content": "炼狱炸弹"
+  },
+  {
+    "id": "Ammo_LAM_Bomb_Inferno_X3.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Ammo_LAM_Bomb_Inferno_X4.Description.Details",
+    "content": "一枚简易炼狱炸弹"
+  },
+  {
+    "id": "Ammo_LAM_Bomb_Inferno_X4.Description.UIName",
+    "content": "(HP)炼狱炸弹X4"
+  },
+  {
+    "id": "Ammo_LAM_Bomb_Inferno_X4.Description.Name",
+    "content": "炼狱炸弹"
+  },
+  {
+    "id": "Ammo_LAM_Bomb_Inferno_X4.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Ammo_LAM_Flare.Description.Details",
+    "content": "带有自动发射装置的热诱弹"
+  },
+  {
+    "id": "Ammo_LAM_Flare.Description.UIName",
+    "content": "(HP)热诱AMS"
+  },
+  {
+    "id": "Ammo_LAM_Flare.Description.Name",
+    "content": "双重热诱弹"
+  },
+  {
+    "id": "Ammo_LAM_Flare.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Ammo_LAM_Hellfire.Description.Details",
+    "content": "一包自制导导弹"
+  },
+  {
+    "id": "Ammo_LAM_Hellfire.Description.UIName",
+    "content": "(HP)地狱火"
+  },
+  {
+    "id": "Ammo_LAM_Hellfire.Description.Name",
+    "content": "地狱火导弹包"
+  },
+  {
+    "id": "Ammo_LAM_Hellfire.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Ammo_LAM_Phoenix.Description.Details",
+    "content": "'凤凰'是一种先进制导导弹系统,需要完全锁定才能开火"
+  },
+  {
+    "id": "Ammo_LAM_Phoenix.Description.UIName",
+    "content": "(HP)凤凰"
+  },
+  {
+    "id": "Ammo_LAM_Phoenix.Description.Name",
+    "content": "凤凰迅捷导弹"
+  },
+  {
+    "id": "Ammo_LAM_Phoenix.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Ammo_LAM_Vulcan.Description.Details",
+    "content": "'火神'转轮加农炮.对坦克和战斗装甲提供近距离空中支援"
+  },
+  {
+    "id": "Ammo_LAM_Vulcan.Description.UIName",
+    "content": "(HP)火神"
+  },
+  {
+    "id": "Ammo_LAM_Vulcan.Description.Name",
+    "content": "火神加农炮"
+  },
+  {
+    "id": "Ammo_LAM_Vulcan.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Ammo_VTOL_Bomb_HE_AmmoBox.Description.Details",
+    "content": "一箱在安装在内部弹舱拥有弹箱供弹的高爆空投炸弹."
+  },
+  {
+    "id": "Ammo_VTOL_Bomb_HE_AmmoBox.Description.UIName",
+    "content": "高爆炸弹"
+  },
+  {
+    "id": "Ammo_VTOL_Bomb_HE_AmmoBox.Description.Name",
+    "content": "高爆炸弹"
+  },
+  {
+    "id": "Ammo_VTOL_Bomb_HE_AmmoBox.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "LAM_BAWingmount.Description.Details",
+    "content": "一个专门设计的机翼挂载点,可以让LAM在有效保护的内部舱室中携带战斗装甲(BA)快速进入战斗."
+  },
+  {
+    "id": "LAM_BAWingmount.Description.UIName",
+    "content": "LAM BA机翼挂载点"
+  },
+  {
+    "id": "LAM_BAWingmount.Description.Name",
+    "content": "LAM BA机翼挂载点"
+  },
+  {
+    "id": "LAM_BAWingmount.Description.Manufacturer",
+    "content": "星联防卫部队"
+  },
+  {
+    "id": "LAM_WeaponsBay.Description.Details",
+    "content": "一个内部存储和运输舱,专门被设计以使LAM运输额外货物,如挂载的弹药和手持武器"
+  },
+  {
+    "id": "LAM_WeaponsBay.Description.UIName",
+    "content": "LAM武器舱"
+  },
+  {
+    "id": "LAM_WeaponsBay.Description.Name",
+    "content": "LAM武器舱"
+  },
+  {
+    "id": "LAM_WeaponsBay.Description.Manufacturer",
+    "content": "星联防卫部队"
+  },
+  {
+    "id": "Special_LandAirMech_Active.Description.Details",
+    "content": "陆空机甲(LAM)最初构想于星联时代,是一种能够在地面机甲和航空战斗机间转换的混合型军事单位.这种能力以动力和防护为代价,获得了极大的速度和灵活性."
+  },
+  {
+    "id": "Special_LandAirMech_Active.Description.UIName",
+    "content": "陆空机甲"
+  },
+  {
+    "id": "Special_LandAirMech_Active.Description.Name",
+    "content": "陆空机甲"
+  },
+  {
+    "id": "Special_LandAirMech_Active.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Special_LandAirMech_Active.StatusEffect-LAM-AirMech-Mode.CAE0.Details",
+    "content": "空中机甲模式"
+  },
+  {
+    "id": "Special_LandAirMech_Active.StatusEffect-LAM-AirMech-NoRandomAnim.CAE1.Details",
+    "content": "空中机甲模式"
+  },
+  {
+    "id": "Special_LandAirMech_Active.StatusEffect-LAM-AirMech-NoRandomAnim.CAE2.Details",
+    "content": "空中机甲模式"
+  },
+  {
+    "id": "Special_LandAirMech_Active.StatusEffect-LAM-AirMech-Landmines.CAE3.Details",
+    "content": "空中机甲模式"
+  },
+  {
+    "id": "Special_LandAirMech_Active.StatusEffect-LAM-AirMech-Pathing.CAE4.Details",
+    "content": "空中机甲模式"
+  },
+  {
+    "id": "Special_LandAirMech_Active.StatusEffect-LAM-AirMech-Terrain.CAE5.Details",
+    "content": "空中机甲模式"
+  },
+  {
+    "id": "Special_LandAirMech_Active.StatusEffect-LAM-AirMech-AllowPartial.CAE6.Details",
+    "content": "空中机甲模式"
+  },
+  {
+    "id": "Special_LandAirMech_Active.StatusEffect-LAM-AirMech-FiringArc.CAE7.Details",
+    "content": "空中机甲模式"
+  },
+  {
+    "id": "Special_LandAirMech_Active.LAM_Afterburner_Base.CAE8.Details",
+    "content": "提供70稳定并且-20%受到的稳定伤害."
+  },
+  {
+    "id": "Special_LandAirMech_Active.LAM_STAB_PENALTY.CAE9.Details",
+    "content": "-[AMT] 即将到来的稳定伤害"
+  },
+  {
+    "id": "Special_LandAirMech_Active.LAM_STAB_PENALTY_Threshold.CAE10.Details",
+    "content": "提供70稳定并且-20%受到的稳定伤害."
+  },
+  {
+    "id": "Special_LandAirMech_Active.LAM_STAB_PENALTY_Max.CAE11.Details",
+    "content": "提供70稳定并且-20%受到的稳定伤害."
+  },
+  {
+    "id": "Special_LandAirMech_Active.MaxEvasion.CAE12.Details",
+    "content": "该单位从移动中获得额外的闪避(直到最大值)."
+  },
+  {
+    "id": "Special_LandAirMech_Active.StatusEffect-LAM-AirMech-Mode.CAE0.Name",
+    "content": "空中机甲模式"
+  },
+  {
+    "id": "Special_LandAirMech_Active.StatusEffect-LAM-AirMech-NoRandomAnim.CAE1.Name",
+    "content": "空中机甲模式"
+  },
+  {
+    "id": "Special_LandAirMech_Active.StatusEffect-LAM-AirMech-NoRandomAnim.CAE2.Name",
+    "content": "空中机甲模式"
+  },
+  {
+    "id": "Special_LandAirMech_Active.StatusEffect-LAM-AirMech-Landmines.CAE3.Name",
+    "content": "空中机甲模式"
+  },
+  {
+    "id": "Special_LandAirMech_Active.StatusEffect-LAM-AirMech-Pathing.CAE4.Name",
+    "content": "空中机甲模式"
+  },
+  {
+    "id": "Special_LandAirMech_Active.StatusEffect-LAM-AirMech-Terrain.CAE5.Name",
+    "content": "空中机甲模式"
+  },
+  {
+    "id": "Special_LandAirMech_Active.StatusEffect-LAM-AirMech-AllowPartial.CAE6.Name",
+    "content": "空中机甲模式"
+  },
+  {
+    "id": "Special_LandAirMech_Active.StatusEffect-LAM-AirMech-FiringArc.CAE7.Name",
+    "content": "空中机甲模式"
+  },
+  {
+    "id": "Special_LandAirMech_Active.LAM_Afterburner_Base.CAE8.Name",
+    "content": "陆空机甲基础加力燃烧室"
+  },
+  {
+    "id": "Special_LandAirMech_Active.LAM_STAB_PENALTY.CAE9.Name",
+    "content": "陆空机甲稳定惩罚"
+  },
+  {
+    "id": "Special_LandAirMech_Active.LAM_STAB_PENALTY_Threshold.CAE10.Name",
+    "content": "陆空机甲稳定阈值惩罚"
+  },
+  {
+    "id": "Special_LandAirMech_Active.LAM_STAB_PENALTY_Max.CAE11.Name",
+    "content": "陆空机甲最大稳定惩罚"
+  },
+  {
+    "id": "Special_LandAirMech_Active.MaxEvasion.CAE12.Name",
+    "content": "闪避机动"
+  },
+  {
+    "id": "Special_LandAirMech_Disabled.Description.Details",
+    "content": "陆空机甲(LAM)最初构想于星联时代,是一种能够在地面机甲和航空战斗机间转换的混合型军事单位.这种能力以动力和防护为代价,获得了极大的速度和灵活性."
+  },
+  {
+    "id": "Special_LandAirMech_Disabled.Description.UIName",
+    "content": "陆空机甲"
+  },
+  {
+    "id": "Special_LandAirMech_Disabled.Description.Name",
+    "content": "陆空机甲"
+  },
+  {
+    "id": "Special_LandAirMech_Disabled.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Special_LandAirMech_Disabled.StatusEffect-LAM-AirMech-Mode.CAE0.Details",
+    "content": "空中机甲模式"
+  },
+  {
+    "id": "Special_LandAirMech_Disabled.StatusEffect-LAM-AirMech-NoRandomAnim.CAE1.Details",
+    "content": "空中机甲模式"
+  },
+  {
+    "id": "Special_LandAirMech_Disabled.StatusEffect-LAM-AirMech-NoRandomAnim.CAE2.Details",
+    "content": "空中机甲模式"
+  },
+  {
+    "id": "Special_LandAirMech_Disabled.StatusEffect-LAM-AirMech-Landmines.CAE3.Details",
+    "content": "空中机甲模式"
+  },
+  {
+    "id": "Special_LandAirMech_Disabled.StatusEffect-LAM-AirMech-Pathing.CAE4.Details",
+    "content": "空中机甲模式"
+  },
+  {
+    "id": "Special_LandAirMech_Disabled.StatusEffect-LAM-AirMech-Terrain.CAE5.Details",
+    "content": "空中机甲模式"
+  },
+  {
+    "id": "Special_LandAirMech_Disabled.StatusEffect-LAM-AirMech-AllowPartial.CAE6.Details",
+    "content": "空中机甲模式"
+  },
+  {
+    "id": "Special_LandAirMech_Disabled.StatusEffect-LAM-AirMech-FiringArc.CAE7.Details",
+    "content": "空中机甲模式"
+  },
+  {
+    "id": "Special_LandAirMech_Disabled.LAM_Afterburner_Base.CAE8.Details",
+    "content": "提供70稳定并且-20%受到的稳定伤害."
+  },
+  {
+    "id": "Special_LandAirMech_Disabled.LAM_STAB_PENALTY.CAE9.Details",
+    "content": "-[AMT] 即将到来的稳定伤害"
+  },
+  {
+    "id": "Special_LandAirMech_Disabled.LAM_STAB_PENALTY_Threshold.CAE10.Details",
+    "content": "提供70稳定并且-20%受到的稳定伤害."
+  },
+  {
+    "id": "Special_LandAirMech_Disabled.LAM_STAB_PENALTY_Max.CAE11.Details",
+    "content": "提供70稳定并且-20%受到的稳定伤害."
+  },
+  {
+    "id": "Special_LandAirMech_Disabled.MaxEvasion.CAE12.Details",
+    "content": "该单位从移动中获得额外的闪避(直到最大值)."
+  },
+  {
+    "id": "Special_LandAirMech_Disabled.StatusEffect-LAM-AirMech-Mode.CAE0.Name",
+    "content": "空中机甲模式"
+  },
+  {
+    "id": "Special_LandAirMech_Disabled.StatusEffect-LAM-AirMech-NoRandomAnim.CAE1.Name",
+    "content": "空中机甲模式"
+  },
+  {
+    "id": "Special_LandAirMech_Disabled.StatusEffect-LAM-AirMech-NoRandomAnim.CAE2.Name",
+    "content": "空中机甲模式"
+  },
+  {
+    "id": "Special_LandAirMech_Disabled.StatusEffect-LAM-AirMech-Landmines.CAE3.Name",
+    "content": "空中机甲模式"
+  },
+  {
+    "id": "Special_LandAirMech_Disabled.StatusEffect-LAM-AirMech-Pathing.CAE4.Name",
+    "content": "空中机甲模式"
+  },
+  {
+    "id": "Special_LandAirMech_Disabled.StatusEffect-LAM-AirMech-Terrain.CAE5.Name",
+    "content": "空中机甲模式"
+  },
+  {
+    "id": "Special_LandAirMech_Disabled.StatusEffect-LAM-AirMech-AllowPartial.CAE6.Name",
+    "content": "空中机甲模式"
+  },
+  {
+    "id": "Special_LandAirMech_Disabled.StatusEffect-LAM-AirMech-FiringArc.CAE7.Name",
+    "content": "空中机甲模式"
+  },
+  {
+    "id": "Special_LandAirMech_Disabled.LAM_Afterburner_Base.CAE8.Name",
+    "content": "陆空机甲基础加力燃烧室"
+  },
+  {
+    "id": "Special_LandAirMech_Disabled.LAM_STAB_PENALTY.CAE9.Name",
+    "content": "陆空机甲稳定惩罚"
+  },
+  {
+    "id": "Special_LandAirMech_Disabled.LAM_STAB_PENALTY_Threshold.CAE10.Name",
+    "content": "陆空机甲稳定阈值惩罚"
+  },
+  {
+    "id": "Special_LandAirMech_Disabled.LAM_STAB_PENALTY_Max.CAE11.Name",
+    "content": "陆空机甲最大稳定惩罚"
+  },
+  {
+    "id": "Special_LandAirMech_Disabled.MaxEvasion.CAE12.Name",
+    "content": "闪避机动"
+  },
+  {
+    "id": "LAM_Structure_Composite.Description.Details",
+    "content": "布莱克之道的发明,结合先进的复合材料和内构钢研究的进展,他们成功为他们的天狼星陆空机甲开发了更轻的模式转换设备."
+  },
+  {
+    "id": "LAM_Structure_Composite.Description.UIName",
+    "content": "LAM复合结构"
+  },
+  {
+    "id": "LAM_Structure_Composite.Description.Name",
+    "content": "陆空机甲转换设备"
+  },
+  {
+    "id": "LAM_Structure_Composite.Description.Manufacturer",
+    "content": "布莱克之道"
+  },
+  {
+    "id": "LAM_Structure_Default.Description.Details",
+    "content": "陆空机甲需要一个专门的内部结构来容纳他们笨重的转换设备,这使得他们与任何其他结构都不兼容."
+  },
+  {
+    "id": "LAM_Structure_Default.Description.UIName",
+    "content": "LAM结构"
+  },
+  {
+    "id": "LAM_Structure_Default.Description.Name",
+    "content": "陆空机甲转换设备"
+  },
+  {
+    "id": "LAM_Structure_Default.Description.Manufacturer",
+    "content": "盟军航空航天"
+  },
+  {
+    "id": "LAM_Structure_EndoSteel.Description.Details",
+    "content": "星联试图使用内构钢来制作LAM结构,生产出更轻的转换系统,但体积要大很多"
+  },
+  {
+    "id": "LAM_Structure_EndoSteel.Description.UIName",
+    "content": "LAM内构钢"
+  },
+  {
+    "id": "LAM_Structure_EndoSteel.Description.Name",
+    "content": "陆空机甲转换设备"
+  },
+  {
+    "id": "LAM_Structure_EndoSteel.Description.Manufacturer",
+    "content": "盟军航空航天"
+  },
+  {
+    "id": "LAM_Structure_TSM.Description.Details",
+    "content": "布莱克之道的的科学家尝试创造出一种与LAM兼容的TSM,虽然它们不能提供移动优势,但很小."
+  },
+  {
+    "id": "LAM_Structure_TSM.Description.UIName",
+    "content": "LAM内构-TSM"
+  },
+  {
+    "id": "LAM_Structure_TSM.Description.Name",
+    "content": "三倍强化人工肌肉"
+  },
+  {
+    "id": "LAM_Structure_TSM.Description.Manufacturer",
+    "content": "布莱克之道"
+  },
+  {
+    "id": "LAM_Structure_TSM.TSM_Damage_Weapon.CAE0.Details",
+    "content": "伤害修正"
+  },
+  {
+    "id": "LAM_Structure_TSM.TSM_Stability_Weapon.CAE1.Details",
+    "content": "伤害修正"
+  },
+  {
+    "id": "LAM_Structure_TSM.TSM_Damage_Punch.CAE2.Details",
+    "content": "伤害修正"
+  },
+  {
+    "id": "LAM_Structure_TSM.TSM_Stability_Punch.CAE3.Details",
+    "content": "伤害修正"
+  },
+  {
+    "id": "LAM_Structure_TSM.TSM_Damage_Kick.CAE4.Details",
+    "content": "伤害修正"
+  },
+  {
+    "id": "LAM_Structure_TSM.TSM_Stability_Kick.CAE5.Details",
+    "content": "伤害修正"
+  },
+  {
+    "id": "LAM_Structure_TSM.TSM_Damage_Weapon.CAE0.Name",
+    "content": "近战武器伤害模块"
+  },
+  {
+    "id": "LAM_Structure_TSM.TSM_Stability_Weapon.CAE1.Name",
+    "content": "近战武器伤害模块"
+  },
+  {
+    "id": "LAM_Structure_TSM.TSM_Damage_Punch.CAE2.Name",
+    "content": "近战武器伤害模块"
+  },
+  {
+    "id": "LAM_Structure_TSM.TSM_Stability_Punch.CAE3.Name",
+    "content": "近战武器伤害模块"
+  },
+  {
+    "id": "LAM_Structure_TSM.TSM_Damage_Kick.CAE4.Name",
+    "content": "近战武器伤害模块"
+  },
+  {
+    "id": "LAM_Structure_TSM.TSM_Stability_Kick.CAE5.Name",
+    "content": "近战武器伤害模块"
+  }
+]

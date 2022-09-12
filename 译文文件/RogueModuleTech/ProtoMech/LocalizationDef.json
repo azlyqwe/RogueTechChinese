@@ -1,0 +1,2226 @@
+[
+  {
+    "id": "Proto_Core_CU_10.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\n聚变引擎根据其<b>引擎额定功率</b>区分.对于机甲来说,引擎额定功率是其重量和最大步行或巡航速度的数学乘积."
+  },
+  {
+    "id": "Proto_Core_CU_10.Description.UIName",
+    "content": "原人机甲核心010 x5"
+  },
+  {
+    "id": "Proto_Core_CU_10.Description.Name",
+    "content": "引擎核心010 X5"
+  },
+  {
+    "id": "Proto_Core_CU_10.Description.Manufacturer",
+    "content": "GM"
+  },
+  {
+    "id": "Proto_Core_CU_100.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\n聚变引擎根据其<b>引擎额定功率</b>区分.对于机甲来说,引擎额定功率是其重量和最大步行或巡航速度的数学乘积."
+  },
+  {
+    "id": "Proto_Core_CU_100.Description.UIName",
+    "content": "原人机甲核心100 x5"
+  },
+  {
+    "id": "Proto_Core_CU_100.Description.Name",
+    "content": "引擎核心100 X5"
+  },
+  {
+    "id": "Proto_Core_CU_100.Description.Manufacturer",
+    "content": "GM"
+  },
+  {
+    "id": "Proto_Core_CU_12.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\n聚变引擎根据其<b>引擎额定功率</b>区分.对于机甲来说,引擎额定功率是其重量和最大步行或巡航速度的数学乘积."
+  },
+  {
+    "id": "Proto_Core_CU_12.Description.UIName",
+    "content": "原人机甲核心012 x5"
+  },
+  {
+    "id": "Proto_Core_CU_12.Description.Name",
+    "content": "引擎核心012 X5"
+  },
+  {
+    "id": "Proto_Core_CU_12.Description.Manufacturer",
+    "content": "GM"
+  },
+  {
+    "id": "Proto_Core_CU_16.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\n聚变引擎根据其<b>引擎额定功率</b>区分.对于机甲来说,引擎额定功率是其重量和最大步行或巡航速度的数学乘积."
+  },
+  {
+    "id": "Proto_Core_CU_16.Description.UIName",
+    "content": "原人机甲核心016 x5"
+  },
+  {
+    "id": "Proto_Core_CU_16.Description.Name",
+    "content": "引擎核心016 X5"
+  },
+  {
+    "id": "Proto_Core_CU_16.Description.Manufacturer",
+    "content": "GM"
+  },
+  {
+    "id": "Proto_Core_CU_33.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\n聚变引擎根据其<b>引擎额定功率</b>区分.对于机甲来说,引擎额定功率是其重量和最大步行或巡航速度的数学乘积."
+  },
+  {
+    "id": "Proto_Core_CU_33.Description.UIName",
+    "content": "原人机甲核心033 x5"
+  },
+  {
+    "id": "Proto_Core_CU_33.Description.Name",
+    "content": "引擎核心033 X5"
+  },
+  {
+    "id": "Proto_Core_CU_33.Description.Manufacturer",
+    "content": "GM"
+  },
+  {
+    "id": "Proto_Core_CU_36.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\n聚变引擎根据其<b>引擎额定功率</b>区分.对于机甲来说,引擎额定功率是其重量和最大步行或巡航速度的数学乘积."
+  },
+  {
+    "id": "Proto_Core_CU_36.Description.UIName",
+    "content": "原人机甲核心036 x5"
+  },
+  {
+    "id": "Proto_Core_CU_36.Description.Name",
+    "content": "引擎核心036 X5"
+  },
+  {
+    "id": "Proto_Core_CU_36.Description.Manufacturer",
+    "content": "GM"
+  },
+  {
+    "id": "Proto_Core_CU_40.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\n聚变引擎根据其<b>引擎额定功率</b>区分.对于机甲来说,引擎额定功率是其重量和最大步行或巡航速度的数学乘积."
+  },
+  {
+    "id": "Proto_Core_CU_40.Description.UIName",
+    "content": "原人机甲核心040 x5"
+  },
+  {
+    "id": "Proto_Core_CU_40.Description.Name",
+    "content": "引擎核心045 X0"
+  },
+  {
+    "id": "Proto_Core_CU_40.Description.Manufacturer",
+    "content": "GM"
+  },
+  {
+    "id": "Proto_Core_CU_45.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\n聚变引擎根据其<b>引擎额定功率</b>区分.对于机甲来说,引擎额定功率是其重量和最大步行或巡航速度的数学乘积."
+  },
+  {
+    "id": "Proto_Core_CU_45.Description.UIName",
+    "content": "原人机甲核心045 x5"
+  },
+  {
+    "id": "Proto_Core_CU_45.Description.Name",
+    "content": "引擎核心045 X5"
+  },
+  {
+    "id": "Proto_Core_CU_45.Description.Manufacturer",
+    "content": "GM"
+  },
+  {
+    "id": "Proto_Core_CU_50.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\n聚变引擎根据其<b>引擎额定功率</b>区分.对于机甲来说,引擎额定功率是其重量和最大步行或巡航速度的数学乘积."
+  },
+  {
+    "id": "Proto_Core_CU_50.Description.UIName",
+    "content": "原人机甲核心050 x5"
+  },
+  {
+    "id": "Proto_Core_CU_50.Description.Name",
+    "content": "引擎核心050 X5"
+  },
+  {
+    "id": "Proto_Core_CU_50.Description.Manufacturer",
+    "content": "GM"
+  },
+  {
+    "id": "Proto_Core_CU_55.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\n聚变引擎根据其<b>引擎额定功率</b>区分.对于机甲来说,引擎额定功率是其重量和最大步行或巡航速度的数学乘积."
+  },
+  {
+    "id": "Proto_Core_CU_55.Description.UIName",
+    "content": "原人机甲核心055 x5"
+  },
+  {
+    "id": "Proto_Core_CU_55.Description.Name",
+    "content": "引擎核心055 X5"
+  },
+  {
+    "id": "Proto_Core_CU_55.Description.Manufacturer",
+    "content": "GM"
+  },
+  {
+    "id": "Proto_Core_CU_60.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\n聚变引擎根据其<b>引擎额定功率</b>区分.对于机甲来说,引擎额定功率是其重量和最大步行或巡航速度的数学乘积."
+  },
+  {
+    "id": "Proto_Core_CU_60.Description.UIName",
+    "content": "原人机甲核心060 x5"
+  },
+  {
+    "id": "Proto_Core_CU_60.Description.Name",
+    "content": "引擎核心060 X5"
+  },
+  {
+    "id": "Proto_Core_CU_60.Description.Manufacturer",
+    "content": "GM"
+  },
+  {
+    "id": "Proto_Core_CU_65.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\n聚变引擎根据其<b>引擎额定功率</b>区分.对于机甲来说,引擎额定功率是其重量和最大步行或巡航速度的数学乘积."
+  },
+  {
+    "id": "Proto_Core_CU_65.Description.UIName",
+    "content": "原人机甲核心065 x5"
+  },
+  {
+    "id": "Proto_Core_CU_65.Description.Name",
+    "content": "引擎核心065 X5"
+  },
+  {
+    "id": "Proto_Core_CU_65.Description.Manufacturer",
+    "content": "GM"
+  },
+  {
+    "id": "Proto_Core_CU_70.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\n聚变引擎根据其<b>引擎额定功率</b>区分.对于机甲来说,引擎额定功率是其重量和最大步行或巡航速度的数学乘积."
+  },
+  {
+    "id": "Proto_Core_CU_70.Description.UIName",
+    "content": "原人机甲核心070 x5"
+  },
+  {
+    "id": "Proto_Core_CU_70.Description.Name",
+    "content": "引擎核心070 X5"
+  },
+  {
+    "id": "Proto_Core_CU_70.Description.Manufacturer",
+    "content": "GM"
+  },
+  {
+    "id": "Proto_Core_CU_75.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\n聚变引擎根据其<b>引擎额定功率</b>区分.对于机甲来说,引擎额定功率是其重量和最大步行或巡航速度的数学乘积."
+  },
+  {
+    "id": "Proto_Core_CU_75.Description.UIName",
+    "content": "原人机甲核心075 x5"
+  },
+  {
+    "id": "Proto_Core_CU_75.Description.Name",
+    "content": "引擎核心075 X5"
+  },
+  {
+    "id": "Proto_Core_CU_75.Description.Manufacturer",
+    "content": "GM"
+  },
+  {
+    "id": "Proto_Core_CU_80.Description.Details",
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\n聚变引擎根据其<b>引擎额定功率</b>区分.对于机甲来说,引擎额定功率是其重量和最大步行或巡航速度的数学乘积."
+  },
+  {
+    "id": "Proto_Core_CU_80.Description.UIName",
+    "content": "原人机甲核心080 x5"
+  },
+  {
+    "id": "Proto_Core_CU_80.Description.Name",
+    "content": "引擎核心080 X5"
+  },
+  {
+    "id": "Proto_Core_CU_80.Description.Manufacturer",
+    "content": "GM"
+  },
+  {
+    "id": "Proto_Systems.Description.Details",
+    "content": "原人机甲在2到15吨之间,高度在4到6米之间,座舱安装在上胸部.拥有核聚变引擎,它们可以比战斗装甲移动得快得多,但比战斗机甲更紧凑.这些机器经常5个单位协调工作,像战斗机甲一样有效,而且只需要不到一半的构建资源."
+  },
+  {
+    "id": "Proto_Systems.Description.UIName",
+    "content": "原人系统"
+  },
+  {
+    "id": "Proto_Systems.Description.Name",
+    "content": "原人机甲"
+  },
+  {
+    "id": "Proto_Systems.Description.Manufacturer",
+    "content": "弗拉尔"
+  },
+  {
+    "id": "Proto_Controls.Description.Details",
+    "content": "所有的机甲都装备了可以通过升级来提升表现的座舱."
+  },
+  {
+    "id": "Proto_Controls.Description.UIName",
+    "content": "原人机甲座舱"
+  },
+  {
+    "id": "Proto_Controls.Description.Name",
+    "content": "原人座舱"
+  },
+  {
+    "id": "Proto_Controls.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Proto_Controls.HeadShotDamageImmunity.statusEffects0.Details",
+    "content": "头部被命中时,驾驶员不再受伤"
+  },
+  {
+    "id": "Proto_Controls.GyroGenericThreshhold.statusEffects1.Details",
+    "content": "陀螺仪有助于机甲稳定重心"
+  },
+  {
+    "id": "Proto_Controls.PowerArmorEject.statusEffects2.Details",
+    "content": "被动:使用单武器攻击时忽略目标的遮蔽和守备状态."
+  },
+  {
+    "id": "Proto_Controls.HeadShotDamageImmunity.statusEffects0.Name",
+    "content": "免疫"
+  },
+  {
+    "id": "Proto_Controls.GyroGenericThreshhold.statusEffects1.Name",
+    "content": "陀螺仪稳定器"
+  },
+  {
+    "id": "Proto_Controls.PowerArmorEject.statusEffects2.Name",
+    "content": "没有弹射"
+  },
+  {
+    "id": "Proto_Controls_UltraHeavy.Description.Details",
+    "content": "所有的机甲都装备了可以通过升级来提升表现的座舱."
+  },
+  {
+    "id": "Proto_Controls_UltraHeavy.Description.UIName",
+    "content": "原人机甲座舱"
+  },
+  {
+    "id": "Proto_Controls_UltraHeavy.Description.Name",
+    "content": "原人座舱"
+  },
+  {
+    "id": "Proto_Controls_UltraHeavy.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Proto_Controls_UltraHeavy.HeadShotDamageImmunity.statusEffects0.Details",
+    "content": "头部被命中时,驾驶员不再受伤"
+  },
+  {
+    "id": "Proto_Controls_UltraHeavy.GyroGenericThreshhold.statusEffects1.Details",
+    "content": "陀螺仪有助于机甲稳定重心"
+  },
+  {
+    "id": "Proto_Controls_UltraHeavy.PowerArmorEject.statusEffects2.Details",
+    "content": "被动:使用单武器攻击时忽略目标的遮蔽和守备状态."
+  },
+  {
+    "id": "Proto_Controls_UltraHeavy.HeadShotDamageImmunity.statusEffects0.Name",
+    "content": "免疫"
+  },
+  {
+    "id": "Proto_Controls_UltraHeavy.GyroGenericThreshhold.statusEffects1.Name",
+    "content": "陀螺仪稳定器"
+  },
+  {
+    "id": "Proto_Controls_UltraHeavy.PowerArmorEject.statusEffects2.Name",
+    "content": "没有弹射"
+  },
+  {
+    "id": "Proto_General.Description.Details",
+    "content": "直到氏族科学家开发了增强成像(EI)系统原技机甲术概念才成为可行的概念.EI控制系统奠定了烟虎氏族科学家控制原人机甲所需的基础.给驾驶员直接神经控制的能力消除了对陀螺仪和全尺寸座舱的需求.这给了驾驶员在躯干上骑行的空间,同时也给武器留出了足够的空间."
+  },
+  {
+    "id": "Proto_General.Description.UIName",
+    "content": "原人机甲控制"
+  },
+  {
+    "id": "Proto_General.Description.Name",
+    "content": "原人控制"
+  },
+  {
+    "id": "Proto_General.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Proto_General.InterFaceMoveAfterShoot.statusEffects0.Details",
+    "content": "该单位在射击前后都可以移动."
+  },
+  {
+    "id": "Proto_General.NightVision.statusEffects1.Details",
+    "content": "被动:开启夜视"
+  },
+  {
+    "id": "Proto_General.TCRecoil.statusEffects2.Details",
+    "content": "精确射击双倍可靠"
+  },
+  {
+    "id": "Proto_General.TCCALLSHOT.statusEffects3.Details",
+    "content": "精确射击双倍可靠"
+  },
+  {
+    "id": "Proto_General.CockpitInitativeEffect.statusEffects4.Details",
+    "content": "+1主动性和其他一些增益"
+  },
+  {
+    "id": "Proto_General.MaxEvasion.statusEffects5.Details",
+    "content": "该单位从移动中获得额外的闪避(直到最大值)."
+  },
+  {
+    "id": "Proto_General.TC-TO-HIT.statusEffects6.Details",
+    "content": "突破射击, 提高精度/后座"
+  },
+  {
+    "id": "Proto_General.GainEvasion.statusEffects7.Details",
+    "content": "该单位从移动中获得额外的闪避(直到最大值)."
+  },
+  {
+    "id": "Proto_General.InterFaceMoveAfterShoot.statusEffects0.Name",
+    "content": "王牌驾驶员"
+  },
+  {
+    "id": "Proto_General.NightVision.statusEffects1.Name",
+    "content": "夜视模式"
+  },
+  {
+    "id": "Proto_General.TCRecoil.statusEffects2.Name",
+    "content": "提升精确射击"
+  },
+  {
+    "id": "Proto_General.TCCALLSHOT.statusEffects3.Name",
+    "content": "提升精确射击"
+  },
+  {
+    "id": "Proto_General.CockpitInitativeEffect.statusEffects4.Name",
+    "content": "驾驶舱技术奖励"
+  },
+  {
+    "id": "Proto_General.MaxEvasion.statusEffects5.Name",
+    "content": "闪避机动"
+  },
+  {
+    "id": "Proto_General.TC-TO-HIT.statusEffects6.Name",
+    "content": "瞄准电脑"
+  },
+  {
+    "id": "Proto_General.GainEvasion.statusEffects7.Name",
+    "content": "闪避机动"
+  },
+  {
+    "id": "Proto_Guardian_ECM.Description.Details",
+    "content": "守护者ECM套件于2597年由人类霸权的约翰斯顿工业公司推出.旨在干扰制导武器、目标电脑和通讯系统,守护者通常用发射宽频信号的方法来干扰雷达、红外、紫外、磁扫描和声呐传感器,进而保护盟友免受此类设备的影响."
+  },
+  {
+    "id": "Proto_Guardian_ECM.Description.UIName",
+    "content": "守护者ECM(原人)"
+  },
+  {
+    "id": "Proto_Guardian_ECM.Description.Name",
+    "content": "守护者ECM(原人)"
+  },
+  {
+    "id": "Proto_Guardian_ECM.Description.Manufacturer",
+    "content": "约翰斯顿"
+  },
+  {
+    "id": "Proto_Guardian_ECM.ECMPassiveShield.CAE0.Details",
+    "content": "被动ECM保护"
+  },
+  {
+    "id": "Proto_Guardian_ECM.ECMPassiveJam.CAE1.Details",
+    "content": "被动干扰保护"
+  },
+  {
+    "id": "Proto_Guardian_ECM.ECMPassiveShield.CAE0.Name",
+    "content": "ECM被动护罩"
+  },
+  {
+    "id": "Proto_Guardian_ECM.ECMPassiveJam.CAE1.Name",
+    "content": "ECM被动干扰"
+  },
+  {
+    "id": "Proto_Guardian_ECM.ECMPassiveShield.CAE0.Details",
+    "content": "被动ECM保护"
+  },
+  {
+    "id": "Proto_Guardian_ECM.ECMPassiveJam.CAE1.Details",
+    "content": "被动干扰保护"
+  },
+  {
+    "id": "Proto_Guardian_ECM.ECMPassiveShield.CAE0.Name",
+    "content": "ECM被动护罩"
+  },
+  {
+    "id": "Proto_Guardian_ECM.ECMPassiveJam.CAE1.Name",
+    "content": "ECM被动干扰"
+  },
+  {
+    "id": "Proto_Hands_Heavy.Description.Details",
+    "content": "伺服机构是战斗装甲肢体的一个组件,由关节、人工肌肉纤维和肌肉运动控制单元组成."
+  },
+  {
+    "id": "Proto_Hands_Heavy.Description.UIName",
+    "content": "原人伺服机构"
+  },
+  {
+    "id": "Proto_Hands_Heavy.Description.Name",
+    "content": "标准手部机构"
+  },
+  {
+    "id": "Proto_Hands_Heavy.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Proto_Hands_Heavy.PunchIsPhysical.statusEffects0.Details",
+    "content": "这是一把实体武器,使用近战规则."
+  },
+  {
+    "id": "Proto_Hands_Heavy.PhysicalWeaponIgnoreActuators.statusEffects1.Details",
+    "content": "这个实体武器忽略伺服机构的伤害."
+  },
+  {
+    "id": "Proto_Hands_Heavy.CBTBE_PHYSICAL_WEAPON_LOCATION_TABLE.statusEffects2.Details",
+    "content": "Foo"
+  },
+  {
+    "id": "Proto_Hands_Heavy.Punch_Damage_Base.statusEffects3.Details",
+    "content": "伤害修正"
+  },
+  {
+    "id": "Proto_Hands_Heavy.Punch_Damage_Base.statusEffects4.Details",
+    "content": "伤害修正"
+  },
+  {
+    "id": "Proto_Hands_Heavy.PunchIsPhysical.statusEffects0.Name",
+    "content": "这是一种实体武器"
+  },
+  {
+    "id": "Proto_Hands_Heavy.PhysicalWeaponIgnoreActuators.statusEffects1.Name",
+    "content": "实体武器忽略伺服机构的伤害"
+  },
+  {
+    "id": "Proto_Hands_Heavy.CBTBE_PHYSICAL_WEAPON_LOCATION_TABLE.statusEffects2.Name",
+    "content": "需要使用位置表"
+  },
+  {
+    "id": "Proto_Hands_Heavy.Punch_Damage_Base.statusEffects3.Name",
+    "content": "基础击打伤害"
+  },
+  {
+    "id": "Proto_Hands_Heavy.Punch_Damage_Base.statusEffects4.Name",
+    "content": "基础击打伤害"
+  },
+  {
+    "id": "Proto_Hands_Light.Description.Details",
+    "content": "伺服机构是战斗装甲肢体的一个组件,由关节、人工肌肉纤维和肌肉运动控制单元组成."
+  },
+  {
+    "id": "Proto_Hands_Light.Description.UIName",
+    "content": "原人伺服机构"
+  },
+  {
+    "id": "Proto_Hands_Light.Description.Name",
+    "content": "标准手部机构"
+  },
+  {
+    "id": "Proto_Hands_Light.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Proto_Hands_Light.PunchIsPhysical.statusEffects0.Details",
+    "content": "这是一把实体武器,使用近战规则."
+  },
+  {
+    "id": "Proto_Hands_Light.PhysicalWeaponIgnoreActuators.statusEffects1.Details",
+    "content": "这个实体武器忽略伺服机构的伤害."
+  },
+  {
+    "id": "Proto_Hands_Light.CBTBE_PHYSICAL_WEAPON_LOCATION_TABLE.statusEffects2.Details",
+    "content": "Foo"
+  },
+  {
+    "id": "Proto_Hands_Light.Punch_Damage_Base.statusEffects3.Details",
+    "content": "伤害修正"
+  },
+  {
+    "id": "Proto_Hands_Light.Punch_Damage_Base.statusEffects4.Details",
+    "content": "伤害修正"
+  },
+  {
+    "id": "Proto_Hands_Light.PunchIsPhysical.statusEffects0.Name",
+    "content": "这是一种实体武器"
+  },
+  {
+    "id": "Proto_Hands_Light.PhysicalWeaponIgnoreActuators.statusEffects1.Name",
+    "content": "实体武器忽略伺服机构的伤害"
+  },
+  {
+    "id": "Proto_Hands_Light.CBTBE_PHYSICAL_WEAPON_LOCATION_TABLE.statusEffects2.Name",
+    "content": "需要使用位置表"
+  },
+  {
+    "id": "Proto_Hands_Light.Punch_Damage_Base.statusEffects3.Name",
+    "content": "基础击打伤害"
+  },
+  {
+    "id": "Proto_Hands_Light.Punch_Damage_Base.statusEffects4.Name",
+    "content": "基础击打伤害"
+  },
+  {
+    "id": "Proto_Hands_UltraHeavy.Description.Details",
+    "content": "伺服机构是战斗装甲肢体的一个组件,由关节、人工肌肉纤维和肌肉运动控制单元组成."
+  },
+  {
+    "id": "Proto_Hands_UltraHeavy.Description.UIName",
+    "content": "原人伺服机构"
+  },
+  {
+    "id": "Proto_Hands_UltraHeavy.Description.Name",
+    "content": "标准手部机构"
+  },
+  {
+    "id": "Proto_Hands_UltraHeavy.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Proto_Hands_UltraHeavy.PunchIsPhysical.statusEffects0.Details",
+    "content": "这是一把实体武器,使用近战规则."
+  },
+  {
+    "id": "Proto_Hands_UltraHeavy.PhysicalWeaponIgnoreActuators.statusEffects1.Details",
+    "content": "这个实体武器忽略伺服机构的伤害."
+  },
+  {
+    "id": "Proto_Hands_UltraHeavy.CBTBE_PHYSICAL_WEAPON_LOCATION_TABLE.statusEffects2.Details",
+    "content": "Foo"
+  },
+  {
+    "id": "Proto_Hands_UltraHeavy.Punch_Damage_Base.statusEffects3.Details",
+    "content": "伤害修正"
+  },
+  {
+    "id": "Proto_Hands_UltraHeavy.Punch_Damage_Base.statusEffects4.Details",
+    "content": "伤害修正"
+  },
+  {
+    "id": "Proto_Hands_UltraHeavy.PunchIsPhysical.statusEffects0.Name",
+    "content": "这是一种实体武器"
+  },
+  {
+    "id": "Proto_Hands_UltraHeavy.PhysicalWeaponIgnoreActuators.statusEffects1.Name",
+    "content": "实体武器忽略伺服机构的伤害"
+  },
+  {
+    "id": "Proto_Hands_UltraHeavy.CBTBE_PHYSICAL_WEAPON_LOCATION_TABLE.statusEffects2.Name",
+    "content": "需要使用位置表"
+  },
+  {
+    "id": "Proto_Hands_UltraHeavy.Punch_Damage_Base.statusEffects3.Name",
+    "content": "基础击打伤害"
+  },
+  {
+    "id": "Proto_Hands_UltraHeavy.Punch_Damage_Base.statusEffects4.Name",
+    "content": "基础击打伤害"
+  },
+  {
+    "id": "Proto_Heatsink_CU.Description.Details",
+    "content": "死重项代表一个原人机甲散热器点"
+  },
+  {
+    "id": "Proto_Heatsink_CU.Description.UIName",
+    "content": "原人机甲散热器x 5"
+  },
+  {
+    "id": "Proto_Heatsink_CU.Description.Name",
+    "content": "原人机甲散热器x 5"
+  },
+  {
+    "id": "Proto_Heatsink_CU.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Proto_LIGHT_AP_CLAN.Description.Details",
+    "content": "猎兔犬主动探测器(BAP)是一套增强技术,当接入通用电子传感器时,装备的单位能够检测和区分除常规步兵外的其他战场单位,无论他们是伪装或关闭.氏族从未'失去'过这项技术,但在完善该概念设备时放弃了'猎兔犬'的名字."
+  },
+  {
+    "id": "Proto_LIGHT_AP_CLAN.Description.UIName",
+    "content": "轻型主动探测器(C)"
+  },
+  {
+    "id": "Proto_LIGHT_AP_CLAN.Description.Name",
+    "content": "轻型主动探测器"
+  },
+  {
+    "id": "Proto_LIGHT_AP_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Proto_LIGHT_AP_CLAN.LV_PROBE_CARRIER.statusEffects0.Details",
+    "content": "降低隐身和ECM护罩单元的效果"
+  },
+  {
+    "id": "Proto_LIGHT_AP_CLAN.LV_ADVANCED_SENSORS.statusEffects1.Details",
+    "content": "提供敌军单位的详细信息"
+  },
+  {
+    "id": "Proto_LIGHT_AP_CLAN.BAProbe.statusEffects2.Details",
+    "content": "增加视野/传感器"
+  },
+  {
+    "id": "Proto_LIGHT_AP_CLAN.Blood-Spotting_Gain-T1.statusEffects3.Details",
+    "content": "+50m发现距离"
+  },
+  {
+    "id": "Proto_LIGHT_AP_CLAN.MineFieldDetection.statusEffects4.Details",
+    "content": "探测雷场"
+  },
+  {
+    "id": "Proto_LIGHT_AP_CLAN.LV_PROBE_CARRIER.statusEffects0.Name",
+    "content": "主动探测器(被动)"
+  },
+  {
+    "id": "Proto_LIGHT_AP_CLAN.LV_ADVANCED_SENSORS.statusEffects1.Name",
+    "content": "先进传感器"
+  },
+  {
+    "id": "Proto_LIGHT_AP_CLAN.BAProbe.statusEffects2.Name",
+    "content": "猎兔犬探测器"
+  },
+  {
+    "id": "Proto_LIGHT_AP_CLAN.Blood-Spotting_Gain-T1.statusEffects3.Name",
+    "content": "提升发现距离"
+  },
+  {
+    "id": "Proto_LIGHT_AP_CLAN.MineFieldDetection.statusEffects4.Name",
+    "content": "主动探测器(被动)"
+  },
+  {
+    "id": "Proto_MyomerBooster.Description.Details",
+    "content": "原人机甲人工肌肉加速器本质上是MASC的原人机甲缩放版"
+  },
+  {
+    "id": "Proto_MyomerBooster.Description.UIName",
+    "content": "原人机甲人工肌肉加速器"
+  },
+  {
+    "id": "Proto_MyomerBooster.Description.Name",
+    "content": "原人人工肌肉加速器"
+  },
+  {
+    "id": "Proto_MyomerBooster.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Proto_MyomerBooster.MASCWalk.statusEffects0.Details",
+    "content": "人工肌肉加速信号电路(MASC)"
+  },
+  {
+    "id": "Proto_MyomerBooster.MASCWalk.statusEffects0.Name",
+    "content": "MASC"
+  },
+  {
+    "id": "Proto_PartialWings.Description.Details",
+    "content": "偏翼系统提供了更高的跳跃能力.此外,其大的表面积允许机甲更有效的辐射多余热量."
+  },
+  {
+    "id": "Proto_PartialWings.Description.UIName",
+    "content": "偏翼系统"
+  },
+  {
+    "id": "Proto_PartialWings.Description.Name",
+    "content": "原人机甲偏翼系统"
+  },
+  {
+    "id": "Proto_PartialWings.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Proto_PartialWings.StatusEffect-Jump_Distance-T3.statusEffects0.Details",
+    "content": "这偏翼系统提升30%跳跃推进器跳跃的距离."
+  },
+  {
+    "id": "Proto_PartialWings.StatusEffect-Jump_Distance-T3.statusEffects0.Name",
+    "content": "跳跃距离提升"
+  },
+  {
+    "id": "Proto_Pirate_ECM.Description.Details",
+    "content": "基本上仍是电子对抗措施(ECM),可以干扰敌人的瞄准和导弹系统,但不太优雅,因为它只是在任何可能的频率上发送古老的重金属摇滚,而不是红外和磁..."
+  },
+  {
+    "id": "Proto_Pirate_ECM.Description.UIName",
+    "content": "ECM(P)"
+  },
+  {
+    "id": "Proto_Pirate_ECM.Description.Name",
+    "content": "憎恶之盒"
+  },
+  {
+    "id": "Proto_Pirate_ECM.Description.Manufacturer",
+    "content": "猛攻"
+  },
+  {
+    "id": "Proto_Pirate_ECM.PirateJammer_Signature.statusEffects0.Details",
+    "content": "信号特征状态效果."
+  },
+  {
+    "id": "Proto_Pirate_ECM.PirateJammer_Visibility.statusEffects1.Details",
+    "content": "可见性状态效果."
+  },
+  {
+    "id": "Proto_Pirate_ECM.PirateJammer_Signature.statusEffects0.Name",
+    "content": "减少隐身信号特征"
+  },
+  {
+    "id": "Proto_Pirate_ECM.PirateJammer_Visibility.statusEffects1.Name",
+    "content": "降低隐身可见性"
+  },
+  {
+    "id": "Proto_QMWS_Heavy.Description.Details",
+    "content": "原人机甲四足近战武器系统(MWS)是3064年由氏族科学家学会首次开发.与索拉里斯VII竞技场中使用的爪子的目的相似,该武器系统为了增加原人机甲的实体攻击伤害而设计.\r\n在3066年第一次应用于实战.近战武器系统是作为一系列的爪子,獠牙,鹰爪,角,或砍杀尾添加到原人机甲中.这些改装不仅仅是装饰上的,而是可以对敌方单位造成伤害.另一个好处是它们的外观会影响敌军."
+  },
+  {
+    "id": "Proto_QMWS_Heavy.Description.UIName",
+    "content": "四足近战武器系统"
+  },
+  {
+    "id": "Proto_QMWS_Heavy.Description.Name",
+    "content": "原人机甲四足近战武器系统"
+  },
+  {
+    "id": "Proto_QMWS_Heavy.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Proto_QMWS_Heavy.PunchIsPhysical.statusEffects0.Details",
+    "content": "这是一把实体武器,使用近战规则."
+  },
+  {
+    "id": "Proto_QMWS_Heavy.PhysicalWeaponIgnoreActuators.statusEffects1.Details",
+    "content": "这个实体武器忽略伺服机构的伤害."
+  },
+  {
+    "id": "Proto_QMWS_Heavy.CBTBE_PHYSICAL_WEAPON_LOCATION_TABLE.statusEffects2.Details",
+    "content": "Foo"
+  },
+  {
+    "id": "Proto_QMWS_Heavy.Punch_Damage_Base.statusEffects3.Details",
+    "content": "伤害修正"
+  },
+  {
+    "id": "Proto_QMWS_Heavy.Punch_Damage_Base.statusEffects4.Details",
+    "content": "伤害修正"
+  },
+  {
+    "id": "Proto_QMWS_Heavy.PunchIsPhysical.statusEffects0.Name",
+    "content": "这是一种实体武器"
+  },
+  {
+    "id": "Proto_QMWS_Heavy.PhysicalWeaponIgnoreActuators.statusEffects1.Name",
+    "content": "实体武器忽略伺服机构的伤害"
+  },
+  {
+    "id": "Proto_QMWS_Heavy.CBTBE_PHYSICAL_WEAPON_LOCATION_TABLE.statusEffects2.Name",
+    "content": "需要使用位置表"
+  },
+  {
+    "id": "Proto_QMWS_Heavy.Punch_Damage_Base.statusEffects3.Name",
+    "content": "基础击打伤害"
+  },
+  {
+    "id": "Proto_QMWS_Heavy.Punch_Damage_Base.statusEffects4.Name",
+    "content": "基础击打伤害"
+  },
+  {
+    "id": "Proto_QMWS_Support.Description.Details",
+    "content": "Companion gear for Proto_QMWS, contains actual status efect to avoid HBS stacklimit idiocity"
+  },
+  {
+    "id": "Proto_QMWS_Support.Description.UIName",
+    "content": "四足近战武器系统"
+  },
+  {
+    "id": "Proto_QMWS_Support.Description.Name",
+    "content": "原人机甲四足近战武器系统"
+  },
+  {
+    "id": "Proto_QMWS_Support.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Proto_QMWS_Support.MeleeAccuracy_Sword.statusEffects0.Details",
+    "content": "近战武器精度修正"
+  },
+  {
+    "id": "Proto_QMWS_Support.MeleeAccuracy_Sword.statusEffects0.Name",
+    "content": "近战武器精度修正"
+  },
+  {
+    "id": "Proto_Turret.Description.Details",
+    "content": "炮台可大大提高原人武器的精度和目标跟踪能力"
+  },
+  {
+    "id": "Proto_Turret.Description.UIName",
+    "content": "炮塔"
+  },
+  {
+    "id": "Proto_Turret.Description.Name",
+    "content": "炮塔"
+  },
+  {
+    "id": "Proto_Turret.StatusEffect-FCS_Flak.statusEffects0.Details",
+    "content": "+1闪避忽略"
+  },
+  {
+    "id": "Proto_Turret.TCCALLSHOT.statusEffects2.Details",
+    "content": "精确射击双倍可靠"
+  },
+  {
+    "id": "Proto_Turret.TC-TO-HIT.statusEffects3.Details",
+    "content": "突破射击, 提高精度/后座"
+  },
+  {
+    "id": "Proto_Turret.StatusEffect-FCS_Flak.statusEffects0.Name",
+    "content": "忽略闪避"
+  },
+  {
+    "id": "Proto_Turret.StatusEffect-FCS_Flak2.statusEffects1.Name",
+    "content": "高射炮火控系统"
+  },
+  {
+    "id": "Proto_Turret.TCCALLSHOT.statusEffects2.Name",
+    "content": "提升精确射击"
+  },
+  {
+    "id": "Proto_Turret.TC-TO-HIT.statusEffects3.Name",
+    "content": "瞄准电脑"
+  },
+  {
+    "id": "Type_HeavyProto.Description.Details",
+    "content": "原人机甲在2到15吨之间,高度在4到6米之间,座舱安装在上胸部.拥有核聚变引擎,它们可以比战斗装甲移动得快得多,但比战斗机甲更紧凑.这些机器经常5个单位协调工作,像战斗机甲一样有效,而且只需要不到一半的构建资源."
+  },
+  {
+    "id": "Type_HeavyProto.Description.UIName",
+    "content": "重型原人机甲"
+  },
+  {
+    "id": "Type_HeavyProto.Description.Name",
+    "content": "重型原人机甲"
+  },
+  {
+    "id": "Type_HeavyProto.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Type_HeavyProto.StatusEffect-Defense_ToHit-T3.statusEffects0.Details",
+    "content": "对该单位的所有攻击提供惩罚."
+  },
+  {
+    "id": "Type_HeavyProto.StatusEffect-Defense_ToHit-T3.statusEffects0.Name",
+    "content": "更难命中"
+  },
+  {
+    "id": "Type_HeavyProtoQuad.Description.Details",
+    "content": "原人机甲在2到15吨之间,高度在4到6米之间,座舱安装在上胸部.拥有核聚变引擎,它们可以比战斗装甲移动得快得多,但比战斗机甲更紧凑.这些机器经常5个单位协调工作,像战斗机甲一样有效,而且只需要不到一半的构建资源.与两足机甲相比,四足机甲可以获得额外的速度."
+  },
+  {
+    "id": "Type_HeavyProtoQuad.Description.UIName",
+    "content": "重型四足原人机甲"
+  },
+  {
+    "id": "Type_HeavyProtoQuad.Description.Name",
+    "content": "重型四足原人机甲"
+  },
+  {
+    "id": "Type_HeavyProtoQuad.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Type_HeavyProtoQuad.StatusEffect-Defense_ToHit-T3.statusEffects0.Details",
+    "content": "对该单位的所有攻击提供惩罚."
+  },
+  {
+    "id": "Type_HeavyProtoQuad.TSMActive1.statusEffects1.Details",
+    "content": "更强的近战和更快的速度"
+  },
+  {
+    "id": "Type_HeavyProtoQuad.StatusEffect-Defense_ToHit-T3.statusEffects0.Name",
+    "content": "更难命中"
+  },
+  {
+    "id": "Type_HeavyProtoQuad.TSMActive1.statusEffects1.Name",
+    "content": "TSM激活!"
+  },
+  {
+    "id": "Type_HeavyProtoQuad_EDPA.Description.Details",
+    "content": "原人机甲在2到15吨之间,高度在4到6米之间,座舱安装在上胸部.拥有核聚变引擎,它们可以比战斗装甲移动得快得多,但比战斗机甲更紧凑.这些机器经常5个单位协调工作,像战斗机甲一样有效,而且只需要不到一半的构建资源.与两足机甲相比,四足机甲可以获得额外的速度."
+  },
+  {
+    "id": "Type_HeavyProtoQuad_EDPA.Description.UIName",
+    "content": "重型四足原人机甲(EDPA)"
+  },
+  {
+    "id": "Type_HeavyProtoQuad_EDPA.Description.Name",
+    "content": "带有放电装甲的重型四足原人机甲"
+  },
+  {
+    "id": "Type_HeavyProtoQuad_EDPA.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Type_HeavyProtoQuad_EDPA.StatusEffect-Defense_ToHit-T3.statusEffects0.Details",
+    "content": "对该单位的所有攻击提供惩罚."
+  },
+  {
+    "id": "Type_HeavyProtoQuad_EDPA.TSMActive1.statusEffects1.Details",
+    "content": "更强的近战和更快的速度"
+  },
+  {
+    "id": "Type_HeavyProtoQuad_EDPA.StatusEffect-Defense_ToHit-T3.statusEffects0.Name",
+    "content": "更难命中"
+  },
+  {
+    "id": "Type_HeavyProtoQuad_EDPA.TSMActive1.statusEffects1.Name",
+    "content": "TSM激活!"
+  },
+  {
+    "id": "Type_LightProto.Description.Details",
+    "content": "原人机甲在2到15吨之间,高度在4到6米之间,座舱安装在上胸部.拥有核聚变引擎,它们可以比战斗装甲移动得快得多,但比战斗机甲更紧凑.这些机器经常5个单位协调工作,像战斗机甲一样有效,而且只需要不到一半的构建资源."
+  },
+  {
+    "id": "Type_LightProto.Description.UIName",
+    "content": "轻型原人机甲"
+  },
+  {
+    "id": "Type_LightProto.Description.Name",
+    "content": "轻型原人机甲"
+  },
+  {
+    "id": "Type_LightProto.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Type_LightProto.StatusEffect-Defense_ToHit-T3.statusEffects0.Details",
+    "content": "对该单位的所有攻击提供惩罚."
+  },
+  {
+    "id": "Type_LightProto.GainEvasion.statusEffects1.Details",
+    "content": "该单位从移动中获得额外的闪避(直到最大值)."
+  },
+  {
+    "id": "Type_LightProto.StatusEffect-Defense_ToHit-T3.statusEffects0.Name",
+    "content": "更难命中"
+  },
+  {
+    "id": "Type_LightProto.GainEvasion.statusEffects1.Name",
+    "content": "闪避机动"
+  },
+  {
+    "id": "Type_UltraHeavyProto.Description.Details",
+    "content": "原人机甲在2到15吨之间,高度在4到6米之间,座舱安装在上胸部.拥有核聚变引擎,它们可以比战斗装甲移动得快得多,但比战斗机甲更紧凑.这些机器经常5个单位协调工作,像战斗机甲一样有效,而且只需要不到一半的构建资源."
+  },
+  {
+    "id": "Type_UltraHeavyProto.Description.UIName",
+    "content": "超重原人机甲"
+  },
+  {
+    "id": "Type_UltraHeavyProto.Description.Name",
+    "content": "超重原人机甲"
+  },
+  {
+    "id": "Type_UltraHeavyProto.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Type_UltraHeavyProtoQuad.Description.Details",
+    "content": "原人机甲在2到15吨之间,高度在4到6米之间,座舱安装在上胸部.拥有核聚变引擎,它们可以比战斗装甲移动得快得多,但比战斗机甲更紧凑.这些机器经常5个单位协调工作,像战斗机甲一样有效,而且只需要不到一半的构建资源.与两足机甲相比,四足机甲可以获得额外的速度."
+  },
+  {
+    "id": "Type_UltraHeavyProtoQuad.Description.UIName",
+    "content": "超重四足原人机甲"
+  },
+  {
+    "id": "Type_UltraHeavyProtoQuad.Description.Name",
+    "content": "超重四足原人机甲"
+  },
+  {
+    "id": "Type_UltraHeavyProtoQuad.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Type_UltraHeavyProtoQuad.TSMActive1.statusEffects0.Details",
+    "content": "更强的近战和更快的速度"
+  },
+  {
+    "id": "Type_UltraHeavyProtoQuad.TSMActive1.statusEffects0.Name",
+    "content": "TSM激活!"
+  },
+  {
+    "id": "Type_UltraHeavyProtoWiGE.Description.Details",
+    "content": "原人机甲在2到15吨之间,高度在4到6米之间,座舱安装在上胸部.拥有核聚变引擎,它们可以比战斗装甲移动得快得多,但比战斗机甲更紧凑.这些机器经常5个单位协调工作,像战斗机甲一样有效,而且只需要不到一半的构建资源.与两足机甲相比,四足机甲可以获得额外的速度."
+  },
+  {
+    "id": "Type_UltraHeavyProtoWiGE.Description.UIName",
+    "content": "超重地效飞行原人机甲"
+  },
+  {
+    "id": "Type_UltraHeavyProtoWiGE.Description.Name",
+    "content": "超重地效飞行原人机甲"
+  },
+  {
+    "id": "Type_UltraHeavyProtoWiGE.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Type_UltraHeavyProtoWiGE.StatusEffect-LAM-AirMech-Mode.CAE0.Details",
+    "content": "空中机甲模式"
+  },
+  {
+    "id": "Type_UltraHeavyProtoWiGE.StatusEffect-LAM-AirMech-NoRandomAnim.CAE1.Details",
+    "content": "空中机甲模式"
+  },
+  {
+    "id": "Type_UltraHeavyProtoWiGE.StatusEffect-LAM-AirMech-NoRandomAnim.CAE2.Details",
+    "content": "空中机甲模式"
+  },
+  {
+    "id": "Type_UltraHeavyProtoWiGE.StatusEffect-LAM-AirMech-Landmines.CAE3.Details",
+    "content": "空中机甲模式"
+  },
+  {
+    "id": "Type_UltraHeavyProtoWiGE.StatusEffect-LAM-AirMech-Pathing.CAE4.Details",
+    "content": "空中机甲模式"
+  },
+  {
+    "id": "Type_UltraHeavyProtoWiGE.StatusEffect-LAM-AirMech-Terrain.CAE5.Details",
+    "content": "空中机甲模式"
+  },
+  {
+    "id": "Type_UltraHeavyProtoWiGE.StatusEffect-LAM-AirMech-AllowPartial.CAE6.Details",
+    "content": "空中机甲模式"
+  },
+  {
+    "id": "Type_UltraHeavyProtoWiGE.StatusEffect-LAM-AirMech-FiringArc.CAE7.Details",
+    "content": "空中机甲模式"
+  },
+  {
+    "id": "Type_UltraHeavyProtoWiGE.MaxEvasion.CAE8.Details",
+    "content": "该单位从移动中获得额外的闪避(直到最大值)."
+  },
+  {
+    "id": "Type_UltraHeavyProtoWiGE.GainEvasion.CAE9.Details",
+    "content": "该单位从移动中获得额外的闪避(直到最大值)."
+  },
+  {
+    "id": "Type_UltraHeavyProtoWiGE.TSMActive1.CAE10.Details",
+    "content": "更强的近战和更快的速度"
+  },
+  {
+    "id": "Type_UltraHeavyProtoWiGE.BAWalk.CAE11.Details",
+    "content": "人工肌肉加速信号电路(MASC)"
+  },
+  {
+    "id": "Type_UltraHeavyProtoWiGE.StatusEffect-LAM-AirMech-Mode.CAE0.Name",
+    "content": "空中机甲模式"
+  },
+  {
+    "id": "Type_UltraHeavyProtoWiGE.StatusEffect-LAM-AirMech-NoRandomAnim.CAE1.Name",
+    "content": "空中机甲模式"
+  },
+  {
+    "id": "Type_UltraHeavyProtoWiGE.StatusEffect-LAM-AirMech-NoRandomAnim.CAE2.Name",
+    "content": "空中机甲模式"
+  },
+  {
+    "id": "Type_UltraHeavyProtoWiGE.StatusEffect-LAM-AirMech-Landmines.CAE3.Name",
+    "content": "空中机甲模式"
+  },
+  {
+    "id": "Type_UltraHeavyProtoWiGE.StatusEffect-LAM-AirMech-Pathing.CAE4.Name",
+    "content": "空中机甲模式"
+  },
+  {
+    "id": "Type_UltraHeavyProtoWiGE.StatusEffect-LAM-AirMech-Terrain.CAE5.Name",
+    "content": "空中机甲模式"
+  },
+  {
+    "id": "Type_UltraHeavyProtoWiGE.StatusEffect-LAM-AirMech-AllowPartial.CAE6.Name",
+    "content": "空中机甲模式"
+  },
+  {
+    "id": "Type_UltraHeavyProtoWiGE.StatusEffect-LAM-AirMech-FiringArc.CAE7.Name",
+    "content": "空中机甲模式"
+  },
+  {
+    "id": "Type_UltraHeavyProtoWiGE.MaxEvasion.CAE8.Name",
+    "content": "闪避机动"
+  },
+  {
+    "id": "Type_UltraHeavyProtoWiGE.GainEvasion.CAE9.Name",
+    "content": "闪避机动"
+  },
+  {
+    "id": "Type_UltraHeavyProtoWiGE.TSMActive1.CAE10.Name",
+    "content": "TSM激活!"
+  },
+  {
+    "id": "Type_UltraHeavyProtoWiGE.BAWalk.CAE11.Name",
+    "content": "BA"
+  },
+  {
+    "id": "Type_UltraHeavyProtoWiGE.TSMActive1.CAE0.Details",
+    "content": "更强的近战和更快的速度"
+  },
+  {
+    "id": "Type_UltraHeavyProtoWiGE.BAWalk.CAE1.Details",
+    "content": "人工肌肉加速信号电路(MASC)"
+  },
+  {
+    "id": "Type_UltraHeavyProtoWiGE.TSMActive1.CAE0.Name",
+    "content": "TSM激活!"
+  },
+  {
+    "id": "Type_UltraHeavyProtoWiGE.BAWalk.CAE1.Name",
+    "content": "BA"
+  },
+  {
+    "id": "Proto_JumpJetsHeavyCU3.Description.Details",
+    "content": "原人机甲跳跃推进器在功能上与它们更大的表亲相同,只是缩小了规模."
+  },
+  {
+    "id": "Proto_JumpJetsHeavyCU3.Description.UIName",
+    "content": "原人跳跃推进器(H)"
+  },
+  {
+    "id": "Proto_JumpJetsHeavyCU3.Description.Name",
+    "content": "重型原人跳跃推进器"
+  },
+  {
+    "id": "Proto_JumpJetsHeavyCU3.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Proto_JumpJetsHeavyCU3.StatusEffect-QuirkWings.statusEffects0.Details",
+    "content": "-20%产热"
+  },
+  {
+    "id": "Proto_JumpJetsHeavyCU3.StatusEffect-JumpAmount.statusEffects1.Details",
+    "content": "最大跳跃推进器量每行走里程"
+  },
+  {
+    "id": "Proto_JumpJetsHeavyCU3.StatusEffect-QuirkWings.statusEffects0.Name",
+    "content": "减少产热"
+  },
+  {
+    "id": "Proto_JumpJetsHeavyCU3.StatusEffect-JumpAmount.statusEffects1.Name",
+    "content": "跳跃推进器量"
+  },
+  {
+    "id": "Proto_JumpJetsHeavyCU4.Description.Details",
+    "content": "原人机甲跳跃推进器在功能上与它们更大的表亲相同,只是缩小了规模."
+  },
+  {
+    "id": "Proto_JumpJetsHeavyCU4.Description.UIName",
+    "content": "原人跳跃推进器(H)"
+  },
+  {
+    "id": "Proto_JumpJetsHeavyCU4.Description.Name",
+    "content": "重型原人跳跃推进器"
+  },
+  {
+    "id": "Proto_JumpJetsHeavyCU4.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Proto_JumpJetsHeavyCU4.StatusEffect-QuirkWings.statusEffects0.Details",
+    "content": "-20%产热"
+  },
+  {
+    "id": "Proto_JumpJetsHeavyCU4.StatusEffect-JumpAmount.statusEffects1.Details",
+    "content": "最大跳跃推进器量每行走里程"
+  },
+  {
+    "id": "Proto_JumpJetsHeavyCU4.StatusEffect-QuirkWings.statusEffects0.Name",
+    "content": "减少产热"
+  },
+  {
+    "id": "Proto_JumpJetsHeavyCU4.StatusEffect-JumpAmount.statusEffects1.Name",
+    "content": "跳跃推进器量"
+  },
+  {
+    "id": "Proto_JumpJetsHeavyCU5.Description.Details",
+    "content": "原人机甲跳跃推进器在功能上与它们更大的表亲相同,只是缩小了规模."
+  },
+  {
+    "id": "Proto_JumpJetsHeavyCU5.Description.UIName",
+    "content": "原人跳跃推进器(H)"
+  },
+  {
+    "id": "Proto_JumpJetsHeavyCU5.Description.Name",
+    "content": "重型原人跳跃推进器"
+  },
+  {
+    "id": "Proto_JumpJetsHeavyCU5.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Proto_JumpJetsHeavyCU5.StatusEffect-QuirkWings.statusEffects0.Details",
+    "content": "-20%产热"
+  },
+  {
+    "id": "Proto_JumpJetsHeavyCU5.StatusEffect-JumpAmount.statusEffects1.Details",
+    "content": "最大跳跃推进器量每行走里程"
+  },
+  {
+    "id": "Proto_JumpJetsHeavyCU5.StatusEffect-QuirkWings.statusEffects0.Name",
+    "content": "减少产热"
+  },
+  {
+    "id": "Proto_JumpJetsHeavyCU5.StatusEffect-JumpAmount.statusEffects1.Name",
+    "content": "跳跃推进器量"
+  },
+  {
+    "id": "Proto_JumpJetsHeavyExtendedCU5.Description.Details",
+    "content": "原人机甲跳跃推进器在功能上与它们更大的表亲相同,只是缩小了规模."
+  },
+  {
+    "id": "Proto_JumpJetsHeavyExtendedCU5.Description.UIName",
+    "content": "拓展原人跳跃推进器(H)"
+  },
+  {
+    "id": "Proto_JumpJetsHeavyExtendedCU5.Description.Name",
+    "content": "拓展重型原人跳跃推进器"
+  },
+  {
+    "id": "Proto_JumpJetsHeavyExtendedCU5.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Proto_JumpJetsHeavyExtendedCU5.StatusEffect-QuirkWings.statusEffects0.Details",
+    "content": "-20%产热"
+  },
+  {
+    "id": "Proto_JumpJetsHeavyExtendedCU5.StatusEffect-JumpAmount.statusEffects1.Details",
+    "content": "最大跳跃推进器量每行走里程"
+  },
+  {
+    "id": "Proto_JumpJetsHeavyExtendedCU5.StatusEffect-QuirkWings.statusEffects0.Name",
+    "content": "减少产热"
+  },
+  {
+    "id": "Proto_JumpJetsHeavyExtendedCU5.StatusEffect-JumpAmount.statusEffects1.Name",
+    "content": "跳跃推进器量"
+  },
+  {
+    "id": "Proto_JumpJetsHeavyExtendedCU8.Description.Details",
+    "content": "原人机甲跳跃推进器在功能上与它们更大的表亲相同,只是缩小了规模."
+  },
+  {
+    "id": "Proto_JumpJetsHeavyExtendedCU8.Description.UIName",
+    "content": "拓展原人跳跃推进器(H)"
+  },
+  {
+    "id": "Proto_JumpJetsHeavyExtendedCU8.Description.Name",
+    "content": "拓展重型原人跳跃推进器"
+  },
+  {
+    "id": "Proto_JumpJetsHeavyExtendedCU8.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Proto_JumpJetsHeavyExtendedCU8.StatusEffect-QuirkWings.statusEffects0.Details",
+    "content": "-20%产热"
+  },
+  {
+    "id": "Proto_JumpJetsHeavyExtendedCU8.StatusEffect-JumpAmount.statusEffects1.Details",
+    "content": "最大跳跃推进器量每行走里程"
+  },
+  {
+    "id": "Proto_JumpJetsHeavyExtendedCU8.StatusEffect-QuirkWings.statusEffects0.Name",
+    "content": "减少产热"
+  },
+  {
+    "id": "Proto_JumpJetsHeavyExtendedCU8.StatusEffect-JumpAmount.statusEffects1.Name",
+    "content": "跳跃推进器量"
+  },
+  {
+    "id": "Proto_JumpJetsLightCU3.Description.Details",
+    "content": "原人机甲跳跃推进器在功能上与它们更大的表亲相同,只是缩小了规模."
+  },
+  {
+    "id": "Proto_JumpJetsLightCU3.Description.UIName",
+    "content": "原人跳跃推进器(L)"
+  },
+  {
+    "id": "Proto_JumpJetsLightCU3.Description.Name",
+    "content": "轻型原人跳推进器"
+  },
+  {
+    "id": "Proto_JumpJetsLightCU3.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Proto_JumpJetsLightCU3.StatusEffect-QuirkWings.statusEffects0.Details",
+    "content": "-20%产热"
+  },
+  {
+    "id": "Proto_JumpJetsLightCU3.StatusEffect-JumpAmount.statusEffects1.Details",
+    "content": "最大跳跃推进器量每行走里程"
+  },
+  {
+    "id": "Proto_JumpJetsLightCU3.StatusEffect-QuirkWings.statusEffects0.Name",
+    "content": "减少产热"
+  },
+  {
+    "id": "Proto_JumpJetsLightCU3.StatusEffect-JumpAmount.statusEffects1.Name",
+    "content": "跳跃推进器量"
+  },
+  {
+    "id": "Proto_JumpJetsLightCU4.Description.Details",
+    "content": "原人机甲跳跃推进器在功能上与它们更大的表亲相同,只是缩小了规模."
+  },
+  {
+    "id": "Proto_JumpJetsLightCU4.Description.UIName",
+    "content": "原人跳跃推进器(L)"
+  },
+  {
+    "id": "Proto_JumpJetsLightCU4.Description.Name",
+    "content": "轻型原人跳推进器"
+  },
+  {
+    "id": "Proto_JumpJetsLightCU4.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Proto_JumpJetsLightCU4.StatusEffect-QuirkWings.statusEffects0.Details",
+    "content": "-20%产热"
+  },
+  {
+    "id": "Proto_JumpJetsLightCU4.StatusEffect-JumpAmount.statusEffects1.Details",
+    "content": "最大跳跃推进器量每行走里程"
+  },
+  {
+    "id": "Proto_JumpJetsLightCU4.StatusEffect-QuirkWings.statusEffects0.Name",
+    "content": "减少产热"
+  },
+  {
+    "id": "Proto_JumpJetsLightCU4.StatusEffect-JumpAmount.statusEffects1.Name",
+    "content": "跳跃推进器量"
+  },
+  {
+    "id": "Proto_JumpJetsLightCU5.Description.Details",
+    "content": "原人机甲跳跃推进器在功能上与它们更大的表亲相同,只是缩小了规模."
+  },
+  {
+    "id": "Proto_JumpJetsLightCU5.Description.UIName",
+    "content": "原人跳跃推进器(L)"
+  },
+  {
+    "id": "Proto_JumpJetsLightCU5.Description.Name",
+    "content": "轻型原人跳推进器"
+  },
+  {
+    "id": "Proto_JumpJetsLightCU5.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Proto_JumpJetsLightCU5.StatusEffect-QuirkWings.statusEffects0.Details",
+    "content": "-20%产热"
+  },
+  {
+    "id": "Proto_JumpJetsLightCU5.StatusEffect-JumpAmount.statusEffects1.Details",
+    "content": "最大跳跃推进器量每行走里程"
+  },
+  {
+    "id": "Proto_JumpJetsLightCU5.StatusEffect-QuirkWings.statusEffects0.Name",
+    "content": "减少产热"
+  },
+  {
+    "id": "Proto_JumpJetsLightCU5.StatusEffect-JumpAmount.statusEffects1.Name",
+    "content": "跳跃推进器量"
+  },
+  {
+    "id": "Proto_JumpJetsLightCU6.Description.Details",
+    "content": "原人机甲跳跃推进器在功能上与它们更大的表亲相同,只是缩小了规模."
+  },
+  {
+    "id": "Proto_JumpJetsLightCU6.Description.UIName",
+    "content": "原人跳跃推进器(L)"
+  },
+  {
+    "id": "Proto_JumpJetsLightCU6.Description.Name",
+    "content": "轻型原人跳推进器"
+  },
+  {
+    "id": "Proto_JumpJetsLightCU6.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Proto_JumpJetsLightCU6.StatusEffect-QuirkWings.statusEffects0.Details",
+    "content": "-20%产热"
+  },
+  {
+    "id": "Proto_JumpJetsLightCU6.StatusEffect-JumpAmount.statusEffects1.Details",
+    "content": "最大跳跃推进器量每行走里程"
+  },
+  {
+    "id": "Proto_JumpJetsLightCU6.StatusEffect-QuirkWings.statusEffects0.Name",
+    "content": "减少产热"
+  },
+  {
+    "id": "Proto_JumpJetsLightCU6.StatusEffect-JumpAmount.statusEffects1.Name",
+    "content": "跳跃推进器量"
+  },
+  {
+    "id": "Proto_JumpJetsLightCU7.Description.Details",
+    "content": "原人机甲跳跃推进器在功能上与它们更大的表亲相同,只是缩小了规模."
+  },
+  {
+    "id": "Proto_JumpJetsLightCU7.Description.UIName",
+    "content": "原人跳跃推进器(L)"
+  },
+  {
+    "id": "Proto_JumpJetsLightCU7.Description.Name",
+    "content": "轻型原人跳推进器"
+  },
+  {
+    "id": "Proto_JumpJetsLightCU7.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Proto_JumpJetsLightCU7.StatusEffect-QuirkWings.statusEffects0.Details",
+    "content": "-20%产热"
+  },
+  {
+    "id": "Proto_JumpJetsLightCU7.StatusEffect-JumpAmount.statusEffects1.Details",
+    "content": "最大跳跃推进器量每行走里程"
+  },
+  {
+    "id": "Proto_JumpJetsLightCU7.StatusEffect-QuirkWings.statusEffects0.Name",
+    "content": "减少产热"
+  },
+  {
+    "id": "Proto_JumpJetsLightCU7.StatusEffect-JumpAmount.statusEffects1.Name",
+    "content": "跳跃推进器量"
+  },
+  {
+    "id": "Proto_JumpJetsLightExtendedCU9.Description.Details",
+    "content": "原人机甲跳跃推进器在功能上与它们更大的表亲相同,只是缩小了规模."
+  },
+  {
+    "id": "Proto_JumpJetsLightExtendedCU9.Description.UIName",
+    "content": "轻型原人拓展跳跃推进器(L)"
+  },
+  {
+    "id": "Proto_JumpJetsLightExtendedCU9.Description.Name",
+    "content": "轻型原人拓展跳跃推进器"
+  },
+  {
+    "id": "Proto_JumpJetsLightExtendedCU9.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Proto_JumpJetsLightExtendedCU9.StatusEffect-QuirkWings.statusEffects0.Details",
+    "content": "-20%产热"
+  },
+  {
+    "id": "Proto_JumpJetsLightExtendedCU9.StatusEffect-JumpAmount.statusEffects1.Details",
+    "content": "最大跳跃推进器量每行走里程"
+  },
+  {
+    "id": "Proto_JumpJetsLightExtendedCU9.StatusEffect-QuirkWings.statusEffects0.Name",
+    "content": "减少产热"
+  },
+  {
+    "id": "Proto_JumpJetsLightExtendedCU9.StatusEffect-JumpAmount.statusEffects1.Name",
+    "content": "跳跃推进器量"
+  },
+  {
+    "id": "Proto_JumpJetsUltraHeavyCU3.Description.Details",
+    "content": "原人机甲跳跃推进器在功能上与它们更大的表亲相同,只是缩小了规模."
+  },
+  {
+    "id": "Proto_JumpJetsUltraHeavyCU3.Description.UIName",
+    "content": "原人跳跃推进器(UH)"
+  },
+  {
+    "id": "Proto_JumpJetsUltraHeavyCU3.Description.Name",
+    "content": "超重型原人跳跃推进器"
+  },
+  {
+    "id": "Proto_JumpJetsUltraHeavyCU3.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Proto_JumpJetsUltraHeavyCU3.StatusEffect-QuirkWings.statusEffects0.Details",
+    "content": "-20%产热"
+  },
+  {
+    "id": "Proto_JumpJetsUltraHeavyCU3.StatusEffect-JumpAmount.statusEffects1.Details",
+    "content": "最大跳跃推进器量每行走里程"
+  },
+  {
+    "id": "Proto_JumpJetsUltraHeavyCU3.StatusEffect-QuirkWings.statusEffects0.Name",
+    "content": "减少产热"
+  },
+  {
+    "id": "Proto_JumpJetsUltraHeavyCU3.StatusEffect-JumpAmount.statusEffects1.Name",
+    "content": "跳跃推进器量"
+  },
+  {
+    "id": "Proto_JumpJetsUltraHeavyCU5.Description.Details",
+    "content": "原人机甲跳跃推进器在功能上与它们更大的表亲相同,只是缩小了规模."
+  },
+  {
+    "id": "Proto_JumpJetsUltraHeavyCU5.Description.UIName",
+    "content": "原人跳跃推进器(UH)"
+  },
+  {
+    "id": "Proto_JumpJetsUltraHeavyCU5.Description.Name",
+    "content": "超重型原人跳跃推进器"
+  },
+  {
+    "id": "Proto_JumpJetsUltraHeavyCU5.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Proto_JumpJetsUltraHeavyCU5.StatusEffect-QuirkWings.statusEffects0.Details",
+    "content": "-20%产热"
+  },
+  {
+    "id": "Proto_JumpJetsUltraHeavyCU5.StatusEffect-JumpAmount.statusEffects1.Details",
+    "content": "最大跳跃推进器量每行走里程"
+  },
+  {
+    "id": "Proto_JumpJetsUltraHeavyCU5.StatusEffect-QuirkWings.statusEffects0.Name",
+    "content": "减少产热"
+  },
+  {
+    "id": "Proto_JumpJetsUltraHeavyCU5.StatusEffect-JumpAmount.statusEffects1.Name",
+    "content": "跳跃推进器量"
+  },
+  {
+    "id": "Proto_JumpJetsUltraHeavyExtendedCU5.Description.Details",
+    "content": "最初是由氏族科学家学会为他们的实验原机甲人开发的,拓展跳跃推进器系统以提高组件的总重量为代价增强了每个推进器的推力输出."
+  },
+  {
+    "id": "Proto_JumpJetsUltraHeavyExtendedCU5.Description.UIName",
+    "content": "拓展原人跳跃推进器(UH)"
+  },
+  {
+    "id": "Proto_JumpJetsUltraHeavyExtendedCU5.Description.Name",
+    "content": "超重型原人拓展跳跃推进器"
+  },
+  {
+    "id": "Proto_JumpJetsUltraHeavyExtendedCU5.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Proto_JumpJetsUltraHeavyExtendedCU5.StatusEffect-QuirkWings.statusEffects0.Details",
+    "content": "-20%产热"
+  },
+  {
+    "id": "Proto_JumpJetsUltraHeavyExtendedCU5.StatusEffect-JumpAmount.statusEffects1.Details",
+    "content": "最大跳跃推进器量每行走里程"
+  },
+  {
+    "id": "Proto_JumpJetsUltraHeavyExtendedCU5.StatusEffect-QuirkWings.statusEffects0.Name",
+    "content": "减少产热"
+  },
+  {
+    "id": "Proto_JumpJetsUltraHeavyExtendedCU5.StatusEffect-JumpAmount.statusEffects1.Name",
+    "content": "跳跃推进器量"
+  },
+  {
+    "id": "Proto_JumpJetsUltraHeavyExtendedCU8.Description.Details",
+    "content": "最初是由氏族科学家学会为他们的实验原机甲人开发的,拓展跳跃推进器系统以提高组件的总重量为代价增强了每个推进器的推力输出."
+  },
+  {
+    "id": "Proto_JumpJetsUltraHeavyExtendedCU8.Description.UIName",
+    "content": "拓展原人跳跃推进器(UH)"
+  },
+  {
+    "id": "Proto_JumpJetsUltraHeavyExtendedCU8.Description.Name",
+    "content": "超重型原人拓展跳跃推进器"
+  },
+  {
+    "id": "Proto_JumpJetsUltraHeavyExtendedCU8.Description.Manufacturer",
+    "content": "通用型"
+  },
+  {
+    "id": "Proto_JumpJetsUltraHeavyExtendedCU8.StatusEffect-QuirkWings.statusEffects0.Details",
+    "content": "-20%产热"
+  },
+  {
+    "id": "Proto_JumpJetsUltraHeavyExtendedCU8.StatusEffect-JumpAmount.statusEffects1.Details",
+    "content": "最大跳跃推进器量每行走里程"
+  },
+  {
+    "id": "Proto_JumpJetsUltraHeavyExtendedCU8.StatusEffect-QuirkWings.statusEffects0.Name",
+    "content": "减少产热"
+  },
+  {
+    "id": "Proto_JumpJetsUltraHeavyExtendedCU8.StatusEffect-JumpAmount.statusEffects1.Name",
+    "content": "跳跃推进器量"
+  },
+  {
+    "id": "Weapon_Autocannon_ProtoAC2_CLAN.Description.Details",
+    "content": "由血灵氏族于3073年引入,这些和原人机甲大小匹配的自动加农炮有他们的大兄弟的打击力度,但仍然足够小,适合原人机甲. \n\n<b><color=#ffcc00>使用原人AC/2弹药</color></b>."
+  },
+  {
+    "id": "Weapon_Autocannon_ProtoAC2_CLAN.Description.UIName",
+    "content": "原人AC/2(C)"
+  },
+  {
+    "id": "Weapon_Autocannon_ProtoAC2_CLAN.Description.Name",
+    "content": "原人AC/2(C)"
+  },
+  {
+    "id": "Weapon_Autocannon_ProtoAC2_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_Autocannon_ProtoAC4_CLAN.Description.Details",
+    "content": "由血灵氏族于3073年引入,这些和原人机甲大小匹配的自动加农炮有他们的大兄弟的打击力度,但仍然足够小,适合原人机甲. \n\n<b><color=#ffcc00>使用原人AC/4弹药</color></b>."
+  },
+  {
+    "id": "Weapon_Autocannon_ProtoAC4_CLAN.Description.UIName",
+    "content": "原人AC/4(C)"
+  },
+  {
+    "id": "Weapon_Autocannon_ProtoAC4_CLAN.Description.Name",
+    "content": "原人AC/4(C)"
+  },
+  {
+    "id": "Weapon_Autocannon_ProtoAC4_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_Autocannon_ProtoAC8_CLAN.Description.Details",
+    "content": "由血灵氏族于3073年引入,这些和原人机甲大小匹配的自动加农炮有他们的大兄弟的打击力度,但仍然足够小,适合原人机甲. \n\n<b><color=#ffcc00>使用原人AC/8弹药</color></b>."
+  },
+  {
+    "id": "Weapon_Autocannon_ProtoAC8_CLAN.Description.UIName",
+    "content": "原人AC/8(C)"
+  },
+  {
+    "id": "Weapon_Autocannon_ProtoAC8_CLAN.Description.Name",
+    "content": "原人AC/8(C)"
+  },
+  {
+    "id": "Weapon_Autocannon_ProtoAC8_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_EDPA.Description.Details",
+    "content": "原人机甲放电装甲(EDP)是由火山魈氏族的科学家格伦尼斯于3066年开发.到3071年,火山魈和科学家学会已经完善了该装甲.为了最大化原人机甲的实体攻击的伤害,格伦尼斯在装甲上混合编织了一系列复合电容器.这些电容器从原人机甲的聚变引擎中汲取能量,储存电能,当一个拥有EDP装甲的原人机甲进行物理攻击时,电容器放电并使目标受到类似泰瑟枪的效果."
+  },
+  {
+    "id": "Weapon_EDPA.Description.UIName",
+    "content": "原人机甲放电装甲"
+  },
+  {
+    "id": "Weapon_EDPA.Description.Name",
+    "content": "原人机甲放电装甲"
+  },
+  {
+    "id": "Weapon_EDPA.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_EDPA.HeatDamageTakenSoftCapMultiplier.statusEffects0.Details",
+    "content": "-1%热伤害"
+  },
+  {
+    "id": "Weapon_EDPA.Taser-Effect.statusEffects1.Details",
+    "content": "机甲系统已被扰乱"
+  },
+  {
+    "id": "Weapon_EDPA.Taser-Effect1.statusEffects2.Details",
+    "content": "降低机甲的移动."
+  },
+  {
+    "id": "Weapon_EDPA.Taser-Effect3.statusEffects3.Details",
+    "content": "机甲冷却系统受损"
+  },
+  {
+    "id": "Weapon_EDPA.WeaponEffect-OnHitShutdownChanceVee.statusEffects4.Details",
+    "content": "扎比先生"
+  },
+  {
+    "id": "Weapon_EDPA.WeaponEffect-OnHitShutdownChance.statusEffects5.Details",
+    "content": "扎比先生"
+  },
+  {
+    "id": "Weapon_EDPA.WeaponEffect-StackingShutdownChance.statusEffects6.Details",
+    "content": "扎比先生"
+  },
+  {
+    "id": "Weapon_EDPA.HeatDamageTakenSoftCapMultiplier.statusEffects0.Name",
+    "content": "4%热软限额"
+  },
+  {
+    "id": "Weapon_EDPA.Taser-Effect.statusEffects1.Name",
+    "content": "被扰乱"
+  },
+  {
+    "id": "Weapon_EDPA.Taser-Effect1.statusEffects2.Name",
+    "content": "步行障碍"
+  },
+  {
+    "id": "Weapon_EDPA.Taser-Effect3.statusEffects3.Name",
+    "content": "冷却系统受损"
+  },
+  {
+    "id": "Weapon_EDPA.WeaponEffect-OnHitShutdownChanceVee.statusEffects4.Name",
+    "content": "扎比先生"
+  },
+  {
+    "id": "Weapon_EDPA.WeaponEffect-OnHitShutdownChance.statusEffects5.Name",
+    "content": "扎比先生"
+  },
+  {
+    "id": "Weapon_EDPA.WeaponEffect-StackingShutdownChance.statusEffects6.Name",
+    "content": "扎比先生"
+  },
+  {
+    "id": "Weapon_LRM_Fusillade.Description.Details",
+    "content": "由丛林狼氏族于3068年设计,作为一种将先进战术导弹系统集成在原人机甲上的方法.但为了把它装在原人机甲的肢体上,必须做出许多牺牲.虽然它可以使用任何类型的ATM和IATM弹药,但它只携带重新装填一次的弹药."
+  },
+  {
+    "id": "Weapon_LRM_Fusillade.Description.UIName",
+    "content": "双连发ATM"
+  },
+  {
+    "id": "Weapon_LRM_Fusillade.Description.Name",
+    "content": "双连发ATM"
+  },
+  {
+    "id": "Weapon_LRM_Fusillade.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_LRM_LRM10_CLAN_PROTO.Description.Details",
+    "content": "这些变体除了发射管数外和正常LRM相同."
+  },
+  {
+    "id": "Weapon_LRM_LRM10_CLAN_PROTO.Description.UIName",
+    "content": "LRM10(C)"
+  },
+  {
+    "id": "Weapon_LRM_LRM10_CLAN_PROTO.Description.Name",
+    "content": "LRM10(C)"
+  },
+  {
+    "id": "Weapon_LRM_LRM10_CLAN_PROTO.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_LRM_LRM11_CLAN.Description.Details",
+    "content": "这些变体除了发射管数外和正常LRM相同."
+  },
+  {
+    "id": "Weapon_LRM_LRM11_CLAN.Description.UIName",
+    "content": "LRM11(C)"
+  },
+  {
+    "id": "Weapon_LRM_LRM11_CLAN.Description.Name",
+    "content": "LRM11(C)"
+  },
+  {
+    "id": "Weapon_LRM_LRM11_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_LRM_LRM12_CLAN.Description.Details",
+    "content": "这些变体除了发射管数外和正常LRM相同."
+  },
+  {
+    "id": "Weapon_LRM_LRM12_CLAN.Description.UIName",
+    "content": "LRM12(C)"
+  },
+  {
+    "id": "Weapon_LRM_LRM12_CLAN.Description.Name",
+    "content": "LRM12(C)"
+  },
+  {
+    "id": "Weapon_LRM_LRM12_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_LRM_LRM13_CLAN.Description.Details",
+    "content": "这些变体除了发射管数外和正常LRM相同."
+  },
+  {
+    "id": "Weapon_LRM_LRM13_CLAN.Description.UIName",
+    "content": "LRM13(C)"
+  },
+  {
+    "id": "Weapon_LRM_LRM13_CLAN.Description.Name",
+    "content": "LRM13(C)"
+  },
+  {
+    "id": "Weapon_LRM_LRM13_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_LRM_LRM14_CLAN.Description.Details",
+    "content": "这些变体除了发射管数外和正常LRM相同."
+  },
+  {
+    "id": "Weapon_LRM_LRM14_CLAN.Description.UIName",
+    "content": "LRM14(C)"
+  },
+  {
+    "id": "Weapon_LRM_LRM14_CLAN.Description.Name",
+    "content": "LRM14(C)"
+  },
+  {
+    "id": "Weapon_LRM_LRM14_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_LRM_LRM15_CLAN_PROTO.Description.Details",
+    "content": "这些变体除了发射管数外和正常LRM相同."
+  },
+  {
+    "id": "Weapon_LRM_LRM15_CLAN_PROTO.Description.UIName",
+    "content": "LRM15(C)"
+  },
+  {
+    "id": "Weapon_LRM_LRM15_CLAN_PROTO.Description.Name",
+    "content": "LRM15(C)"
+  },
+  {
+    "id": "Weapon_LRM_LRM15_CLAN_PROTO.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_LRM_LRM16_CLAN.Description.Details",
+    "content": "这些变体除了发射管数外和正常LRM相同."
+  },
+  {
+    "id": "Weapon_LRM_LRM16_CLAN.Description.UIName",
+    "content": "LRM16(C)"
+  },
+  {
+    "id": "Weapon_LRM_LRM16_CLAN.Description.Name",
+    "content": "LRM16(C)"
+  },
+  {
+    "id": "Weapon_LRM_LRM16_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_LRM_LRM17_CLAN.Description.Details",
+    "content": "这些变体除了发射管数外和正常LRM相同."
+  },
+  {
+    "id": "Weapon_LRM_LRM17_CLAN.Description.UIName",
+    "content": "LRM17(C)"
+  },
+  {
+    "id": "Weapon_LRM_LRM17_CLAN.Description.Name",
+    "content": "LRM17(C)"
+  },
+  {
+    "id": "Weapon_LRM_LRM17_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_LRM_LRM18_CLAN.Description.Details",
+    "content": "这些变体除了发射管数外和正常LRM相同."
+  },
+  {
+    "id": "Weapon_LRM_LRM18_CLAN.Description.UIName",
+    "content": "LRM18(C)"
+  },
+  {
+    "id": "Weapon_LRM_LRM18_CLAN.Description.Name",
+    "content": "LRM18(C)"
+  },
+  {
+    "id": "Weapon_LRM_LRM18_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_LRM_LRM19_CLAN.Description.Details",
+    "content": "这些变体除了发射管数外和正常LRM相同."
+  },
+  {
+    "id": "Weapon_LRM_LRM19_CLAN.Description.UIName",
+    "content": "LRM19(C)"
+  },
+  {
+    "id": "Weapon_LRM_LRM19_CLAN.Description.Name",
+    "content": "LRM19(C)"
+  },
+  {
+    "id": "Weapon_LRM_LRM19_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_LRM_LRM1_CLAN.Description.Details",
+    "content": "这些变体除了发射管数外和正常LRM相同."
+  },
+  {
+    "id": "Weapon_LRM_LRM1_CLAN.Description.UIName",
+    "content": "LRM1(C)"
+  },
+  {
+    "id": "Weapon_LRM_LRM1_CLAN.Description.Name",
+    "content": "LRM1(C)"
+  },
+  {
+    "id": "Weapon_LRM_LRM1_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_LRM_LRM2_CLAN.Description.Details",
+    "content": "这些变体除了发射管数外和正常LRM相同."
+  },
+  {
+    "id": "Weapon_LRM_LRM2_CLAN.Description.UIName",
+    "content": "LRM2(C)"
+  },
+  {
+    "id": "Weapon_LRM_LRM2_CLAN.Description.Name",
+    "content": "LRM2(C)"
+  },
+  {
+    "id": "Weapon_LRM_LRM2_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_LRM_LRM3_CLAN.Description.Details",
+    "content": "这些变体除了发射管数外和正常LRM相同."
+  },
+  {
+    "id": "Weapon_LRM_LRM3_CLAN.Description.UIName",
+    "content": "LRM3(C)"
+  },
+  {
+    "id": "Weapon_LRM_LRM3_CLAN.Description.Name",
+    "content": "LRM3(C)"
+  },
+  {
+    "id": "Weapon_LRM_LRM3_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_LRM_LRM4_CLAN.Description.Details",
+    "content": "这些变体除了发射管数外和正常LRM相同."
+  },
+  {
+    "id": "Weapon_LRM_LRM4_CLAN.Description.UIName",
+    "content": "LRM4(C)"
+  },
+  {
+    "id": "Weapon_LRM_LRM4_CLAN.Description.Name",
+    "content": "LRM4(C)"
+  },
+  {
+    "id": "Weapon_LRM_LRM4_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_LRM_LRM6_CLAN.Description.Details",
+    "content": "这些变体除了发射管数外和正常LRM相同."
+  },
+  {
+    "id": "Weapon_LRM_LRM6_CLAN.Description.UIName",
+    "content": "LRM6(C)"
+  },
+  {
+    "id": "Weapon_LRM_LRM6_CLAN.Description.Name",
+    "content": "LRM6(C)"
+  },
+  {
+    "id": "Weapon_LRM_LRM6_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_LRM_LRM7_CLAN.Description.Details",
+    "content": "这些变体除了发射管数外和正常LRM相同."
+  },
+  {
+    "id": "Weapon_LRM_LRM7_CLAN.Description.UIName",
+    "content": "LRM7(C)"
+  },
+  {
+    "id": "Weapon_LRM_LRM7_CLAN.Description.Name",
+    "content": "LRM7(C)"
+  },
+  {
+    "id": "Weapon_LRM_LRM7_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_LRM_LRM8_CLAN.Description.Details",
+    "content": "这些变体除了发射管数外和正常LRM相同."
+  },
+  {
+    "id": "Weapon_LRM_LRM8_CLAN.Description.UIName",
+    "content": "LRM8(C)"
+  },
+  {
+    "id": "Weapon_LRM_LRM8_CLAN.Description.Name",
+    "content": "LRM8(C)"
+  },
+  {
+    "id": "Weapon_LRM_LRM8_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_LRM_LRM9_CLAN.Description.Details",
+    "content": "这些变体除了发射管数外和正常LRM相同."
+  },
+  {
+    "id": "Weapon_LRM_LRM9_CLAN.Description.UIName",
+    "content": "LRM9(C)"
+  },
+  {
+    "id": "Weapon_LRM_LRM9_CLAN.Description.Name",
+    "content": "LRM9(C)"
+  },
+  {
+    "id": "Weapon_LRM_LRM9_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_Proto_MechChainsaw.Description.Details",
+    "content": "一个和机甲尺寸匹配的电锯焊接到了原人机甲上"
+  },
+  {
+    "id": "Weapon_Proto_MechChainsaw.Description.UIName",
+    "content": "大型原人电锯"
+  },
+  {
+    "id": "Weapon_Proto_MechChainsaw.Description.Name",
+    "content": "大型原人电锯"
+  },
+  {
+    "id": "Weapon_Proto_MechChainsaw.Description.Manufacturer",
+    "content": "班扬"
+  },
+  {
+    "id": "Weapon_Proto_SuperShotgun.Description.Details",
+    "content": "有人把两个原人AC/2焊接在一起,切掉一半的炮管,把它接驳到火控系统中,让它像是是一门超级自动加农炮,它可以使用LBX弹药.只是另一个海盗有它自己的主意,唯一令人惊讶的是它似乎不像是要炸掉,除非我们把它安装到任何'机甲'或'原人'上. \n\n<b><color=#ffcc00>使用LBX2弹药</color></b>"
+  },
+  {
+    "id": "Weapon_Proto_SuperShotgun.Description.UIName",
+    "content": "原人超级霰弹炮"
+  },
+  {
+    "id": "Weapon_Proto_SuperShotgun.Description.Name",
+    "content": "原人超级霰弹炮"
+  },
+  {
+    "id": "Weapon_Proto_SuperShotgun.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_SRM_SRM1_CLAN.Description.Details",
+    "content": "这些奇怪的管数SRM最初是为原人机甲制作,在所有方面都与正常品种相同,除了管数."
+  },
+  {
+    "id": "Weapon_SRM_SRM1_CLAN.Description.UIName",
+    "content": "SRM1(C)"
+  },
+  {
+    "id": "Weapon_SRM_SRM1_CLAN.Description.Name",
+    "content": "SRM1(C)"
+  },
+  {
+    "id": "Weapon_SRM_SRM1_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_SRM_SRM1_STREAK_CLAN.Description.Details",
+    "content": "这些奇怪的管数的迅捷SRM最初是为原人机甲制作,在所有方面都与正常品种相同,除了管数. \n\n<b><color=#ffcc00>使用LBX2弹药</color></b>"
+  },
+  {
+    "id": "Weapon_SRM_SRM1_STREAK_CLAN.Description.UIName",
+    "content": "迅捷SRM1(C)"
+  },
+  {
+    "id": "Weapon_SRM_SRM1_STREAK_CLAN.Description.Name",
+    "content": "迅捷SRM1(C)"
+  },
+  {
+    "id": "Weapon_SRM_SRM1_STREAK_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_SRM_SRM3_CLAN.Description.Details",
+    "content": "这些奇怪的管数SRM最初是为原人机甲制作,在所有方面都与正常品种相同,除了管数."
+  },
+  {
+    "id": "Weapon_SRM_SRM3_CLAN.Description.UIName",
+    "content": "SRM3(C)"
+  },
+  {
+    "id": "Weapon_SRM_SRM3_CLAN.Description.Name",
+    "content": "SRM3(C)"
+  },
+  {
+    "id": "Weapon_SRM_SRM3_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_SRM_SRM3_STREAK_CLAN.Description.Details",
+    "content": "这些奇怪的管数的迅捷SRM最初是为原人机甲制作,在所有方面都与正常品种相同,除了管数. \n\n<b><color=#ffcc00>使用LBX2弹药</color></b>"
+  },
+  {
+    "id": "Weapon_SRM_SRM3_STREAK_CLAN.Description.UIName",
+    "content": "迅捷SRM3(C)"
+  },
+  {
+    "id": "Weapon_SRM_SRM3_STREAK_CLAN.Description.Name",
+    "content": "迅捷SRM3(C)"
+  },
+  {
+    "id": "Weapon_SRM_SRM3_STREAK_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_SRM_SRM5_CLAN.Description.Details",
+    "content": "这些奇怪的管数SRM最初是为原人机甲制作,在所有方面都与正常品种相同,除了管数."
+  },
+  {
+    "id": "Weapon_SRM_SRM5_CLAN.Description.UIName",
+    "content": "SRM5(C)"
+  },
+  {
+    "id": "Weapon_SRM_SRM5_CLAN.Description.Name",
+    "content": "SRM5(C)"
+  },
+  {
+    "id": "Weapon_SRM_SRM5_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  },
+  {
+    "id": "Weapon_SRM_SRM5_STREAK_CLAN.Description.Details",
+    "content": "这些奇怪的管数的迅捷SRM最初是为原人机甲制作,在所有方面都与正常品种相同,除了管数. \n\n<b><color=#ffcc00>使用LBX2弹药</color></b>"
+  },
+  {
+    "id": "Weapon_SRM_SRM5_STREAK_CLAN.Description.UIName",
+    "content": "迅捷SRM5(C)"
+  },
+  {
+    "id": "Weapon_SRM_SRM5_STREAK_CLAN.Description.Name",
+    "content": "迅捷SRM5(C)"
+  },
+  {
+    "id": "Weapon_SRM_SRM5_STREAK_CLAN.Description.Manufacturer",
+    "content": "氏族"
+  }
+]
