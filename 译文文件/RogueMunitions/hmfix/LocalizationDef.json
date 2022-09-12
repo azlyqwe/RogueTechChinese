@@ -1,0 +1,134 @@
+[
+  {
+    "id": "Ammunition_LB10X.Description.Details",
+    "content": "大口径群组子弹,能够造成大量伤害,被设计用于LB10-X."
+  },
+  {
+    "id": "Ammunition_LB10X.Description.Name",
+    "content": "LB10-X弹药"
+  },
+  {
+    "id": "Ammunition_LB20X.Description.Details",
+    "content": "为LBX/20重型群组弹药,具有毁灭性的冲击力."
+  },
+  {
+    "id": "Ammunition_LB20X.Description.Name",
+    "content": "LB20-X弹药"
+  },
+  {
+    "id": "Ammunition_LB2X.Description.Details",
+    "content": "被设计用于LB2-X远程射击的小口径群组弹药."
+  },
+  {
+    "id": "Ammunition_LB2X.Description.Name",
+    "content": "LB2-X弹药"
+  },
+  {
+    "id": "Ammunition_LB5X.Description.Details",
+    "content": "中等口径群组弹药,适合LB 5-X远程射击."
+  },
+  {
+    "id": "Ammunition_LB5X.Description.Name",
+    "content": "LB5-X弹药"
+  },
+  {
+    "id": "Ammunition_Narc.Description.Details",
+    "content": "短程导弹,能够部署瞄准信标,增加后续导弹攻击的伤害."
+  },
+  {
+    "id": "Ammunition_Narc.Description.Name",
+    "content": "NARC信标弹药"
+  },
+  {
+    "id": "Ammunition_SRMInferno.Description.Details",
+    "content": "SRM炼狱弹药.不应购买或提供!!!炼狱火箭应该只有内部弹药."
+  },
+  {
+    "id": "Ammunition_SRMInferno.Description.Name",
+    "content": "SRM炼狱弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_LB10X.Description.Details",
+    "content": "弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到致命损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险.\n\n每个LB 10-X弹舱都包含8发弹药,可供多个武器使用."
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_LB10X.Description.UIName",
+    "content": "LB10-X弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_LB10X.Description.Name",
+    "content": "LB10-X弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_LB20X.Description.Details",
+    "content": "弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到致命损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险.\n\n每个LB 20-X弹舱都包含5发弹药,可供多个武器使用."
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_LB20X.Description.UIName",
+    "content": "LB20-X弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_LB20X.Description.Name",
+    "content": "LB20-X弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_LB2X.Description.Details",
+    "content": "弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到致命损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险.\n\n每个LB 2-X弹舱都包含25发弹药,可供多个武器使用."
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_LB2X.Description.UIName",
+    "content": "LB2-X弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_LB2X.Description.Name",
+    "content": "LB2-X弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_LB5X.Description.Details",
+    "content": "弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到致命损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险.\n\n每个LB 5-X弹舱都包含15发弹药,可供多个武器使用."
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_LB5X.Description.UIName",
+    "content": "LB5-X弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_LB5X.Description.Name",
+    "content": "LB5-X弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_MG_Half.Description.Details",
+    "content": "VANILLA BOX THAT SHOULD NOT BE SEEN OR USED"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_MG_Half.Description.UIName",
+    "content": "VANILLA BOX THAT SHOULD NOT BE SEEN OR USED"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_MG_Half.Description.Name",
+    "content": "VANILLA BOX THAT SHOULD NOT BE SEEN OR USED"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_Narc.Description.Details",
+    "content": "弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到致命损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险.\n\n每个NARC弹舱都包含6发弹药,可供多个武器使用."
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_Narc.Description.UIName",
+    "content": "NARC弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_Narc.Description.Name",
+    "content": "NARC信标弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_SRMInferno.Description.Details",
+    "content": "弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到致命损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险.\n每个炼狱弹舱都包含16发弹药,可供多个武器使用."
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_SRMInferno.Description.UIName",
+    "content": "炼狱弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_SRMInferno.Description.Name",
+    "content": "炼狱弹药"
+  }
+]

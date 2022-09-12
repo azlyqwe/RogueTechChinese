@@ -1,0 +1,110 @@
+[
+  {
+    "id": "Ammo_AmmunitionBox_Acid_HMRM.Description.Details",
+    "content": "这种弹头取代了标准重型中程导弹的普通炸药,并向其注入酸以融化目标的装甲.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Acid_HMRM.Description.UIName",
+    "content": "HMRM酸性弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Acid_HMRM.Description.Name",
+    "content": "HMRM酸性弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Apollo_HMRM.Description.Details",
+    "content": "太阳神火控系统是由天龙联合体为MRM专门设计的,需要阿尔特弥斯系统为这些导弹提供无与伦比的精度. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Apollo_HMRM.Description.UIName",
+    "content": "HMRM太阳神弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Apollo_HMRM.Description.Name",
+    "content": "HMRM弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_ER_HMRM.Description.Details",
+    "content": "极远射程HMRM弹药利用更先进的飞行电脑和稳定器大幅增加其射程.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险."
+  },
+  {
+    "id": "Ammo_AmmunitionBox_ER_HMRM.Description.UIName",
+    "content": "HMRM增程弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_ER_HMRM.Description.Name",
+    "content": "HMRM增程弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_FTL_HMRM.Description.Details",
+    "content": "跟随前导弹头(FTL)是在星联时代开发的,这种LRM发射器的替代弹药在任何方面都像标准的LRM导弹,除了一个:当目标被击中时,飞行中的每一枚导弹都将击中.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_FTL_HMRM.Description.UIName",
+    "content": "HMRM前导弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_FTL_HMRM.Description.Name",
+    "content": "HMRM前导弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_HMRM.Description.Details",
+    "content": "弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_HMRM.Description.UIName",
+    "content": "HMRM弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_HMRM.Description.Name",
+    "content": "HMRM弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Incendiary_HMRM.Description.Details",
+    "content": "与炼狱弹药不同,燃烧导弹弹药用一种更便宜的非凝胶燃烧剂取代弹头的高爆战斗部,这种燃烧剂类似于磷.虽然这种效果在原理上类似于炼狱弹药,但这种效果被大气条件大大减轻.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E可以降低风险 "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Incendiary_HMRM.Description.UIName",
+    "content": "HMRM弹药[燃烧]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Incendiary_HMRM.Description.Name",
+    "content": "HMRM炼狱弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_ListenKill_HMRM.Description.Details",
+    "content": "听-杀(又名L-K)导弹技术是对导弹的升级,以提高其准确性.这是通过一个小型电脑和导弹头部的瞄准装置来实现的,该装置允许导弹跟踪战斗机甲或坦克的电子噪声.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_ListenKill_HMRM.Description.UIName",
+    "content": "HMRM L-K弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_ListenKill_HMRM.Description.Name",
+    "content": "HMRM L-K弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Swarm_HMRM.Description.Details",
+    "content": "蜂群导弹系统携带的是小炸弹,而不是传统的MRM弹头,用爆炸给目标区域洗澡.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Swarm_HMRM.Description.UIName",
+    "content": "HMRM蜂群弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Swarm_HMRM.Description.Name",
+    "content": "HMRM蜂群弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Thunder_HMRM.Description.Details",
+    "content": "每枚雷霆LRM导弹包含五枚小型但威力强大的反车辆和人员杀伤地雷,发射时会散开.弹药包拥有足够的破坏力,可以让多部机甲的腿部损坏.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Thunder_HMRM.Description.UIName",
+    "content": "HMRM雷霆弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Thunder_HMRM.Description.Name",
+    "content": "HMRM雷霆弹药"
+  }
+]

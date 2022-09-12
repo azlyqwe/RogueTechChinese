@@ -1,0 +1,194 @@
+[
+  {
+    "id": "Ammo_AmmunitionBox_ArtemisIV_LRM_Clan.Description.Details",
+    "content": "半制导迫击炮弹具有一定的破坏潜力,但精度较高.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_ArtemisIV_LRM_Clan.Description.UIName",
+    "content": "LRM月神IV弹药[氏族]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_ArtemisIV_LRM_Clan.Description.Name",
+    "content": "LRM月神IV弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_ArtemisIV_LRM_half_Clan.Description.Details",
+    "content": "月神IV型LRM有一个'智能'弹头,能够有效地引导自己指向任何目标,专门设计用于月神系统,需要月神系统为这些导弹提供无与伦比的精度. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_ArtemisIV_LRM_half_Clan.Description.UIName",
+    "content": "LRM月神IV弹药[半][氏族]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_ArtemisIV_LRM_half_Clan.Description.Name",
+    "content": "LRM月神IV弹药."
+  },
+  {
+    "id": "Ammo_AmmunitionBox_ArtemisIV_SRM_Clan.Description.Details",
+    "content": "月神IV型SRM有一个'智能'弹头,能够有效地引导自己指向任何目标,专门设计用于月神系统,需要月神系统为这些导弹提供无与伦比的精度. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_ArtemisIV_SRM_Clan.Description.UIName",
+    "content": "SRM月神IV弹药[氏族]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_ArtemisIV_SRM_Clan.Description.Name",
+    "content": "SRM月神IV弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_ArtemisIV_SRM_half_Clan.Description.Details",
+    "content": "月神IV型SRM有一个'智能'弹头,能够有效地引导自己指向任何目标,专门设计用于月神系统,需要月神系统为这些导弹提供无与伦比的精度. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_ArtemisIV_SRM_half_Clan.Description.UIName",
+    "content": "SRM月神IV弹药[半][氏族]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_ArtemisIV_SRM_half_Clan.Description.Name",
+    "content": "SRM月神IV弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_LRM_Clan.Description.Details",
+    "content": "氏族级LRM弹药基本上与内天体对应弹药相同,但能够从更先进的发射器发射.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_LRM_Clan.Description.UIName",
+    "content": "LRM弹药[氏族]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_LRM_Clan.Description.Name",
+    "content": "LRM弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_LRM_half_Clan.Description.Details",
+    "content": "氏族级LRM弹药基本上与内天体对应弹药相同,但能够从更先进的发射器发射.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_LRM_half_Clan.Description.UIName",
+    "content": "LRM弹药[半][氏族]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_LRM_half_Clan.Description.Name",
+    "content": "LRM弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_SRM_Clan.Description.Details",
+    "content": "氏族级SRM弹药基本上与内天体对应弹药相同,但能够从更先进的发射器发射.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_SRM_Clan.Description.UIName",
+    "content": "SRM弹药[氏族]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_SRM_Clan.Description.Name",
+    "content": "SRM弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_SRM_half_Clan.Description.Details",
+    "content": "氏族级SRM弹药基本上与内天体对应弹药相同,但能够从更先进的发射器发射.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_SRM_half_Clan.Description.UIName",
+    "content": "SRM弹药[半][氏族]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_SRM_half_Clan.Description.Name",
+    "content": "SRM弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Inferno_SRM_Clan.Description.Details",
+    "content": "氏族级炼狱导弹是一个更强大的混合,可以向目标传递巨大的热量,但不会点燃生效地点地面.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Inferno_SRM_Clan.Description.UIName",
+    "content": "SRM弹药[燃烧][氏族]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Inferno_SRM_Clan.Description.Name",
+    "content": "SRM炼狱弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Inferno_SRM_half_Clan.Description.Details",
+    "content": "氏族级炼狱导弹是一个更强大的混合,可以向目标传递巨大的热量,但不会点燃生效地点地面.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Inferno_SRM_half_Clan.Description.UIName",
+    "content": "SRM弹药[半][燃烧][氏族]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Inferno_SRM_half_Clan.Description.Name",
+    "content": "SRM炼狱弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Streak_SRM_Clan.Description.Details",
+    "content": "弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Streak_SRM_Clan.Description.UIName",
+    "content": "SRM迅捷弹药[氏族]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Streak_SRM_Clan.Description.Name",
+    "content": "SRM迅捷弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Streak_SRM_half_Clan.Description.Details",
+    "content": "弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Streak_SRM_half_Clan.Description.UIName",
+    "content": "SRM迅捷弹药[半][氏族]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Streak_SRM_half_Clan.Description.Name",
+    "content": "SRM迅捷弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Swarm_LRM_Clan.Description.Details",
+    "content": "氏族级蜂群弹药将打击较小的区域,但爆炸威力更大.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Swarm_LRM_Clan.Description.UIName",
+    "content": "LRM蜂群弹药[氏族]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Swarm_LRM_Clan.Description.Name",
+    "content": "LRM弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Swarm_LRM_half_Clan.Description.Details",
+    "content": "蜂群导弹系统携带的是小炸弹,而不是传统的LRM弹头,用爆炸给目标区域洗澡.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Swarm_LRM_half_Clan.Description.UIName",
+    "content": "LRM蜂群弹药[半][氏族]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Swarm_LRM_half_Clan.Description.Name",
+    "content": "LRM弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Thunder_LRM_Clan.Description.Details",
+    "content": "氏族级FASCAM弹药基本上等同于更精细调整传感器的内天体增强雷霆,但更容易引爆.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Thunder_LRM_Clan.Description.UIName",
+    "content": "LRM FASSAM弹药[氏族]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Thunder_LRM_Clan.Description.Name",
+    "content": "LRM弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Thunder_LRM_half_Clan.Description.Details",
+    "content": "氏族级FASCAM弹药基本上等同于更精细调整传感器的内天体增强雷霆,但更容易引爆.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Thunder_LRM_half_Clan.Description.UIName",
+    "content": "LRM FASSAM弹药[半][氏族]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Thunder_LRM_half_Clan.Description.Name",
+    "content": "LRM弹药"
+  }
+]

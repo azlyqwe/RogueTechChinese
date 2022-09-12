@@ -1321,7 +1321,7 @@
   },
   {
     "id": "Gear_FCS_ArtemisII.StatusEffect_BCMissile.statusEffects0.Details",
-    "content": "+1精度,+25%致命损伤率,+10射程,-50%导弹武器最低射程"
+    "content": "+1精度,+25%严重损伤率,+10射程,-50%导弹武器最低射程"
   },
   {
     "id": "Gear_FCS_ArtemisII.StatusEffect_BCMissile.statusEffects0.Name",
@@ -1345,7 +1345,7 @@
   },
   {
     "id": "Gear_FCS_ArtemisIII.StatusEffect_BCMissile.statusEffects0.Details",
-    "content": "+1精度,+25%致命损伤率,+10射程,-50%导弹武器最低射程"
+    "content": "+1精度,+25%严重损伤率,+10射程,-50%导弹武器最低射程"
   },
   {
     "id": "Gear_FCS_ArtemisIII.StatusEffect-EnhMS-ClusterBonusLRM.statusEffects1.Details",
@@ -1557,11 +1557,11 @@
   },
   {
     "id": "Gear_FCS_Critical.Description.UIName",
-    "content": "致命损伤火控系统"
+    "content": "严重损伤火控系统"
   },
   {
     "id": "Gear_FCS_Critical.Description.Name",
-    "content": "致命损伤火控系统"
+    "content": "严重损伤火控系统"
   },
   {
     "id": "Gear_FCS_Critical.Description.Manufacturer",
@@ -1625,11 +1625,11 @@
   },
   {
     "id": "Gear_FCS_Flamer.StatusEffect-FCS_Flamer.statusEffects0.Details",
-    "content": "+1精度,+25%能量武器致命损伤率"
+    "content": "+1精度,+25%能量武器严重损伤率"
   },
   {
     "id": "Gear_FCS_Flamer.StatusEffect-FCS_Flamer2.statusEffects1.Details",
-    "content": "+1精度,+25%能量武器致命损伤率"
+    "content": "+1精度,+25%能量武器严重损伤率"
   },
   {
     "id": "Gear_FCS_Flamer.StatusEffect-FCS_Flamer.statusEffects0.Name",
@@ -1681,11 +1681,11 @@
   },
   {
     "id": "Gear_FCS_GaussPlus.StatusEffect-FCS_GaussPlus.statusEffects0.Details",
-    "content": "+1精度,+25%能量武器致命损伤率"
+    "content": "+1精度,+25%能量武器严重损伤率"
   },
   {
     "id": "Gear_FCS_GaussPlus.StatusEffect-FCS_GaussPlus2.statusEffects1.Details",
-    "content": "+1精度,+25%能量武器致命损伤率"
+    "content": "+1精度,+25%能量武器严重损伤率"
   },
   {
     "id": "Gear_FCS_GaussPlus.StatusEffect-FCS_GaussPlus.statusEffects0.Name",
@@ -2741,7 +2741,7 @@
   },
   {
     "id": "Gear_TargetingTrackingSystem_Kallon_A-C-1500.Description.UIName",
-    "content": "弹道致命损伤火控系统"
+    "content": "弹道严重损伤火控系统"
   },
   {
     "id": "Gear_TargetingTrackingSystem_Kallon_A-C-1500.Description.Name",
@@ -2869,7 +2869,7 @@
   },
   {
     "id": "Gear_TargetingTrackingSystem_RCA_InstaTrac-IX.Description.UIName",
-    "content": "能量致命损伤火控系统"
+    "content": "能量严重损伤火控系统"
   },
   {
     "id": "Gear_TargetingTrackingSystem_RCA_InstaTrac-IX.Description.Name",
@@ -3417,7 +3417,7 @@
   },
   {
     "id": "Gear_Cockpit_CommandConsole_Armored.PaddingEffect.statusEffects8.Details",
-    "content": "该单位抵抗致命损伤."
+    "content": "该单位抵抗严重损伤."
   },
   {
     "id": "Gear_Cockpit_CommandConsole_Armored.IRAllowMultiTargetEffect.statusEffects0.Name",

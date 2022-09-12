@@ -1,0 +1,194 @@
+[
+  {
+    "id": "Ammo_AmmunitionBox_Acid_MRM.Description.Details",
+    "content": "这种弹头取代了标准中程导弹的普通炸药,并向其注入酸以融化目标的装甲.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Acid_MRM.Description.UIName",
+    "content": "MRM酸性弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Acid_MRM.Description.Name",
+    "content": "MRM酸性弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Acid_MRM_half.Description.Details",
+    "content": "这种弹头取代了标准中程导弹的普通炸药,并向其注入酸以融化目标的装甲.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Acid_MRM_half.Description.UIName",
+    "content": "MRM酸性弹药[半]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Acid_MRM_half.Description.Name",
+    "content": "MRM酸性弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Apollo_MRM.Description.Details",
+    "content": "太阳神火控系统是由天龙联合体为MRM专门设计的,需要阿尔特弥斯系统为这些导弹提供无与伦比的精度."
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Apollo_MRM.Description.UIName",
+    "content": "MRM太阳神弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Apollo_MRM.Description.Name",
+    "content": "MRM太阳神弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Apollo_MRM_half.Description.Details",
+    "content": "太阳神火控系统是由天龙联合体为MRM专门设计的,需要阿尔特弥斯系统为这些导弹提供无与伦比的精度."
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Apollo_MRM_half.Description.UIName",
+    "content": "MRM太阳神弹药[半]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Apollo_MRM_half.Description.Name",
+    "content": "MRM太阳神弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_MRM.Description.Details",
+    "content": "弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_MRM.Description.UIName",
+    "content": "MRM弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_MRM.Description.Name",
+    "content": "MRM弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_MRM_double.Description.Details",
+    "content": "双倍弹药舱:将一个弹舱的进料和储存机制替换为一个多25%子弹的弹舱.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险."
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_MRM_double.Description.UIName",
+    "content": "MRM弹药[双]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_MRM_double.Description.Name",
+    "content": "MRM弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_MRM_half.Description.Details",
+    "content": "弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_MRM_half.Description.UIName",
+    "content": "MRM弹药[半]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_MRM_half.Description.Name",
+    "content": "MRM弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Improved_MRM.Description.Details",
+    "content": "改进的中程导弹是对MRM的重新设计.通过将推进剂换成新的混合物,并将战斗部换成聚能炸药,导弹的空气动力学结构也得以改进.通过改进空气动力学和尾翼的稳定性,这使精度获得全面提高.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Improved_MRM.Description.UIName",
+    "content": "MRM改进弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Improved_MRM.Description.Name",
+    "content": "MRM弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Improved_MRM_half.Description.Details",
+    "content": "改进的中程导弹是对MRM的重新设计.通过将推进剂换成新的混合物,并将战斗部换成聚能炸药,导弹的空气动力学结构也得以改进.通过改进空气动力学和尾翼的稳定性,这使精度获得全面提高.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Improved_MRM_half.Description.UIName",
+    "content": "MRM改进弹药[半]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Improved_MRM_half.Description.Name",
+    "content": "MRM弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Incendiary_MRM.Description.Details",
+    "content": "与炼狱弹药不同,燃烧导弹弹药用一种更便宜的非凝胶燃烧剂取代弹头的高爆战斗部,这种燃烧剂类似于磷.虽然这种效果在原理上类似于炼狱弹药,但这种效果被大气条件大大减轻.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E可以降低风险 "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Incendiary_MRM.Description.UIName",
+    "content": "MRM弹药[燃烧]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Incendiary_MRM.Description.Name",
+    "content": "MRM燃烧弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Incendiary_MRM_half.Description.Details",
+    "content": "与炼狱弹药不同,燃烧导弹弹药用一种更便宜的非凝胶燃烧剂取代弹头的高爆战斗部,这种燃烧剂类似于磷.虽然这种效果在原理上类似于炼狱弹药,但这种效果被大气条件大大减轻.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Incendiary_MRM_half.Description.UIName",
+    "content": "MRM弹药[半][燃烧]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Incendiary_MRM_half.Description.Name",
+    "content": "MRM燃烧弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Protected_MRM.Description.Details",
+    "content": "C.A.S.E.弹药箱的设计有爆炸面板以保护机甲上的重要部件.一旦传感器检测到弹药爆炸,靠近最外面的面板就被抛掉.将大量的爆炸能量导向机甲外部空间. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Protected_MRM.Description.UIName",
+    "content": "MRM弹药[安全]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Protected_MRM.Description.Name",
+    "content": "MRM弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Streak_MRM.Description.Details",
+    "content": "弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Streak_MRM.Description.UIName",
+    "content": "MRM迅捷弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Streak_MRM.Description.Name",
+    "content": "MRM弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Streak_MRM_half.Description.Details",
+    "content": "弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Streak_MRM_half.Description.UIName",
+    "content": "MRM迅捷弹药[半]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Streak_MRM_half.Description.Name",
+    "content": "MRM弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Tandem_MRM.Description.Details",
+    "content": "是的,老板,我不知道该告诉你什么,这些垃圾人设法把一个天腾接入到这些MRM里.每一个都没有太重的战斗部,但会很痛.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Tandem_MRM.Description.UIName",
+    "content": "MRM聚能弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Tandem_MRM.Description.Name",
+    "content": "MRM弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Tandem_MRM_half.Description.Details",
+    "content": "是的,老板,我不知道该告诉你什么,这些垃圾人设法把一个天腾接入到这些MRM里.每一个都没有太重的战斗部,但会很痛.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Tandem_MRM_half.Description.UIName",
+    "content": "MRM聚能弹药[半]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Tandem_MRM_half.Description.Name",
+    "content": "MRM弹药"
+  }
+]

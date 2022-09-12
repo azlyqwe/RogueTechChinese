@@ -1,0 +1,94 @@
+{
+    "culture": 2,
+    "files": [
+        "Ammo_AmmunitionBox_Generic_Harpoon.json",
+        "Ammo_AmmunitionBox_Generic_Taser.json"
+    ],
+    "directories": [
+        {
+            "dir": [
+                "RogueMunitions",
+                "Taser"
+            ],
+            "processors": [
+                "Description.Details",
+                "Description.UIName",
+                "Description.Name"
+            ]
+        }
+    ],
+    "content": [
+        {
+            "id": "Ammo_AmmunitionBox_Generic_Harpoon.Description.Details",
+            "original": "A box of long metallic barbed Spikes, commonly known as a Harpoon. <b><color=#099ff2>Does not explode.</color></b>",
+            "prevOriginal": "A box of long metallic barbed Spikes, commonly known as a Harpoon. <b><color=#099ff2>Does not explode.</color></b>",
+            "content": "A box of long metallic barbed Spikes, commonly known as a Harpoon. <b><color=#099ff2>Does not explode.</color></b>",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_Generic_Harpoon",
+            "processor": "Description.Details"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_Generic_Harpoon.Description.UIName",
+            "original": "Ammo Harpoon",
+            "prevOriginal": "Ammo Harpoon",
+            "content": "Ammo Harpoon",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_Generic_Harpoon",
+            "processor": "Description.UIName"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_Generic_Harpoon.Description.Name",
+            "original": "Harpoon Ammo",
+            "prevOriginal": "Harpoon Ammo",
+            "content": "Harpoon Ammo",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_Generic_Harpoon",
+            "processor": "Description.Name"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_Generic_Taser.Description.Details",
+            "original": "Ammo Bins contain the rounds needed for projectile-based weaponry, with at least one bin required per weapon type. <b><color=#099ff2>Does not explode.</color></b>",
+            "prevOriginal": "Ammo Bins contain the rounds needed for projectile-based weaponry, with at least one bin required per weapon type. <b><color=#099ff2>Does not explode.</color></b>",
+            "content": "Ammo Bins contain the rounds needed for projectile-based weaponry, with at least one bin required per weapon type. <b><color=#099ff2>Does not explode.</color></b>",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_Generic_Taser",
+            "processor": "Description.Details"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_Generic_Taser.Description.UIName",
+            "original": "Ammo Taser",
+            "prevOriginal": "Ammo Taser",
+            "content": "Ammo Taser",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_Generic_Taser",
+            "processor": "Description.UIName"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_Generic_Taser.Description.Name",
+            "original": "Taser Ammo",
+            "prevOriginal": "Taser Ammo",
+            "content": "Taser Ammo",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_Generic_Taser",
+            "processor": "Description.Name"
+        }
+    ]
+}

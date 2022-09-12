@@ -1,0 +1,194 @@
+[
+  {
+    "id": "Ammo_AmmunitionBox_Rotary_AC2.Description.Details",
+    "content": "弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险."
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Rotary_AC2.Description.UIName",
+    "content": "RAC/2弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Rotary_AC2.Description.Name",
+    "content": "RAC/2弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Rotary_AC2_double.Description.Details",
+    "content": "双倍弹药舱:将一个弹舱的进料和储存机制替换为一个多25%子弹的弹舱.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Rotary_AC2_double.Description.UIName",
+    "content": "RAC/2弹药[双]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Rotary_AC2_double.Description.Name",
+    "content": "RAC/2弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Rotary_AC2_half.Description.Details",
+    "content": "弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Rotary_AC2_half.Description.UIName",
+    "content": "RAC/2弹药[半]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Rotary_AC2_half.Description.Name",
+    "content": "RAC/2弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Rotary_AC5.Description.Details",
+    "content": "弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Rotary_AC5.Description.UIName",
+    "content": "RAC/5弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Rotary_AC5.Description.Name",
+    "content": "RAC/5弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Rotary_AC5_double.Description.Details",
+    "content": "双倍弹药舱:将一个弹舱的进料和储存机制替换为一个多25%子弹的弹舱.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Rotary_AC5_double.Description.UIName",
+    "content": "RAC/5弹药[双]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Rotary_AC5_double.Description.Name",
+    "content": "RAC/5弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Rotary_AC5_half.Description.Details",
+    "content": "弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Rotary_AC5_half.Description.UIName",
+    "content": "RAC/5弹药[半]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Rotary_AC5_half.Description.Name",
+    "content": "RAC/5弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Rotary_AP_AC2.Description.Details",
+    "content": "穿甲(AP)自动炮弹药增加造成的严重损伤率.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险."
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Rotary_AP_AC2.Description.UIName",
+    "content": "RAC/2弹药[穿甲]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Rotary_AP_AC2.Description.Name",
+    "content": "RAC/2 AP弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Rotary_AP_AC5.Description.Details",
+    "content": "穿甲(AP)自动炮弹药增加造成的严重损伤率.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险."
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Rotary_AP_AC5.Description.UIName",
+    "content": "RAC/5弹药[穿甲]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Rotary_AP_AC5.Description.Name",
+    "content": "RAC/5 AP弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Rotary_Caseless_AC2.Description.Details",
+    "content": "无壳自动加农炮弹药是由联邦合众国开发的,以供给更多的弹药.不是一个标准的装满推进剂金属或塑料外壳,无壳自动加农炮的发射药‘包装’在弹丸周围.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Rotary_Caseless_AC2.Description.UIName",
+    "content": "RAC/2弹药[无壳]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Rotary_Caseless_AC2.Description.Name",
+    "content": "RAC/2弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Rotary_Caseless_AC5.Description.Details",
+    "content": "无壳自动加农炮弹药是由联邦合众国开发的,以供给更多的弹药.不是一个标准的装满推进剂金属或塑料外壳,无壳自动加农炮的发射药‘包装’在弹丸周围.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Rotary_Caseless_AC5.Description.UIName",
+    "content": "RAC/5弹药[无壳]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Rotary_Caseless_AC5.Description.Name",
+    "content": "RAC/5弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Rotary_Flak_AC2.Description.Details",
+    "content": "NAIS的科学家无法为轻型RAC系统重制标准的高射炮弹药,他们从LBX那里得到了一个提示,让炮弹在离开枪管时分散成子弹药,依靠子母弹击中某物. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Rotary_Flak_AC2.Description.UIName",
+    "content": "RAC/2高射炮弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Rotary_Flak_AC2.Description.Name",
+    "content": "RAC/2弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Rotary_Flak_AC5.Description.Details",
+    "content": "NAIS的科学家无法为轻型RAC系统重制标准的高射炮弹药,他们从LBX那里得到了一个提示,让炮弹在离开枪管时分散成子弹药,依靠子母弹击中某物. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Rotary_Flak_AC5.Description.UIName",
+    "content": "RAC/5高射炮弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Rotary_Flak_AC5.Description.Name",
+    "content": "RAC/5弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Rotary_Incendiary_AC2.Description.Details",
+    "content": "由NAIS开发的轻型RAC燃烧弹药的类似于其标准版本,可悲的是,需要一个特殊的储存和弹药供应装置,与普通炮弹相比,减少了每盒可用的子弹. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Rotary_Incendiary_AC2.Description.UIName",
+    "content": "RAC/2弹药[燃烧]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Rotary_Incendiary_AC2.Description.Name",
+    "content": "RAC/2燃烧弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Rotary_Incendiary_AC5.Description.Details",
+    "content": "由NAIS开发的轻型RAC燃烧弹药的类似于其标准版本,可悲的是,需要一个特殊的储存和弹药供应装置,与普通炮弹相比,减少了每盒可用的子弹. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Rotary_Incendiary_AC5.Description.UIName",
+    "content": "RAC/5弹药[燃烧]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Rotary_Incendiary_AC5.Description.Name",
+    "content": "RAC/5燃烧弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Rotary_Precision_AC2.Description.Details",
+    "content": "精密自动炮弹药携带着自制导陀螺稳定炮弹.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Rotary_Precision_AC2.Description.UIName",
+    "content": "RAC/2弹药[精密]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Rotary_Precision_AC2.Description.Name",
+    "content": "RAC/2精密弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Rotary_Precision_AC5.Description.Details",
+    "content": "精密自动炮弹药携带着自制导陀螺稳定炮弹.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Rotary_Precision_AC5.Description.UIName",
+    "content": "RAC/5弹药[精密]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Rotary_Precision_AC5.Description.Name",
+    "content": "RAC/5精密弹药"
+  }
+]

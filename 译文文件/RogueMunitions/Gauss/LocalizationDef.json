@@ -1,0 +1,158 @@
+[
+  {
+    "id": "Ammo_AmmunitionBox_Generic_GAUSS.Description.Details",
+    "content": "弹舱包含以射弹为基础的武器所需的子弹,每种武器至少需要一个弹舱.<b><color=#099FF2>不会爆炸.</color></b>"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_GAUSS.Description.UIName",
+    "content": "高斯弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_GAUSS.Description.Name",
+    "content": "高斯弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_GAUSS_double.Description.Details",
+    "content": "双倍弹药舱:将一个弹舱的进料和储存机制替换为一个多25%子弹的弹舱. <b><color=#099ff2>不会爆炸</color></b>"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_GAUSS_double.Description.UIName",
+    "content": "高斯弹药[双]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_GAUSS_double.Description.Name",
+    "content": "高斯弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_GAUSS_half.Description.Details",
+    "content": "弹舱包含以射弹为基础的武器所需的子弹,每种武器至少需要一个弹舱.<b><color=#099FF2>不会爆炸.</color></b>"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_GAUSS_half.Description.UIName",
+    "content": "高斯弹药[半]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_GAUSS_half.Description.Name",
+    "content": "高斯弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Heavy_GAUSS.Description.Details",
+    "content": "重型高斯弹药发射较重的射弹,大幅度降低射程,但增加了总体伤害.<b><color=#099FF2>不会爆炸.</color></b>"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Heavy_GAUSS.Description.UIName",
+    "content": "重型高斯弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Heavy_GAUSS.Description.Name",
+    "content": "重型高斯弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Heavy_GAUSS_double.Description.Details",
+    "content": "重型高斯弹药发射较重的射弹,大幅度降低射程,但增加了总体伤害.<b><color=#099FF2>不会爆炸.</color></b>"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Heavy_GAUSS_double.Description.UIName",
+    "content": "重型高斯弹药[双]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Heavy_GAUSS_double.Description.Name",
+    "content": "重型高斯弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Hyper_GAUSS.Description.Details",
+    "content": "超级突击高斯线膛炮发射大量小口径高斯子弹,类似于转轮自动加农炮,粉碎目标.<b><color=#099FF2>不会爆炸.</color></b>"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Hyper_GAUSS.Description.UIName",
+    "content": "超级高斯弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Hyper_GAUSS.Description.Name",
+    "content": "重型高斯弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Hyper_GAUSS_double.Description.Details",
+    "content": "超级突击高斯线膛炮发射大量小口径高斯子弹,类似于转轮自动加农炮,粉碎目标.<b><color=#099FF2>不会爆炸.</color></b>"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Hyper_GAUSS_double.Description.UIName",
+    "content": "超级高斯弹药[双]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Hyper_GAUSS_double.Description.Name",
+    "content": "重型高斯弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Hyper_GAUSS_half.Description.Details",
+    "content": "超级突击高斯线膛炮发射大量小口径高斯子弹,类似于转轮自动加农炮,粉碎目标.<b><color=#099FF2>不会爆炸.</color></b>"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Hyper_GAUSS_half.Description.UIName",
+    "content": "超级高斯弹药[半]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Hyper_GAUSS_half.Description.Name",
+    "content": "重型高斯弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Light_GAUSS.Description.Details",
+    "content": "轻型高斯有一个更好的整体弹道,允许子弹走得更远,但减少了伤害并拥有更远的最近射程.<b><color=#099FF2>不会爆炸.</color></b>"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Light_GAUSS.Description.UIName",
+    "content": "轻型高斯弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Light_GAUSS.Description.Name",
+    "content": "轻型高斯弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Light_GAUSS_double.Description.Details",
+    "content": "轻型高斯有一个更好的整体弹道,允许子弹走得更远,但减少了伤害并拥有更远的最近射程.<b><color=#099FF2>不会爆炸.</color></b>"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Light_GAUSS_double.Description.UIName",
+    "content": "轻型高斯弹药[双]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Light_GAUSS_double.Description.Name",
+    "content": "轻型高斯弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Light_GAUSS_half.Description.Details",
+    "content": "轻型高斯有一个更好的整体弹道,允许子弹走得更远,但减少了伤害并拥有更远的最近射程.<b><color=#099FF2>不会爆炸.</color></b>"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Light_GAUSS_half.Description.UIName",
+    "content": "轻型高斯弹药[半]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Light_GAUSS_half.Description.Name",
+    "content": "轻型高斯弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_MagShot.Description.Details",
+    "content": "弹舱包含以射弹为基础的武器所需的子弹,每种武器至少需要一个弹舱.<b><color=#099FF2>不会爆炸.</color></b>"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_MagShot.Description.UIName",
+    "content": "磁性弹丸弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_MagShot.Description.Name",
+    "content": "高斯弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_MagShot_half.Description.Details",
+    "content": "弹舱包含以射弹为基础的武器所需的子弹,每种武器至少需要一个弹舱.<b><color=#099FF2>不会爆炸.</color></b>"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_MagShot_half.Description.UIName",
+    "content": "磁性弹丸弹药[半]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_MagShot_half.Description.Name",
+    "content": "高斯弹药"
+  }
+]

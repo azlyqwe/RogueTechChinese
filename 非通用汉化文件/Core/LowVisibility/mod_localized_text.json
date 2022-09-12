@@ -27,17 +27,17 @@
         "ATTACK_NO_VISUALS" : "不在视线中",
         "ATTACK_ZOOM_VISION" : "缩放视觉",
         "ATTACK_HEAT_VISION" : "热视觉",
-        "ATTACK_MIMETIC_ARMOR" : "伪装装甲",
+        "ATTACK_MIMETIC_ARMOR" : "拟态装甲",
         "ATTACK_NO_SENSORS" : "无传感器",
-        "ATTACK_ECM_JAMMED" : "ECM 干扰",
-        "ATTACK_ECM_SHIELD" : "ECM 护盾",
+        "ATTACK_ECM_JAMMED" : "ECM干扰",
+        "ATTACK_ECM_SHIELD" : "ECM防护",
         "ATTACK_STEALTH" : "隐身",
         "ATTACK_NARCED" : "NARC标记",
         "ATTACK_TAGGED" : "TAG捕获"
     },
     "Floaties" : {
-        "FLOATIE_ECM_SHIELDED" : "ECM 干扰",
-        "FLOATIE_ECM_JAMMED" : "ECM 干扰"
+        "FLOATIE_ECM_SHIELDED" : "ECM防护",
+        "FLOATIE_ECM_JAMMED" : "ECM干扰"
     },
     "TargetingComputer" : {
         "TARG_COMP_BALLISTIC" : "弹道",

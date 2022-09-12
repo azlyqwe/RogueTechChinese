@@ -2601,7 +2601,7 @@
   },
   {
     "id": "emod_engineslots_compact_center.Description.Details",
-    "content": "紧凑型聚变引擎在机械结构上类似于标准聚变引擎,但使用了更致密的辐射屏蔽材料.紧凑型聚变引擎比标准型重量增加了50%,但占用较少核心躯干空间,受到致命损伤命中的机率更小."
+    "content": "紧凑型聚变引擎在机械结构上类似于标准聚变引擎,但使用了更致密的辐射屏蔽材料.紧凑型聚变引擎比标准型重量增加了50%,但占用较少核心躯干空间,受到严重损伤命中的机率更小."
   },
   {
     "id": "emod_engineslots_compact_center.Description.UIName",

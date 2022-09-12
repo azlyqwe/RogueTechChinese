@@ -129,7 +129,7 @@
   },
   {
     "id": "emod_structureslots_superheavy_reinforced.ReinforcedCritImmune.statusEffects0.Details",
-    "content": "强化结构降低致命损伤率."
+    "content": "强化结构降低严重损伤率."
   },
   {
     "id": "emod_structureslots_superheavy_reinforced.ReinforcedCritImmune.statusEffects0.Name",
@@ -153,7 +153,7 @@
   },
   {
     "id": "Gear_structureslots_Reinforced.Description.Details",
-    "content": "强化结构是通过提高内部结构的耐久来增强战斗机甲生存能力的一种尝试.减少受到的致命损伤率."
+    "content": "强化结构是通过提高内部结构的耐久来增强战斗机甲生存能力的一种尝试.减少受到的严重损伤率."
   },
   {
     "id": "Gear_structureslots_Reinforced.Description.UIName",
@@ -169,7 +169,7 @@
   },
   {
     "id": "Gear_structureslots_Reinforced.ReinforcedCritImmune.statusEffects0.Details",
-    "content": "强化结构降低致命损伤率."
+    "content": "强化结构降低严重损伤率."
   },
   {
     "id": "Gear_structureslots_Reinforced.ReinforcedCritImmune.statusEffects0.Name",

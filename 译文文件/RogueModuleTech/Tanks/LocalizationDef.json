@@ -105,7 +105,7 @@
   },
   {
     "id": "Special_Tank_Monolithic.Monolithic_CritRes.statusEffects3.Details",
-    "content": "-25%遭受致命损伤率."
+    "content": "-25%遭受严重损伤率."
   },
   {
     "id": "Special_Tank_Monolithic.BreachImmunity.statusEffects4.Details",
@@ -129,7 +129,7 @@
   },
   {
     "id": "Special_Tank_Monolithic.Monolithic_CritRes.statusEffects3.Name",
-    "content": "致命损伤抵抗"
+    "content": "严重损伤抵抗"
   },
   {
     "id": "Special_Tank_Monolithic.BreachImmunity.statusEffects4.Name",
@@ -269,7 +269,7 @@
   },
   {
     "id": "Special_Protected_Mechanisms.ProtectedMechanismsCrit.statusEffects0.Details",
-    "content": "强化结构降低致命损伤率."
+    "content": "强化结构降低严重损伤率."
   },
   {
     "id": "Special_Protected_Mechanisms.ProtectedMechanismsCrit.statusEffects0.Name",
@@ -453,7 +453,7 @@
   },
   {
     "id": "Special_Tank_Quicsell.ReinforcedCritImmune.statusEffects3.Details",
-    "content": "强化结构降低致命损伤率."
+    "content": "强化结构降低严重损伤率."
   },
   {
     "id": "Special_Tank_Quicsell.TC-Breaching.statusEffects4.Details",
@@ -549,7 +549,7 @@
   },
   {
     "id": "Special_Tank_Technical.ReinforcedCritImmune.statusEffects5.Details",
-    "content": "强化结构降低致命损伤率."
+    "content": "强化结构降低严重损伤率."
   },
   {
     "id": "Special_Tank_Technical.GainEvasion.statusEffects0.Name",
@@ -697,7 +697,7 @@
   },
   {
     "id": "Gear_Armored_Tracked_Left.TankCritPenalizedMotiveL.statusEffects2.Details",
-    "content": "装甲化移动致命损伤奖励"
+    "content": "装甲化移动严重损伤奖励"
   },
   {
     "id": "Gear_Armored_Tracked_Left.Spall_Liner_Effect2.statusEffects0.Name",
@@ -709,7 +709,7 @@
   },
   {
     "id": "Gear_Armored_Tracked_Left.TankCritPenalizedMotiveL.statusEffects2.Name",
-    "content": "致命损伤抵抗"
+    "content": "严重损伤抵抗"
   },
   {
     "id": "Gear_Armored_Tracked_Right.Description.Details",
@@ -733,7 +733,7 @@
   },
   {
     "id": "Gear_Armored_Tracked_Right.TankCritPenalizedMotiveR.statusEffects2.Details",
-    "content": "装甲化移动致命损伤奖励"
+    "content": "装甲化移动严重损伤奖励"
   },
   {
     "id": "Gear_Armored_Tracked_Right.Spall_Liner_Effect2.statusEffects0.Name",
@@ -745,7 +745,7 @@
   },
   {
     "id": "Gear_Armored_Tracked_Right.TankCritPenalizedMotiveR.statusEffects2.Name",
-    "content": "致命损伤抵抗"
+    "content": "严重损伤抵抗"
   },
   {
     "id": "Gear_Armored_Wheeled_Left.Description.Details",
@@ -769,7 +769,7 @@
   },
   {
     "id": "Gear_Armored_Wheeled_Left.TankCritPenalizedMotiveL.statusEffects2.Details",
-    "content": "装甲化移动致命损伤奖励"
+    "content": "装甲化移动严重损伤奖励"
   },
   {
     "id": "Gear_Armored_Wheeled_Left.Spall_Liner_Effect2.statusEffects0.Name",
@@ -781,7 +781,7 @@
   },
   {
     "id": "Gear_Armored_Wheeled_Left.TankCritPenalizedMotiveL.statusEffects2.Name",
-    "content": "致命损伤抵抗"
+    "content": "严重损伤抵抗"
   },
   {
     "id": "Gear_Armored_Wheeled_Right.Description.Details",
@@ -805,7 +805,7 @@
   },
   {
     "id": "Gear_Armored_Wheeled_Right.TankCritPenalizedMotiveR.statusEffects2.Details",
-    "content": "装甲化移动致命损伤奖励"
+    "content": "装甲化移动严重损伤奖励"
   },
   {
     "id": "Gear_Armored_Wheeled_Right.Spall_Liner_Effect2.statusEffects0.Name",
@@ -817,7 +817,7 @@
   },
   {
     "id": "Gear_Armored_Wheeled_Right.TankCritPenalizedMotiveR.statusEffects2.Name",
-    "content": "致命损伤抵抗"
+    "content": "严重损伤抵抗"
   },
   {
     "id": "Gear_Blimp_Front.Description.Details",
@@ -949,7 +949,7 @@
   },
   {
     "id": "Gear_Tracked_Gearbox.TankCritPenalizedMotiveR.statusEffects1.Details",
-    "content": "装甲化移动致命损伤奖励"
+    "content": "装甲化移动严重损伤奖励"
   },
   {
     "id": "Gear_Tracked_Gearbox.StatusEffect-TrackedRecoilMitigation.statusEffects0.Name",
@@ -957,7 +957,7 @@
   },
   {
     "id": "Gear_Tracked_Gearbox.TankCritPenalizedMotiveR.statusEffects1.Name",
-    "content": "致命损伤抵抗"
+    "content": "严重损伤抵抗"
   },
   {
     "id": "Gear_Tracked_Left.Description.Details",
@@ -1357,7 +1357,7 @@
   },
   {
     "id": "Tank_CrewCompartment.TankCritPenalizedCrew.statusEffects0.Details",
-    "content": "易受致命损伤"
+    "content": "易受严重损伤"
   },
   {
     "id": "Tank_CrewCompartment.StatusEffect_Cockpit_Skill_Tactics.statusEffects1.Details",
@@ -1373,7 +1373,7 @@
   },
   {
     "id": "Tank_CrewCompartment.TankCritPenalizedCrew.statusEffects0.Name",
-    "content": "易受致命损伤"
+    "content": "易受严重损伤"
   },
   {
     "id": "Tank_CrewCompartment.StatusEffect_Cockpit_Skill_Tactics.statusEffects1.Name",
@@ -2373,7 +2373,7 @@
   },
   {
     "id": "Tank_InfantryCompartment.Description.Details",
-    "content": "无功能,它不携带战斗装甲.这是常规步兵乘坐的地方,如果我们有步兵的话,它会降低致命损伤率,以表示载具中没有致命的关键区域."
+    "content": "无功能,它不携带战斗装甲.这是常规步兵乘坐的地方,如果我们有步兵的话,它会降低严重损伤率,以表示载具中没有致命的关键区域."
   },
   {
     "id": "Tank_InfantryCompartment.Description.UIName",

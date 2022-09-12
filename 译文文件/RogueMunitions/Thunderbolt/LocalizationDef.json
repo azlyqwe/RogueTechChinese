@@ -1,0 +1,314 @@
+[
+  {
+    "id": "Ammo_AmmunitionBox_Thunderbolt_TB10.Description.Details",
+    "content": "弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险."
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Thunderbolt_TB10.Description.UIName",
+    "content": "霹雳火10弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Thunderbolt_TB10.Description.Name",
+    "content": "霹雳火10弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Thunderbolt_TB10_Feint.Description.Details",
+    "content": "'佯动'导弹有内部箔条分配器,在很大一部分飞行轨迹中会'静默'并使用惯性滑行,以欺骗AMS系统.他们在撞击前激活以进行最后的轨迹调整.弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险."
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Thunderbolt_TB10_Feint.Description.UIName",
+    "content": "霹雳火10佯动弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Thunderbolt_TB10_Feint.Description.Name",
+    "content": "霹雳火10弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Thunderbolt_TB10_Guided.Description.Details",
+    "content": "用一些进攻潜力换取先进的制导系统的制导雷霆导弹,能够连接入到月神IV火控系统.  "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Thunderbolt_TB10_Guided.Description.UIName",
+    "content": "霹雳火10制导弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Thunderbolt_TB10_Guided.Description.Name",
+    "content": "霹雳火10弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Thunderbolt_TB10_HE.Description.Details",
+    "content": "这种雷霆导弹携带一个高爆弹头,对击中地点附近的单位造成伤害."
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Thunderbolt_TB10_HE.Description.UIName",
+    "content": "霹雳火10高爆弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Thunderbolt_TB10_HE.Description.Name",
+    "content": "霹雳火10弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Thunderbolt_TB10_Kinetic.Description.Details",
+    "content": "动能杀伤导弹使用巨大的火箭发动机将重金属飞镖加速到高速.它们能很好地穿透装甲,但需要时间才能达到全速.伤害在更远的距离增加.弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险."
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Thunderbolt_TB10_Kinetic.Description.UIName",
+    "content": "霹雳火10动能杀伤弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Thunderbolt_TB10_Kinetic.Description.Name",
+    "content": "霹雳火10弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Thunderbolt_TB10_Thermo.Description.Details",
+    "content": "这种霹雳导弹经过改装,可以发射一个专门的温压弹头,点燃撞击点周围的一切,并产生大量的热量."
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Thunderbolt_TB10_Thermo.Description.UIName",
+    "content": "热浪10弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Thunderbolt_TB10_Thermo.Description.Name",
+    "content": "热浪10弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Thunderbolt_TB15.Description.Details",
+    "content": "弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Thunderbolt_TB15.Description.UIName",
+    "content": "霹雳火15弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Thunderbolt_TB15.Description.Name",
+    "content": "霹雳火15弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Thunderbolt_TB15_Feint.Description.Details",
+    "content": "'佯动'导弹有内部箔条分配器,在很大一部分飞行轨迹中会'静默'并使用惯性滑行,以欺骗AMS系统.他们在撞击前激活以进行最后的轨迹调整.弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险."
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Thunderbolt_TB15_Feint.Description.UIName",
+    "content": "霹雳火15佯动弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Thunderbolt_TB15_Feint.Description.Name",
+    "content": "霹雳火15弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Thunderbolt_TB15_Guided.Description.Details",
+    "content": "用一些进攻潜力换取先进的制导系统的制导雷霆导弹,能够连接入到月神IV火控系统.  "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Thunderbolt_TB15_Guided.Description.UIName",
+    "content": "霹雳火15制导弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Thunderbolt_TB15_Guided.Description.Name",
+    "content": "霹雳火15弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Thunderbolt_TB15_HE.Description.Details",
+    "content": "这种雷霆导弹携带一个高爆弹头,对击中地点附近的单位造成伤害."
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Thunderbolt_TB15_HE.Description.UIName",
+    "content": "霹雳火15高爆弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Thunderbolt_TB15_HE.Description.Name",
+    "content": "霹雳火15弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Thunderbolt_TB15_Kinetic.Description.Details",
+    "content": "动能杀伤导弹使用巨大的火箭发动机将重金属飞镖加速到高速.它们能很好地穿透装甲,但需要时间才能达到全速.伤害在更远的距离增加.弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险."
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Thunderbolt_TB15_Kinetic.Description.UIName",
+    "content": "霹雳火15动能杀伤弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Thunderbolt_TB15_Kinetic.Description.Name",
+    "content": "霹雳火15弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Thunderbolt_TB15_Thermo.Description.Details",
+    "content": "这种霹雳导弹经过改装,可以发射一个专门的温压弹头,点燃撞击点周围的一切,并产生大量的热量."
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Thunderbolt_TB15_Thermo.Description.UIName",
+    "content": "热弹15"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Thunderbolt_TB15_Thermo.Description.Name",
+    "content": "热浪15弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Thunderbolt_TB20.Description.Details",
+    "content": "弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Thunderbolt_TB20.Description.UIName",
+    "content": "霹雳火20弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Thunderbolt_TB20.Description.Name",
+    "content": "霹雳火20弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Thunderbolt_TB20_Feint.Description.Details",
+    "content": "'佯动'导弹有内部箔条分配器,在很大一部分飞行轨迹中会'静默'并使用惯性滑行,以欺骗AMS系统.他们在撞击前激活以进行最后的轨迹调整.弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险."
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Thunderbolt_TB20_Feint.Description.UIName",
+    "content": "霹雳火20佯动弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Thunderbolt_TB20_Feint.Description.Name",
+    "content": "霹雳火20弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Thunderbolt_TB20_Guided.Description.Details",
+    "content": "用一些进攻潜力换取先进的制导系统的制导雷霆导弹,能够连接入到月神IV火控系统.  "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Thunderbolt_TB20_Guided.Description.UIName",
+    "content": "霹雳火20制导弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Thunderbolt_TB20_Guided.Description.Name",
+    "content": "霹雳火20弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Thunderbolt_TB20_HE.Description.Details",
+    "content": "这种雷霆导弹携带一个高爆弹头,对击中地点附近的单位造成伤害."
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Thunderbolt_TB20_HE.Description.UIName",
+    "content": "霹雳火20高爆弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Thunderbolt_TB20_HE.Description.Name",
+    "content": "霹雳火20弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Thunderbolt_TB20_Kinetic.Description.Details",
+    "content": "动能杀伤导弹使用巨大的火箭发动机将重金属飞镖加速到高速.它们能很好地穿透装甲,但需要时间才能达到全速.伤害在更远的距离增加.弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险."
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Thunderbolt_TB20_Kinetic.Description.UIName",
+    "content": "霹雳火20动能杀伤弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Thunderbolt_TB20_Kinetic.Description.Name",
+    "content": "霹雳火20弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Thunderbolt_TB20_MIRV.Description.Details",
+    "content": "这种罕见的雷霆弹药为大型单枚导弹发射器提供了灵活性,当遇到任何命中比伤害更重要的时候.发射后,导弹分成四个独立的弹头,每个弹头相当于霹雳火5.如果他们失去了对主要目标的锁定,他们将试图找到附近的任何目标.弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Thunderbolt_TB20_MIRV.Description.UIName",
+    "content": "霹雳火20MIRV弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Thunderbolt_TB20_MIRV.Description.Name",
+    "content": "霹雳火20弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Thunderbolt_TB20_Thermo.Description.Details",
+    "content": "这种霹雳导弹经过改装,可以发射一个专门的温压弹头,点燃撞击点周围的一切,并产生大量的热量."
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Thunderbolt_TB20_Thermo.Description.UIName",
+    "content": "热浪20弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Thunderbolt_TB20_Thermo.Description.Name",
+    "content": "热浪20弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Thunderbolt_TB5.Description.Details",
+    "content": "弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Thunderbolt_TB5.Description.UIName",
+    "content": "霹雳火5弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Thunderbolt_TB5.Description.Name",
+    "content": "霹雳火5弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Thunderbolt_TB5_Feint.Description.Details",
+    "content": "'佯动'导弹有内部箔条分配器,在很大一部分飞行轨迹中会'静默'并使用惯性滑行,以欺骗AMS系统.他们在撞击前激活以进行最后的轨迹调整.弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险."
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Thunderbolt_TB5_Feint.Description.UIName",
+    "content": "霹雳火5佯动弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Thunderbolt_TB5_Feint.Description.Name",
+    "content": "霹雳火5弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Thunderbolt_TB5_Guided.Description.Details",
+    "content": "用一些进攻潜力换取先进的制导系统的制导雷霆导弹,能够连接入到月神IV火控系统.  "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Thunderbolt_TB5_Guided.Description.UIName",
+    "content": "霹雳火5制导弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Thunderbolt_TB5_Guided.Description.Name",
+    "content": "霹雳火5弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Thunderbolt_TB5_half.Description.Details",
+    "content": "弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Thunderbolt_TB5_half.Description.UIName",
+    "content": "TBM/5弹药[半]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Thunderbolt_TB5_half.Description.Name",
+    "content": "霹雳火5弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Thunderbolt_TB5_HE.Description.Details",
+    "content": "这种雷霆导弹携带一个高爆弹头,对击中地点附近的单位造成伤害."
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Thunderbolt_TB5_HE.Description.UIName",
+    "content": "霹雳火5高爆弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Thunderbolt_TB5_HE.Description.Name",
+    "content": "霹雳火5弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Thunderbolt_TB5_Kinetic.Description.Details",
+    "content": "动能杀伤导弹使用巨大的火箭发动机将重金属飞镖加速到高速.它们能很好地穿透装甲,但需要时间才能达到全速.伤害在更远的距离增加.由于没有高爆弹头,如果弹匣被引爆,这种弹药类型对用户的伤害很少.弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险."
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Thunderbolt_TB5_Kinetic.Description.UIName",
+    "content": "霹雳火5动能杀伤弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Thunderbolt_TB5_Kinetic.Description.Name",
+    "content": "霹雳火5弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Thunderbolt_TB5_Thermo.Description.Details",
+    "content": "这种霹雳导弹经过改装,可以发射一个专门的温压弹头,点燃撞击点周围的一切,并产生大量的热量."
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Thunderbolt_TB5_Thermo.Description.UIName",
+    "content": "热弹5弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Thunderbolt_TB5_Thermo.Description.Name",
+    "content": "热浪5弹药"
+  }
+]

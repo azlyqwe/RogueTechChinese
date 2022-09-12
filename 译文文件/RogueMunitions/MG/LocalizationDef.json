@@ -1,0 +1,338 @@
+[
+  {
+    "id": "Ammo_AmmunitionBox_AP_HMG.Description.Details",
+    "content": "重型机枪穿甲弹包括APFSDS,尾翼稳定脱壳穿甲弹,炮弹可以'打穿'最坚韧的隐藏并且命中重要部件. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_AP_HMG.Description.UIName",
+    "content": "重机枪弹药[穿甲]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_AP_HMG.Description.Name",
+    "content": "重机枪弹药[穿甲]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_AP_LMG.Description.Details",
+    "content": "轻型机枪穿甲弹包括APFSDS,尾翼稳定脱壳穿甲弹,炮弹可以'打穿'最坚韧的隐藏并且命中重要部件.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险."
+  },
+  {
+    "id": "Ammo_AmmunitionBox_AP_LMG.Description.UIName",
+    "content": "轻机枪弹药[穿甲]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_AP_LMG.Description.Name",
+    "content": "轻机枪弹药[穿甲]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_AP_MG.Description.Details",
+    "content": "机枪穿甲弹包括APFSDS,尾翼稳定脱壳穿甲弹,炮弹可以'打穿'最坚韧的隐藏并且命中重要部件. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_AP_MG.Description.UIName",
+    "content": "机枪弹药[穿甲]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_AP_MG.Description.Name",
+    "content": "机枪弹药[穿甲]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Caseless_HMG.Description.Details",
+    "content": "作为恒星联邦无壳计划的一个分支,无壳机枪弹药允许任何机枪以大幅增的发速射,但牺牲了可靠性"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Caseless_HMG.Description.UIName",
+    "content": "重机枪弹药[无壳]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Caseless_HMG.Description.Name",
+    "content": "重机枪无壳弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Caseless_LMG.Description.Details",
+    "content": "作为联合太阳无壳计划的一个分支,无壳机枪弹药允许任何机枪以大幅增的发速射,但牺牲了可靠性"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Caseless_LMG.Description.UIName",
+    "content": "轻机枪弹药[无壳]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Caseless_LMG.Description.Name",
+    "content": "轻机枪无壳弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Caseless_MG.Description.Details",
+    "content": "作为恒星联邦无壳计划的一个分支,无壳机枪弹药允许任何机枪以大幅增的发速射,但牺牲了可靠性"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Caseless_MG.Description.UIName",
+    "content": "机枪弹药[无壳]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Caseless_MG.Description.Name",
+    "content": "机枪无壳弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_HMG.Description.Details",
+    "content": "弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_HMG.Description.UIName",
+    "content": "重机枪弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_HMG.Description.Name",
+    "content": "重机枪弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_HMG_double.Description.Details",
+    "content": "双倍弹药舱:将一个弹舱的进料和储存机制替换为一个多25%子弹的弹舱. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_HMG_double.Description.UIName",
+    "content": "重机枪弹药[双]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_HMG_double.Description.Name",
+    "content": "重机枪弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_HMG_half.Description.Details",
+    "content": "弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_HMG_half.Description.UIName",
+    "content": "重机枪弹药[半]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_HMG_half.Description.Name",
+    "content": "重机枪弹药半装"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_LMG.Description.Details",
+    "content": "弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险."
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_LMG.Description.UIName",
+    "content": "轻机枪弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_LMG.Description.Name",
+    "content": "轻机枪弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_LMG_double.Description.Details",
+    "content": "双倍弹药舱:将一个弹舱的进料和储存机制替换为一个多25%子弹的弹舱.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险."
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_LMG_double.Description.UIName",
+    "content": "轻机枪弹药[双]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_LMG_double.Description.Name",
+    "content": "轻机枪弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_LMG_half.Description.Details",
+    "content": "弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险."
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_LMG_half.Description.UIName",
+    "content": "轻机枪弹药[半]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_LMG_half.Description.Name",
+    "content": "轻机枪弹药半装"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_MG.Description.Details",
+    "content": "弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_MG.Description.UIName",
+    "content": "机枪弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_MG.Description.Name",
+    "content": "机枪弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_MG_double.Description.Details",
+    "content": "双倍弹药舱:将一个弹舱的进料和储存机制替换为一个多25%子弹的弹舱.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_MG_double.Description.UIName",
+    "content": "机枪弹药[双]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_MG_double.Description.Name",
+    "content": "机枪弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_MG_half.Description.Details",
+    "content": "弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_MG_half.Description.UIName",
+    "content": "机枪弹药[半]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_MG_half.Description.Name",
+    "content": "机枪弹药半装"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_MG_quarter.Description.Details",
+    "content": "弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_MG_quarter.Description.UIName",
+    "content": "机枪弹药[1/4]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_MG_quarter.Description.Name",
+    "content": "机枪弹药半装"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_HE_HMG.Description.Details",
+    "content": "重机枪高爆弹药包含在撞击时引爆的炮弹,通常会碎到装甲上,但当它在敌人的防御中发现一个洞时,会造成令人印象深刻的伤害. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_HE_HMG.Description.UIName",
+    "content": "重机枪高爆弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_HE_HMG.Description.Name",
+    "content": "重机枪高爆弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_HE_LMG.Description.Details",
+    "content": "轻机枪高爆弹药包含在撞击时引爆的炮弹,通常会碎到装甲上,但当它在敌人的防御中发现一个洞时,会造成令人印象深刻的伤害.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险."
+  },
+  {
+    "id": "Ammo_AmmunitionBox_HE_LMG.Description.UIName",
+    "content": "轻机枪高爆弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_HE_LMG.Description.Name",
+    "content": "轻机枪高爆弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_HE_MG.Description.Details",
+    "content": "高爆机枪弹药包含在撞击时引爆的炮弹,通常会碎到装甲上,但当它在敌人的防御中发现一个洞时,会造成令人印象深刻的伤害. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_HE_MG.Description.UIName",
+    "content": "机枪高爆弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_HE_MG.Description.Name",
+    "content": "机枪高爆弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Phosphor_HMG.Description.Details",
+    "content": "燃烧型重机枪弹药含有一种通常被称为'白彼得'的原始混合物,让目标覆盖在一层强烈燃烧的化学物质薄膜中,类似于炼狱弹药. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Phosphor_HMG.Description.UIName",
+    "content": "重机枪弹药[燃烧]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Phosphor_HMG.Description.Name",
+    "content": "重机枪弹药[燃烧]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Phosphor_LMG.Description.Details",
+    "content": "轻机枪燃烧弹药含有一种通常被称为'白彼得'的原始混合物,用一层类似于炼狱弹药的强烈燃烧化学物质覆盖目标.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险."
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Phosphor_LMG.Description.UIName",
+    "content": "轻机枪弹药[燃烧]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Phosphor_LMG.Description.Name",
+    "content": "轻机枪弹药[燃烧]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Phosphor_MG.Description.Details",
+    "content": "机枪弹药含有一种通常被称为'白彼得'的原始混合物,在目标上涂上一层强烈燃烧的化学物质,类似于地狱弹药. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Phosphor_MG.Description.UIName",
+    "content": "机枪弹药[燃烧]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Phosphor_MG.Description.Name",
+    "content": "机枪弹药[燃烧]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Protected_HMG.Description.Details",
+    "content": "受保护的弹药舱是专门设计的,以减少弹药爆炸造成的损害. \n\n<b><color=#00ffff>Ctrl+单击弹药记数以弹出弹药</color> </b>."
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Protected_HMG.Description.UIName",
+    "content": "重机枪弹药[安全]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Protected_HMG.Description.Name",
+    "content": "重机枪弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Protected_LMG.Description.Details",
+    "content": "受保护的弹药舱是专门设计的,以减少弹药爆炸造成的损害. \n\n<b><color=#00ffff>Ctrl+单击弹药记数以弹出弹药</color> </b>."
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Protected_LMG.Description.UIName",
+    "content": "轻机枪弹药[安全]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Protected_LMG.Description.Name",
+    "content": "轻机枪弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Protected_MG.Description.Details",
+    "content": "受保护的弹药舱是专门设计的,以减少弹药爆炸造成的损害. \n\n<b><color=#00ffff>Ctrl+单击弹药记数以弹出弹药</color> </b>."
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Protected_MG.Description.UIName",
+    "content": "机枪弹药[安全]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Protected_MG.Description.Name",
+    "content": "机枪弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Tracer_HMG.Description.Details",
+    "content": "曳光弹药是一种独头子弹,用于帮助在快速射击中让武器瞄准目标.以规则的间隔插入规则的子弹,曳光弹底部的少量烟火化学物质在空气中移动时产生明亮的光.发光效果显示了武器的射击路径,这样射手就可以很容易地调整他们的瞄准,以获得最大的效果. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Tracer_HMG.Description.UIName",
+    "content": "重机枪弹药[曳光]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Tracer_HMG.Description.Name",
+    "content": "重机枪曳光弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Tracer_LMG.Description.Details",
+    "content": "曳光弹药是一种独头子弹,用于帮助在快速射击中让武器瞄准目标.以规则的间隔插入规则的子弹,曳光弹底部的少量烟火化学物质在空气中移动时产生明亮的光光.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险."
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Tracer_LMG.Description.UIName",
+    "content": "轻机枪弹药[曳光]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Tracer_LMG.Description.Name",
+    "content": "轻机枪曳光弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Tracer_MG.Description.Details",
+    "content": "曳光弹药是一种独头子弹,用于帮助在快速射击中让武器瞄准目标.以规则的间隔插入规则的子弹,曳光弹底部的少量烟火化学物质在空气中移动时产生明亮的光.发光效果显示了武器的射击路径,这样射手就可以很容易地调整他们的瞄准,以获得最大的效果. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Tracer_MG.Description.UIName",
+    "content": "机枪弹药[曳光]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Tracer_MG.Description.Name",
+    "content": "机枪曳光弹药"
+  }
+]

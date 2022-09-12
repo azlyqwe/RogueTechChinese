@@ -1,0 +1,38 @@
+[
+  {
+    "id": "Ammo_AmmunitionBox_AOE_HeavyFlamer.Description.Details",
+    "content": "弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.当受到严重损伤时,高压容器会爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_AOE_HeavyFlamer.Description.UIName",
+    "content": "喷火器AOE弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_AOE_HeavyFlamer.Description.Name",
+    "content": "车载喷火器弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_HeavyFlamer.Description.Details",
+    "content": "弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.当受到重击时,高压容器会爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_HeavyFlamer.Description.UIName",
+    "content": "喷火器弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_HeavyFlamer.Description.Name",
+    "content": "喷火器弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Sticky_HeavyFlamer.Description.Details",
+    "content": "弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.当受到严重损伤时,高压容器会爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Sticky_HeavyFlamer.Description.UIName",
+    "content": "喷火器粘性弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Sticky_HeavyFlamer.Description.Name",
+    "content": "车载喷火器弹药"
+  }
+]

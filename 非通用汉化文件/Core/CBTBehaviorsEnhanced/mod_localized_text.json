@@ -1,129 +1,129 @@
 {
     "Floaties" : {
-        "SHUTDOWN_OVERRIDE_SUCCESS" : "Passed Shutdown Override",
-        "SHUTDOWN_OVERRIDE_FAILED" : "Failed Shutdown Override",
-        "SHUTDOWN_FALL" : "Falling from Shutdown",
+        "SHUTDOWN_OVERRIDE_SUCCESS" : "关机重载通过",
+        "SHUTDOWN_OVERRIDE_FAILED" : "关机重载失败",
+        "SHUTDOWN_FALL" : "关机中摔落",
 
-        "EXPLOSION_CHECK" : "Ammo Explosion Check",
-        "VOLATILE_EXPLOSION_CHECK" : "Volatile Ammo Explosion Check",
-        "SHUTDOWN_CHECK" : "Shutdown Check",
-        "STARTUP_CHECK" : "Startup Check",
-        "INJURY_CHECK" : "Pilot Injury Check",
-        "SYSTEM_FAILURE_CHECK": "System Failure Check",
-        "FALLING_CHECK" : "Falling Check",
+        "EXPLOSION_CHECK" : "弹药爆炸检定",
+        "VOLATILE_EXPLOSION_CHECK" : "不稳定弹药爆炸检定",
+        "SHUTDOWN_CHECK" : "停机检定",
+        "STARTUP_CHECK" : "启动检定",
+        "INJURY_CHECK" : "驾驶员受伤检定",
+        "SYSTEM_FAILURE_CHECK": "系统失败检定",
+        "FALLING_CHECK" : "摔落检定",
 
-        "MELEE_KICK" : "Kick Falling Check",
-        "MELEE_CHARGE" : "Charge Falling Check",
-        "MELEE_DFA" : "DFA Falling Check",
+        "MELEE_KICK" : "踢击摔落检定",
+        "MELEE_CHARGE" : "撞击摔落检定",
+        "MELEE_DFA" : "DFA摔落检定",
 
-        "RUN_AND_FALL" : "Sprinted with Damage",
-        "JUMP_AND_FALL" : "Jumped with Damage",
+        "RUN_AND_FALL" : "冲刺伤害",
+        "JUMP_AND_FALL" : "跳跃伤害",
 
-        "AUTO_FAIL" : "Automatic Failure",
-        "HULL_BREACH" : "Hull Breach Check",
+        "AUTO_FAIL" : "自动故障",
+        "HULL_BREACH" : "机体破裂检定",
 		
-		"SWARM_ATTACK" : "Swarm attack!"
+		"SWARM_ATTACK" : "蜂群攻击!"
     },
 
     "Tooltips" : {
-        "TITLE" : "HEAT LEVEL",
-        "END_OF_TURN_HEAT" : "Projected Heat: {0} of {1}",
-        "HEAT_AND_SINKING" : "\n  Heat: {0} of {1}  Will Sink: {2} of {3} (<color=#{4}>x{5:#.#}</color>)",
-        "AMMO_EXP_CHANCE" : "\nAmmo Explosion on (d100+{0}) < {1}",
-        "AMMO_EXP_WARNING" : "Guaranteed Ammo Explosion!",
-        "PILOT_INJURY_CHANCE" : "\nPilot Injury on (d100+{0}) < {1}",
-        "SYSTEM_FAILURE_CHANCE" : "\nSystem Failure on (d100+{0}) < {1}",
-        "SHUTDOWN_CHANCE" : "\nShutdown on (d100+{0}) < {1}",
-        "SHUTDOWN_WARNING" : "\nGuaranteed Shutdown!",
-        "ATTACK_PENALTY" : "\nAttack Penalty: +{0}",
-        "MOVEMENT_PENALTY" : "\nMovement Penalty: -{0}m",
+        "TITLE" : "热量等级",
+        "END_OF_TURN_HEAT" : "投射热: {0} / {1}",
+        "HEAT_AND_SINKING" : "\n  热量: {0} / {1}  将会散热: {2} / {3} (<color=#{4}>x{5:#.#}</color>)",
+        "AMMO_EXP_CHANCE" : "\n弹药爆炸:(d100+{0}) < {1}",
+        "AMMO_EXP_WARNING" : "保证弹药爆炸!",
+        "PILOT_INJURY_CHANCE" : "\n驾驶员受伤:(d100+{0}) < {1}",
+        "SYSTEM_FAILURE_CHANCE" : "\n系统故障:(d100+{0}) < {1}",
+        "SHUTDOWN_CHANCE" : "\n停机:(d100+{0}) < {1}",
+        "SHUTDOWN_WARNING" : "\n保证停机!",
+        "ATTACK_PENALTY" : "\n攻击惩罚: +{0}",
+        "MOVEMENT_PENALTY" : "\n移动惩罚: -{0}m",
 
-        "SHUTDOWN_ICON_TITLE" : "SHUT DOWN",
-        "SHUTDOWN_ICON_TEXT" : "This target is easier to hit, and Called Shots can be made against this target. When clicking the restart button, a piloting check will if the BattleMech restarts.",
-        "OVERHEAT_ICON_TITLE" : "OVERHEATING",
-        "OVERHEAT_ICON_TEXT " : "This unit will suffer penalties, may shutdown or even explode unless heat is reduced past critical levels.\n<i>Hover over the heat bar to see a detailed breakdown.</i>"
+        "SHUTDOWN_ICON_TITLE" : "关机",
+        "SHUTDOWN_ICON_TEXT" : "该目标更容易被击中,可以对该目标进行精确射击.点击重启按钮时,进行驾驶检定,以决定是否可以成功重起.",
+        "OVERHEAT_ICON_TITLE" : "过热",
+        "OVERHEAT_ICON_TEXT " : "除非热量降低到临界值以下,否则该单位将受到惩罚,可能会停机甚至爆炸.\n<i>悬停在热量条上,以查看详细分解.</i>"
     },
 
     "AttackDescriptions" : {
         "CHARGE_DESC" : 
-            "Charges damage both the attacker and target. Damage is randomized across all locations in 25 point clusters. <color=#ff0000>Attacker takes {0} damage and {1} instability.</color>" ,
+            "撞击会同时伤害攻击者和目标.伤害随机分布在25个部位集群. <color=#ff0000>攻击造成{0}伤害和{1}失稳.</color>" ,
         "DFA_DESC" : 
-            "Death-From-Above attacks damage both the attacker and target. Damage is delivered as 25 point clusters randomized to the target arms, torsos, and head and attacker legs. <color=#ff0000>Attacker takes {0} damage and {1} instability.</color>",
+            "死从天降(DFA)对攻击者和目标都造成伤害.伤害被随机分配到目标手臂、躯干、头部和攻击者腿部等25集群. <color=#ff0000>攻击造成{0}伤害和{1}失稳.</color>",
         "KICK_DESC" :
-            "Kicks inflict a single hit that strikes the legs of the target.",
+            "踢击对目标腿部进行一次攻击.",
         "PHYSICAL_WEAPON_DESC" :
-            "Physical weapons inflict a single hit whose location can vary. See the weapon details.",
+            "实体武器进行一次攻击,攻击部位可以变化.查看武器详情.",
         "PUNCH_DESC" :
-            "Punches inflict a single hit that strikes the arms, torsos, and head of the target. "
+            "击打进行一次攻击,攻击目标的手臂、躯干和头部."
     },
 
     "Labels" : {
-        "ATK_MOD_ACTUATOR_DAMAGE" : "ACTUATOR DAMAGE",
-        "ATK_MOD_ATTACKER_JUMPED" : "ATTACKER JUMPED",
-        "ATK_MOD_COMPARATIVE_PILOTING" : "PILOTING DELTA",
-        "ATK_MOD_EASY_TO_KICK" : "EASY TO KICK",
-        "ATK_MOD_TARGET_PRONE" : "PRONE MELEE TARGET",
-        "ATK_MOD_OVERHEATED" : "OVERHEATED",
+        "ATK_MOD_ACTUATOR_DAMAGE" : "机构伤害",
+        "ATK_MOD_ATTACKER_JUMPED" : "跳后攻击",
+        "ATK_MOD_COMPARATIVE_PILOTING" : "驾驶DELTA",
+        "ATK_MOD_EASY_TO_KICK" : "容易踢击",
+        "ATK_MOD_TARGET_PRONE" : "易近战目标",
+        "ATK_MOD_OVERHEATED" : "过热",
 
-        "ATK_MOD_CHARGE_MOD" : "CHARGE MOD",
-        "ATK_MOD_KICK_MOD" : "KICK MOD",
-        "ATK_MOD_PUNCH_MOD" : "PUNCH MOD",
-        "ATK_MOD_PHYS_WEP_MOD" : "P.WEAP MOD",
-		"ATK_MOD_DFA_MOD" : "DFA MOD",
+        "ATK_MOD_CHARGE_MOD" : "撞击模式",
+        "ATK_MOD_KICK_MOD" : "踢击模式",
+        "ATK_MOD_PUNCH_MOD" : "击打模式",
+        "ATK_MOD_PHYS_WEP_MOD" : "实体武器模式",
+		"ATK_MOD_DFA_MOD" : "DFA模式",
 		
-        "WEAPON_HOVER_DAMAGE" : "{0} dmg" ,
-        "WEAPON_HOVER_INSTABILITY" : "{0} stab" ,
-        "WEAPON_HOVER_HEAT" : "+{0} heat" ,
+        "WEAPON_HOVER_DAMAGE" : "{0}伤害" ,
+        "WEAPON_HOVER_INSTABILITY" : "{0}稳定" ,
+        "WEAPON_HOVER_HEAT" : "+{0}热量" ,
 
-        "MELEE_TYPE_CHARGE" : "CHARGE" ,
+        "MELEE_TYPE_CHARGE" : "撞击" ,
         "MELEE_TYPE_DFA" : "DFA" ,
-        "MELEE_TYPE_KICK" : "KICK" ,
-        "MELEE_TYPE_PHYSICAL_WEAPON" : "PHY. WEAPON" ,
-        "MELEE_TYPE_PUNCH" : "PUNCH" ,
+        "MELEE_TYPE_KICK" : "踢击" ,
+        "MELEE_TYPE_PHYSICAL_WEAPON" : "实体武器" ,
+        "MELEE_TYPE_PUNCH" : "击打" ,
 
-        "WEAPON_PANEL_MELEE_WEAPON" : "MELEE - {0}",
+        "WEAPON_PANEL_MELEE_WEAPON" : "近战 - {0}",
         "WEAPON_PANEL_MELEE_NO_ATTACK_TYPE" : "(w/p/k)",
         "WEAPON_PANEL_MELEE_NO_ATTACK_TYPE_DAMAGE" : "{0} / {1} / {2}"
     },
 
     "Quips": {
         "Breach" : [
-            "Shit! Explosive decompression!",
-            "Hull breach detected!",
-            "I've lost something to atmo!",
-            "I hope life support holds up.",
-            "I can't breathe!",
-            "There are cracks in my cockpit!",
-            "Components crippled by vacuum!",
-            "A lot of red from that hit!",
-            "Damn! Lost a lot of gear..."
+            "狗屎!爆炸性减压!",
+            "检测到机体破裂!",
+            "我的一些东西被吸进大气中了!",
+            "我希望维生系统坚持住.",
+            "我无法呼吸!",
+            "我的座舱有裂缝!",
+            "组件被真空损坏!",
+            "那次攻击流了很多血!",
+            "该死!失去很多设备..."
         ], 
         "Knockdown" : [
-            "Oh ... shit!",
+            "哦 ... 狗屎!",
             "F.M.L.",
-            "This is going to hurt...",
-            "Can't keep her steady!",
-            "Gyro's not compensating!",
-            "Screw you, gravity!",
-            "Going down!",
-            "You're a bastard, Newton.",
-            "Stability lost! Controls unresponsive!",
-            "Controls are locked up! I can't stop the fall!",
-            "Past the critical point! She's going down!",
-            "Bracing for ground impact.",
-            "Impact protection, don't fail me now...",
-            "Dampening neurohelm feedback.",
-            "Hope the armor takes it...",
-            "About to bite the dust!"
+            "这样会受伤的...",
+            "不能保持稳定!",
+            "陀螺仪无法补偿!",
+            "去你的,重力!",
+            "要倒了!",
+            "你是个王八蛋,牛顿.",
+            "失去稳定!操作无响应!",
+            "控制已锁定!无法阻止摔倒!",
+            "超过临界点!她要倒下了!",
+            "准备承受地面冲击.",
+            "冲击防护,现在不要让我失望...",
+            "抑制神经反馈.",
+            "希望装甲能够承受的住...",
+            "即将倒下!"
         ],
         "Startup" : [
-            "Start, damn you!",
-            "I can't see through this heat!",
-            "Where's the start button!?",
-            "Override, damn it! Override!!",
-            "Time to void the warranty...",
-            "Why won't you turn on?!",
-            "What?! I put in the startup sequence!"
+            "开始,去死吧,你!",
+            "我不能看透这热量!",
+            "启动按钮在哪!?",
+            "重载,该死!重载!!",
+            "保修失效时间...",
+            "为什么你不启动呢?!",
+            "什么?! 我把它放在了启动序列里了!"
         ]
     }
 }

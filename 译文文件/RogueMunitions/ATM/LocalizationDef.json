@@ -1,0 +1,74 @@
+[
+  {
+    "id": "Ammo_AmmunitionBox_ER_ATM.Description.Details",
+    "content": "极远射程ATM弹药利用更先进的飞行电脑和稳定器大幅增加其射程.在受到致命损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险."
+  },
+  {
+    "id": "Ammo_AmmunitionBox_ER_ATM.Description.UIName",
+    "content": "ATM增程弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_ER_ATM.Description.Name",
+    "content": "ATM增程弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_ER_ATM_half.Description.Details",
+    "content": "极远射程ATM弹药利用更先进的飞行电脑和稳定器大幅增加其射程.在受到致命损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险."
+  },
+  {
+    "id": "Ammo_AmmunitionBox_ER_ATM_half.Description.UIName",
+    "content": "ATM增程弹药[半]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_ER_ATM_half.Description.Name",
+    "content": "ATM增程弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_ATM.Description.Details",
+    "content": "弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到致命损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险."
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_ATM.Description.UIName",
+    "content": "ATM弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_ATM.Description.Name",
+    "content": "ATM弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_ATM_half.Description.Details",
+    "content": "弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到致命损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险."
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_ATM_half.Description.UIName",
+    "content": "ATM弹药[半]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_ATM_half.Description.Name",
+    "content": "ATM弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_HE_ATM.Description.Details",
+    "content": "高爆ATM弹药以燃料换取更大的战斗部.在受到致命损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险."
+  },
+  {
+    "id": "Ammo_AmmunitionBox_HE_ATM.Description.UIName",
+    "content": "ATM高爆弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_HE_ATM.Description.Name",
+    "content": "ATM高爆弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_HE_ATM_half.Description.Details",
+    "content": "高爆ATM弹药以燃料换取更大的战斗部.在受到致命损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险."
+  },
+  {
+    "id": "Ammo_AmmunitionBox_HE_ATM_half.Description.UIName",
+    "content": "ATM高爆弹药[半]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_HE_ATM_half.Description.Name",
+    "content": "ATM高爆弹药"
+  }
+]

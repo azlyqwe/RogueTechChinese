@@ -1885,7 +1885,7 @@
   },
   {
     "id": "Ammunition_LBX10IntCluster.Description.Name",
-    "content": "LBX/10群组弹药"
+    "content": "LBX/10霰弹弹药"
   },
   {
     "id": "Ammunition_LBX10IntSlug.Description.Details",
@@ -1993,7 +1993,7 @@
   },
   {
     "id": "Ammunition_LBX20_CLUSTER.Description.Name",
-    "content": "LBX/20群组弹药"
+    "content": "LBX/20霰弹弹药"
   },
   {
     "id": "Ammunition_LBX20_SLUG.Description.Details",
@@ -2041,7 +2041,7 @@
   },
   {
     "id": "Ammunition_LBX2_CLUSTER.Description.Name",
-    "content": "LBX/2群组弹药"
+    "content": "LBX/2霰弹弹药"
   },
   {
     "id": "Ammunition_LBX2_SLUG.Description.Details",
@@ -2077,7 +2077,7 @@
   },
   {
     "id": "Ammunition_LBX5IntCluster.Description.Name",
-    "content": "LBX/5群组弹药"
+    "content": "LBX/5霰弹弹药"
   },
   {
     "id": "Ammunition_LBX5IntSlug.Description.Details",
@@ -2113,7 +2113,7 @@
   },
   {
     "id": "Ammunition_LBX5_CLUSTER.Description.Name",
-    "content": "LBX/5群组弹药"
+    "content": "LBX/5霰弹弹药"
   },
   {
     "id": "Ammunition_LBX5_SLUG.Description.Details",
@@ -2725,7 +2725,7 @@
   },
   {
     "id": "Ammunition_MagShot.Description.Name",
-    "content": "磁性弹药"
+    "content": "磁性弹丸弹药"
   },
   {
     "id": "Ammunition_MagShotInternal.Description.Details",
@@ -2737,7 +2737,7 @@
   },
   {
     "id": "Ammunition_MagShotInternal.Description.Name",
-    "content": "马格弹药"
+    "content": "磁性弹丸弹药"
   },
   {
     "id": "Ammunition_MARS.Description.Details",

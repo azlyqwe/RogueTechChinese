@@ -1,0 +1,314 @@
+[
+  {
+    "id": "Ammo_AmmunitionBox_Caseless_Hellstorm.Description.Details",
+    "content": "弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Caseless_Hellstorm.Description.UIName",
+    "content": "地狱风暴弹药[无壳]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Caseless_Hellstorm.Description.Name",
+    "content": "地狱风暴无壳弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_FAE_LongTom.Description.Details",
+    "content": "当燃料用散射装药雾化后引爆时,会发生温压或燃气爆炸(FAE).由此产生的爆炸比相同质量的常规高爆炸弹能量大得多.虽然其名称暗示了燃烧效应,但燃料被引爆而不是燃烧.在极短时间内放出大量热;并且,易燃材料可能被点燃.主要的破坏是由大规模爆炸造成的,随后该地区出现了会迅速崩溃的真.冲击波对建筑物和装甲单位造成破坏性伤害.非常不幸的没有被爆炸蒸发无防护人员通常会缓慢死亡,肺和耳膜因灾难性的压差而破裂.弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_FAE_LongTom.Description.UIName",
+    "content": "长汤姆温压弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_FAE_LongTom.Description.Name",
+    "content": "长汤姆弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Fascam_ArrowIV.Description.Details",
+    "content": "FASCAM(野战炮兵布雷)弹,发射时散布小型但威力强大的反车辆和杀伤人员地雷.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险."
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Fascam_ArrowIV.Description.UIName",
+    "content": "箭IVFASCAM弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Fascam_ArrowIV.Description.Name",
+    "content": "箭IV弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Fascam_ArrowIV_half.Description.Details",
+    "content": "FASCAM(野战炮兵布雷)弹,发射时散布小型但威力强大的反车辆和杀伤人员地雷.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险."
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Fascam_ArrowIV_half.Description.UIName",
+    "content": "箭IVFASCAM弹药[半]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Fascam_ArrowIV_half.Description.Name",
+    "content": "箭IV弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Fascam_Thumper.Description.Details",
+    "content": "FASCAM(野战炮兵布雷)子弹,发射时散布小型但威力强大的反车辆和杀伤人员地雷.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Fascam_Thumper.Description.UIName",
+    "content": "重击FASCAM弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Fascam_Thumper.Description.Name",
+    "content": "重击弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Fascam_Thumper_half.Description.Details",
+    "content": "雷霆炮弹,也被称为FASCAM炮弹,是人类霸权在2621年开发的雷霆LRM的变体.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Fascam_Thumper_half.Description.UIName",
+    "content": "重击FASCAM弹药[半]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Fascam_Thumper_half.Description.Name",
+    "content": "重击弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_ArrowIV.Description.Details",
+    "content": "弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险."
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_ArrowIV.Description.UIName",
+    "content": "箭IV弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_ArrowIV.Description.Name",
+    "content": "箭IV弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_CM50.Description.Details",
+    "content": "弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险."
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_CM50.Description.UIName",
+    "content": "巡航导弹CM/50弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_CM50.Description.Name",
+    "content": "巡航导弹CM/50弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_Hellstorm.Description.Details",
+    "content": "弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_Hellstorm.Description.UIName",
+    "content": "地狱风暴弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_Hellstorm.Description.Name",
+    "content": "地狱风暴弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_LongTom.Description.Details",
+    "content": "弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_LongTom.Description.UIName",
+    "content": "长汤姆弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_LongTom.Description.Name",
+    "content": "长汤姆弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_Railgun.Description.Details",
+    "content": "弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹.<b><color=#099FF2>不会爆炸.</color></b>"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_Railgun.Description.UIName",
+    "content": "轨道炮弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_Railgun.Description.Name",
+    "content": "轨道炮弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_Sniper.Description.Details",
+    "content": "弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险."
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_Sniper.Description.UIName",
+    "content": "狙击弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_Sniper.Description.Name",
+    "content": "狙击弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_Sniper_half.Description.Details",
+    "content": "弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险."
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_Sniper_half.Description.UIName",
+    "content": "狙击弹药[半]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_Sniper_half.Description.Name",
+    "content": "狙击弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_Thumper.Description.Details",
+    "content": "弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_Thumper.Description.UIName",
+    "content": "重击弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_Thumper.Description.Name",
+    "content": "重击弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_Thumper_half.Description.Details",
+    "content": "弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_Thumper_half.Description.UIName",
+    "content": "重击弹药[半]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_Thumper_half.Description.Name",
+    "content": "重击弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Guided_ArrowIV.Description.Details",
+    "content": "使用制导箭IV弹头替换部分战斗部,以获得更好的直接射击能力和精度.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险."
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Guided_ArrowIV.Description.UIName",
+    "content": "箭IV制导弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Guided_ArrowIV.Description.Name",
+    "content": "箭IV弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_InfernoFascam_ArrowIV.Description.Details",
+    "content": "FASCAM(野战炮兵布雷)弹,发射时散布小型但威力强大的反车辆和杀伤人员地雷.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险."
+  },
+  {
+    "id": "Ammo_AmmunitionBox_InfernoFascam_ArrowIV.Description.UIName",
+    "content": "箭IV FASCAM炼狱弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_InfernoFascam_ArrowIV.Description.Name",
+    "content": "箭IV弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Inferno_ArrowIV.Description.Details",
+    "content": "弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Inferno_ArrowIV.Description.UIName",
+    "content": "箭IV炼狱弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Inferno_ArrowIV.Description.Name",
+    "content": "箭IV炼狱弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Inferno_LongTom.Description.Details",
+    "content": "弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险."
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Inferno_LongTom.Description.UIName",
+    "content": "长汤姆炼狱弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Inferno_LongTom.Description.Name",
+    "content": "长汤姆弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Inferno_Sniper.Description.Details",
+    "content": "弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险."
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Inferno_Sniper.Description.UIName",
+    "content": "狙击炼狱弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Inferno_Sniper.Description.Name",
+    "content": "狙击弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Inferno_Thumper.Description.Details",
+    "content": "弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Inferno_Thumper.Description.UIName",
+    "content": "重击炼狱弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Inferno_Thumper.Description.Name",
+    "content": "重击弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Inferno_Thumper_half.Description.Details",
+    "content": "弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Inferno_Thumper_half.Description.UIName",
+    "content": "重击炼狱弹药[半]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Inferno_Thumper_half.Description.Name",
+    "content": "重击弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_MARS.Description.Details",
+    "content": "弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_MARS.Description.UIName",
+    "content": "MARS弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_MARS.Description.Name",
+    "content": "MARS弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Shaped_Sniper.Description.Details",
+    "content": "集中聚能装药用于穿透坚硬目上的装甲,但与其他炸药相比,其爆炸半径较小.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险."
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Shaped_Sniper.Description.UIName",
+    "content": "狙击聚能弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Shaped_Sniper.Description.Name",
+    "content": "狙击聚能弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Shaped_Thumper.Description.Details",
+    "content": "集中聚能用于穿透坚硬目上的装甲,但与其他炸药相比,其爆炸半径较小.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Shaped_Thumper.Description.UIName",
+    "content": "重击聚能弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Shaped_Thumper.Description.Name",
+    "content": "重击弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Shaped_Thumper_half.Description.Details",
+    "content": "集中聚能用于穿透坚硬目上的装甲,但与其他炸药相比,其爆炸半径较小.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Shaped_Thumper_half.Description.UIName",
+    "content": "重击聚能弹药[半]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Shaped_Thumper_half.Description.Name",
+    "content": "重击弹药"
+  }
+]

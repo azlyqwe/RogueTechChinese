@@ -1,0 +1,131 @@
+{
+    "culture": 2,
+    "files": [
+        "Ammo_AmmunitionBox_AOE_HeavyFlamer.json",
+        "Ammo_AmmunitionBox_Generic_HeavyFlamer.json",
+        "Ammo_AmmunitionBox_Sticky_HeavyFlamer.json"
+    ],
+    "directories": [
+        {
+            "dir": [
+                "RogueMunitions",
+                "Flamer"
+            ],
+            "processors": [
+                "Description.Details",
+                "Description.UIName",
+                "Description.Name"
+            ]
+        }
+    ],
+    "content": [
+        {
+            "id": "Ammo_AmmunitionBox_AOE_HeavyFlamer.Description.Details",
+            "original": "Ammo Bins contain the rounds needed for projectile-based weaponry, with at least one bin required per weapon type. On a Critical Hit, the Pressurized Container will explode dealing damage to the install location. Risk can be mitigated with the use of C.A.S.E. ",
+            "prevOriginal": "Ammo Bins contain the rounds needed for projectile-based weaponry, with at least one bin required per weapon type. On a Critical Hit, the Pressurized Container will explode dealing damage to the install location. Risk can be mitigated with the use of C.A.S.E. ",
+            "content": "Ammo Bins contain the rounds needed for projectile-based weaponry, with at least one bin required per weapon type. On a Critical Hit, the Pressurized Container will explode dealing damage to the install location. Risk can be mitigated with the use of C.A.S.E. ",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_AOE_HeavyFlamer",
+            "processor": "Description.Details"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_AOE_HeavyFlamer.Description.UIName",
+            "original": "Ammo Flamer AOE",
+            "prevOriginal": "Ammo Flamer AOE",
+            "content": "Ammo Flamer AOE",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_AOE_HeavyFlamer",
+            "processor": "Description.UIName"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_AOE_HeavyFlamer.Description.Name",
+            "original": "Vehicle Flamer Ammo",
+            "prevOriginal": "Vehicle Flamer Ammo",
+            "content": "Vehicle Flamer Ammo",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_AOE_HeavyFlamer",
+            "processor": "Description.Name"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_Generic_HeavyFlamer.Description.Details",
+            "original": "Ammo Bins contain the rounds needed for projectile-based weaponry, with at least one bin required per weapon type. On a Critical Hit, the Pressurized Container will explode dealing damage to the install location. Risk can be mitigated with the use of C.A.S.E. ",
+            "prevOriginal": "Ammo Bins contain the rounds needed for projectile-based weaponry, with at least one bin required per weapon type. On a Critical Hit, the Pressurized Container will explode dealing damage to the install location. Risk can be mitigated with the use of C.A.S.E. ",
+            "content": "Ammo Bins contain the rounds needed for projectile-based weaponry, with at least one bin required per weapon type. On a Critical Hit, the Pressurized Container will explode dealing damage to the install location. Risk can be mitigated with the use of C.A.S.E. ",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_Generic_HeavyFlamer",
+            "processor": "Description.Details"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_Generic_HeavyFlamer.Description.UIName",
+            "original": "Ammo Flamer",
+            "prevOriginal": "Ammo Flamer",
+            "content": "Ammo Flamer",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_Generic_HeavyFlamer",
+            "processor": "Description.UIName"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_Generic_HeavyFlamer.Description.Name",
+            "original": "Flamer Ammo",
+            "prevOriginal": "Flamer Ammo",
+            "content": "Flamer Ammo",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_Generic_HeavyFlamer",
+            "processor": "Description.Name"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_Sticky_HeavyFlamer.Description.Details",
+            "original": "Ammo Bins contain the rounds needed for projectile-based weaponry, with at least one bin required per weapon type. On a Critical Hit, the Pressurized Container will explode dealing damage to the install location. Risk can be mitigated with the use of C.A.S.E. ",
+            "prevOriginal": "Ammo Bins contain the rounds needed for projectile-based weaponry, with at least one bin required per weapon type. On a Critical Hit, the Pressurized Container will explode dealing damage to the install location. Risk can be mitigated with the use of C.A.S.E. ",
+            "content": "Ammo Bins contain the rounds needed for projectile-based weaponry, with at least one bin required per weapon type. On a Critical Hit, the Pressurized Container will explode dealing damage to the install location. Risk can be mitigated with the use of C.A.S.E. ",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_Sticky_HeavyFlamer",
+            "processor": "Description.Details"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_Sticky_HeavyFlamer.Description.UIName",
+            "original": "Ammo Flamer Sticky",
+            "prevOriginal": "Ammo Flamer Sticky",
+            "content": "Ammo Flamer Sticky",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_Sticky_HeavyFlamer",
+            "processor": "Description.UIName"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_Sticky_HeavyFlamer.Description.Name",
+            "original": "Vehicle Flamer Ammo",
+            "prevOriginal": "Vehicle Flamer Ammo",
+            "content": "Vehicle Flamer Ammo",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_Sticky_HeavyFlamer",
+            "processor": "Description.Name"
+        }
+    ]
+}

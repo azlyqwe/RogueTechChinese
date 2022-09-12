@@ -48,8 +48,12 @@ def filltempMap():
 
 def loadJson(fileName):
     tempJson = None
-    with open(fileName, "r", encoding="utf-8") as f:
-        tempJson = json.load(f, object_pairs_hook=OrderedDict)
+    try:
+        with open(fileName, "r", encoding="utf-8") as f:
+            tempJson = json.load(f, object_pairs_hook=OrderedDict)
+    except:
+        print(fileName)
+        input()
     return tempJson
 
 
@@ -669,11 +673,11 @@ class TranslateCore(object):
             for file in files:
                 if file.endswith(".json"):
                     fhuanPath = os.path.join(root, file)
-                    print(fhuanPath[fhuanPath.find("RU") + 3:])
+                    #print(fhuanPath[fhuanPath.find("RU") + 3:])
                     metaPath = os.path.relpath(fhuanPath, MyConfig.instance.huanHuaInputPath)
                     fsor = os.path.join(MyConfig.instance.midModPath, metaPath)
                     fdst = os.path.join(distPath, metaPath)
-                    #print(fsor)
+                    print(fsor)
                     #print(fdst)
                     #print(metaPath)
                     #print(fhuanPath)
@@ -681,9 +685,10 @@ class TranslateCore(object):
                     ffs = open(fsor, mode="r", encoding="utf-8")
                     Jfs = json.load(ffs, object_pairs_hook=OrderedDict)
                     Jfh = json.load(ffh, object_pairs_hook=OrderedDict)
-                    print("处理:", file)
+                    print("处理:", root,file)
                     for eum in Jfh:
                         #print(eum)
+                        #if "content" in Jfs.keys():
                         for selectKey in Jfs["content"]:
                             if selectKey["id"] == eum["id"]:
                                 #print(eum["content"])
@@ -702,4 +707,5 @@ class TranslateCore(object):
             
                     ffh.close()
                     ffs.close()
+        print("完成!!!")
 

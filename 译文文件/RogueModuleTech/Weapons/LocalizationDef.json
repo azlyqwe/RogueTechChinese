@@ -97,7 +97,7 @@
   },
   {
     "id": "Weapon_Autocannon_AC10_Ultra.Description.Details",
-    "content": "超级自动炮到射速是普通自动炮的两倍,重量、体积和热量只是适度增加.UAC10是最适合你的标准重型炮,具有全面良好的伤害、射程和热效率.\n\n<b><color=#ffcc00>使用UAC10弹药</color></b>. "
+    "content": "终极自动炮到射速是普通自动炮的两倍,重量、体积和热量只是适度增加.UAC10是最适合你的标准重型炮,具有全面良好的伤害、射程和热效率.\n\n<b><color=#ffcc00>使用UAC10弹药</color></b>. "
   },
   {
     "id": "Weapon_Autocannon_AC10_Ultra.Description.UIName",
@@ -169,7 +169,7 @@
   },
   {
     "id": "Weapon_Autocannon_AC20_Ultra.Description.Details",
-    "content": "超级自动炮到射速是普通自动炮的两倍,重量、体积和热量只是适度增加.UAC/20是战场上最可怕的武器之一.\n\n<b><color=#ffcc00>使用UAC20弹药</color></b>. "
+    "content": "终极自动炮到射速是普通自动炮的两倍,重量、体积和热量只是适度增加.UAC/20是战场上最可怕的武器之一.\n\n<b><color=#ffcc00>使用UAC20弹药</color></b>. "
   },
   {
     "id": "Weapon_Autocannon_AC20_Ultra.Description.UIName",
@@ -257,7 +257,7 @@
   },
   {
     "id": "Weapon_Autocannon_AC2_Ultra.Description.Details",
-    "content": "超级自动炮到射速是普通自动炮的两倍,重量、体积和热量只是适度增加.虽然UAC2是系列中口径最小的,但它有无与伦比的暴头能力.\n\n<b><color=#ffcc00>使用UAC2弹药</color></b>. "
+    "content": "终极自动炮到射速是普通自动炮的两倍,重量、体积和热量只是适度增加.虽然UAC2是系列中口径最小的,但它有无与伦比的暴头能力.\n\n<b><color=#ffcc00>使用UAC2弹药</color></b>. "
   },
   {
     "id": "Weapon_Autocannon_AC2_Ultra.Description.UIName",
@@ -353,7 +353,7 @@
   },
   {
     "id": "Weapon_Autocannon_AC5_Ultra.Description.Details",
-    "content": "超级自动炮到射速是普通自动炮的两倍,重量、体积和热量只是适度增加.UAC/5是一种可靠的远程武器.\n\n<b><color=#ffcc00>使用UAC5弹药</color></b>. "
+    "content": "终极自动炮到射速是普通自动炮的两倍,重量、体积和热量只是适度增加.UAC/5是一种可靠的远程武器.\n\n<b><color=#ffcc00>使用UAC5弹药</color></b>. "
   },
   {
     "id": "Weapon_Autocannon_AC5_Ultra.Description.UIName",
@@ -1665,7 +1665,7 @@
   },
   {
     "id": "Weapon_Rotary_Autocannon_2.Description.Details",
-    "content": "转轮式自动炮(RAC)仅在一定成都上基于自动炮. 虽然它们有相同的口径,但其发射能力是其标准同类的六倍,使其造成的伤害甚至是超级自动炮的三倍. 同时,发射每增加一次,自动炮产生的热量也会增加,并增加发生卡壳的可能性.\n\n<b><color=#ffcc00>使用RAC2弹药</color></b> "
+    "content": "转轮式自动炮(RAC)仅在一定成都上基于自动炮. 虽然它们有相同的口径,但其发射能力是其标准同类的六倍,使其造成的伤害甚至是终极自动炮的三倍. 同时,发射每增加一次,自动炮产生的热量也会增加,并增加发生卡壳的可能性.\n\n<b><color=#ffcc00>使用RAC2弹药</color></b> "
   },
   {
     "id": "Weapon_Rotary_Autocannon_2.Description.UIName",
@@ -1689,7 +1689,7 @@
   },
   {
     "id": "Weapon_Rotary_Autocannon_5.Description.Details",
-    "content": "转轮式自动炮(RAC)仅在一定成都上基于自动炮. 虽然它们有相同的口径,但其发射能力是其标准同类的六倍,使其造成的伤害甚至是超级自动炮的三倍. 同时,发射每增加一次,自动炮产生的热量也会增加,并增加发生卡壳的可能性.\n\n<b><color=#ffcc00>使用RAC5弹药</color></b> "
+    "content": "转轮式自动炮(RAC)仅在一定成都上基于自动炮. 虽然它们有相同的口径,但其发射能力是其标准同类的六倍,使其造成的伤害甚至是终极自动炮的三倍. 同时,发射每增加一次,自动炮产生的热量也会增加,并增加发生卡壳的可能性.\n\n<b><color=#ffcc00>使用RAC5弹药</color></b> "
   },
   {
     "id": "Weapon_Rotary_Autocannon_5.Description.UIName",

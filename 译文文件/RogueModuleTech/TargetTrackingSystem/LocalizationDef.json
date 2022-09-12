@@ -141,11 +141,11 @@
   },
   {
     "id": "Gear_TargetingTrackingSystem_Crit.Description.UIName",
-    "content": "致命损伤作战电脑"
+    "content": "严重损伤作战电脑"
   },
   {
     "id": "Gear_TargetingTrackingSystem_Crit.Description.Name",
-    "content": "致命损伤作战电脑"
+    "content": "严重损伤作战电脑"
   },
   {
     "id": "Gear_TargetingTrackingSystem_Crit.Description.Manufacturer",
@@ -189,7 +189,7 @@
   },
   {
     "id": "Gear_TargetingTrackingSystem_Evasion.StatusEffect_TTS_EVASION.statusEffects1.Details",
-    "content": "+2精度,+50%致命损伤率,+30%射程,-50%所有武器最低射程."
+    "content": "+2精度,+50%严重损伤率,+30%射程,-50%所有武器最低射程."
   },
   {
     "id": "Gear_TargetingTrackingSystem_Evasion.BC_CALLED_SHOT.statusEffects0.Name",
@@ -317,7 +317,7 @@
   },
   {
     "id": "Gear_TargetingTrackingSystem_Hartford_S2000.StatusEffect_BCMissile.statusEffects1.Details",
-    "content": "+1精度,+25%致命损伤率,+10射程,-50%导弹武器最低射程"
+    "content": "+1精度,+25%严重损伤率,+10射程,-50%导弹武器最低射程"
   },
   {
     "id": "Gear_TargetingTrackingSystem_Hartford_S2000.BC_CALLED_SHOT.statusEffects0.Name",

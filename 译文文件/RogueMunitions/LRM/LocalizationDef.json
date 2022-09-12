@@ -1,0 +1,542 @@
+[
+  {
+    "id": "Ammo_AmmunitionBox_ArtemisIV_LRM.Description.Details",
+    "content": "月神IV型LRM有一个'智能'弹头,能够有效地引导自己指向任何目标,专门设计用于月神系统,需要月神系统为这些导弹提供无与伦比的精度. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_ArtemisIV_LRM.Description.UIName",
+    "content": "LRM月神IV弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_ArtemisIV_LRM.Description.Name",
+    "content": "LRM月神IV弹药."
+  },
+  {
+    "id": "Ammo_AmmunitionBox_ArtemisIV_LRM_half.Description.Details",
+    "content": "月神IV型LRM有一个'智能'弹头,能够有效地引导自己指向任何目标,专门设计用于月神系统,需要月神系统为这些导弹提供无与伦比的精度. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_ArtemisIV_LRM_half.Description.UIName",
+    "content": "LRM月神IV弹药[半]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_ArtemisIV_LRM_half.Description.Name",
+    "content": "LRM月神IV弹药."
+  },
+  {
+    "id": "Ammo_AmmunitionBox_AugmentedThunder_LRM.Description.Details",
+    "content": "每枚雷霆LRM导弹包含五枚小型但威力强大的反车辆和人员杀伤地雷,发射时会散开.增强的雷霆LRM可以在更大的区域内展开.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_AugmentedThunder_LRM.Description.UIName",
+    "content": "LRM增强型雷霆弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_AugmentedThunder_LRM.Description.Name",
+    "content": "LRM弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_AugmentedThunder_LRM_half.Description.Details",
+    "content": "每枚雷霆LRM导弹包含五枚小型但威力强大的反车辆和人员杀伤地雷,发射时会散开.增强的雷霆LRM可以在更大的区域内展开.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_AugmentedThunder_LRM_half.Description.UIName",
+    "content": "LRM增强型雷霆弹药[半]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_AugmentedThunder_LRM_half.Description.Name",
+    "content": "LRM弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_AX_LRM.Description.Details",
+    "content": "另一个由外围太空自制的弹药,它在弹头中注入AX化合物,融化并削弱它击中的任何装甲。在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用CASE可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_AX_LRM.Description.UIName",
+    "content": "LRM台风弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_AX_LRM.Description.Name",
+    "content": "LRM台风弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_AX_LRM_half.Description.Details",
+    "content": "另一个由外围太空自制的弹药,它在弹头中注入AX化合物,融化并削弱它击中的任何装甲。在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用CASE可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_AX_LRM_half.Description.UIName",
+    "content": "LRM台风弹药[半]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_AX_LRM_half.Description.Name",
+    "content": "LRM台风弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Banana_half.Description.Details",
+    "content": "这些家伙很乐意放一个隐藏的香蕉皮,然后在人行道上向人要钱."
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Banana_half.Description.UIName",
+    "content": "LRM香蕉弹药[半]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Banana_half.Description.Name",
+    "content": "LRM弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Chaff_LRM.Description.Details",
+    "content": "基于最古老的电子对抗设备之一,这些火箭携带一个箔条战斗部,并在爆炸时释放一个致盲闪光,以干扰任何各种传感器.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险."
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Chaff_LRM.Description.UIName",
+    "content": "LRM热诱弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Chaff_LRM.Description.Name",
+    "content": "LRM热诱弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Chaff_LRM_half.Description.Details",
+    "content": "基于最古老的电子对抗设备之一,这些火箭携带一个箔条战斗部,并在爆炸时释放一个致盲闪光,以干扰任何各种传感器.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险."
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Chaff_LRM_half.Description.UIName",
+    "content": "LRM热诱弹药[半]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Chaff_LRM_half.Description.Name",
+    "content": "LRM热诱弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Clearance_LRM.Description.Details",
+    "content": "当发射时,扫雷导弹在可疑雷场上方产生大量超高气压.这种超高气压模拟了战斗机甲或战斗车辆的重量,并使地雷引爆.这清除了雷区,让友军从缝隙中快速撤离.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Clearance_LRM.Description.UIName",
+    "content": "LRM扫雷弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Clearance_LRM.Description.Name",
+    "content": "LRM扫雷弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Clearance_LRM_half.Description.Details",
+    "content": "当发射时,扫雷导弹在可疑雷场上方产生大量超高气压.这种超高气压模拟了战斗机甲或战斗车辆的重量,并使地雷引爆.这清除了雷区,让友军从缝隙中快速撤离.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Clearance_LRM_half.Description.UIName",
+    "content": "LRM扫雷弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Clearance_LRM_half.Description.Name",
+    "content": "LRM扫雷弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Deadfire_LRM.Description.Details",
+    "content": "亡焰LRM去掉任何先进制导系统,减少射程和精度,以获得更大的载弹量和降低最近射程. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Deadfire_LRM.Description.UIName",
+    "content": "LRM亡焰弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Deadfire_LRM.Description.Name",
+    "content": "LRM亡焰弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Deadfire_LRM_half.Description.Details",
+    "content": "亡焰LRM去掉任何先进制导系统,减少射程和精度,以获得更大的载弹量和降低最近射程. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Deadfire_LRM_half.Description.UIName",
+    "content": "LRM亡焰弹药[半]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Deadfire_LRM_half.Description.Name",
+    "content": "LRM亡焰弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_ER_LRM.Description.Details",
+    "content": "极远射程LRM弹药利用更先进的飞行电脑和稳定器大幅增加其射程.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险."
+  },
+  {
+    "id": "Ammo_AmmunitionBox_ER_LRM.Description.UIName",
+    "content": "LRM增程弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_ER_LRM.Description.Name",
+    "content": "LRM增程弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_ER_LRM_half.Description.Details",
+    "content": "极远射程LRM弹药利用更先进的飞行电脑和稳定器大幅增加其射程.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险."
+  },
+  {
+    "id": "Ammo_AmmunitionBox_ER_LRM_half.Description.UIName",
+    "content": "LRM增程弹药[半]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_ER_LRM_half.Description.Name",
+    "content": "LRM增程弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_FTL_LRM.Description.Details",
+    "content": "跟随前导弹头(FTL)是在星联时代开发的,这种LRM发射器的替代弹药在任何方面都像标准的LRM导弹,除了一个:当目标被击中时,飞行中的每一枚导弹都将击中.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_FTL_LRM.Description.UIName",
+    "content": "LRM前导弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_FTL_LRM.Description.Name",
+    "content": "LRM弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_FTL_LRM_half.Description.Details",
+    "content": "跟随前导弹头(FTL)是在星联时代开发的,这种LRM发射器的替代弹药在任何方面都像标准的LRM导弹,除了一个:当目标被击中时,飞行中的每一枚导弹都将击中.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_FTL_LRM_half.Description.UIName",
+    "content": "LRM前导弹药[半]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_FTL_LRM_half.Description.Name",
+    "content": "LRM弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_LRM.Description.Details",
+    "content": "弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_LRM.Description.UIName",
+    "content": "LRM弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_LRM.Description.Name",
+    "content": "LRM弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_LRM_double.Description.Details",
+    "content": "双弹药舱:将一个弹舱的进料和储存机制替换为一个位置多25%子弹的弹舱.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_LRM_double.Description.UIName",
+    "content": "LRM弹药[双]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_LRM_double.Description.Name",
+    "content": "LRM弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_LRM_half.Description.Details",
+    "content": "弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_LRM_half.Description.UIName",
+    "content": "LRM弹药[半]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_LRM_half.Description.Name",
+    "content": "LRM弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Hydra_LRM.Description.Details",
+    "content": "这个弹药舱包含了来自深空外围的臭名昭著的'九头蛇'导弹,携带着高爆炸性和易燃材料的不稳定战斗部.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Hydra_LRM.Description.UIName",
+    "content": "LRM九头蛇弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Hydra_LRM.Description.Name",
+    "content": "LRM九头蛇弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Hydra_LRM_half.Description.Details",
+    "content": "这个弹药舱包含了来自深空外围的臭名昭著的'九头蛇'导弹,携带着高爆炸性和易燃材料的不稳定战斗部.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Hydra_LRM_half.Description.UIName",
+    "content": "LRM九头蛇弹药[半]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Hydra_LRM_half.Description.Name",
+    "content": "LRM九头蛇弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Incendiary_LRM.Description.Details",
+    "content": "与炼狱弹药不同,燃烧导弹弹药用一种更便宜的非凝胶燃烧剂取代弹头的高爆战斗部,这种燃烧剂类似于磷.虽然这种效果在原理上类似于炼狱弹药,但这种效果被大气条件大大减轻.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Incendiary_LRM.Description.UIName",
+    "content": "LRM弹药[燃烧]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Incendiary_LRM.Description.Name",
+    "content": "LRM燃烧弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Incendiary_LRM_half.Description.Details",
+    "content": "与炼狱弹药不同,燃烧导弹弹药用一种更便宜的非凝胶燃烧剂取代弹头的高爆战斗部,这种燃烧剂类似于磷.虽然这种效果在原理上类似于炼狱弹药,但这种效果被大气条件大大减轻.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Incendiary_LRM_half.Description.UIName",
+    "content": "LRM弹药[燃烧][半]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Incendiary_LRM_half.Description.Name",
+    "content": "LRM燃烧弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_InfernoThunder_LRM.Description.Details",
+    "content": "每枚雷霆LRM导弹包含五枚小型但威力强大的反车辆和人员杀伤地雷,发射时会散开.弹药包拥有足够的破坏力,可以让多部机甲的腿部损坏.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_InfernoThunder_LRM.Description.UIName",
+    "content": "LRM改进型雷霆弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_InfernoThunder_LRM.Description.Name",
+    "content": "LRM弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_InfernoThunder_LRM_half.Description.Details",
+    "content": "每枚雷霆LRM导弹包含五枚小型但威力强大的反车辆和人员杀伤地雷,发射时会散开.弹药包拥有足够的破坏力,可以让多部机甲的腿部损坏.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_InfernoThunder_LRM_half.Description.UIName",
+    "content": "LRM改进型雷霆弹药[半]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_InfernoThunder_LRM_half.Description.Name",
+    "content": "LRM弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_ListenKill_LRM.Description.Details",
+    "content": "听-杀(又名L-K)导弹技术是对导弹的升级,以提高其准确性.这是通过一个小型电脑和导弹头部的瞄准装置来实现的,该装置允许导弹跟踪战斗机甲或坦克的电子噪声.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_ListenKill_LRM.Description.UIName",
+    "content": "LRM L-K弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_ListenKill_LRM.Description.Name",
+    "content": "LRM弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_ListenKill_LRM_half.Description.Details",
+    "content": "听-杀(又名L-K)导弹技术是对导弹的升级,以提高其准确性.这是通过一个小型电脑和导弹头部的瞄准装置来实现的,该装置允许导弹跟踪战斗机甲或坦克的电子噪声.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_ListenKill_LRM_half.Description.UIName",
+    "content": "LRM L-K弹药[半]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_ListenKill_LRM_half.Description.Name",
+    "content": "LRM弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_MagPulse_LRM.Description.Details",
+    "content": "最初被认为是针对目标战斗机甲的瞄准和跟踪系统的电子对抗攻击,其设计者很快发现,原型磁脉冲弹头有一个意想不到的副作用,即瞬间削弱聚变发动机的磁屏蔽,在发动机的安全壳恢复正常之前触发一个明显的'热尖峰'.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_MagPulse_LRM.Description.UIName",
+    "content": "LRM磁脉冲弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_MagPulse_LRM.Description.Name",
+    "content": "LRM弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_MagPulse_LRM_half.Description.Details",
+    "content": "最初被认为是针对目标战斗机甲的瞄准和跟踪系统的电子对抗攻击,其设计者很快发现,原型磁脉冲弹头有一个意想不到的副作用,即瞬间削弱聚变发动机的磁屏蔽,在发动机的安全壳恢复正常之前触发一个明显的'热尖峰'.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_MagPulse_LRM_half.Description.UIName",
+    "content": "LRM磁脉冲弹药[半]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_MagPulse_LRM_half.Description.Name",
+    "content": "LRM弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Narc_LRM.Description.Details",
+    "content": "一些海盗得到了几吨的NARC弹药,但他们没有发射器,于是决定重建这个导弹发射器,以发射导弹粘在目标上,并向所有友好的单位发送低能量瞄准信号.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险."
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Narc_LRM.Description.UIName",
+    "content": "LRM NARC弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Narc_LRM.Description.Name",
+    "content": "LRM NARC弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Protected_LRM.Description.Details",
+    "content": "C.A.S.E.弹药箱的设计有爆炸面板以保护机甲上的重要部件.一旦传感器检测到弹药爆炸,靠近最外面的面板就被抛掉.将大量的爆炸能量导向机甲外部空间. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Protected_LRM.Description.UIName",
+    "content": "LRM弹药[安全]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Protected_LRM.Description.Name",
+    "content": "LRM弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_SAM_LRM.Description.Details",
+    "content": "地空导弹(SAM)是一种设计用于从地面发射以摧毁飞机或其他导弹的导弹.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_SAM_LRM.Description.UIName",
+    "content": "LRM SAM弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_SAM_LRM.Description.Name",
+    "content": "LRM弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Sensors_LRM.Description.Details",
+    "content": "这些导弹用一个传感器包代替爆炸战斗部,该传感器包将激活并警告其撞击区域内的任何威胁.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Sensors_LRM.Description.UIName",
+    "content": "LRM传感器弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Sensors_LRM.Description.Name",
+    "content": "LRM弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Sensors_LRM_half.Description.Details",
+    "content": "这些导弹用一个传感器包代替爆炸战斗部,该传感器包将激活并警告其撞击区域内的任何威胁.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Sensors_LRM_half.Description.UIName",
+    "content": "LRM传感器弹药[半]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Sensors_LRM_half.Description.Name",
+    "content": "LRM弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Streak_LRM.Description.Details",
+    "content": "弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险."
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Streak_LRM.Description.UIName",
+    "content": "LRM迅捷弹药[氏族]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Streak_LRM.Description.Name",
+    "content": "LRM迅捷弹药[氏族]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Streak_LRM_half.Description.Details",
+    "content": "弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险."
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Streak_LRM_half.Description.UIName",
+    "content": "LRM迅捷弹药[半][氏族]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Streak_LRM_half.Description.Name",
+    "content": "LRM迅捷弹药[氏族]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Swarmi_LRM.Description.Details",
+    "content": "蜂群I(改进)导弹系统是基于蜂群系统但携带更大的智能炸弹战斗部,能够锁定附近的目标.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Swarmi_LRM.Description.UIName",
+    "content": "LRM蜂群I型弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Swarmi_LRM.Description.Name",
+    "content": "LRM弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Swarmi_LRM_half.Description.Details",
+    "content": "蜂群I(改进)导弹系统是基于蜂群系统但携带更大的智能炸弹战斗部,能够锁定附近的目标.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Swarmi_LRM_half.Description.UIName",
+    "content": "LRM蜂群I型弹药[半]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Swarmi_LRM_half.Description.Name",
+    "content": "LRM弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Swarm_LRM.Description.Details",
+    "content": "蜂群导弹系统携带的是小炸弹,而不是传统的LRM弹头,用爆炸给目标区域洗澡.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Swarm_LRM.Description.UIName",
+    "content": "LRM蜂群弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Swarm_LRM.Description.Name",
+    "content": "LRM弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Swarm_LRM_half.Description.Details",
+    "content": "蜂群导弹系统携带的是小炸弹,而不是传统的LRM弹头,用爆炸给目标区域洗澡.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Swarm_LRM_half.Description.UIName",
+    "content": "LRM蜂群弹药[半]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Swarm_LRM_half.Description.Name",
+    "content": "LRM弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Tandem_LRM.Description.Details",
+    "content": "为了改进LRM,科学家们应用了一种古老的技术,将弹头改造成聚能装药.这就用它的大部分破坏潜力换取了在现代战场上远距离穿透几乎所有装甲的能力.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Tandem_LRM.Description.UIName",
+    "content": "LRM聚能弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Tandem_LRM.Description.Name",
+    "content": "LRM弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Tandem_LRM_half.Description.Details",
+    "content": "为了改进LRM,科学家们应用了一种古老的技术,将弹头改造成聚能装药.这就用它的大部分破坏潜力换取了在现代战场上远距离穿透几乎所有装甲的能力.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Tandem_LRM_half.Description.UIName",
+    "content": "LRM聚能弹药[半]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Tandem_LRM_half.Description.Name",
+    "content": "LRM弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Thunder_LRM.Description.Details",
+    "content": "每枚雷霆LRM导弹包含五枚小型但威力强大的反车辆和人员杀伤地雷,发射时会散开.弹药包拥有足够的破坏力,可以让多部机甲的腿部损坏.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Thunder_LRM.Description.UIName",
+    "content": "LRM雷霆弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Thunder_LRM.Description.Name",
+    "content": "LRM弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Thunder_LRM_half.Description.Details",
+    "content": "每枚雷霆LRM导弹包含五枚小型但威力强大的反车辆和人员杀伤地雷,发射时会散开.弹药包拥有足够的破坏力,可以让多部机甲的腿部损坏.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Thunder_LRM_half.Description.UIName",
+    "content": "LRM雷霆弹药[半]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Thunder_LRM_half.Description.Name",
+    "content": "LRM弹药"
+  }
+]

@@ -1,0 +1,168 @@
+{
+    "culture": 2,
+    "files": [
+        "Ammo_AmmunitionBox_Fluid_Acid.json",
+        "Ammo_AmmunitionBox_Fluid_Inferno.json",
+        "Ammo_AmmunitionBox_Fluid_Oil.json",
+        "Ammo_AmmunitionBox_Fluid_Paint.json"
+    ],
+    "directories": [
+        {
+            "dir": [
+                "RogueMunitions",
+                "Fluid"
+            ],
+            "processors": [
+                "Description.Details",
+                "Description.UIName",
+                "Description.Name"
+            ]
+        }
+    ],
+    "content": [
+        {
+            "id": "Ammo_AmmunitionBox_Fluid_Acid.Description.Details",
+            "original": "Pressurized Canister containing Acid for the Fluid gun, weakening a targets Armor Drastically. On a Critical Hit, the Pressurized Container will explode dealing damage to the install location. Risk can be mitigated with the use of C.A.S.E. ",
+            "prevOriginal": "Pressurized Canister containing Acid for the Fluid gun, weakening a targets Armor Drastically. On a Critical Hit, the Pressurized Container will explode dealing damage to the install location. Risk can be mitigated with the use of C.A.S.E. ",
+            "content": "Pressurized Canister containing Acid for the Fluid gun, weakening a targets Armor Drastically. On a Critical Hit, the Pressurized Container will explode dealing damage to the install location. Risk can be mitigated with the use of C.A.S.E. ",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_Fluid_Acid",
+            "processor": "Description.Details"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_Fluid_Acid.Description.UIName",
+            "original": "Ammo Fluid Acid",
+            "prevOriginal": "Ammo Fluid Acid",
+            "content": "Ammo Fluid Acid",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_Fluid_Acid",
+            "processor": "Description.UIName"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_Fluid_Acid.Description.Name",
+            "original": "Acid Ammo",
+            "prevOriginal": "Acid Ammo",
+            "content": "Acid Ammo",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_Fluid_Acid",
+            "processor": "Description.Name"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_Fluid_Inferno.Description.Details",
+            "original": "Pressurized Canister containing Inferno for the Fluid gun, coating the Target in burning Chemicals. On a Critical Hit, the Pressurized Container will explode dealing damage to the install location. Risk can be mitigated with the use of C.A.S.E. ",
+            "prevOriginal": "Pressurized Canister containing Inferno for the Fluid gun, coating the Target in burning Chemicals. On a Critical Hit, the Pressurized Container will explode dealing damage to the install location. Risk can be mitigated with the use of C.A.S.E. ",
+            "content": "Pressurized Canister containing Inferno for the Fluid gun, coating the Target in burning Chemicals. On a Critical Hit, the Pressurized Container will explode dealing damage to the install location. Risk can be mitigated with the use of C.A.S.E. ",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_Fluid_Inferno",
+            "processor": "Description.Details"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_Fluid_Inferno.Description.UIName",
+            "original": "Ammo Fluid Inferno",
+            "prevOriginal": "Ammo Fluid Inferno",
+            "content": "Ammo Fluid Inferno",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_Fluid_Inferno",
+            "processor": "Description.UIName"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_Fluid_Inferno.Description.Name",
+            "original": "Inferno Ammo",
+            "prevOriginal": "Inferno Ammo",
+            "content": "Inferno Ammo",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_Fluid_Inferno",
+            "processor": "Description.Name"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_Fluid_Oil.Description.Details",
+            "original": "Pressurized Canister containing Oil for the Fluid gun, impairing a Targets Stability and Movement. It's also flammable. On a Critical Hit, the Pressurized Container will explode dealing damage to the install location. Risk can be mitigated with the use of C.A.S.E.",
+            "prevOriginal": "Pressurized Canister containing Oil for the Fluid gun, impairing a Targets Stability and Movement. It's also flammable. On a Critical Hit, the Pressurized Container will explode dealing damage to the install location. Risk can be mitigated with the use of C.A.S.E.",
+            "content": "Pressurized Canister containing Oil for the Fluid gun, impairing a Targets Stability and Movement. It's also flammable. On a Critical Hit, the Pressurized Container will explode dealing damage to the install location. Risk can be mitigated with the use of C.A.S.E.",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_Fluid_Oil",
+            "processor": "Description.Details"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_Fluid_Oil.Description.UIName",
+            "original": "Ammo Fluid Oil",
+            "prevOriginal": "Ammo Fluid Oil",
+            "content": "Ammo Fluid Oil",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_Fluid_Oil",
+            "processor": "Description.UIName"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_Fluid_Oil.Description.Name",
+            "original": "Oil Ammo",
+            "prevOriginal": "Oil Ammo",
+            "content": "Oil Ammo",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_Fluid_Oil",
+            "processor": "Description.Name"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_Fluid_Paint.Description.Details",
+            "original": "Pressurized Canister containing Magnetized Paint for the Fluid gun, impairing a Targets Vision and Accuracy and covering it in high visibility paint. On a Critical Hit, the Pressurized Container will explode dealing damage to the install location. Risk can be mitigated with the use of C.A.S.E.",
+            "prevOriginal": "Pressurized Canister containing Magnetized Paint for the Fluid gun, impairing a Targets Vision and Accuracy and covering it in high visibility paint. On a Critical Hit, the Pressurized Container will explode dealing damage to the install location. Risk can be mitigated with the use of C.A.S.E.",
+            "content": "Pressurized Canister containing Magnetized Paint for the Fluid gun, impairing a Targets Vision and Accuracy and covering it in high visibility paint. On a Critical Hit, the Pressurized Container will explode dealing damage to the install location. Risk can be mitigated with the use of C.A.S.E.",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_Fluid_Paint",
+            "processor": "Description.Details"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_Fluid_Paint.Description.UIName",
+            "original": "Ammo Fluid Paint",
+            "prevOriginal": "Ammo Fluid Paint",
+            "content": "Ammo Fluid Paint",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_Fluid_Paint",
+            "processor": "Description.UIName"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_Fluid_Paint.Description.Name",
+            "original": "Paint Ammo",
+            "prevOriginal": "Paint Ammo",
+            "content": "Paint Ammo",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_Fluid_Paint",
+            "processor": "Description.Name"
+        }
+    ]
+}

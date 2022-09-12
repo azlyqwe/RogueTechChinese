@@ -1,0 +1,266 @@
+[
+  {
+    "id": "Ammo_AmmunitionBox_Acid_SRM.Description.Details",
+    "content": "这种弹头使用小型凝胶酸罐取代了标准近程导弹的普通炸药,弱化目标的防御.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Acid_SRM.Description.UIName",
+    "content": "SRM酸性弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Acid_SRM.Description.Name",
+    "content": "SRM酸型弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Acid_SRM_half.Description.Details",
+    "content": "这种弹头使用小型凝胶酸罐取代了标准近程导弹的普通炸药,弱化目标的防御.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Acid_SRM_half.Description.UIName",
+    "content": "SRM酸性弹药[半]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Acid_SRM_half.Description.Name",
+    "content": "SRM酸型弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_AMS_SRM.Description.Details",
+    "content": "对抗导弹系统建立在与AMS相同的原理上,利用智能弹头射入到来袭武器的路径上并在那里引爆.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_AMS_SRM.Description.UIName",
+    "content": "SRM反导弹弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_AMS_SRM.Description.Name",
+    "content": "SRM弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_AMS_SRM_half.Description.Details",
+    "content": "对抗导弹系统建立在与AMS相同的原理上,利用智能弹头射入到来袭武器的路径上并在那里引爆.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_AMS_SRM_half.Description.UIName",
+    "content": "SRM反导弹弹药[半]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_AMS_SRM_half.Description.Name",
+    "content": "SRM弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_ArtemisIV_SRM.Description.Details",
+    "content": "月神IV型SRM有一个'智能'弹头,能够有效地引导自己指向任何目标,专门设计用于月神系统,需要月神系统为这些导弹提供无与伦比的精度. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_ArtemisIV_SRM.Description.UIName",
+    "content": "SRM月神IV弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_ArtemisIV_SRM.Description.Name",
+    "content": "SRM月神IV弹药."
+  },
+  {
+    "id": "Ammo_AmmunitionBox_ArtemisIV_SRM_half.Description.Details",
+    "content": "月神IV型SRM有一个'智能'弹头,能够有效地引导自己指向任何目标,专门设计用于月神系统,需要月神系统为这些导弹提供无与伦比的精度. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_ArtemisIV_SRM_half.Description.UIName",
+    "content": "SRM月神IV弹药[半]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_ArtemisIV_SRM_half.Description.Name",
+    "content": "SRM月神IV弹药."
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Deadfire_SRM.Description.Details",
+    "content": "亡焰火箭是标准的短程导弹弹体,配备了升级的高爆战斗部.为了给这一额外的战斗部腾出空间,对机载武器制导系统进行了严重的削减,几乎将其移除.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Deadfire_SRM.Description.UIName",
+    "content": "SRM亡焰弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Deadfire_SRM.Description.Name",
+    "content": "SRM亡焰弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Deadfire_SRM_half.Description.Details",
+    "content": "亡焰火箭是标准的短程导弹弹体,配备了升级的高爆战斗部.为了给这一额外的战斗部腾出空间,对机载武器制导系统进行了严重的削减,几乎将其移除.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Deadfire_SRM_half.Description.UIName",
+    "content": "SRM亡焰弹药[半]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Deadfire_SRM_half.Description.Name",
+    "content": "SRM亡焰弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_SRM.Description.Details",
+    "content": "弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_SRM.Description.UIName",
+    "content": "SRM弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_SRM.Description.Name",
+    "content": "SRM弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_SRM_double.Description.Details",
+    "content": "双倍弹药舱:将一个弹舱的进料和储存机制替换为一置多25%子弹的弹舱.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_SRM_double.Description.UIName",
+    "content": "SRM弹药[双]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_SRM_double.Description.Name",
+    "content": "SRM弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_SRM_half.Description.Details",
+    "content": "弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_SRM_half.Description.UIName",
+    "content": "SRM弹药[半]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_SRM_half.Description.Name",
+    "content": "SRM弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Inferno_SRM.Description.Details",
+    "content": "炼狱是一种特殊的燃料空气导弹弹药,是20世界中叶的燃烧武器的进一步发展.他们将易燃化合物和粘着剂混合,用燃烧的凝胶喷洒向目标.这种凝胶的设计目的是将机甲的热量水平提高到DI电脑关闭聚变引擎的程度.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Inferno_SRM.Description.UIName",
+    "content": "SRM炼狱弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Inferno_SRM.Description.Name",
+    "content": "SRM炼狱弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Inferno_SRM_half.Description.Details",
+    "content": "炼狱是一种特殊的燃料空气导弹弹药,是20世界中叶的燃烧武器的进一步发展.他们将易燃化合物和粘着剂混合,用燃烧的凝胶喷洒向目标.这种凝胶的设计目的是将机甲的热量水平提高到DI电脑关闭聚变引擎的程度.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Inferno_SRM_half.Description.UIName",
+    "content": "SRM炼狱弹药[半]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Inferno_SRM_half.Description.Name",
+    "content": "SRM炼狱弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_ListenKill_SRM.Description.Details",
+    "content": "听-杀(又名L-K)导弹技术是对导弹的升级,以提高其准确性.这是通过一个小型电脑和导弹头部的瞄准装置来实现的,该装置允许导弹跟踪战斗机甲或坦克的电子噪声.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_ListenKill_SRM.Description.UIName",
+    "content": "SRM L-K弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_ListenKill_SRM.Description.Name",
+    "content": "SRM L-K弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_ListenKill_SRM_half.Description.Details",
+    "content": "听-杀(又名L-K)导弹技术是对导弹的升级,以提高其准确性.这是通过一个小型电脑和导弹头部的瞄准装置来实现的,该装置允许导弹跟踪战斗机甲或坦克的电子噪声.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_ListenKill_SRM_half.Description.UIName",
+    "content": "SRM L-K弹药[半]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_ListenKill_SRM_half.Description.Name",
+    "content": "SRM L-K弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_MagPulse_SRM.Description.Details",
+    "content": "最初被认为是针对目标战斗机甲的瞄准和跟踪系统的电子对抗攻击,其设计者很快发现,原型磁脉冲弹头有一个意想不到的副作用,即瞬间削弱聚变发动机的磁屏蔽,在发动机的安全壳恢复正常之前触发一个明显的'热尖峰'.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_MagPulse_SRM.Description.UIName",
+    "content": "SRM磁脉冲弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_MagPulse_SRM.Description.Name",
+    "content": "SRM弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_MagPulse_SRM_half.Description.Details",
+    "content": "最初被认为是针对目标战斗机甲的瞄准和跟踪系统的电子对抗攻击,其设计者很快发现,原型磁脉冲弹头有一个意想不到的副作用,即瞬间削弱聚变发动机的磁屏蔽,在发动机的安全壳恢复正常之前触发一个明显的'热尖峰'.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_MagPulse_SRM_half.Description.UIName",
+    "content": "SRM磁脉冲弹药[半]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_MagPulse_SRM_half.Description.Name",
+    "content": "SRM弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Protected_SRM.Description.Details",
+    "content": "C.A.S.E.弹药舱的设计有爆炸面板以保护机甲上的重要部件.一旦传感器检测到弹药爆炸,靠近最外面的面板就被抛掉.将大量的爆炸能量导向机甲外部空间.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Protected_SRM.Description.UIName",
+    "content": "SRM弹药[安全]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Protected_SRM.Description.Name",
+    "content": "SRM弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Streak_SRM.Description.Details",
+    "content": "弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Streak_SRM.Description.UIName",
+    "content": "SRM迅捷弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Streak_SRM.Description.Name",
+    "content": "SRM迅捷弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Streak_SRM_half.Description.Details",
+    "content": "弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Streak_SRM_half.Description.UIName",
+    "content": "SRM迅捷弹药[半]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Streak_SRM_half.Description.Name",
+    "content": "SRM迅捷弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Tandem_SRM.Description.Details",
+    "content": "聚能导弹旨在用特殊弹头取代标准SRM战斗部,这种弹头能够穿透装甲并对目标的内部结构造成伤害,天腾式导弹使用一对炸药造成伤害.第一种炸药是一种能穿透单位外装甲的聚能装药,而第二种炸药则通过新形成的缺口来破坏内部部件.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Tandem_SRM.Description.UIName",
+    "content": "SRM聚能弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Tandem_SRM.Description.Name",
+    "content": "SRM聚能弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Tandem_SRM_half.Description.Details",
+    "content": "聚能导弹旨在用特殊弹头取代标准SRM战斗部,这种弹头能够穿透装甲并对目标的内部结构造成伤害,天腾式导弹使用一对炸药造成伤害.第一种炸药是一种能穿透单位外装甲的聚能装药,而第二种炸药则通过新形成的缺口来破坏内部部件.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Tandem_SRM_half.Description.UIName",
+    "content": "SRM聚能弹药[半]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Tandem_SRM_half.Description.Name",
+    "content": "SRM聚能弹药"
+  }
+]

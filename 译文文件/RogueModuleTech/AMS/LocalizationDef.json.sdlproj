@@ -1,0 +1,906 @@
+<?xml version="1.0"?>
+<Project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Guid="4f87e73c-f99f-4eca-9848-6982db900f7a" SettingsBundleGuid="acad6da7-4a59-41f2-a7ad-62753f9a5a8b" Version="4.0.0.0" Owner="FATE-MOON\zly" ProjectTemplateGuid="10004f3b-4acf-4425-a3e3-38d3b3514276" ReferenceProjectGuid="00000000-0000-0000-0000-000000000000">
+  <LanguageDirections>
+    <LanguageDirection Guid="d491370b-189a-42ff-9b9f-17bcfce847d0" SettingsBundleGuid="88913fc3-c033-4bc8-a435-fb580112af44" TargetLanguageCode="zh-CN" SourceLanguageCode="en-US">
+      <AutoSuggestDictionaries />
+      <CascadeItem OverrideParent="true" StopSearchingWhenResultsFound="false">
+        <CascadeEntryItem PerformConcordanceSearch="true" Penalty="0" PerformUpdate="true" PerformNormalSearch="true">
+          <MainTranslationProviderItem Uri="sdltm.file:///G:/GitBin/private-file-storage/game/battleTech/BattleTechProject/BattleTech精选翻译库.sdltm" Enabled="true" />
+        </CascadeEntryItem>
+      </CascadeItem>
+    </LanguageDirection>
+  </LanguageDirections>
+  <TermbaseConfiguration>
+    <RecognitionOptions>
+      <ShowWithNoAvailableTranslation>false</ShowWithNoAvailableTranslation>
+      <MinimumMatchValue>70</MinimumMatchValue>
+      <SearchDepth>200</SearchDepth>
+      <SearchOrder>Parallel</SearchOrder>
+    </RecognitionOptions>
+  </TermbaseConfiguration>
+  <SettingsBundles>
+    <SettingsBundle Guid="acad6da7-4a59-41f2-a7ad-62753f9a5a8b">
+      <SettingsBundle>
+        <SettingsGroup Id="TerminologyProviderSettings">
+          <Setting Id="TermbasesOrder">
+            <ArrayOfstring xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+            </ArrayOfstring>
+          </Setting>
+          <Setting Id="Termbases">
+            <ArrayOfTermbase xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/Sdl.ProjectApi.Implementation.Xml">
+            </ArrayOfTermbase>
+          </Setting>
+        </SettingsGroup>
+        <SettingsGroup Id="FileTypeManagerConfigurationSettingsGroup">
+          <Setting Id="FileTypeManagerConfigurationSettings">
+            <FileTypeManagerConfigurationList xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sdl.com/projectapi">
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>SDL XLIFF 1.0 v 1.0.0.0</FileTypeDefinitionId>
+                <Profile xmlns:d3p1="http://www.sdl.com/filetypesupport">
+                  <d3p1:Description>符合 OASIS XLIFF 1.2 标准的中间双语文件格式，用于在翻译时存储具有相关信息的完全或部分翻译内容。</d3p1:Description>
+                  <d3p1:Expression>(^[\d\D]*\.[sS][dD][lL][xX][lL][iI][fF][fF]$)</d3p1:Expression>
+                  <d3p1:FileDialogWildcardExpression>*.sdlxliff</d3p1:FileDialogWildcardExpression>
+                  <d3p1:FileTypeDefinitionId>SDL XLIFF 1.0 v 1.0.0.0</d3p1:FileTypeDefinitionId>
+                  <d3p1:FileTypeDocumentName>SDL XLIFF 文档</d3p1:FileTypeDocumentName>
+                  <d3p1:FileTypeDocumentsName>SDL XLIFF 文档</d3p1:FileTypeDocumentsName>
+                  <d3p1:FileTypeName>SDL XLIFF</d3p1:FileTypeName>
+                </Profile>
+                <Removed>false</Removed>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>副标题 v 1.0.0.0</FileTypeDefinitionId>
+                <Profile xmlns:d3p1="http://www.sdl.com/filetypesupport">
+                  <d3p1:Description>SubRip (.srt)、SubViewer (.sbv)、Web Video Text Tracks (.vtt) 和 Timed Text Markup (.ttml) 文件。</d3p1:Description>
+                  <d3p1:Expression>(^[\d\D]*\.[sS][rR][tT]$)|(^[\d\D]*\.[vV][tT][tT]$)|(^[\d\D]*\.[sS][bB][vV]$)|(^[\d\D]*\.[sS][uU][bB]$)|(^[\d\D]*\.[tT][tT][mM][lL]$)|(^[\d\D]*\.[xX][mM][lL]$)|(^[\d\D]*\.[dD][fF][xX][pP]$)</d3p1:Expression>
+                  <d3p1:FileDialogWildcardExpression>*.srt;*.vtt;*.sbv;*.sub;*.ttml;*.xml;*.dfxp</d3p1:FileDialogWildcardExpression>
+                  <d3p1:FileTypeDefinitionId>副标题 v 1.0.0.0</d3p1:FileTypeDefinitionId>
+                  <d3p1:FileTypeDocumentName>副标题文件</d3p1:FileTypeDocumentName>
+                  <d3p1:FileTypeDocumentsName>副标题文件</d3p1:FileTypeDocumentsName>
+                  <d3p1:FileTypeName>副标题格式</d3p1:FileTypeName>
+                </Profile>
+                <Removed>false</Removed>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>WordprocessingML v. 2</FileTypeDefinitionId>
+                <Profile xmlns:d3p1="http://www.sdl.com/filetypesupport">
+                  <d3p1:Description>使用 Microsoft Word 2007-2019 创建的文档，包括 Google Docs 和 LibreOffice 中以 Microsoft Word 格式保存的文档。</d3p1:Description>
+                  <d3p1:Expression>(^[\d\D]*\.[dD][oO][cC][xX]$)|(^[\d\D]*\.[dD][oO][tT][xX]$)|(^[\d\D]*\.[dD][oO][cC][mM]$)|(^[\d\D]*\.[dD][oO][tT][mM]$)</d3p1:Expression>
+                  <d3p1:FileDialogWildcardExpression>*.docx;*.dotx;*.docm;*.dotm</d3p1:FileDialogWildcardExpression>
+                  <d3p1:FileTypeDefinitionId>WordprocessingML v. 2</d3p1:FileTypeDefinitionId>
+                  <d3p1:FileTypeDocumentName>Microsoft Word 2007-2019 文档</d3p1:FileTypeDocumentName>
+                  <d3p1:FileTypeDocumentsName>Microsoft Word 2007-2019 文档</d3p1:FileTypeDocumentsName>
+                  <d3p1:FileTypeName>Microsoft Word 2007-2019</d3p1:FileTypeName>
+                </Profile>
+                <Removed>false</Removed>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>DOC v 2.0.0.0</FileTypeDefinitionId>
+                <Profile xmlns:d3p1="http://www.sdl.com/filetypesupport">
+                  <d3p1:Description>使用 Microsoft Word 97-2003 和 WPS Writer 创建的文档</d3p1:Description>
+                  <d3p1:Expression>(^[\d\D]*\.[dD][oO][cC]$)|(^[\d\D]*\.[dD][oO][tT]$)|(^[\d\D]*\.[wW][pP][sS]$)</d3p1:Expression>
+                  <d3p1:FileDialogWildcardExpression>*.doc;*.dot;*.wps</d3p1:FileDialogWildcardExpression>
+                  <d3p1:FileTypeDefinitionId>DOC v 2.0.0.0</d3p1:FileTypeDefinitionId>
+                  <d3p1:FileTypeDocumentName>Microsoft Word 97-2003 文档</d3p1:FileTypeDocumentName>
+                  <d3p1:FileTypeDocumentsName>Microsoft Word 97-2003 文档</d3p1:FileTypeDocumentsName>
+                  <d3p1:FileTypeName>Microsoft Word 97-2003</d3p1:FileTypeName>
+                </Profile>
+                <Removed>false</Removed>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>PresentationML v. 1</FileTypeDefinitionId>
+                <Profile xmlns:d3p1="http://www.sdl.com/filetypesupport">
+                  <d3p1:Description>使用 Microsoft PowerPoint 2007-2019 创建的文档，包括 Google Slides 和 LibreOffice 中以 Microsoft PowerPoint 格式保存的文档。</d3p1:Description>
+                  <d3p1:Expression>(^[\d\D]*\.[pP][pP][tT][xX]$)|(^[\d\D]*\.[pP][pP][sS][xX]$)|(^[\d\D]*\.[pP][oO][tT][xX]$)|(^[\d\D]*\.[pP][pP][tT][mM]$)|(^[\d\D]*\.[pP][oO][tT][mM]$)|(^[\d\D]*\.[pP][pP][sS][mM]$)</d3p1:Expression>
+                  <d3p1:FileDialogWildcardExpression>*.pptx;*.ppsx;*.potx;*.pptm;*.potm;*.ppsm</d3p1:FileDialogWildcardExpression>
+                  <d3p1:FileTypeDefinitionId>PresentationML v. 1</d3p1:FileTypeDefinitionId>
+                  <d3p1:FileTypeDocumentName>Microsoft PowerPoint 2007-2019 文档</d3p1:FileTypeDocumentName>
+                  <d3p1:FileTypeDocumentsName>Microsoft PowerPoint 2007-2019 文档</d3p1:FileTypeDocumentsName>
+                  <d3p1:FileTypeName>Microsoft PowerPoint 2007-2019</d3p1:FileTypeName>
+                </Profile>
+                <Removed>false</Removed>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>PPT v 2.0.0.0</FileTypeDefinitionId>
+                <Profile xmlns:d3p1="http://www.sdl.com/filetypesupport">
+                  <d3p1:Description>使用 Microsoft PowerPoint 97-2003 和 WPS Presentation 创建的文档</d3p1:Description>
+                  <d3p1:Expression>(^[\d\D]*\.[pP][pP][tT]$)|(^[\d\D]*\.[pP][pP][sS]$)|(^[\d\D]*\.[pP][oO][tT]$)|(^[\d\D]*\.[dD][pP][sS]$)</d3p1:Expression>
+                  <d3p1:FileDialogWildcardExpression>*.ppt;*.pps;*.pot;*.dps</d3p1:FileDialogWildcardExpression>
+                  <d3p1:FileTypeDefinitionId>PPT v 2.0.0.0</d3p1:FileTypeDefinitionId>
+                  <d3p1:FileTypeDocumentName>Microsoft PowerPoint 97-2003 文档</d3p1:FileTypeDocumentName>
+                  <d3p1:FileTypeDocumentsName>Microsoft PowerPoint 97-2003 文档</d3p1:FileTypeDocumentsName>
+                  <d3p1:FileTypeName>Microsoft PowerPoint 97-2003</d3p1:FileTypeName>
+                </Profile>
+                <Removed>false</Removed>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>SpreadsheetML v. 1</FileTypeDefinitionId>
+                <Profile xmlns:d3p1="http://www.sdl.com/filetypesupport">
+                  <d3p1:Description>使用 Microsoft Excel 2007-2019 创建的文档，包括 Google Sheets 和 LibreOffice 中以 Microsoft Excel 格式保存的文档。</d3p1:Description>
+                  <d3p1:Expression>(^[\d\D]*\.[xX][lL][sS][xX]$)|(^[\d\D]*\.[xX][lL][sS][mM]$)|(^[\d\D]*\.[xX][lL][tT][xX]$)|(^[\d\D]*\.[xX][lL][tT][mM]$)</d3p1:Expression>
+                  <d3p1:FileDialogWildcardExpression>*.xlsx;*.xlsm;*.xltx;*.xltm</d3p1:FileDialogWildcardExpression>
+                  <d3p1:FileTypeDefinitionId>SpreadsheetML v. 1</d3p1:FileTypeDefinitionId>
+                  <d3p1:FileTypeDocumentName>Microsoft Excel 2007-2019 文档</d3p1:FileTypeDocumentName>
+                  <d3p1:FileTypeDocumentsName>Microsoft Excel 2007-2019 文档</d3p1:FileTypeDocumentsName>
+                  <d3p1:FileTypeName>Microsoft Excel 2007-2019</d3p1:FileTypeName>
+                </Profile>
+                <Removed>false</Removed>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>XLS v 3.0.0.0</FileTypeDefinitionId>
+                <Profile xmlns:d3p1="http://www.sdl.com/filetypesupport">
+                  <d3p1:Description>使用 Microsoft Excel 97-2003 和 WPS Spreadsheet 创建的文档</d3p1:Description>
+                  <d3p1:Expression>(^[\d\D]*\.[xX][lL][sS]$)|(^[\d\D]*\.[xX][lL][tT]$)|(^[\d\D]*\.[eE][tT]$)</d3p1:Expression>
+                  <d3p1:FileDialogWildcardExpression>*.xls;*.xlt;*.et</d3p1:FileDialogWildcardExpression>
+                  <d3p1:FileTypeDefinitionId>XLS v 3.0.0.0</d3p1:FileTypeDefinitionId>
+                  <d3p1:FileTypeDocumentName>Microsoft Excel 97-2003 文档</d3p1:FileTypeDocumentName>
+                  <d3p1:FileTypeDocumentsName>Microsoft Excel 97-2003 文档</d3p1:FileTypeDocumentsName>
+                  <d3p1:FileTypeName>Microsoft Excel 97-2003</d3p1:FileTypeName>
+                </Profile>
+                <Removed>false</Removed>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>Bilingual Excel v 1.0.0.0</FileTypeDefinitionId>
+                <Profile xmlns:d3p1="http://www.sdl.com/filetypesupport">
+                  <d3p1:Description>包含双语结构的 Microsoft Excel (2007-2016) 文件。需要翻译的文本放在一列，翻译后的文本应放在另一列。在默认设置中，第一列包含源语言文本，第二列包含翻译。</d3p1:Description>
+                  <d3p1:Expression>(^[\d\D]*\.[xX][lL][sS][xX]$)</d3p1:Expression>
+                  <d3p1:FileDialogWildcardExpression>*.xlsx</d3p1:FileDialogWildcardExpression>
+                  <d3p1:FileTypeDefinitionId>Bilingual Excel v 1.0.0.0</d3p1:FileTypeDefinitionId>
+                  <d3p1:FileTypeDocumentName>双语 Excel 文档</d3p1:FileTypeDocumentName>
+                  <d3p1:FileTypeDocumentsName>双语 Excel 文档</d3p1:FileTypeDocumentsName>
+                  <d3p1:FileTypeName>双语 Excel</d3p1:FileTypeName>
+                </Profile>
+                <Removed>false</Removed>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>EMAIL v 1.0.0.0</FileTypeDefinitionId>
+                <Profile xmlns:d3p1="http://www.sdl.com/filetypesupport">
+                  <d3p1:Description>Msg (.msg) 文件</d3p1:Description>
+                  <d3p1:Expression>(^[\d\D]*\.[mM][sS][gG]$)|(^[\d\D]*\.[oO][fF][tT]$)|(^[\d\D]*\.[eE][mM][lL]$)|(^[\d\D]*\.[eE][mM][lL][xX]$)</d3p1:Expression>
+                  <d3p1:FileDialogWildcardExpression>*.msg;*.oft;*.eml;*.emlx</d3p1:FileDialogWildcardExpression>
+                  <d3p1:FileTypeDefinitionId>EMAIL v 1.0.0.0</d3p1:FileTypeDefinitionId>
+                  <d3p1:FileTypeDocumentName>电子邮件文件</d3p1:FileTypeDocumentName>
+                  <d3p1:FileTypeDocumentsName>电子邮件文件</d3p1:FileTypeDocumentsName>
+                  <d3p1:FileTypeName>电子邮件</d3p1:FileTypeName>
+                </Profile>
+                <Removed>false</Removed>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>RTF v 2.0.0.0</FileTypeDefinitionId>
+                <Profile xmlns:d3p1="http://www.sdl.com/filetypesupport">
+                  <d3p1:Description>富文本格式 (RTF) 文档，由 Microsoft Word 以及其它应用程序生成。 同时也支持 SDL Trados 标记的 RTF 文件。注意：不支持包含 SDL Trados 中的翻译单元的 RTF 文档。</d3p1:Description>
+                  <d3p1:Expression>(^[\d\D]*\.[rR][tT][fF]$)</d3p1:Expression>
+                  <d3p1:FileDialogWildcardExpression>*.rtf</d3p1:FileDialogWildcardExpression>
+                  <d3p1:FileTypeDefinitionId>RTF v 2.0.0.0</d3p1:FileTypeDefinitionId>
+                  <d3p1:FileTypeDocumentName>富文本格式 (RTF) 文档</d3p1:FileTypeDocumentName>
+                  <d3p1:FileTypeDocumentsName>富文本格式 (RTF) 文档</d3p1:FileTypeDocumentsName>
+                  <d3p1:FileTypeName>富文本格式 (RTF)</d3p1:FileTypeName>
+                </Profile>
+                <Removed>false</Removed>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>Visio v 1.0.0.0</FileTypeDefinitionId>
+                <Profile xmlns:d3p1="http://www.sdl.com/filetypesupport">
+                  <d3p1:Description>用 Microsoft Visio 2016 创建的文档</d3p1:Description>
+                  <d3p1:Expression>(^[\d\D]*\.[vV][sS][dD][xX]$)|(^[\d\D]*\.[vV][sS][xX]$)|(^[\d\D]*\.[vV][tT][xX]$)|(^[\d\D]*\.[vV][dD][xX]$)|(^[\d\D]*\.[vV][sS][sS][xX]$)|(^[\d\D]*\.[vV][sS][tT][xX]$)|(^[\d\D]*\.[vV][sS][dD][mM]$)|(^[\d\D]*\.[vV][sS][sS][mM]$)|(^[\d\D]*\.[vV][sS][tT][mM]$)|(^$)</d3p1:Expression>
+                  <d3p1:FileDialogWildcardExpression>*.vsdx;*.vsx;*.vtx;*.vdx;*.vssx;*.vstx;*.vsdm;*.vssm;*.vstm;</d3p1:FileDialogWildcardExpression>
+                  <d3p1:FileTypeDefinitionId>Visio v 1.0.0.0</d3p1:FileTypeDefinitionId>
+                  <d3p1:FileTypeDocumentName>Microsoft Visio 文档</d3p1:FileTypeDocumentName>
+                  <d3p1:FileTypeDocumentsName>Microsoft Visio 文档</d3p1:FileTypeDocumentsName>
+                  <d3p1:FileTypeName>Microsoft Visio</d3p1:FileTypeName>
+                </Profile>
+                <Removed>false</Removed>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>XHTML 1.1 v 2.0.0.0</FileTypeDefinitionId>
+                <Profile xmlns:d3p1="http://www.sdl.com/filetypesupport">
+                  <d3p1:Description>XHTML™ 1.1 - 基于模块的 XHTML</d3p1:Description>
+                  <d3p1:Expression>(^[\d\D]*\.[hH][tT][mM][lL]$)|(^[\d\D]*\.[hH][tT][mM]$)|(^[\d\D]*\.[xX][hH][tT][mM][lL]$)</d3p1:Expression>
+                  <d3p1:FileDialogWildcardExpression>*.html;*.htm;*.xhtml</d3p1:FileDialogWildcardExpression>
+                  <d3p1:FileTypeDefinitionId>XHTML 1.1 v 2.0.0.0</d3p1:FileTypeDefinitionId>
+                  <d3p1:FileTypeDocumentName>XHTML 1.1 文档</d3p1:FileTypeDocumentName>
+                  <d3p1:FileTypeDocumentsName>XHTML 1.1 文档</d3p1:FileTypeDocumentsName>
+                  <d3p1:FileTypeName>XHTML 1.1 (2)</d3p1:FileTypeName>
+                </Profile>
+                <Removed>false</Removed>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>Html 5 2.0.0.0</FileTypeDefinitionId>
+                <Profile xmlns:d3p1="http://www.sdl.com/filetypesupport">
+                  <d3p1:Description>基于 W3C HTML5 标准的文档。</d3p1:Description>
+                  <d3p1:Expression>(^[\d\D]*\.[hH][tT][mM]$)|(^[\d\D]*\.[hH][tT][mM][lL]$)|(^[\d\D]*\.[xX][hH][tT][mM][lL]$)|(^[\d\D]*\.[jJ][sS][pP]$)|(^[\d\D]*\.[aA][sS][pP]$)|(^[\d\D]*\.[aA][sS][pP][xX]$)|(^[\d\D]*\.[aA][sS][cC][xX]$)|(^[\d\D]*\.[iI][nN][cC]$)|(^[\d\D]*\.[pP][hH][pP]$)|(^[\d\D]*\.[hH][hH][kK]$)|(^[\d\D]*\.[hH][hH][cC]$)</d3p1:Expression>
+                  <d3p1:FileDialogWildcardExpression>*.htm;*.html;*.xhtml;*.jsp;*.asp;*.aspx;*.ascx;*.inc;*.php;*.hhk;*.hhc</d3p1:FileDialogWildcardExpression>
+                  <d3p1:FileTypeDefinitionId>Html 5 2.0.0.0</d3p1:FileTypeDefinitionId>
+                  <d3p1:FileTypeDocumentName>Html 文档</d3p1:FileTypeDocumentName>
+                  <d3p1:FileTypeDocumentsName>Html 文档</d3p1:FileTypeDocumentsName>
+                  <d3p1:FileTypeName>HTML 5</d3p1:FileTypeName>
+                </Profile>
+                <Removed>false</Removed>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>FrameMaker v 10.0.0</FileTypeDefinitionId>
+                <Profile xmlns:d3p1="http://www.sdl.com/filetypesupport">
+                  <d3p1:Description>从 Adobe FrameMaker 导出的 Marker Interchange Format (MIF) 文件</d3p1:Description>
+                  <d3p1:Expression>(^[\d\D]*\.[mM][iI][fF]$)</d3p1:Expression>
+                  <d3p1:FileDialogWildcardExpression>*.mif</d3p1:FileDialogWildcardExpression>
+                  <d3p1:FileTypeDefinitionId>FrameMaker v 10.0.0</d3p1:FileTypeDefinitionId>
+                  <d3p1:FileTypeDocumentName>Adobe FrameMaker 文档</d3p1:FileTypeDocumentName>
+                  <d3p1:FileTypeDocumentsName>Adobe FrameMaker 文档 </d3p1:FileTypeDocumentsName>
+                  <d3p1:FileTypeName>Adobe FrameMaker 8-2020 MIF V2</d3p1:FileTypeName>
+                </Profile>
+                <Removed>false</Removed>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>FrameMaker 8.0 v 2.0.0.0</FileTypeDefinitionId>
+                <Profile xmlns:d3p1="http://www.sdl.com/filetypesupport">
+                  <d3p1:Description>已从 Adobe Framemaker 中导出 Maker Interchange Format (MIF) 文件</d3p1:Description>
+                  <d3p1:Expression>(^[\d\D]*\.[mM][iI][fF]$)</d3p1:Expression>
+                  <d3p1:FileDialogWildcardExpression>*.mif</d3p1:FileDialogWildcardExpression>
+                  <d3p1:FileTypeDefinitionId>FrameMaker 8.0 v 2.0.0.0</d3p1:FileTypeDefinitionId>
+                  <d3p1:FileTypeDocumentName>Adobe FrameMaker 文档</d3p1:FileTypeDocumentName>
+                  <d3p1:FileTypeDocumentsName>Adobe FrameMaker 文档</d3p1:FileTypeDocumentsName>
+                  <d3p1:FileTypeName>Adobe FrameMaker 8-2020 MIF</d3p1:FileTypeName>
+                </Profile>
+                <Removed>false</Removed>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>Inx 1.0.0.0</FileTypeDefinitionId>
+                <Profile xmlns:d3p1="http://www.sdl.com/filetypesupport">
+                  <d3p1:Description>用 Adobe InDesign CS2-CS4 生成的 InDesign Interchange (INX) 文档</d3p1:Description>
+                  <d3p1:Expression>(^[\d\D]*\.[iI][nN][xX]$)</d3p1:Expression>
+                  <d3p1:FileDialogWildcardExpression>*.inx</d3p1:FileDialogWildcardExpression>
+                  <d3p1:FileTypeDefinitionId>Inx 1.0.0.0</d3p1:FileTypeDefinitionId>
+                  <d3p1:FileTypeDocumentName>Adobe InDesign INX 文档</d3p1:FileTypeDocumentName>
+                  <d3p1:FileTypeDocumentsName>Adobe InDesign INX 文档</d3p1:FileTypeDocumentsName>
+                  <d3p1:FileTypeName>Adobe InDesign CS2-CS4 INX</d3p1:FileTypeName>
+                </Profile>
+                <Removed>false</Removed>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>IDML v 1.0.0.0</FileTypeDefinitionId>
+                <Profile xmlns:d3p1="http://www.sdl.com/filetypesupport">
+                  <d3p1:Description>Adobe InDesign CS4-CC Markup IDML (*.idml) 文件</d3p1:Description>
+                  <d3p1:Expression>(^[\d\D]*\.[iI][dD][mM][lL]$)</d3p1:Expression>
+                  <d3p1:FileDialogWildcardExpression>*.idml</d3p1:FileDialogWildcardExpression>
+                  <d3p1:FileTypeDefinitionId>IDML v 1.0.0.0</d3p1:FileTypeDefinitionId>
+                  <d3p1:FileTypeDocumentName>IDML 文档</d3p1:FileTypeDocumentName>
+                  <d3p1:FileTypeDocumentsName>IDML 文档</d3p1:FileTypeDocumentsName>
+                  <d3p1:FileTypeName>Adobe InDesign CS4-CC IDML</d3p1:FileTypeName>
+                </Profile>
+                <Removed>false</Removed>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>ICML Filter 1.0.0.0</FileTypeDefinitionId>
+                <Profile xmlns:d3p1="http://www.sdl.com/filetypesupport">
+                  <d3p1:Description>使用 Adobe InCopy CS4-CC 创建的文档。</d3p1:Description>
+                  <d3p1:Expression>(^[\d\D]*\.[iI][cC][mM][lL]$)</d3p1:Expression>
+                  <d3p1:FileDialogWildcardExpression>*.icml</d3p1:FileDialogWildcardExpression>
+                  <d3p1:FileTypeDefinitionId>ICML Filter 1.0.0.0</d3p1:FileTypeDefinitionId>
+                  <d3p1:FileTypeDocumentName>Adobe InCopy CS4-CC ICML</d3p1:FileTypeDocumentName>
+                  <d3p1:FileTypeDocumentsName>Adobe InCopy CS4-CC ICML</d3p1:FileTypeDocumentsName>
+                  <d3p1:FileTypeName>Adobe InCopy CS4-CC ICML</d3p1:FileTypeName>
+                </Profile>
+                <Removed>false</Removed>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>Photoshop v 1.0.0.0</FileTypeDefinitionId>
+                <Profile xmlns:d3p1="http://www.sdl.com/filetypesupport">
+                  <d3p1:Description>用 Adobe Photoshop CC-2018 创建的文档</d3p1:Description>
+                  <d3p1:Expression>(^[\d\D]*\.[pP][sS][dD]$)|(^[\d\D]*\.[pP][dD][dD]$)|(^[\d\D]*\.[pP][sS][dD][tT]$)|(^$)</d3p1:Expression>
+                  <d3p1:FileDialogWildcardExpression>*.psd;*.pdd;*.psdt;</d3p1:FileDialogWildcardExpression>
+                  <d3p1:FileTypeDefinitionId>Photoshop v 1.0.0.0</d3p1:FileTypeDefinitionId>
+                  <d3p1:FileTypeDocumentName>Adobe Photoshop 文档</d3p1:FileTypeDocumentName>
+                  <d3p1:FileTypeDocumentsName>Adobe Photoshop 文档</d3p1:FileTypeDocumentsName>
+                  <d3p1:FileTypeName>Adobe Photoshop</d3p1:FileTypeName>
+                </Profile>
+                <Removed>false</Removed>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>Odt 1.0.0.0</FileTypeDefinitionId>
+                <Profile xmlns:d3p1="http://www.sdl.com/filetypesupport">
+                  <d3p1:Description>使用 OpenOffice.org Writer 应用程序创建的文档</d3p1:Description>
+                  <d3p1:Expression>(^[\d\D]*\.[oO][dD][tT]$)|(^[\d\D]*\.[oO][tT][tT]$)|(^[\d\D]*\.[oO][dD][mM]$)</d3p1:Expression>
+                  <d3p1:FileDialogWildcardExpression>*.odt;*.ott;*.odm</d3p1:FileDialogWildcardExpression>
+                  <d3p1:FileTypeDefinitionId>Odt 1.0.0.0</d3p1:FileTypeDefinitionId>
+                  <d3p1:FileTypeDocumentName>OpenOffice.org Writer 文档</d3p1:FileTypeDocumentName>
+                  <d3p1:FileTypeDocumentsName>OpenOffice.org Writer 文档</d3p1:FileTypeDocumentsName>
+                  <d3p1:FileTypeName>OpenOffice.org Writer</d3p1:FileTypeName>
+                </Profile>
+                <Removed>false</Removed>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>Odp 1.0.0.0</FileTypeDefinitionId>
+                <Profile xmlns:d3p1="http://www.sdl.com/filetypesupport">
+                  <d3p1:Description>OpenOffice.org Impress</d3p1:Description>
+                  <d3p1:Expression>(^[\d\D]*\.[oO][dD][pP]$)|(^[\d\D]*\.[oO][tT][pP]$)</d3p1:Expression>
+                  <d3p1:FileDialogWildcardExpression>*.odp;*.otp</d3p1:FileDialogWildcardExpression>
+                  <d3p1:FileTypeDefinitionId>Odp 1.0.0.0</d3p1:FileTypeDefinitionId>
+                  <d3p1:FileTypeDocumentName>OpenOffice.org Impress 文档</d3p1:FileTypeDocumentName>
+                  <d3p1:FileTypeDocumentsName>OpenOffice.org Impress 文档</d3p1:FileTypeDocumentsName>
+                  <d3p1:FileTypeName>OpenOffice.org Impress</d3p1:FileTypeName>
+                </Profile>
+                <Removed>false</Removed>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>Ods 1.0.0.0</FileTypeDefinitionId>
+                <Profile xmlns:d3p1="http://www.sdl.com/filetypesupport">
+                  <d3p1:Description>OpenOffice.org Calc</d3p1:Description>
+                  <d3p1:Expression>(^[\d\D]*\.[oO][dD][sS]$)|(^[\d\D]*\.[oO][tT][sS]$)</d3p1:Expression>
+                  <d3p1:FileDialogWildcardExpression>*.ods;*.ots</d3p1:FileDialogWildcardExpression>
+                  <d3p1:FileTypeDefinitionId>Ods 1.0.0.0</d3p1:FileTypeDefinitionId>
+                  <d3p1:FileTypeDocumentName>OpenOffice.org Calc 文档</d3p1:FileTypeDocumentName>
+                  <d3p1:FileTypeDocumentsName>OpenOffice.org Calc 文档</d3p1:FileTypeDocumentsName>
+                  <d3p1:FileTypeName>OpenOffice.org Calc</d3p1:FileTypeName>
+                </Profile>
+                <Removed>false</Removed>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>QuarkXPress v 2.0.0.0</FileTypeDefinitionId>
+                <Profile xmlns:d3p1="http://www.sdl.com/filetypesupport">
+                  <d3p1:Description>QuarkXPress 标记文本和 CopyFlow 文档</d3p1:Description>
+                  <d3p1:Expression>(^[\d\D]*\.[xX][tT][gG]$)|(^[\d\D]*\.[tT][aA][gG]$)</d3p1:Expression>
+                  <d3p1:FileDialogWildcardExpression>*.xtg;*.tag</d3p1:FileDialogWildcardExpression>
+                  <d3p1:FileTypeDefinitionId>QuarkXPress v 2.0.0.0</d3p1:FileTypeDefinitionId>
+                  <d3p1:FileTypeDocumentName>QuarkXPress 导出文档</d3p1:FileTypeDocumentName>
+                  <d3p1:FileTypeDocumentsName>QuarkXPress 导出文档</d3p1:FileTypeDocumentsName>
+                  <d3p1:FileTypeName>QuarkXPress 导出</d3p1:FileTypeName>
+                </Profile>
+                <Removed>false</Removed>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>XLIFF 1.1-1.2 v 2.0.0.0</FileTypeDefinitionId>
+                <Profile xmlns:d3p1="http://www.sdl.com/filetypesupport">
+                  <d3p1:Description>文档符合 OASIS XML 本地化交换文件格式 (XLIFF) 标准 1.1 版或 1.2 版。文档可能未翻译、部分或完全翻译。</d3p1:Description>
+                  <d3p1:Expression>(^[\d\D]*\.[xX][lL][fF]$)|(^[\d\D]*\.[xX][lL][iI][fF][fF]$)|(^[\d\D]*\.[xX][lL][zZ]$)</d3p1:Expression>
+                  <d3p1:FileDialogWildcardExpression>*.xlf;*.xliff;*.xlz</d3p1:FileDialogWildcardExpression>
+                  <d3p1:FileTypeDefinitionId>XLIFF 1.1-1.2 v 2.0.0.0</d3p1:FileTypeDefinitionId>
+                  <d3p1:FileTypeDocumentName>XLIFF 文档</d3p1:FileTypeDocumentName>
+                  <d3p1:FileTypeDocumentsName>XLIFF 文档</d3p1:FileTypeDocumentsName>
+                  <d3p1:FileTypeName>XLIFF</d3p1:FileTypeName>
+                </Profile>
+                <Removed>false</Removed>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>MemoQ v 1.0.0.0</FileTypeDefinitionId>
+                <Profile xmlns:d3p1="http://www.sdl.com/filetypesupport">
+                  <d3p1:Description>使用 Kilgray MemoQ 专业化的 XLIFF 文档。</d3p1:Description>
+                  <d3p1:Expression>(^[\d\D]*\.[mM][qQ][xX][lL][fF]$)|(^[\d\D]*\.[mM][qQ][xX][lL][iI][fF][fF]$)|(^[\d\D]*\.[mM][qQ][xX][lL][zZ]$)</d3p1:Expression>
+                  <d3p1:FileDialogWildcardExpression>*.mqxlf;*.mqxliff;*.mqxlz</d3p1:FileDialogWildcardExpression>
+                  <d3p1:FileTypeDefinitionId>MemoQ v 1.0.0.0</d3p1:FileTypeDefinitionId>
+                  <d3p1:FileTypeDocumentName>XLIFF：Kilgray MemoQ 文档</d3p1:FileTypeDocumentName>
+                  <d3p1:FileTypeDocumentsName>XLIFF：Kilgray MemoQ 文档</d3p1:FileTypeDocumentsName>
+                  <d3p1:FileTypeName>XLIFF：Kilgray MemoQ</d3p1:FileTypeName>
+                </Profile>
+                <Removed>false</Removed>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>Memsource Xliff v 1.0.0.0</FileTypeDefinitionId>
+                <Profile xmlns:d3p1="http://www.sdl.com/filetypesupport">
+                  <d3p1:Description>Memsource 编辑器中创建的 XLIFF 文档</d3p1:Description>
+                  <d3p1:Expression>(^[\d\D]*\.[mM][xX][lL][iI][fF][fF]$)</d3p1:Expression>
+                  <d3p1:FileDialogWildcardExpression>*.mxliff</d3p1:FileDialogWildcardExpression>
+                  <d3p1:FileTypeDefinitionId>Memsource Xliff v 1.0.0.0</d3p1:FileTypeDefinitionId>
+                  <d3p1:FileTypeDocumentName>XLIFF：Memsource Xliff 文档</d3p1:FileTypeDocumentName>
+                  <d3p1:FileTypeDocumentsName>XLIFF：Memsource Xliff 文档</d3p1:FileTypeDocumentsName>
+                  <d3p1:FileTypeName>XLIFF：Memsource Xliff</d3p1:FileTypeName>
+                </Profile>
+                <Removed>false</Removed>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>XLIFF 2.0 v 1.0.0.0</FileTypeDefinitionId>
+                <Profile xmlns:d3p1="http://www.sdl.com/filetypesupport">
+                  <d3p1:Description>文档符合 OASIS XML 本地化交换文件格式 (XLIFF) 标准 2.1 版。文档可能未翻译、部分翻译或完全翻译。</d3p1:Description>
+                  <d3p1:Expression>(^[\d\D]*\.[xX][lL][fF]$)|(^[\d\D]*\.[xX][lL][iI][fF][fF]$)</d3p1:Expression>
+                  <d3p1:FileDialogWildcardExpression>*.xlf;*.xliff</d3p1:FileDialogWildcardExpression>
+                  <d3p1:FileTypeDefinitionId>XLIFF 2.0 v 1.0.0.0</d3p1:FileTypeDefinitionId>
+                  <d3p1:FileTypeDocumentName>XLIFF 2.0 文档</d3p1:FileTypeDocumentName>
+                  <d3p1:FileTypeDocumentsName>XLIFF 2.0 文档</d3p1:FileTypeDocumentsName>
+                  <d3p1:FileTypeName>XLIFF 2.0</d3p1:FileTypeName>
+                </Profile>
+                <Removed>false</Removed>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>PDF v 3.0.0.0</FileTypeDefinitionId>
+                <Profile xmlns:d3p1="http://www.sdl.com/filetypesupport">
+                  <d3p1:Description>便携式文档格式 (PDF) 文档，由第三方 PDF 编写器生成。</d3p1:Description>
+                  <d3p1:Expression>(^[\d\D]*\.[pP][dD][fF]$)</d3p1:Expression>
+                  <d3p1:FileDialogWildcardExpression>*.pdf</d3p1:FileDialogWildcardExpression>
+                  <d3p1:FileTypeDefinitionId>PDF v 3.0.0.0</d3p1:FileTypeDefinitionId>
+                  <d3p1:FileTypeDocumentName>PDF 文档</d3p1:FileTypeDocumentName>
+                  <d3p1:FileTypeDocumentsName>PDF 文档</d3p1:FileTypeDocumentsName>
+                  <d3p1:FileTypeName>PDF</d3p1:FileTypeName>
+                </Profile>
+                <Removed>false</Removed>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>CSV v 2.0.0.0</FileTypeDefinitionId>
+                <Profile xmlns:d3p1="http://www.sdl.com/filetypesupport">
+                  <d3p1:Description>行由换行符和值分隔的文本文件由逗号(,) 分隔。在默认设置中第 1 列包含源语言文本，第 2 列包含翻译。</d3p1:Description>
+                  <d3p1:Expression>(^[\d\D]*\.[cC][sS][vV]$)</d3p1:Expression>
+                  <d3p1:FileDialogWildcardExpression>*.csv</d3p1:FileDialogWildcardExpression>
+                  <d3p1:FileTypeDefinitionId>CSV v 2.0.0.0</d3p1:FileTypeDefinitionId>
+                  <d3p1:FileTypeDocumentName>逗号分隔 (CSV) 文档</d3p1:FileTypeDocumentName>
+                  <d3p1:FileTypeDocumentsName>逗号分隔 (CSV) 文档</d3p1:FileTypeDocumentsName>
+                  <d3p1:FileTypeName>逗号分隔文本 (CSV)</d3p1:FileTypeName>
+                </Profile>
+                <Removed>false</Removed>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>Tab Delimited v 2.0.0.0</FileTypeDefinitionId>
+                <Profile xmlns:d3p1="http://www.sdl.com/filetypesupport">
+                  <d3p1:Description>行由换行符和值分隔的文本文件由制表符分隔。在默认设置中第 1 列包含源语言文本，第 2 列包含翻译。</d3p1:Description>
+                  <d3p1:Expression>(^[\d\D]*\.[tT][xX][tT]$)</d3p1:Expression>
+                  <d3p1:FileDialogWildcardExpression>*.txt</d3p1:FileDialogWildcardExpression>
+                  <d3p1:FileTypeDefinitionId>Tab Delimited v 2.0.0.0</d3p1:FileTypeDefinitionId>
+                  <d3p1:FileTypeDocumentName>制表符分隔文本文档</d3p1:FileTypeDocumentName>
+                  <d3p1:FileTypeDocumentsName>制表符分隔文本文档</d3p1:FileTypeDocumentsName>
+                  <d3p1:FileTypeName>制表符分隔文本</d3p1:FileTypeName>
+                </Profile>
+                <Removed>false</Removed>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>Java Resources v 2.0.0.0</FileTypeDefinitionId>
+                <Profile xmlns:d3p1="http://www.sdl.com/filetypesupport">
+                  <d3p1:Description>Java 应用程序的资源文件</d3p1:Description>
+                  <d3p1:Expression>(^[\d\D]*\.[pP][rR][oO][pP][eE][rR][tT][iI][eE][sS]$)</d3p1:Expression>
+                  <d3p1:FileDialogWildcardExpression>*.properties</d3p1:FileDialogWildcardExpression>
+                  <d3p1:FileTypeDefinitionId>Java Resources v 2.0.0.0</d3p1:FileTypeDefinitionId>
+                  <d3p1:FileTypeDocumentName>Java 资源文档</d3p1:FileTypeDocumentName>
+                  <d3p1:FileTypeDocumentsName>Java 资源文档</d3p1:FileTypeDocumentsName>
+                  <d3p1:FileTypeName>Java 资源（新）</d3p1:FileTypeName>
+                </Profile>
+                <Removed>false</Removed>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>PO files v 1.0.0.0</FileTypeDefinitionId>
+                <Profile xmlns:d3p1="http://www.sdl.com/filetypesupport">
+                  <d3p1:Description>由 GNU gettext 生成的 PO（可移植对象）文档。</d3p1:Description>
+                  <d3p1:Expression>(^[\d\D]*\.[pP][oO]$)</d3p1:Expression>
+                  <d3p1:FileDialogWildcardExpression>*.po</d3p1:FileDialogWildcardExpression>
+                  <d3p1:FileTypeDefinitionId>PO files v 1.0.0.0</d3p1:FileTypeDefinitionId>
+                  <d3p1:FileTypeDocumentName>可移植对象文档</d3p1:FileTypeDocumentName>
+                  <d3p1:FileTypeDocumentsName>可移植对象文档</d3p1:FileTypeDocumentsName>
+                  <d3p1:FileTypeName>可移植对象</d3p1:FileTypeName>
+                </Profile>
+                <Removed>false</Removed>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>.NetLibraries v 1.0.0.0</FileTypeDefinitionId>
+                <Profile xmlns:d3p1="http://www.sdl.com/filetypesupport">
+                  <d3p1:Description>.NET 框架可移植可执行 (PE) 文件</d3p1:Description>
+                  <d3p1:Expression>(^[\d\D]*\.[dD][lL][lL]$)|(^[\d\D]*\.[eE][xX][eE]$)</d3p1:Expression>
+                  <d3p1:FileDialogWildcardExpression>*.dll;*.exe</d3p1:FileDialogWildcardExpression>
+                  <d3p1:FileTypeDefinitionId>.NetLibraries v 1.0.0.0</d3p1:FileTypeDefinitionId>
+                  <d3p1:FileTypeDocumentName>.NET 库</d3p1:FileTypeDocumentName>
+                  <d3p1:FileTypeDocumentsName>.NET 库</d3p1:FileTypeDocumentsName>
+                  <d3p1:FileTypeName>.NET 库</d3p1:FileTypeName>
+                </Profile>
+                <Removed>false</Removed>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>JSON v 1.0.0.0</FileTypeDefinitionId>
+                <Profile xmlns:d3p1="http://www.sdl.com/filetypesupport">
+                  <d3p1:Description>JavaScript Object Notation (JSON) 文档。</d3p1:Description>
+                  <d3p1:Expression>(^[\d\D]*\.[jJ][sS][oO][nN]$)</d3p1:Expression>
+                  <d3p1:FileDialogWildcardExpression>*.json</d3p1:FileDialogWildcardExpression>
+                  <d3p1:FileTypeDefinitionId>JSON v 1.0.0.0</d3p1:FileTypeDefinitionId>
+                  <d3p1:FileTypeDocumentName>JSON 文档</d3p1:FileTypeDocumentName>
+                  <d3p1:FileTypeDocumentsName>JSON 文档</d3p1:FileTypeDocumentsName>
+                  <d3p1:FileTypeName>JSON</d3p1:FileTypeName>
+                </Profile>
+                <Removed>false</Removed>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>YAML v 1.0.0.0</FileTypeDefinitionId>
+                <Profile xmlns:d3p1="http://www.sdl.com/filetypesupport">
+                  <d3p1:Description>YAML（YAML 不是标记语言）文件</d3p1:Description>
+                  <d3p1:Expression>(^[\d\D]*\.[yY][aA][mM][lL]$)|(^[\d\D]*\.[yY][mM][lL]$)</d3p1:Expression>
+                  <d3p1:FileDialogWildcardExpression>*.yaml;*.yml</d3p1:FileDialogWildcardExpression>
+                  <d3p1:FileTypeDefinitionId>YAML v 1.0.0.0</d3p1:FileTypeDefinitionId>
+                  <d3p1:FileTypeDocumentName>YAML 文档</d3p1:FileTypeDocumentName>
+                  <d3p1:FileTypeDocumentsName>YAML 文档</d3p1:FileTypeDocumentsName>
+                  <d3p1:FileTypeName>YAML</d3p1:FileTypeName>
+                </Profile>
+                <Removed>false</Removed>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>Markdown v 1.0.0.0</FileTypeDefinitionId>
+                <Profile xmlns:d3p1="http://www.sdl.com/filetypesupport">
+                  <d3p1:Description>基于 Markdown 的文档</d3p1:Description>
+                  <d3p1:Expression>(^[\d\D]*\.[mM][dD]$)|(^[\d\D]*\.[mM][aA][rR][kK][dD][oO][wW][nN]$)</d3p1:Expression>
+                  <d3p1:FileDialogWildcardExpression>*.md;*.markdown</d3p1:FileDialogWildcardExpression>
+                  <d3p1:FileTypeDefinitionId>Markdown v 1.0.0.0</d3p1:FileTypeDefinitionId>
+                  <d3p1:FileTypeDocumentName>Markdown 文档</d3p1:FileTypeDocumentName>
+                  <d3p1:FileTypeDocumentsName>Markdown 文档</d3p1:FileTypeDocumentsName>
+                  <d3p1:FileTypeName>Markdown</d3p1:FileTypeName>
+                </Profile>
+                <Removed>false</Removed>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>XML: RESX v 2.0.0.0</FileTypeDefinitionId>
+                <Profile xmlns:d3p1="http://www.sdl.com/filetypesupport">
+                  <d3p1:Description>具有用于从 *.resx 文件中提取可本地化文本的解析器规则的 XML 筛选条件。</d3p1:Description>
+                  <d3p1:Expression>(^[\d\D]*\.[rR][eE][sS][xX]$)</d3p1:Expression>
+                  <d3p1:FileDialogWildcardExpression>*.resx</d3p1:FileDialogWildcardExpression>
+                  <d3p1:FileTypeDefinitionId>XML: RESX v 2.0.0.0</d3p1:FileTypeDefinitionId>
+                  <d3p1:FileTypeDocumentName>Microsoft .NET 资源文件</d3p1:FileTypeDocumentName>
+                  <d3p1:FileTypeDocumentsName>Microsoft .NET 资源文件</d3p1:FileTypeDocumentsName>
+                  <d3p1:FileTypeName>XML 2：Microsoft .NET 资源</d3p1:FileTypeName>
+                </Profile>
+                <Removed>false</Removed>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>XML: DITA 1.3 v 2.0.0.0</FileTypeDefinitionId>
+                <Profile xmlns:d3p1="http://www.sdl.com/filetypesupport">
+                  <d3p1:Description>配置为处理符合“达尔文信息分类体系结构(DITA) 1.3 ”的文件的 XML 筛选条件</d3p1:Description>
+                  <d3p1:Expression>(^[\d\D]*\.[xX][mM][lL]$)|(^[\d\D]*\.[dD][iI][tT][aA]$)|(^[\d\D]*\.[dD][iI][tT][aA][mM][aA][pP]$)</d3p1:Expression>
+                  <d3p1:FileDialogWildcardExpression>*.xml;*.dita;*.ditamap</d3p1:FileDialogWildcardExpression>
+                  <d3p1:FileTypeDefinitionId>XML: DITA 1.3 v 2.0.0.0</d3p1:FileTypeDefinitionId>
+                  <d3p1:FileTypeDocumentName>DITA XML 文档</d3p1:FileTypeDocumentName>
+                  <d3p1:FileTypeDocumentsName>DITA XML 文档</d3p1:FileTypeDocumentsName>
+                  <d3p1:FileTypeName>XML 2：符合 OASIS DITA 1.3</d3p1:FileTypeName>
+                </Profile>
+                <Removed>false</Removed>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>XML: DocBook 4.5 v 2.0.0.0</FileTypeDefinitionId>
+                <Profile xmlns:d3p1="http://www.sdl.com/filetypesupport">
+                  <d3p1:Description>用于翻译 OASIS DocBook 4.5 文档的 XML 文件类型设置。</d3p1:Description>
+                  <d3p1:Expression>(^[\d\D]*\.[xX][mM][lL]$)</d3p1:Expression>
+                  <d3p1:FileDialogWildcardExpression>*.xml</d3p1:FileDialogWildcardExpression>
+                  <d3p1:FileTypeDefinitionId>XML: DocBook 4.5 v 2.0.0.0</d3p1:FileTypeDefinitionId>
+                  <d3p1:FileTypeDocumentName>DocBook XML 文档</d3p1:FileTypeDocumentName>
+                  <d3p1:FileTypeDocumentsName>DocBook XML 文档</d3p1:FileTypeDocumentsName>
+                  <d3p1:FileTypeName>XML 2：符合 OASIS DocBook 4.5</d3p1:FileTypeName>
+                </Profile>
+                <Removed>false</Removed>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>XML: Author-IT 1.2 v 2.0.0.0</FileTypeDefinitionId>
+                <Profile xmlns:d3p1="http://www.sdl.com/filetypesupport">
+                  <d3p1:Description>配置为处理符合 Author-IT 的文件的 XML 筛选条件</d3p1:Description>
+                  <d3p1:Expression>(^[\d\D]*\.[xX][mM][lL]$)</d3p1:Expression>
+                  <d3p1:FileDialogWildcardExpression>*.xml</d3p1:FileDialogWildcardExpression>
+                  <d3p1:FileTypeDefinitionId>XML: Author-IT 1.2 v 2.0.0.0</d3p1:FileTypeDefinitionId>
+                  <d3p1:FileTypeDocumentName>Author-IT XML 文档</d3p1:FileTypeDocumentName>
+                  <d3p1:FileTypeDocumentsName>Author-IT XML 文档</d3p1:FileTypeDocumentsName>
+                  <d3p1:FileTypeName>XML 2: 符合 Author-IT</d3p1:FileTypeName>
+                </Profile>
+                <Removed>false</Removed>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>XML: MadCap 1.2 v 2.0.0.0</FileTypeDefinitionId>
+                <Profile xmlns:d3p1="http://www.sdl.com/filetypesupport">
+                  <d3p1:Description>配置为处理符合 MadCap 的文件的 XML 筛选条件</d3p1:Description>
+                  <d3p1:Expression>(^[\d\D]*\.[hH][tT][mM][lL]$)|(^[\d\D]*\.[hH][tT][mM]$)</d3p1:Expression>
+                  <d3p1:FileDialogWildcardExpression>*.html;*.htm</d3p1:FileDialogWildcardExpression>
+                  <d3p1:FileTypeDefinitionId>XML: MadCap 1.2 v 2.0.0.0</d3p1:FileTypeDefinitionId>
+                  <d3p1:FileTypeDocumentName>MadCap XML 文档</d3p1:FileTypeDocumentName>
+                  <d3p1:FileTypeDocumentsName>MadCap XML 文档</d3p1:FileTypeDocumentsName>
+                  <d3p1:FileTypeName>XML 2：符合 MadCap</d3p1:FileTypeName>
+                </Profile>
+                <Removed>false</Removed>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>XML: ITS 1.0 v 2.0.0.0</FileTypeDefinitionId>
+                <Profile xmlns:d3p1="http://www.sdl.com/filetypesupport">
+                  <d3p1:Description>XML 文档，使用符合 W3C 国际化标记集 (ITS) 标准（1.0 版）的本地规则、内嵌规则和/或明确规则文件，以允许自动识别和处理可本地化内容。</d3p1:Description>
+                  <d3p1:Expression>(^[\d\D]*\.[xX][mM][lL]$)|(^[\d\D]*\.[iI][tT][sS]$)</d3p1:Expression>
+                  <d3p1:FileDialogWildcardExpression>*.xml;*.its</d3p1:FileDialogWildcardExpression>
+                  <d3p1:FileTypeDefinitionId>XML: ITS 1.0 v 2.0.0.0</d3p1:FileTypeDefinitionId>
+                  <d3p1:FileTypeDocumentName>ITS XML 文档</d3p1:FileTypeDocumentName>
+                  <d3p1:FileTypeDocumentsName>ITS XML 文档</d3p1:FileTypeDocumentsName>
+                  <d3p1:FileTypeName>XML 2：符合 W3C ITS</d3p1:FileTypeName>
+                </Profile>
+                <Removed>false</Removed>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>XML: Any v 2.0.0.0</FileTypeDefinitionId>
+                <Profile xmlns:d3p1="http://www.sdl.com/filetypesupport">
+                  <d3p1:Description>未定义明确规则的任何 XML 文档或片段。 在元素中显示的所有文本都将被视为可本地化文本。 在此类文本中显示的任何元素都将被视为内嵌元素。</d3p1:Description>
+                  <d3p1:Expression>(^[\d\D]*\.[xX][mM][lL]$)</d3p1:Expression>
+                  <d3p1:FileDialogWildcardExpression>*.xml</d3p1:FileDialogWildcardExpression>
+                  <d3p1:FileTypeDefinitionId>XML: Any v 2.0.0.0</d3p1:FileTypeDefinitionId>
+                  <d3p1:FileTypeDocumentName>XML 文档</d3p1:FileTypeDocumentName>
+                  <d3p1:FileTypeDocumentsName>XML 文档</d3p1:FileTypeDocumentsName>
+                  <d3p1:FileTypeName>XML 2：任何 XML</d3p1:FileTypeName>
+                </Profile>
+                <Removed>false</Removed>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>Plain Text v 1.0.0.0</FileTypeDefinitionId>
+                <Profile xmlns:d3p1="http://www.sdl.com/filetypesupport">
+                  <d3p1:Description>每行一段的文本文件.</d3p1:Description>
+                  <d3p1:Expression>(^[\d\D]*\.[tT][xX][tT]$)</d3p1:Expression>
+                  <d3p1:FileDialogWildcardExpression>*.txt</d3p1:FileDialogWildcardExpression>
+                  <d3p1:FileTypeDefinitionId>Plain Text v 1.0.0.0</d3p1:FileTypeDefinitionId>
+                  <d3p1:FileTypeDocumentName>文本文档</d3p1:FileTypeDocumentName>
+                  <d3p1:FileTypeDocumentsName>文本文档</d3p1:FileTypeDocumentsName>
+                  <d3p1:FileTypeName>文本</d3p1:FileTypeName>
+                </Profile>
+                <Removed>false</Removed>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>XML: DITA 1.1 v 1.2.0.0</FileTypeDefinitionId>
+                <Hidden>true</Hidden>
+                <Removed>false</Removed>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>XHTML 1.1 v 1.2.0.0</FileTypeDefinitionId>
+                <Hidden>true</Hidden>
+                <Removed>false</Removed>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>Html 4 2.0.0.0</FileTypeDefinitionId>
+                <Hidden>true</Hidden>
+                <Removed>false</Removed>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>SubRip v 1.0.0.0</FileTypeDefinitionId>
+                <Hidden>true</Hidden>
+                <Removed>false</Removed>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>XML: RESX v 1.2.0.0</FileTypeDefinitionId>
+                <Hidden>true</Hidden>
+                <Removed>false</Removed>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>XML: DITA 1.2 v 1.2.0.0</FileTypeDefinitionId>
+                <Hidden>true</Hidden>
+                <Removed>false</Removed>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>DocBook 4.5 v 1.2.0.0</FileTypeDefinitionId>
+                <Hidden>true</Hidden>
+                <Removed>false</Removed>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>XML: Author-it 1.2 v 1.0.0.0</FileTypeDefinitionId>
+                <Hidden>true</Hidden>
+                <Removed>false</Removed>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>XML: MadCap 1.2 v 1.0.0.0</FileTypeDefinitionId>
+                <Hidden>true</Hidden>
+                <Removed>false</Removed>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>XML: ITS 1.0 v 1.2.0.0</FileTypeDefinitionId>
+                <Hidden>true</Hidden>
+                <Removed>false</Removed>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>XML: Any v 1.2.0.0</FileTypeDefinitionId>
+                <Hidden>true</Hidden>
+                <Removed>false</Removed>
+              </FileTypeManagerConfigurationItem>
+            </FileTypeManagerConfigurationList>
+          </Setting>
+          <Setting Id="FileTypeManagerSubContentConfigurationSettings">
+            <FileTypeManagerConfigurationList xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sdl.com/projectapi">
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>Embedded Content Plain Text v 1.0.0.0</FileTypeDefinitionId>
+                <Profile xmlns:d3p1="http://www.sdl.com/filetypesupport">
+                  <d3p1:Description>由文本组成的嵌入式内容</d3p1:Description>
+                  <d3p1:FileDialogWildcardExpression>
+                  </d3p1:FileDialogWildcardExpression>
+                  <d3p1:FileTypeDefinitionId>Embedded Content Plain Text v 1.0.0.0</d3p1:FileTypeDefinitionId>
+                  <d3p1:FileTypeDocumentName>文本嵌入式内容</d3p1:FileTypeDocumentName>
+                  <d3p1:FileTypeDocumentsName>Plain Text</d3p1:FileTypeDocumentsName>
+                  <d3p1:FileTypeName>Plain Text</d3p1:FileTypeName>
+                </Profile>
+                <Removed>false</Removed>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>Embedded Content SpreadsheetML v. 1</FileTypeDefinitionId>
+                <Profile xmlns:d3p1="http://www.sdl.com/filetypesupport">
+                  <d3p1:Description>使用 Microsoft Excel 2007-2019 创建的文档，包括 Google Sheets 和 LibreOffice 中以 Microsoft Excel 格式保存的文档。</d3p1:Description>
+                  <d3p1:Expression>(^[\d\D]*\.[xX][lL][sS][xX]$)|(^[\d\D]*\.[xX][lL][sS][mM]$)|(^[\d\D]*\.[xX][lL][tT][xX]$)|(^[\d\D]*\.[xX][lL][tT][mM]$)</d3p1:Expression>
+                  <d3p1:FileDialogWildcardExpression>*.xlsx;*.xlsm;*.xltx;*.xltm</d3p1:FileDialogWildcardExpression>
+                  <d3p1:FileTypeDefinitionId>Embedded Content SpreadsheetML v. 1</d3p1:FileTypeDefinitionId>
+                  <d3p1:FileTypeDocumentName>Microsoft Excel 2007-2019 文档</d3p1:FileTypeDocumentName>
+                  <d3p1:FileTypeDocumentsName>Microsoft Excel 2007-2019 文档</d3p1:FileTypeDocumentsName>
+                  <d3p1:FileTypeName>Microsoft Excel 2007-2019</d3p1:FileTypeName>
+                </Profile>
+                <Removed>false</Removed>
+              </FileTypeManagerConfigurationItem>
+              <FileTypeManagerConfigurationItem>
+                <Enabled>true</Enabled>
+                <FileTypeDefinitionId>Html Embedded Content 5 2.0.0.0</FileTypeDefinitionId>
+                <Profile xmlns:d3p1="http://www.sdl.com/filetypesupport">
+                  <d3p1:Description>基于 W3C HTML5 标准的嵌入式内容。</d3p1:Description>
+                  <d3p1:FileTypeDefinitionId>Html Embedded Content 5 2.0.0.0</d3p1:FileTypeDefinitionId>
+                  <d3p1:FileTypeDocumentName>Html 文档</d3p1:FileTypeDocumentName>
+                  <d3p1:FileTypeDocumentsName>Html 文档</d3p1:FileTypeDocumentsName>
+                  <d3p1:FileTypeName>HTML 5</d3p1:FileTypeName>
+                </Profile>
+                <Removed>false</Removed>
+              </FileTypeManagerConfigurationItem>
+            </FileTypeManagerConfigurationList>
+          </Setting>
+        </SettingsGroup>
+        <SettingsGroup Id="JSON v 1.0.0.0">
+          <Setting Id="ExtractAllStringValues">True</Setting>
+          <Setting Id="SpecifyRulesForExtracting">False</Setting>
+          <Setting Id="JsonTokens">
+            <ArrayOfJsonTokenSetting xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/Sdl.FileTypeSupport.Filters.Json.Settings">
+            </ArrayOfJsonTokenSetting>
+          </Setting>
+        </SettingsGroup>
+        <SettingsGroup Id="Tab Delimited v 2.0.0.0">
+          <Setting Id="DelimiterType">OtherDelimiter</Setting>
+          <Setting Id="OtherDelimiter">,</Setting>
+        </SettingsGroup>
+        <SettingsGroup Id="CSV v 2.0.0.0">
+          <Setting Id="DelimiterType">OtherDelimiter</Setting>
+          <Setting Id="OtherDelimiter">,</Setting>
+        </SettingsGroup>
+        <SettingsGroup Id="FileViewServiceSettings">
+          <Setting Id="SelectedTargetLanguageCode">zh-CN</Setting>
+        </SettingsGroup>
+        <SettingsGroup Id="Plugin.AnyTM.SourceLanguages">
+          <Setting Id="HasMixedSourceLanguages">False</Setting>
+          <Setting Id="AutoDetectSourceLanguage">True</Setting>
+          <Setting Id="SourceLanguages">en-US</Setting>
+        </SettingsGroup>
+      </SettingsBundle>
+    </SettingsBundle>
+    <SettingsBundle Guid="88913fc3-c033-4bc8-a435-fb580112af44">
+      <SettingsBundle>
+        <SettingsGroup Id="TranslationMemorySettings">
+          <Setting Id="HardFilter" />
+        </SettingsGroup>
+        <SettingsGroup Id="ProjectTranslationMemoryTaskSettings">
+          <Setting Id="ServerConnectionUri" />
+          <Setting Id="ParentResourceGroupPath" />
+          <Setting Id="TranslationMemoryContainerPath" />
+        </SettingsGroup>
+        <SettingsGroup Id="TranslationMemoryUpdateTaskSettings">
+          <Setting Id="UpdateWithDraftSegments">True</Setting>
+        </SettingsGroup>
+        <SettingsGroup Id="TranslateTaskSettings">
+          <Setting Id="MinimumMatchScore">70</Setting>
+          <Setting Id="NoTranslationMemoryMatchFoundAction">CopySourceToTarget</Setting>
+          <Setting Id="TranslationOverwriteMode">KeepExistingTranslation</Setting>
+        </SettingsGroup>
+      </SettingsBundle>
+    </SettingsBundle>
+  </SettingsBundles>
+  <AnalysisBands>
+    <AnalysisBand MinimumMatchValue="50" />
+    <AnalysisBand MinimumMatchValue="75" />
+    <AnalysisBand MinimumMatchValue="85" />
+    <AnalysisBand MinimumMatchValue="95" />
+  </AnalysisBands>
+  <ManualTaskTemplates />
+  <Users>
+    <User UserId="FATE-MOON\zly" FullName="张力元" Description="" Email="azlyqwe@outlook.com" PhoneNumber="" EmailType="Smtp" />
+  </Users>
+  <CascadeItem OverrideParent="true" StopSearchingWhenResultsFound="false" />
+  <GeneralProjectInfo IsInPlace="true" IsImported="false" Name="LocalizationDef.json" CreatedAt="2022-09-12T05:21:10.6817188Z" StartedAt="2022-09-12T05:21:10.7286213Z" Status="Started" CreatedBy="FATE-MOON\zly" />
+  <SourceLanguageCode>en-US</SourceLanguageCode>
+  <ProjectFiles>
+    <ProjectFile Guid="fa5fdd62-7937-4f85-b8d7-d7208a76d3aa" Path="" Role="Translatable" Name="LocalizationDef.json.sdlxliff" ParentProjectFileGuid="00000000-0000-0000-0000-000000000000" FilterDefinitionId="SDL XLIFF 1.0 v 1.0.0.0">
+      <SpecificTargetLanguages />
+      <LanguageFiles>
+        <LanguageFile Guid="82880a73-a4e5-4643-bbc1-e4c59b8d8410" SettingsBundleGuid="46f9585c-739c-400e-bb36-c6ab4bf3011e" LanguageCode="en-US">
+          <FileVersions>
+            <FileVersion Guid="8bc5358e-649e-4dd7-8e84-e763ce3a8374" VersionNumber="1" Size="48300" FileName="LocalizationDef.json.sdlxliff" PhysicalPath="LocalizationDef.json.sdlxliff" CreatedBy="FATE-MOON\zly" CreatedAt="2022-09-12T05:21:10.7276242Z" FileTimeStamp="2022-09-07T18:06:20.498423Z" IsAutoUpload="false" />
+          </FileVersions>
+          <AnalysisStatistics WordCountStatus="None" AnalysisStatus="None">
+            <Total Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <Repetitions Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <Perfect Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <InContextExact Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <Exact Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <Fuzzy>
+              <CountData Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+              <CountData Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+              <CountData Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+              <CountData Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            </Fuzzy>
+            <New Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <Locked Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+          </AnalysisStatistics>
+          <ChildFiles />
+        </LanguageFile>
+        <LanguageFile Guid="22376fb8-eb89-4ed5-8e0f-7a91dc3e3ddb" SettingsBundleGuid="42f96b92-a442-459c-bcb8-b696bcfa562f" LanguageCode="zh-CN">
+          <FileVersions>
+            <FileVersion Guid="e0edcff7-0d8e-49e1-a7fd-ef6d808dcd03" VersionNumber="2" Size="48300" FileName="LocalizationDef.json.sdlxliff" PhysicalPath="LocalizationDef.json.sdlxliff" CreatedBy="FATE-MOON\zly" CreatedAt="2022-09-12T05:21:10.8104025Z" FileTimeStamp="2022-09-07T18:06:20.498423Z" IsAutoUpload="false" />
+          </FileVersions>
+          <AnalysisStatistics WordCountStatus="None" AnalysisStatus="None">
+            <Total Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <Repetitions Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <Perfect Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <InContextExact Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <Exact Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <Fuzzy>
+              <CountData Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+              <CountData Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+              <CountData Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+              <CountData Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            </Fuzzy>
+            <New Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <Locked Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+          </AnalysisStatistics>
+          <ConfirmationStatistics FileTimeStamp="2022-09-12T05:27:57.3142501Z" Status="Complete">
+            <Unspecified Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <Draft Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <Translated Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <RejectedTranslation Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <ApprovedTranslation Words="363" Characters="1870" Segments="32" Placeables="31" Tags="0" />
+            <RejectedSignOff Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+            <ApprovedSignOff Words="0" Characters="0" Segments="0" Placeables="0" Tags="0" />
+          </ConfirmationStatistics>
+          <ChildFiles />
+        </LanguageFile>
+      </LanguageFiles>
+      <PreviousBilingualFiles />
+    </ProjectFile>
+  </ProjectFiles>
+  <Tasks />
+  <PackageOperations>
+    <ProjectPackageCreationOperations />
+    <ProjectPackageImportOperations />
+    <ReturnPackageCreationOperations />
+    <ReturnPackageImportOperations />
+  </PackageOperations>
+</Project>

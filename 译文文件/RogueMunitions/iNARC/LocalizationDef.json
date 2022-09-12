@@ -1,0 +1,50 @@
+[
+  {
+    "id": "Ammo_AmmunitionBox_iNarc_Beacon.Description.Details",
+    "content": "弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险."
+  },
+  {
+    "id": "Ammo_AmmunitionBox_iNarc_Beacon.Description.UIName",
+    "content": "iNARC信标弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_iNarc_Beacon.Description.Name",
+    "content": "iNARC信标弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_iNarc_ECM.Description.Details",
+    "content": "ECM吊舱去掉了归航吊舱的归航信标,代之以强大但短距的ECM套件.一旦附着,目标实际上被困在ECM套件的有效半径内,任何先进的电子设备都将无效.弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险."
+  },
+  {
+    "id": "Ammo_AmmunitionBox_iNarc_ECM.Description.UIName",
+    "content": "iNARC ECM弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_iNarc_ECM.Description.Name",
+    "content": "Narc弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_iNarc_Explosive.Description.Details",
+    "content": "弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险."
+  },
+  {
+    "id": "Ammo_AmmunitionBox_iNarc_Explosive.Description.UIName",
+    "content": "iNARC爆炸弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_iNarc_Explosive.Description.Name",
+    "content": "Narc弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_iNarc_Haywire.Description.Details",
+    "content": "弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险."
+  },
+  {
+    "id": "Ammo_AmmunitionBox_iNarc_Haywire.Description.UIName",
+    "content": "INARC失控弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_iNarc_Haywire.Description.Name",
+    "content": "iNarc弹药"
+  }
+]

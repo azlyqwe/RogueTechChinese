@@ -1,7 +1,7 @@
 [
   {
     "id": "Ammo_AmmunitionBox_Ultra_AC30.Description.Details",
-    "content": "弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到致命损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险."
+    "content": "弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险."
   },
   {
     "id": "Ammo_AmmunitionBox_Ultra_AC30.Description.UIName",
@@ -189,31 +189,31 @@
   },
   {
     "id": "emod_Pirate_FuelCell.FuelCellExplosionRange.statusEffects1.Name",
-    "content": "燃料电池额外致命损伤"
+    "content": "燃料电池额外严重损伤"
   },
   {
     "id": "emod_Pirate_FuelCell.FuelCellExplosionDamage.statusEffects2.Name",
-    "content": "燃料电池额外致命损伤"
+    "content": "燃料电池额外严重损伤"
   },
   {
     "id": "emod_Pirate_FuelCell.FuelCellExplosionHeat.statusEffects3.Name",
-    "content": "燃料电池额外致命损伤"
+    "content": "燃料电池额外严重损伤"
   },
   {
     "id": "emod_Pirate_FuelCell.FuelCellExplosionStability.statusEffects4.Name",
-    "content": "燃料电池额外致命损伤"
+    "content": "燃料电池额外严重损伤"
   },
   {
     "id": "emod_Pirate_FuelCell.FuelCellExplosionFireStrength.statusEffects5.Name",
-    "content": "燃料电池额外致命损伤"
+    "content": "燃料电池额外严重损伤"
   },
   {
     "id": "emod_Pirate_FuelCell.FuelCellExplosionFireRadius.statusEffects6.Name",
-    "content": "燃料电池额外致命损伤"
+    "content": "燃料电池额外严重损伤"
   },
   {
     "id": "emod_Pirate_FuelCell.FuelCellExplosionMaskRadius.statusEffects7.Name",
-    "content": "燃料电池额外致命损伤"
+    "content": "燃料电池额外严重损伤"
   },
   {
     "id": "Gear_Engine_EnergyRegulator.Description.Details",
@@ -1133,7 +1133,7 @@
   },
   {
     "id": "Special_FCS_ARTV.StatusEffect_BCMissile.statusEffects3.Details",
-    "content": "+1精度,+25%致命损伤率,+10射程,-50%导弹武器最低射程"
+    "content": "+1精度,+25%严重损伤率,+10射程,-50%导弹武器最低射程"
   },
   {
     "id": "Special_FCS_ARTV.TC-Breaching.statusEffects0.Name",
@@ -1153,7 +1153,7 @@
   },
   {
     "id": "Special_Gauntlet_MASC.Description.Details",
-    "content": "在2740年由人类霸权引进的人工肌肉加速信号电路(MASC)是一种可以让战斗机甲以两倍其行走速度移动的设备.该高级版本与TSM兼容,但最大移动量减少了.<b><color=#099ff2>可激活:失败时对腿部造成伤害和致命损伤</color></b>"
+    "content": "在2740年由人类霸权引进的人工肌肉加速信号电路(MASC)是一种可以让战斗机甲以两倍其行走速度移动的设备.该高级版本与TSM兼容,但最大移动量减少了.<b><color=#099ff2>可激活:失败时对腿部造成伤害和严重损伤</color></b>"
   },
   {
     "id": "Special_Gauntlet_MASC.Description.UIName",
@@ -1681,7 +1681,7 @@
   },
   {
     "id": "Special_LegendKiller.StatusEffect-FCS_Flak.statusEffects2.Details",
-    "content": "+1精度,+25%能量武器致命损伤率"
+    "content": "+1精度,+25%能量武器严重损伤率"
   },
   {
     "id": "Special_LegendKiller.RangeBracketBonusAccER.statusEffects0.Name",
@@ -2025,7 +2025,7 @@
   },
   {
     "id": "Special_Protected_Actuators.ReinforcedCritImmune.statusEffects0.Details",
-    "content": "强化结构降低致命损伤率."
+    "content": "强化结构降低严重损伤率."
   },
   {
     "id": "Special_Protected_Actuators.ReinforcedCritImmune.statusEffects0.Name",
@@ -2101,11 +2101,11 @@
   },
   {
     "id": "Special_Quad.QuadEvaIgnore.CAE9.Details",
-    "content": "+1精度,+25%能量武器致命损伤率"
+    "content": "+1精度,+25%能量武器严重损伤率"
   },
   {
     "id": "Special_Quad.QuadRecoil.CAE10.Details",
-    "content": "+1精度,+25%能量武器致命损伤率"
+    "content": "+1精度,+25%能量武器严重损伤率"
   },
   {
     "id": "Special_Quad.MinScatterRadiusMod.CAE11.Details",
@@ -3033,7 +3033,7 @@
   },
   {
     "id": "emod_armorslots_gladiator.Description.Details",
-    "content": "硬化装甲是一种较厚的装甲类型,它使用了多个叠加的装甲板来为敌人的火力提供额外防御力.虽然能够承受比标准装甲多的伤害,但过多的装甲板数量和缺少灵活性使得使用它的任何单位都更难驾驶,事实上,硬化装甲非常重,无法安装在气垫船、垂直起降器或地效飞行器上.降低即将到来的致命伤害. <b><color=#099ff2>可激活:失败时对核心躯干造成伤害和致命损伤</color></b>"
+    "content": "硬化装甲是一种较厚的装甲类型,它使用了多个叠加的装甲板来为敌人的火力提供额外防御力.虽然能够承受比标准装甲多的伤害,但过多的装甲板数量和缺少灵活性使得使用它的任何单位都更难驾驶,事实上,硬化装甲非常重,无法安装在气垫船、垂直起降器或地效飞行器上.降低即将到来的致命伤害. <b><color=#099ff2>可激活:失败时对核心躯干造成伤害和严重损伤</color></b>"
   },
   {
     "id": "emod_armorslots_gladiator.Description.UIName",
@@ -5193,7 +5193,7 @@
   },
   {
     "id": "Gear_FCS_Baphomet.StatusEffect-FCS_FireStormFH.statusEffects6.Details",
-    "content": "+1精度,+25%能量武器致命损伤率"
+    "content": "+1精度,+25%能量武器严重损伤率"
   },
   {
     "id": "Gear_FCS_Baphomet.NightVision.statusEffects7.Details",
@@ -5665,7 +5665,7 @@
   },
   {
     "id": "Gear_FCS_EnergyPlus.StatusEffect-FCS_Energy2.statusEffects0.Details",
-    "content": "+1精度,+25%能量武器致命损伤率"
+    "content": "+1精度,+25%能量武器严重损伤率"
   },
   {
     "id": "Gear_FCS_EnergyPlus.StatusEffect-FCS_Energy2.statusEffects0.Name",
@@ -5801,23 +5801,23 @@
   },
   {
     "id": "Gear_FCS_Gungnir.StatusEffect-FCS_Gungnir.statusEffects0.Details",
-    "content": "+1精度,+25%能量武器致命损伤率"
+    "content": "+1精度,+25%能量武器严重损伤率"
   },
   {
     "id": "Gear_FCS_Gungnir.StatusEffect-FCS_Gungnir1.statusEffects1.Details",
-    "content": "+1精度,+25%能量武器致命损伤率"
+    "content": "+1精度,+25%能量武器严重损伤率"
   },
   {
     "id": "Gear_FCS_Gungnir.StatusEffect-FCS_Gungnir2.statusEffects2.Details",
-    "content": "+1精度,+25%能量武器致命损伤率"
+    "content": "+1精度,+25%能量武器严重损伤率"
   },
   {
     "id": "Gear_FCS_Gungnir.StatusEffect-FCS_Gungnir3.statusEffects3.Details",
-    "content": "+1精度,+25%能量武器致命损伤率"
+    "content": "+1精度,+25%能量武器严重损伤率"
   },
   {
     "id": "Gear_FCS_Gungnir.StatusEffect-FCS_Guarded.statusEffects4.Details",
-    "content": "+1精度,+25%能量武器致命损伤率"
+    "content": "+1精度,+25%能量武器严重损伤率"
   },
   {
     "id": "Gear_FCS_Gungnir.StatusEffect-FCS_Gungnir.statusEffects0.Name",
@@ -6137,15 +6137,15 @@
   },
   {
     "id": "Gear_FCS_Kraken.StatusEffect-FCS_Kraken.statusEffects0.Details",
-    "content": "+1精度,+25%能量武器致命损伤率"
+    "content": "+1精度,+25%能量武器严重损伤率"
   },
   {
     "id": "Gear_FCS_Kraken.StatusEffect-FCS_Kraken1.statusEffects1.Details",
-    "content": "+1精度,+25%能量武器致命损伤率"
+    "content": "+1精度,+25%能量武器严重损伤率"
   },
   {
     "id": "Gear_FCS_Kraken.StatusEffect-FCS_Kraken2.statusEffects2.Details",
-    "content": "+1精度,+25%能量武器致命损伤率"
+    "content": "+1精度,+25%能量武器严重损伤率"
   },
   {
     "id": "Gear_FCS_Kraken.StatusEffect-FCS_Kraken.statusEffects0.Name",
@@ -6177,7 +6177,7 @@
   },
   {
     "id": "Gear_FCS_KuroShi.StatusEffect-FCS_Energy.statusEffects0.Details",
-    "content": "+1精度,+25%能量武器致命损伤率"
+    "content": "+1精度,+25%能量武器严重损伤率"
   },
   {
     "id": "Gear_FCS_KuroShi.TC-Breaching.statusEffects1.Details",
@@ -6185,11 +6185,11 @@
   },
   {
     "id": "Gear_FCS_KuroShi.StatusEffect-FCS_Guarded.statusEffects2.Details",
-    "content": "+1精度,+25%能量武器致命损伤率"
+    "content": "+1精度,+25%能量武器严重损伤率"
   },
   {
     "id": "Gear_FCS_KuroShi.StatusEffect-FCS_Energy.statusEffects3.Details",
-    "content": "+1精度,+25%能量武器致命损伤率"
+    "content": "+1精度,+25%能量武器严重损伤率"
   },
   {
     "id": "Gear_FCS_KuroShi.StatusEffect-FCS_Energy.statusEffects0.Name",
@@ -6225,19 +6225,19 @@
   },
   {
     "id": "Gear_FCS_Mifeng.StatusEffect-FCS_FireStormFD.statusEffects0.Details",
-    "content": "+1精度,+25%能量武器致命损伤率"
+    "content": "+1精度,+25%能量武器严重损伤率"
   },
   {
     "id": "Gear_FCS_Mifeng.StatusEffect-FCS_FireStormFH.statusEffects1.Details",
-    "content": "+1精度,+25%能量武器致命损伤率"
+    "content": "+1精度,+25%能量武器严重损伤率"
   },
   {
     "id": "Gear_FCS_Mifeng.StatusEffect-FCS_FireStormMD.statusEffects2.Details",
-    "content": "+1精度,+25%能量武器致命损伤率"
+    "content": "+1精度,+25%能量武器严重损伤率"
   },
   {
     "id": "Gear_FCS_Mifeng.StatusEffect-FCS_FireStormMLH.statusEffects3.Details",
-    "content": "+1精度,+25%能量武器致命损伤率"
+    "content": "+1精度,+25%能量武器严重损伤率"
   },
   {
     "id": "Gear_FCS_Mifeng.StatusEffect-FCS_FireStormFD.statusEffects0.Name",
@@ -8593,7 +8593,7 @@
   },
   {
     "id": "Gear_Spall_Liner_Quirk.Spall_Liner_Effect.statusEffects0.Details",
-    "content": "该单位抵抗致命损伤."
+    "content": "该单位抵抗严重损伤."
   },
   {
     "id": "Gear_Spall_Liner_Quirk.Spall_Liner_Effect2.statusEffects1.Details",
@@ -9193,7 +9193,7 @@
   },
   {
     "id": "Reinforced_Industrial.ReinforcedCritImmune.statusEffects0.Details",
-    "content": "强化结构降低致命损伤率."
+    "content": "强化结构降低严重损伤率."
   },
   {
     "id": "Reinforced_Industrial.ReinforcedCritImmune.statusEffects0.Name",
@@ -11041,7 +11041,7 @@
   },
   {
     "id": "Weapon_Autocannon_AstralHammer.Description.Details",
-    "content": "星体之锤是一个巨大的245毫米超级自动加农炮,过先进的重装填机制,够在10秒内发射近300公斤弹药.技术上来说,应该把它归类为UAC/30,由于这种命名通常不存在,布莱克斯特的工程师想要一个更神圣的名字,种分类从未使用过."
+    "content": "星体之锤是一个巨大的245毫米终极自动加农炮,过先进的重装填机制,够在10秒内发射近300公斤弹药.技术上来说,应该把它归类为UAC/30,由于这种命名通常不存在,布莱克斯特的工程师想要一个更神圣的名字,种分类从未使用过."
   },
   {
     "id": "Weapon_Autocannon_AstralHammer.Description.UIName",

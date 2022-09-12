@@ -53,31 +53,31 @@
   },
   {
     "id": "emod_engineslots_FuelCell.FuelCellExplosionRange.statusEffects1.Name",
-    "content": "燃料电池额外致命损伤"
+    "content": "燃料电池额外严重损伤"
   },
   {
     "id": "emod_engineslots_FuelCell.FuelCellExplosionDamage.statusEffects2.Name",
-    "content": "燃料电池额外致命损伤"
+    "content": "燃料电池额外严重损伤"
   },
   {
     "id": "emod_engineslots_FuelCell.FuelCellExplosionHeat.statusEffects3.Name",
-    "content": "燃料电池额外致命损伤"
+    "content": "燃料电池额外严重损伤"
   },
   {
     "id": "emod_engineslots_FuelCell.FuelCellExplosionStability.statusEffects4.Name",
-    "content": "燃料电池额外致命损伤"
+    "content": "燃料电池额外严重损伤"
   },
   {
     "id": "emod_engineslots_FuelCell.FuelCellExplosionFireStrength.statusEffects5.Name",
-    "content": "燃料电池额外致命损伤"
+    "content": "燃料电池额外严重损伤"
   },
   {
     "id": "emod_engineslots_FuelCell.FuelCellExplosionFireRadius.statusEffects6.Name",
-    "content": "燃料电池额外致命损伤"
+    "content": "燃料电池额外严重损伤"
   },
   {
     "id": "emod_engineslots_FuelCell.FuelCellExplosionMaskRadius.statusEffects7.Name",
-    "content": "燃料电池额外致命损伤"
+    "content": "燃料电池额外严重损伤"
   },
   {
     "id": "emod_engineslots_ICE_center.Description.Details",
@@ -165,31 +165,31 @@
   },
   {
     "id": "emod_engineslots_ICE_center.ICEExplosionRange.statusEffects5.Name",
-    "content": "内燃机额外致命损伤"
+    "content": "内燃机额外严重损伤"
   },
   {
     "id": "emod_engineslots_ICE_center.ICEExplosionDamage.statusEffects6.Name",
-    "content": "内燃机额外致命损伤"
+    "content": "内燃机额外严重损伤"
   },
   {
     "id": "emod_engineslots_ICE_center.ICEExplosionHeat.statusEffects7.Name",
-    "content": "内燃机额外致命损伤"
+    "content": "内燃机额外严重损伤"
   },
   {
     "id": "emod_engineslots_ICE_center.ICEExplosionStability.statusEffects8.Name",
-    "content": "内燃机额外致命损伤"
+    "content": "内燃机额外严重损伤"
   },
   {
     "id": "emod_engineslots_ICE_center.ICEExplosionFireStrength.statusEffects9.Name",
-    "content": "内燃机额外致命损伤"
+    "content": "内燃机额外严重损伤"
   },
   {
     "id": "emod_engineslots_ICE_center.ICEExplosionFireRadius.statusEffects10.Name",
-    "content": "内燃机额外致命损伤"
+    "content": "内燃机额外严重损伤"
   },
   {
     "id": "emod_engineslots_ICE_center.ICEExplosionMaskRadius.statusEffects11.Name",
-    "content": "内燃机额外致命损伤"
+    "content": "内燃机额外严重损伤"
   },
   {
     "id": "emod_engineslots_Primitive_center.Description.Details",
@@ -265,35 +265,35 @@
   },
   {
     "id": "emod_engineslots_Primitive_center.PrimitiveExplosionRange.statusEffects3.Name",
-    "content": "原始引擎额外致命损伤"
+    "content": "原始引擎额外严重损伤"
   },
   {
     "id": "emod_engineslots_Primitive_center.PrimitiveExplosionDamage.statusEffects4.Name",
-    "content": "原始引擎额外致命损伤"
+    "content": "原始引擎额外严重损伤"
   },
   {
     "id": "emod_engineslots_Primitive_center.PrimitiveExplosionHeat.statusEffects5.Name",
-    "content": "原始引擎额外致命损伤"
+    "content": "原始引擎额外严重损伤"
   },
   {
     "id": "emod_engineslots_Primitive_center.PrimitiveExplosionStability.statusEffects6.Name",
-    "content": "原始引擎额外致命损伤"
+    "content": "原始引擎额外严重损伤"
   },
   {
     "id": "emod_engineslots_Primitive_center.PrimitiveExplosionFireStrength.statusEffects7.Name",
-    "content": "原始引擎额外致命损伤"
+    "content": "原始引擎额外严重损伤"
   },
   {
     "id": "emod_engineslots_Primitive_center.PrimitiveExplosionFireRadius.statusEffects8.Name",
-    "content": "原始引擎额外致命损伤"
+    "content": "原始引擎额外严重损伤"
   },
   {
     "id": "emod_engineslots_Primitive_center.PrimitiveExplosionFireMaskDuration.statusEffects9.Name",
-    "content": "原始引擎额外致命损伤"
+    "content": "原始引擎额外严重损伤"
   },
   {
     "id": "emod_engineslots_Primitive_center.PrimitiveExplosionMaskRadius.statusEffects10.Name",
-    "content": "原始引擎额外致命损伤"
+    "content": "原始引擎额外严重损伤"
   },
   {
     "id": "emod_quicsel_xl_center.Description.Details",

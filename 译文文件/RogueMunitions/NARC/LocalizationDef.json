@@ -1,0 +1,74 @@
+[
+  {
+    "id": "Ammo_AmmunitionBox_Narc_Beacon.Description.Details",
+    "content": "弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险."
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Narc_Beacon.Description.UIName",
+    "content": "NARC信标弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Narc_Beacon.Description.Name",
+    "content": "NARC信标弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Narc_Beacon_Improved.Description.Details",
+    "content": "被iNARC取代."
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Narc_Beacon_Improved.Description.UIName",
+    "content": "不推荐(请出售)"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Narc_Beacon_Improved.Description.Name",
+    "content": "NARC信标弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Narc_ECM.Description.Details",
+    "content": "被iNARC ECM弹药所取代。"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Narc_ECM.Description.UIName",
+    "content": "不推荐(请出售)"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Narc_ECM.Description.Name",
+    "content": "NARC弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Narc_Explosive.Description.Details",
+    "content": "这种高度专业化的NARC吊舱变种去掉了寻获部件,换上了一个相当大的聚能装药弹头.弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险."
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Narc_Explosive.Description.UIName",
+    "content": "NARC爆炸弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Narc_Explosive.Description.Name",
+    "content": "NARC弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Narc_Haywire.Description.Details",
+    "content": "被iNARC海韦尔弹药所取代."
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Narc_Haywire.Description.UIName",
+    "content": "不推荐(请出售)"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Narc_Haywire.Description.Name",
+    "content": "iNARC弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Narc_ShootAndSit.Description.Details",
+    "content": "这种高度专业化的NARC吊舱变种将归航组件剥离出来,以换取一个相当大的高爆炸装药.一旦撞击,吊舱就会粘在目标上.为了最大化传递给目标不稳定性,通过一个小的陀螺传感器使在目标移动它的重心时引爆,或者作为故障保险,在几秒钟的延迟后引爆.弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险."
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Narc_ShootAndSit.Description.UIName",
+    "content": "NARC粘弹弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Narc_ShootAndSit.Description.Name",
+    "content": "NARC黏性弹药"
+  }
+]

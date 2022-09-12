@@ -1,0 +1,62 @@
+[
+  {
+    "id": "Ammo_AmmunitionBox_HVAC_AC10.Description.Details",
+    "content": "弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_HVAC_AC10.Description.UIName",
+    "content": "HVAC/10弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_HVAC_AC10.Description.Name",
+    "content": "HVAC/10弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_HVAC_AC2.Description.Details",
+    "content": "弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_HVAC_AC2.Description.UIName",
+    "content": "HVAC/2弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_HVAC_AC2.Description.Name",
+    "content": "HVAC/2弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_HVAC_AC20.Description.Details",
+    "content": "弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_HVAC_AC20.Description.UIName",
+    "content": "HVAC/20弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_HVAC_AC20.Description.Name",
+    "content": "HVAC/20弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_HVAC_AC20_half.Description.Details",
+    "content": "弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_HVAC_AC20_half.Description.UIName",
+    "content": "HVAC/20弹药[半]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_HVAC_AC20_half.Description.Name",
+    "content": "HVAC/20弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_HVAC_AC5.Description.Details",
+    "content": "弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_HVAC_AC5.Description.UIName",
+    "content": "HVAC/5弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_HVAC_AC5.Description.Name",
+    "content": "HVAC/5弹药"
+  }
+]

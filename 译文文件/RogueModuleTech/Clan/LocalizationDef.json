@@ -81,7 +81,7 @@
   },
   {
     "id": "Weapon_Autocannon_AC10_Ultra_CE.Description.Details",
-    "content": "在克朗代克行动期间,超级自动炮的原型版本在氏族中的使用都很有限.与这个时代的其他武器一样,现代\"氏族规格\"版本的演变直到征服五角世界和黄金世纪的黎明后才完成.\n\n<b><color=#ffcc00>使用UAC10弹药</color></b>. "
+    "content": "在克朗代克行动期间,终极自动炮的原型版本在氏族中的使用都很有限.与这个时代的其他武器一样,现代\"氏族规格\"版本的演变直到征服五角世界和黄金世纪的黎明后才完成.\n\n<b><color=#ffcc00>使用UAC10弹药</color></b>. "
   },
   {
     "id": "Weapon_Autocannon_AC10_Ultra_CE.Description.UIName",
@@ -137,7 +137,7 @@
   },
   {
     "id": "Weapon_Autocannon_AC20_Ultra_CE.Description.Details",
-    "content": "在克朗代克行动期间,超级自动炮的原型版本在氏族中的使用都很有限.与这个时代的其他武器一样,现代\"氏族规格\"版本的演变直到征服五角世界和黄金世纪的黎明后才完成.\n\n<b><color=#ffcc00>使用UAC20弹药</color></b>. "
+    "content": "在克朗代克行动期间,终极自动炮的原型版本在氏族中的使用都很有限.与这个时代的其他武器一样,现代\"氏族规格\"版本的演变直到征服五角世界和黄金世纪的黎明后才完成.\n\n<b><color=#ffcc00>使用UAC20弹药</color></b>. "
   },
   {
     "id": "Weapon_Autocannon_AC20_Ultra_CE.Description.UIName",
@@ -201,7 +201,7 @@
   },
   {
     "id": "Weapon_Autocannon_AC2_Ultra_CE.Description.Details",
-    "content": "在克朗代克行动期间,超级自动炮的原型版本在氏族中的使用都很有限.与这个时代的其他武器一样,现代\"氏族规格\"版本的演变直到征服五角世界和黄金世纪的黎明后才完成.\n\n<b><color=#ffcc00>使用UAC2弹药</color></b>. "
+    "content": "在克朗代克行动期间,终极自动炮的原型版本在氏族中的使用都很有限.与这个时代的其他武器一样,现代\"氏族规格\"版本的演变直到征服五角世界和黄金世纪的黎明后才完成.\n\n<b><color=#ffcc00>使用UAC2弹药</color></b>. "
   },
   {
     "id": "Weapon_Autocannon_AC2_Ultra_CE.Description.UIName",
@@ -273,7 +273,7 @@
   },
   {
     "id": "Weapon_Autocannon_AC5_Ultra_CE.Description.Details",
-    "content": "在克朗代克行动期间,超级自动炮的原型版本在氏族中的使用都很有限.与这个时代的其他武器一样,现代\"氏族规格\"版本的演变直到征服五角世界和黄金世纪的黎明后才完成.\n\n<b><color=#ffcc00>使用UAC5弹药</color></b>. "
+    "content": "在克朗代克行动期间,终极自动炮的原型版本在氏族中的使用都很有限.与这个时代的其他武器一样,现代\"氏族规格\"版本的演变直到征服五角世界和黄金世纪的黎明后才完成.\n\n<b><color=#ffcc00>使用UAC5弹药</color></b>. "
   },
   {
     "id": "Weapon_Autocannon_AC5_Ultra_CE.Description.UIName",
@@ -1377,7 +1377,7 @@
   },
   {
     "id": "Weapon_Autocannon_AC5_Ultra_CLAN.Description.Details",
-    "content": "超级自动炮的射速是普通自动炮的两倍,重量、体积和热量只是适度增加.UAC5定位为远程武器. \n\n<b><color=#ffcc00>使用UAC5弹药</color></b> "
+    "content": "终极自动炮的射速是普通自动炮的两倍,重量、体积和热量只是适度增加.UAC5定位为远程武器. \n\n<b><color=#ffcc00>使用UAC5弹药</color></b> "
   },
   {
     "id": "Weapon_Autocannon_AC5_Ultra_CLAN.Description.UIName",
@@ -1561,7 +1561,7 @@
   },
   {
     "id": "Weapon_Gauss_Magshot_Clan.Description.Details",
-    "content": "由碧玉鹰开发的人员杀伤高斯线膛炮是一种缩小的高斯线膛炮,用于对抗常规步兵和战斗装甲.<b><color=#F79232>使用马格射弹弹药</color></b>.<b><color=#099ff2>不稳定!</color></b>"
+    "content": "由碧玉鹰开发的人员杀伤高斯线膛炮是一种缩小的高斯线膛炮,用于对抗常规步兵和战斗装甲.<b><color=#F79232>使用磁型弹丸弹药</color></b>.<b><color=#099ff2>不稳定!</color></b>"
   },
   {
     "id": "Weapon_Gauss_Magshot_Clan.Description.UIName",
@@ -1569,7 +1569,7 @@
   },
   {
     "id": "Weapon_Gauss_Magshot_Clan.Description.Name",
-    "content": "马格射弹步枪"
+    "content": "磁型弹丸步枪"
   },
   {
     "id": "Weapon_Gauss_Magshot_Clan.Description.Manufacturer",
@@ -2633,7 +2633,7 @@
   },
   {
     "id": "Weapon_Rotary_Autocannon_2_CLAN.Description.Details",
-    "content": "转轮式自动炮(RAC)仅在一定程度上基于自动炮.虽然它们有相同的口径,但其发射能力是其标准同类的六倍,使其造成的伤害甚至是超级自动炮的三倍.同时,发射每增加一次,自动炮产生的热量也会增加,并增加发生卡壳的可能性.氏族变体以增加体积为代价增加了射程.\n\n<b><color=#ffcc00>使用RAC2弹药</color></b>. "
+    "content": "转轮式自动炮(RAC)仅在一定程度上基于自动炮.虽然它们有相同的口径,但其发射能力是其标准同类的六倍,使其造成的伤害甚至是终极自动炮的三倍.同时,发射每增加一次,自动炮产生的热量也会增加,并增加发生卡壳的可能性.氏族变体以增加体积为代价增加了射程.\n\n<b><color=#ffcc00>使用RAC2弹药</color></b>. "
   },
   {
     "id": "Weapon_Rotary_Autocannon_2_CLAN.Description.UIName",
@@ -2657,7 +2657,7 @@
   },
   {
     "id": "Weapon_Rotary_Autocannon_5_CLAN.Description.Details",
-    "content": "转轮式自动炮仅在一定程度上基于自动炮.虽然它们有相同的口径,但其发射能力是其标准同类的六倍,使其造成的伤害甚至是超级自动炮的三倍.同时,发射每增加一次,自动炮产生的热量也会增加,并增加发生卡壳的可能性.和超级自动炮一样,转轮自动炮无法使用特殊弹药.氏族变体以增加体积为代价增加了射程.\n\n<b><color=#ffcc00>使用RAC5弹药</color></b>. "
+    "content": "转轮式自动炮仅在一定程度上基于自动炮.虽然它们有相同的口径,但其发射能力是其标准同类的六倍,使其造成的伤害甚至是终极自动炮的三倍.同时,发射每增加一次,自动炮产生的热量也会增加,并增加发生卡壳的可能性.和终极自动炮一样,转轮自动炮无法使用特殊弹药.氏族变体以增加体积为代价增加了射程.\n\n<b><color=#ffcc00>使用RAC5弹药</color></b>. "
   },
   {
     "id": "Weapon_Rotary_Autocannon_5_CLAN.Description.UIName",
@@ -2681,7 +2681,7 @@
   },
   {
     "id": "Weapon_SRM_SRM2_CLAN.Description.Details",
-    "content": "SRM2是一种小型的短程导弹发射器,造成伤害很小,但在重量、空间、热量或弹药消耗方面几乎不需要任何成本.与其他武器相比,所有SRM2射击的命中率高于平均水平.  \n\n<b><color=#ffcc00>使用氏族近程导弹弹药</color></b>"
+    "content": "SRM2是一种小型的短程导弹发射器,造成伤害很小,但在重量、空间、热量或弹药消耗方面几乎不需要任何成本.与其他武器相比,所有SRM2射击的命中率高于平均水平.  \n\n<b><color=#ffcc00>使用氏族SRM弹药</color></b>"
   },
   {
     "id": "Weapon_SRM_SRM2_CLAN.Description.UIName",
@@ -2713,7 +2713,7 @@
   },
   {
     "id": "Weapon_SRM_SRM4_CLAN.Description.Details",
-    "content": "作为近程导弹的中型发射器,SRM4除了其固有的近程和对弹药的需求外,其受到的负面影响较少.与其他武器相比,所有SRM4射击的命中率高于平均水平. \n\n<b><color=#ffcc00>使用氏族近程导弹弹药</color></b>"
+    "content": "作为SRM的中型发射器,SRM4除了其固有的近程和对弹药的需求外,其受到的负面影响较少.与其他武器相比,所有SRM4射击的命中率高于平均水平. \n\n<b><color=#ffcc00>使用氏族SRM弹药</color></b>"
   },
   {
     "id": "Weapon_SRM_SRM4_CLAN.Description.UIName",
@@ -2761,7 +2761,7 @@
   },
   {
     "id": "Weapon_SRM_SRM6_CLAN.Description.Details",
-    "content": "SRM6是目前可用的最大型短程导弹发射器,具有相当大的威力,同时重量轻.与其他武器相比,所有SRM6射击的命中率高于平均水平.  \n\n<b><color=#ffcc00>使用氏族近程导弹弹药</color></b>"
+    "content": "SRM6是目前可用的最大型短程导弹发射器,具有相当大的威力,同时重量轻.与其他武器相比,所有SRM6射击的命中率高于平均水平.  \n\n<b><color=#ffcc00>使用氏族SRM弹药</color></b>"
   },
   {
     "id": "Weapon_SRM_SRM6_CLAN.Description.UIName",

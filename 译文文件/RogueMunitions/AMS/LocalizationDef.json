@@ -1,0 +1,62 @@
+[
+  {
+    "id": "Ammo_AmmunitionBox_AntiMissile.Description.Details",
+    "content": "弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险."
+  },
+  {
+    "id": "Ammo_AmmunitionBox_AntiMissile.Description.UIName",
+    "content": "AMS弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_AntiMissile.Description.Name",
+    "content": "AMS弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_AntiMissile_Caseless.Description.Details",
+    "content": "弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险."
+  },
+  {
+    "id": "Ammo_AmmunitionBox_AntiMissile_Caseless.Description.UIName",
+    "content": "AMS弹药[无壳]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_AntiMissile_Caseless.Description.Name",
+    "content": "AMS弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_AntiMissile_double.Description.Details",
+    "content": "双弹药舱:将一个弹舱的进料和储存机制替换为一个位置多25%子弹的弹舱.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险."
+  },
+  {
+    "id": "Ammo_AmmunitionBox_AntiMissile_double.Description.UIName",
+    "content": "AMS弹药[双]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_AntiMissile_double.Description.Name",
+    "content": "AMS弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_AntiMissile_half.Description.Details",
+    "content": "弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险."
+  },
+  {
+    "id": "Ammo_AmmunitionBox_AntiMissile_half.Description.UIName",
+    "content": "AMS弹药[半]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_AntiMissile_half.Description.Name",
+    "content": "AMS弹药半装"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_AntiMissile_HE.Description.Details",
+    "content": "AMS炮弹是旧式高射炮弹的翻版,向来袭导弹的路径发射延时炸药.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险."
+  },
+  {
+    "id": "Ammo_AmmunitionBox_AntiMissile_HE.Description.UIName",
+    "content": "AMS高爆弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_AntiMissile_HE.Description.Name",
+    "content": "AMS弹药"
+  }
+]

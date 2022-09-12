@@ -77,31 +77,31 @@
   },
   {
     "id": "lootable_engineslots_FuelCell_center.FuelCellExplosionRange.statusEffects1.Name",
-    "content": "燃料电池额外致命损伤"
+    "content": "燃料电池额外严重损伤"
   },
   {
     "id": "lootable_engineslots_FuelCell_center.FuelCellExplosionDamage.statusEffects2.Name",
-    "content": "燃料电池额外致命损伤"
+    "content": "燃料电池额外严重损伤"
   },
   {
     "id": "lootable_engineslots_FuelCell_center.FuelCellExplosionHeat.statusEffects3.Name",
-    "content": "燃料电池额外致命损伤"
+    "content": "燃料电池额外严重损伤"
   },
   {
     "id": "lootable_engineslots_FuelCell_center.FuelCellExplosionStability.statusEffects4.Name",
-    "content": "燃料电池额外致命损伤"
+    "content": "燃料电池额外严重损伤"
   },
   {
     "id": "lootable_engineslots_FuelCell_center.FuelCellExplosionFireStrength.statusEffects5.Name",
-    "content": "燃料电池额外致命损伤"
+    "content": "燃料电池额外严重损伤"
   },
   {
     "id": "lootable_engineslots_FuelCell_center.FuelCellExplosionFireRadius.statusEffects6.Name",
-    "content": "燃料电池额外致命损伤"
+    "content": "燃料电池额外严重损伤"
   },
   {
     "id": "lootable_engineslots_FuelCell_center.FuelCellExplosionMaskRadius.statusEffects7.Name",
-    "content": "燃料电池额外致命损伤"
+    "content": "燃料电池额外严重损伤"
   },
   {
     "id": "lootable_engineslots_ICE_center.Description.Details",
@@ -189,31 +189,31 @@
   },
   {
     "id": "lootable_engineslots_ICE_center.ICEExplosionRange.statusEffects5.Name",
-    "content": "内燃机额外致命损伤"
+    "content": "内燃机额外严重损伤"
   },
   {
     "id": "lootable_engineslots_ICE_center.ICEExplosionDamage.statusEffects6.Name",
-    "content": "内燃机额外致命损伤"
+    "content": "内燃机额外严重损伤"
   },
   {
     "id": "lootable_engineslots_ICE_center.ICEExplosionHeat.statusEffects7.Name",
-    "content": "内燃机额外致命损伤"
+    "content": "内燃机额外严重损伤"
   },
   {
     "id": "lootable_engineslots_ICE_center.ICEExplosionStability.statusEffects8.Name",
-    "content": "内燃机额外致命损伤"
+    "content": "内燃机额外严重损伤"
   },
   {
     "id": "lootable_engineslots_ICE_center.ICEExplosionFireStrength.statusEffects9.Name",
-    "content": "内燃机额外致命损伤"
+    "content": "内燃机额外严重损伤"
   },
   {
     "id": "lootable_engineslots_ICE_center.ICEExplosionFireRadius.statusEffects10.Name",
-    "content": "内燃机额外致命损伤"
+    "content": "内燃机额外严重损伤"
   },
   {
     "id": "lootable_engineslots_ICE_center.ICEExplosionMaskRadius.statusEffects11.Name",
-    "content": "内燃机额外致命损伤"
+    "content": "内燃机额外严重损伤"
   },
   {
     "id": "lootable_engineslots_std_center.Description.Details",

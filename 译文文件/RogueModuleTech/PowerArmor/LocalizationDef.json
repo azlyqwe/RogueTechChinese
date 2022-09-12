@@ -357,7 +357,7 @@
   },
   {
     "id": "PA_Controls.Swarm_to_Hit.statusEffects3.Details",
-    "content": "+2精度,+50%致命损伤率,+30%射程,-50%所有武器最低射程."
+    "content": "+2精度,+50%严重损伤率,+30%射程,-50%所有武器最低射程."
   },
   {
     "id": "PA_Controls.StatusEffect-CarefulIgnoreMines.statusEffects0.Name",
@@ -1597,7 +1597,7 @@
   },
   {
     "id": "Type_Exoskeleton.Swarm_to_Hit.statusEffects1.Details",
-    "content": "+2精度,+50%致命损伤率,+30%射程,-50%所有武器最低射程."
+    "content": "+2精度,+50%严重损伤率,+30%射程,-50%所有武器最低射程."
   },
   {
     "id": "Type_Exoskeleton.TunedActuatorsAffinityAccPhys.statusEffects0.Name",
@@ -1725,7 +1725,7 @@
   },
   {
     "id": "Type_Ravager.ReinforcedCritImmune.statusEffects1.Details",
-    "content": "强化结构降低致命损伤率."
+    "content": "强化结构降低严重损伤率."
   },
   {
     "id": "Type_Ravager.HardenedCritImmune.statusEffects0.Name",
@@ -1757,7 +1757,7 @@
   },
   {
     "id": "Type_RISC.ReinforcedCritImmune.statusEffects1.Details",
-    "content": "强化结构降低致命损伤率."
+    "content": "强化结构降低严重损伤率."
   },
   {
     "id": "Type_RISC.LV_MIMETIC.statusEffects2.Details",

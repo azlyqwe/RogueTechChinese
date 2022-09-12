@@ -1,0 +1,38 @@
+[
+  {
+    "id": "Ammo_AmmunitionBox_Generic_Plasma.Description.Details",
+    "content": "弹舱包含以射弹为基础的武器所需的子弹,每种武器至少需要一个弹舱.<b><color=#099FF2>不会爆炸.</color></b>"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_Plasma.Description.UIName",
+    "content": "等离子弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_Plasma.Description.Name",
+    "content": "等离子弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_Plasma_double.Description.Details",
+    "content": "弹舱包含以射弹为基础的武器所需的子弹,每种武器至少需要一个弹舱.<b><color=#099FF2>不会爆炸.</color></b>"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_Plasma_double.Description.UIName",
+    "content": "等离子弹药[双]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_Plasma_double.Description.Name",
+    "content": "等离子弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_Plasma_half.Description.Details",
+    "content": "弹舱包含以射弹为基础的武器所需的子弹,每种武器至少需要一个弹舱.<b><color=#099FF2>不会爆炸.</color></b>"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_Plasma_half.Description.UIName",
+    "content": "等离子弹药[半]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_Plasma_half.Description.Name",
+    "content": "等离子弹药"
+  }
+]

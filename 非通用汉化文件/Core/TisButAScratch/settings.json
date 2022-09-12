@@ -53,11 +53,11 @@
 	"InjuryEffectsList": [
 		{
 			"injuryID": "HeadConcussion",
-			"injuryName": "Concussion",
+			"injuryName": "脑震荡",
 			"injuryLoc": "Head",
 			"couldBeThermal": false,
 			"severity": 1,
-			"description": "This pilot is concussed. Things are spinny.",
+			"description": "驾驶员脑震荡.思维变得混乱.",
 			"effectDataJO": [
 				{
 					"durationData": {},
@@ -69,8 +69,8 @@
 					"effectType": "StatisticEffect",
 					"Description": {
 						"Id": "Concussed",
-						"Name": "Concussed",
-						"Details": "This pilot is concussed. Things are spinny. Initiative Decreased",
+						"Name": "脑震荡",
+						"Details": "驾驶员脑震荡.思维变得混乱.主动性降低.",
 						"Icon": "seeingstars"
 					},
 					"nature": "Buff",
@@ -85,11 +85,11 @@
 		},
 		{
 			"injuryID": "HeadJaw",
-			"injuryName": "Broken Jaw",
+			"injuryName": "下颚骨折",
 			"injuryLoc": "Head",
 			"couldBeThermal": false,
 			"severity": 1,
-			"description": "This pilot has a broken jaw, and generates less resolve due to hampered communications.",
+			"description": "这个驾驶员下颚骨折,由于交流受阻,决心获取减少.",
 			"effectDataJO": [
 				{
 					"durationData": {},
@@ -101,8 +101,8 @@
 					"effectType": "StatisticEffect",
 					"Description": {
 						"Id": "BrokenJaw",
-						"Name": "Broken Jaw",
-						"Details": "This pilot has a broken jaw, and generates less resolve due to hampered communications.",
+						"Name": "下颚骨折",
+						"Details": "这个驾驶员下颚骨折,由于交流受阻,决心获取减少.",
 						"Icon": "seeingstars"
 					},
 					"nature": "Buff",
@@ -125,11 +125,11 @@
 		},
 		{
 			"injuryID": "HeadBurns",
-			"injuryName": "Severe Burns - Head",
+			"injuryName": "严重烧伤-头部",
 			"injuryLoc": "Head",
 			"couldBeThermal": true,
 			"severity": 1,
-			"description": "This pilot has severe burns to the head. Sight distance is impaired.",
+			"description": "这个驾驶员头部严重烧伤.视距降低.",
 			"effectDataJO": [
 				{
 					"durationData": {},
@@ -141,8 +141,8 @@
 					"effectType": "StatisticEffect",
 					"Description": {
 						"Id": "EyesBurnSpotter",
-						"Name": "Head Burned",
-						"Details": "This pilot has severe burns to the head. Sight distance is impaired.",
+						"Name": "头部烧伤",
+						"Details": "这个驾驶员头部严重烧伤.视距降低.",
 						"Icon": "seeingstars"
 					},
 					"nature": "Buff",
@@ -157,11 +157,11 @@
 		},
 		{
 			"injuryID": "HeadBarotrauma",
-			"injuryName": "Barotrauma - Head",
+			"injuryName": "气压伤-头部",
 			"injuryLoc": "Head",
 			"couldBeThermal": false,
 			"severity": 2,
-			"description": "This pilot has suffered barotrauma to the head. Initiative decreased.",
+			"description": "这个驾驶员头部受到气压伤.主动性降低.",
 			"effectDataJO": [
 				{
 					"durationData": {},
@@ -173,8 +173,8 @@
 					"effectType": "StatisticEffect",
 					"Description": {
 						"Id": "EyesBaroUnsteady",
-						"Name": "Barotrauma",
-						"Details": "This pilot has suffered barotrauma to the head. Initiative decreased.",
+						"Name": "气压伤",
+						"Details": "这个驾驶员头部受到气压伤.主动性降低.",
 						"Icon": "seeingstars"
 					},
 					"nature": "Buff",
@@ -189,11 +189,11 @@
 		},
 		{
 			"injuryID": "ArmLBurns",
-			"injuryName": "Severe Burns - Left Arm",
+			"injuryName": "严重烧伤-左臂",
 			"injuryLoc": "ArmL",
 			"couldBeThermal": true,
 			"severity": 1,
-			"description": "This pilot has been severely burned, and is suffering an accuracy penalty.",
+			"description": "这个驾驶员手臂严重烧伤.受到精度惩罚.",
 			"effectDataJO": [
 				{
 					"durationData": {},
@@ -205,8 +205,8 @@
 					"effectType": "StatisticEffect",
 					"Description": {
 						"Id": "ArmLBurned",
-						"Name": "Severe Burns - Left Arm",
-						"Details": "This pilot has been severely burned, and is suffering an accuracy penalty.",
+						"Name": "严重烧伤-左臂",
+						"Details": "这个驾驶员手臂严重烧伤.受到精度惩罚.",
 						"Icon": "flamingskull"
 					},
 					"nature": "Buff",
@@ -226,11 +226,11 @@
 		},
 		{
 			"injuryID": "ArmRBurns",
-			"injuryName": "Severe Burns - Right Arm",
+			"injuryName": "严重烧伤-右臂",
 			"injuryLoc": "ArmR",
 			"couldBeThermal": true,
 			"severity": 1,
-			"description": "This pilot has been severely burned, and is suffering an accuracy penalty.",
+			"description": "这个驾驶员手臂严重烧伤.受到精度惩罚.",
 			"effectDataJO": [
 				{
 					"durationData": {},
@@ -242,8 +242,8 @@
 					"effectType": "StatisticEffect",
 					"Description": {
 						"Id": "ArmRBurned",
-						"Name": "Severe Burns - Right Arm",
-						"Details": "This pilot has been severely burned, and is suffering an accuracy penalty.",
+						"Name": "严重烧伤-右臂",
+						"Details": "这个驾驶员手臂严重烧伤.受到精度惩罚.",
 						"Icon": "flamingskull"
 					},
 					"nature": "Buff",
@@ -263,11 +263,11 @@
 		},
 		{
 			"injuryID": "ArmLBroken",
-			"injuryName": "Simple Fracture - Left Arm",
+			"injuryName": "单纯性骨折-左臂",
 			"injuryLoc": "ArmL",
 			"couldBeThermal": false,
 			"severity": 1,
-			"description": "This pilot has a broken arm, and is suffering an accuracy penalty.",
+			"description": "这个驾驶员手臂骨折.受到精度惩罚.",
 			"effectDataJO": [
 				{
 					"durationData": {},
@@ -279,8 +279,8 @@
 					"effectType": "StatisticEffect",
 					"Description": {
 						"Id": "ArmLBroken",
-						"Name": "Broken Arm - Left",
-						"Details": "This pilot has a broken arm, and is suffering an accuracy penalty.",
+						"Name": "手臂骨折-左臂",
+						"Details": "这个驾驶员手臂骨折.受到精度惩罚.",
 						"Icon": "brokenarm"
 					},
 					"nature": "Buff",
@@ -300,11 +300,11 @@
 		},
 		{
 			"injuryID": "ArmRBroken",
-			"injuryName": "Simple Fracture - Right Arm",
+			"injuryName": "单纯性骨折-右臂",
 			"injuryLoc": "ArmR",
 			"couldBeThermal": false,
 			"severity": 1,
-			"description": "This pilot has a broken arm, and is suffering an accuracy penalty.",
+			"description": "这个驾驶员手臂骨折.受到精度惩罚.",
 			"effectDataJO": [
 				{
 					"durationData": {},
@@ -316,8 +316,8 @@
 					"effectType": "StatisticEffect",
 					"Description": {
 						"Id": "ArmRBroken",
-						"Name": "Broken Arm - Right",
-						"Details": "This pilot has a broken arm, and is suffering an accuracy penalty.",
+						"Name": "手臂骨折-右臂",
+						"Details": "这个驾驶员手臂骨折.受到精度惩罚.",
 						"Icon": "brokenarm"
 					},
 					"nature": "Buff",
@@ -338,11 +338,11 @@
 		{
 			"injuryID": "ArmLBrokenCompound",
 			"injuryID_Post": "ArmLBroken",
-			"injuryName": "Compound Fracture - Left Arm",
+			"injuryName": "复合骨折-左臂",
 			"injuryLoc": "ArmL",
 			"couldBeThermal": false,
 			"severity": 1,
-			"description": "This pilot has a compound fracture in their arm, and is suffering an accuracy penalty.",
+			"description": "这个驾驶员手臂有复合性骨折.受到精度惩罚.",
 			"effectDataJO": [
 				{
 					"durationData": {},
@@ -354,8 +354,8 @@
 					"effectType": "StatisticEffect",
 					"Description": {
 						"Id": "ArmLCmpdBroken_bleedout",
-						"Name": "Broken Arm, Compound - Left",
-						"Details": "This pilot has a compound fracture in their arm, and is suffering an accuracy penalty.",
+						"Name": "复合骨折-左臂",
+						"Details": "这个驾驶员手臂有复合性骨折.受到精度惩罚.",
 						"Icon": "brokenarm"
 					},
 					"nature": "Buff",
@@ -376,11 +376,11 @@
 		{
 			"injuryID": "ArmRBrokenCompound",
 			"injuryID_Post": "ArmRBroken",
-			"injuryName": "Compound Fracture - Right Arm",
+			"injuryName": "复合骨折-右臂",
 			"injuryLoc": "ArmR",
 			"couldBeThermal": false,
 			"severity": 1,
-			"description": "This pilot has a compound fracture in their arm, and is suffering an accuracy penalty.",
+			"description": "这个驾驶员手臂有复合性骨折.受到精度惩罚.",
 			"effectDataJO": [
 				{
 					"durationData": {},
@@ -392,8 +392,8 @@
 					"effectType": "StatisticEffect",
 					"Description": {
 						"Id": "ArmRCmpdBroken_bleedout",
-						"Name": "Broken Arm, Compound - Right",
-						"Details": "This pilot has a compound fracture in their arm, and is suffering an accuracy penalty.",
+						"Name": "复合骨折-右臂",
+						"Details": "这个驾驶员手臂有复合性骨折.受到精度惩罚.",
 						"Icon": "brokenarm"
 					},
 					"nature": "Buff",
@@ -413,11 +413,11 @@
 		},
 		{
 			"injuryID": "LegLBurns",
-			"injuryName": "Severe Burns - Left Leg",
+			"injuryName": "严重烧伤-左腿",
 			"injuryLoc": "LegL",
 			"couldBeThermal": true,
 			"severity": 1,
-			"description": "This pilot has been severely burned and is suffering a Piloting Skill penalty.",
+			"description": "这个驾驶员腿部严重烧伤.受到驾驶技能惩罚.",
 			"effectDataJO": [
 				{
 					"durationData": {},
@@ -429,8 +429,8 @@
 					"effectType": "StatisticEffect",
 					"Description": {
 						"Id": "LegLBurnedWalk",
-						"Name": "Severe Burns - Left Leg",
-						"Details": "This pilot has been severely burned and is suffering a Piloting Skill penalty.",
+						"Name": "严重烧伤-左腿",
+						"Details": "这个驾驶员腿部严重烧伤.受到驾驶技能惩罚.",
 						"Icon": "flamingskull"
 					},
 					"nature": "Buff",
@@ -446,11 +446,11 @@
 		},
 		{
 			"injuryID": "LegRBurns",
-			"injuryName": "Severe Burns - Right Leg",
+			"injuryName": "严重烧伤-右腿",
 			"injuryLoc": "LegR",
 			"couldBeThermal": true,
 			"severity": 1,
-			"description": "This pilot has been severely burned and is suffering a Piloting Skill penalty.",
+			"description": "这个驾驶员腿部严重烧伤.受到驾驶技能惩罚.",
 			"effectDataJO": [
 				{
 					"durationData": {},
@@ -462,8 +462,8 @@
 					"effectType": "StatisticEffect",
 					"Description": {
 						"Id": "LegRBurnedWalk",
-						"Name": "Severe Burns - Right Leg",
-						"Details": "This pilot has been severely burned and is suffering a Piloting Skill penalty.",
+						"Name": "严重烧伤-右腿",
+						"Details": "这个驾驶员腿部严重烧伤.受到驾驶技能惩罚.",
 						"Icon": "flamingskull"
 					},
 					"nature": "Buff",
@@ -479,11 +479,11 @@
 		},
 		{
 			"injuryID": "LegLBroken",
-			"injuryName": "Simple Fracture - Left Leg",
+			"injuryName": "单纯性骨折-左腿",
 			"injuryLoc": "LegL",
 			"couldBeThermal": false,
 			"severity": 1,
-			"description": "This pilot has a broken leg and is suffering a Piloting Skill penalty.",
+			"description": "这个驾驶员腿部骨折.受到驾驶技能惩罚.",
 			"effectDataJO": [
 				{
 					"durationData": {},
@@ -495,8 +495,8 @@
 					"effectType": "StatisticEffect",
 					"Description": {
 						"Id": "LegLBrokeWalk",
-						"Name": "Simple Fracture - Left Leg",
-						"Details": "This pilot has a broken leg and is suffering a Piloting Skill penalty.",
+						"Name": "单纯性骨折-左腿",
+						"Details": "这个驾驶员腿部骨折.受到驾驶技能惩罚.",
 						"Icon": "footcast"
 					},
 					"nature": "Buff",
@@ -513,11 +513,11 @@
 		{
 			"injuryID": "LegLBrokenCompound",
 			"injuryID_Post": "LegLBroken",
-			"injuryName": "Compound Fracture - Left Leg",
+			"injuryName": "复合性骨折-左腿",
 			"injuryLoc": "LegL",
 			"couldBeThermal": false,
 			"severity": 1,
-			"description": "This pilot has a compound fracture to their leg and is suffering a severe Piloting Skill penalty.",
+			"description": "这个驾驶员腿部复合性骨折.受到严重的驾驶技能惩罚.",
 			"effectDataJO": [
 				{
 					"durationData": {},
@@ -529,8 +529,8 @@
 					"effectType": "StatisticEffect",
 					"Description": {
 						"Id": "LegLBrokeCmpndWalk_bleedout",
-						"Name": "Compound Fracture - Left Leg",
-						"Details": "This pilot has a broken leg and is suffering a Piloting Skill penalty.",
+						"Name": "复合性骨折-左腿",
+						"Details": "这个驾驶员腿部骨折.受到严重的驾驶技能惩罚.",
 						"Icon": "footcast"
 					},
 					"nature": "Buff",
@@ -546,11 +546,11 @@
 		},
 		{
 			"injuryID": "LegRBroken",
-			"injuryName": "Simple Fracture - Right Leg",
+			"injuryName": "单纯性骨折-右腿",
 			"injuryLoc": "LegR",
 			"couldBeThermal": false,
 			"severity": 1,
-			"description": "This pilot has a broken leg and is suffering a Piloting Skill penalty.",
+			"description": "这个驾驶员腿部骨折.受到驾驶技能惩罚.",
 			"effectDataJO": [
 				{
 					"durationData": {},
@@ -563,7 +563,7 @@
 					"Description": {
 						"Id": "LegRBrokeWalk",
 						"Name": "Simple Fracture - Right Leg",
-						"Details": "This pilot has a broken leg and is suffering a Piloting Skill penalty.",
+						"Details": "这个驾驶员腿部骨折.受到驾驶技能惩罚.",
 						"Icon": "footcast"
 					},
 					"nature": "Buff",
@@ -580,11 +580,11 @@
 		{
 			"injuryID": "LegRBrokenCompound",
 			"injuryID_Post": "LegRBroken",
-			"injuryName": "Compound Fracture - Right Leg",
+			"injuryName": "复合性骨折-右腿",
 			"injuryLoc": "LegR",
 			"couldBeThermal": false,
 			"severity": 1,
-			"description": "This pilot has a compound fracture to their leg and is suffering a severe Piloting Skill penalty.",
+			"description": "这个驾驶员腿部复合性骨折.受到严重的驾驶技能惩罚.",
 			"effectDataJO": [
 				{
 					"durationData": {},
@@ -596,8 +596,8 @@
 					"effectType": "StatisticEffect",
 					"Description": {
 						"Id": "LegRBrokeCmpndWalk_bleedout",
-						"Name": "Compound Fracture - Right Leg",
-						"Details": "This pilot has a broken leg and is suffering a Piloting Skill penalty.",
+						"Name": "复合性骨折-右腿",
+						"Details": "这个驾驶员腿部骨折.受到严重的驾驶技能惩罚.",
 						"Icon": "footcast"
 					},
 					"nature": "Buff",
@@ -614,11 +614,11 @@
 		{
 			"injuryID": "TorsoInternalBleeding",
 			"injuryID_Post": "TorsoRibs",
-			"injuryName": "Internal Bleeding - Torso",
+			"injuryName": "内出血-躯干",
 			"injuryLoc": "Torso",
 			"couldBeThermal": false,
 			"severity": 2,
-			"description": "This pilot is suffering from internal bleeding and receives a debuff to Evasion.",
+			"description": "这个驾驶员遭受内出血的痛苦,闪避降低.",
 			"effectDataJO": [
 				{
 					"durationData": {},
@@ -630,8 +630,8 @@
 					"effectType": "StatisticEffect",
 					"Description": {
 						"Id": "TorsoHemEvasion_bleedout",
-						"Name": "Internal Bleeding",
-						"Details": "This pilot is suffering from internal bleeding and receives a debuff to Evasion.",
+						"Name": "内出血",
+						"Details": "这个驾驶员遭受内出血的痛苦,闪避降低.",
 						"Icon": "bandaged"
 					},
 					"nature": "Buff",
@@ -646,11 +646,11 @@
 		},
 		{
 			"injuryID": "TorsoRibs",
-			"injuryName": "Broken Ribs",
+			"injuryName": "肋骨骨折",
 			"injuryLoc": "Torso",
 			"couldBeThermal": false,
 			"severity": 1,
-			"description": "This pilot has broken ribs and receives a debuff to Evasion.",
+			"description": "驾驶员肋骨骨折,闪避降低.",
 			"effectDataJO": [
 				{
 					"durationData": {},
@@ -662,8 +662,8 @@
 					"effectType": "StatisticEffect",
 					"Description": {
 						"Id": "TorsoRibsEvasion",
-						"Name": "Broken Ribs",
-						"Details": "This pilot has broken ribs and receives a debuff to Evasion.",
+						"Name": "肋骨骨折",
+						"Details": "驾驶员肋骨骨折,闪避降低.",
 						"Icon": "bandaged"
 					},
 					"nature": "Buff",
@@ -678,11 +678,11 @@
 		},
 		{
 			"injuryID": "TorsoLungs",
-			"injuryName": "Punctured Lung",
+			"injuryName": "肺穿孔",
 			"injuryLoc": "Torso",
 			"couldBeThermal": false,
 			"severity": 1,
-			"description": "This pilot has a punctured lung and has a penalty to Guts.",
+			"description": "驾驶员肺部被刺穿,降低勇气.",
 			"effectDataJO": [
 				{
 					"durationData": {},
@@ -694,8 +694,8 @@
 					"effectType": "StatisticEffect",
 					"Description": {
 						"Id": "TorsoLungsGuts",
-						"Name": "Punctured Lung",
-						"Details": "This pilot has a punctured lung and has a penalty to Guts.",
+						"Name": "肺穿孔",
+						"Details": "驾驶员肺部被刺穿,降低勇气.",
 						"Icon": "lungs"
 					},
 					"nature": "Buff",
@@ -712,11 +712,11 @@
 		{
 			"injuryID": "TorsoLungsBleedout",
 			"injuryID_Post": "TorsoLungs",
-			"injuryName": "Collapsed Lung",
+			"injuryName": "肺萎陷",
 			"injuryLoc": "Torso",
 			"couldBeThermal": false,
 			"severity": 1,
-			"description": "This pilot has a collapsed lung and has a penalty to Guts.",
+			"description": "驾驶员肺部萎陷,降低勇气.",
 			"effectDataJO": [
 				{
 					"durationData": {},
@@ -728,8 +728,8 @@
 					"effectType": "StatisticEffect",
 					"Description": {
 						"Id": "TorsoLungsGuts_bleedout",
-						"Name": "Collapsed Lung",
-						"Details": "This pilot has a collapsed lung and has a penalty to Guts.",
+						"Name": "肺萎陷",
+						"Details": "驾驶员肺部萎陷,降低勇气.",
 						"Icon": "lungs"
 					},
 					"nature": "Buff",
@@ -745,11 +745,11 @@
 		},
 		{
 			"injuryID": "TorsoBurned",
-			"injuryName": "Severe Burns - Torso",
+			"injuryName": "严重烧伤-躯干",
 			"injuryLoc": "Torso",
 			"couldBeThermal": true,
 			"severity": 2,
-			"description": "This pilot has been severely burned and receives a debuff to Evasion.",
+			"description": "驾驶员躯干被严重烧伤,受到闪避减益.",
 			"effectDataJO": [
 				{
 					"durationData": {},
@@ -761,8 +761,8 @@
 					"effectType": "StatisticEffect",
 					"Description": {
 						"Id": "TorsoBurnEvasion",
-						"Name": "Severe Burns - Torso",
-						"Details": "This pilot has been severely burned and is suffering a penalty to Evasion.",
+						"Name": "严重烧伤-躯干",
+						"Details": "驾驶员躯干被严重烧伤,受到闪避减益.",
 						"Icon": "bandaged"
 					},
 					"nature": "Buff",
@@ -779,11 +779,11 @@
 	"InternalDmgInjuries": [
 		{
 			"injuryID": "HeadNeuralFeedback",
-			"injuryName": "Neural Feedback",
+			"injuryName": "神经负反馈",
 			"injuryLoc": "Head",
 			"couldBeThermal": false,
 			"severity": 2,
-			"description": "This pilot has suffered from neural feedback from a DNI or EI interface, and has drastically reduced accuracy.",
+			"description": "这个驾驶员受到DNI或EI接口的负面反馈,彻底地降低精度.",
 			"effectDataJO": [
 				{
 					"durationData": {},
@@ -795,8 +795,8 @@
 					"effectType": "StatisticEffect",
 					"Description": {
 						"Id": "HeadNeural",
-						"Name": "Neural Feedback",
-						"Details": "This pilot has suffered from neural feedback from a DNI or EI interface, and has drastically reduced accuracy.",
+						"Name": "神经负反馈",
+						"Details": "这个驾驶员受到DNI或EI接口的负面反馈,彻底地降低精度.",
 						"Icon": "crackedskull"
 					},
 					"nature": "Buff",
@@ -824,9 +824,9 @@
 	"BleedingEffects": [
 		{
 			"bleedingEffectID": "BleedingShock",
-			"bleedingName": "Shock",
+			"bleedingName": "颤栗",
 			"bleedingEffectLvl": 1,
-			"description": "This pilot has suffered minor blood loss and has reduced accuracy.",
+			"description": "这个驾驶员轻微失血,并有轻微颤栗,降低精度.",
 			"effectDataJO": [
 				{
 					"durationData": {},
@@ -838,8 +838,8 @@
 					"effectType": "StatisticEffect",
 					"Description": {
 						"Id": "BleedShock",
-						"Name": "Blood Loss: Shock",
-						"Details": "This pilot has suffered minor blood loss and has gone into minor shock, reducing accuracy.",
+						"Name": "失血:颤栗",
+						"Details": "这个驾驶员轻微失血,并有轻微颤栗,降低精度.",
 						"Icon": "blood"
 					},
 					"nature": "Buff",
@@ -859,9 +859,9 @@
 		},
 		{
 			"bleedingEffectID": "BleedingDizzy",
-			"bleedingName": "Dizzy",
+			"bleedingName": "头晕",
 			"bleedingEffectLvl": 2,
-			"description": "This pilot has suffered significant blood loss and is suffering an Initiative Penalty.",
+			"description": "这个驾驶员中度失血,受到主动性惩罚.",
 			"effectDataJO": [
 				{
 					"durationData": {},
@@ -873,8 +873,8 @@
 					"effectType": "StatisticEffect",
 					"Description": {
 						"Id": "BleedDizzy",
-						"Name": "Blood Loss: Dizzy",
-						"Details": "This pilot has lost a lot of blood. Things are spinny. Initiative Decreased.",
+						"Name": "失血:头晕",
+						"Details": "这个驾驶员中度失血,思维迟钝,受到主动性惩罚.",
 						"Icon": "seeingstars"
 					},
 					"nature": "Buff",
@@ -889,9 +889,9 @@
 		},
 		{
 			"bleedingEffectID": "BleedingRun",
-			"bleedingName": "Groggy",
+			"bleedingName": "虚弱",
 			"bleedingEffectLvl": 3,
-			"description": "This pilot has suffered major blood loss and has a Piloting Skill penalty.",
+			"description": "这个驾驶员失血过多,意识模糊,驾驶技能受到惩罚.",
 			"effectDataJO": [
 				{
 					"durationData": {},
@@ -903,8 +903,8 @@
 					"effectType": "StatisticEffect",
 					"Description": {
 						"Id": "BleedingRun_Walk",
-						"Name": "Blood Loss: Piloting Penalty",
-						"Details": "This pilot has a broken leg and is suffering a Piloting Skill penalty.",
+						"Name": "失血:虚弱",
+						"Details": "这个驾驶员失血过多,意识模糊,驾驶技能受到惩罚.",
 						"Icon": "footcast"
 					},
 					"nature": "Buff",

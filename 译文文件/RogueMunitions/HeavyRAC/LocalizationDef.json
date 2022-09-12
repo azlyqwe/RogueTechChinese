@@ -1,0 +1,242 @@
+[
+  {
+    "id": "Ammo_Heavy_Rotary_AC10.Description.Details",
+    "content": "弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_Heavy_Rotary_AC10.Description.UIName",
+    "content": "RAC/10弹药"
+  },
+  {
+    "id": "Ammo_Heavy_Rotary_AC10.Description.Name",
+    "content": "RAC/10弹药"
+  },
+  {
+    "id": "Ammo_Heavy_Rotary_AC10_double.Description.Details",
+    "content": "双倍弹药舱:将一个弹舱的进料和储存机制替换为一个多25%子弹的弹舱.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_Heavy_Rotary_AC10_double.Description.UIName",
+    "content": "RAC/10弹药[双]"
+  },
+  {
+    "id": "Ammo_Heavy_Rotary_AC10_double.Description.Name",
+    "content": "RAC/10弹药"
+  },
+  {
+    "id": "Ammo_Heavy_Rotary_AC10_half.Description.Details",
+    "content": "弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到致命损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险."
+  },
+  {
+    "id": "Ammo_Heavy_Rotary_AC10_half.Description.UIName",
+    "content": "RAC/10弹药[半]"
+  },
+  {
+    "id": "Ammo_Heavy_Rotary_AC10_half.Description.Name",
+    "content": "RAC/10弹药"
+  },
+  {
+    "id": "Ammo_Heavy_Rotary_AC2.Description.Details",
+    "content": "弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险."
+  },
+  {
+    "id": "Ammo_Heavy_Rotary_AC2.Description.UIName",
+    "content": "RAC/2 RISC弹药"
+  },
+  {
+    "id": "Ammo_Heavy_Rotary_AC2.Description.Name",
+    "content": "RAC2 RISC弹药"
+  },
+  {
+    "id": "Ammo_Heavy_Rotary_AC20.Description.Details",
+    "content": "弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_Heavy_Rotary_AC20.Description.UIName",
+    "content": "RAC/20弹药"
+  },
+  {
+    "id": "Ammo_Heavy_Rotary_AC20.Description.Name",
+    "content": "RAC/20弹药"
+  },
+  {
+    "id": "Ammo_Heavy_Rotary_AC20_double.Description.Details",
+    "content": "双倍弹药舱:将一个弹舱的进料和储存机制替换为一个多25%子弹的弹舱.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_Heavy_Rotary_AC20_double.Description.UIName",
+    "content": "RAC/20弹药[双]"
+  },
+  {
+    "id": "Ammo_Heavy_Rotary_AC20_double.Description.Name",
+    "content": "RAC/20弹药"
+  },
+  {
+    "id": "Ammo_Heavy_Rotary_AC20_half.Description.Details",
+    "content": "弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_Heavy_Rotary_AC20_half.Description.UIName",
+    "content": "RAC/20弹药[半]"
+  },
+  {
+    "id": "Ammo_Heavy_Rotary_AC20_half.Description.Name",
+    "content": "RAC/20弹药"
+  },
+  {
+    "id": "Ammo_Heavy_Rotary_AC2_double.Description.Details",
+    "content": "双倍弹药舱:将一个弹舱的进料和储存机制替换为一个多25%子弹的弹舱.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_Heavy_Rotary_AC2_double.Description.UIName",
+    "content": "RAC/2 RISC弹药[双]"
+  },
+  {
+    "id": "Ammo_Heavy_Rotary_AC2_double.Description.Name",
+    "content": "RAC2 RISC弹药"
+  },
+  {
+    "id": "Ammo_Heavy_Rotary_AC2_half.Description.Details",
+    "content": "弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_Heavy_Rotary_AC2_half.Description.UIName",
+    "content": "RAC/2 RISC弹药[半]"
+  },
+  {
+    "id": "Ammo_Heavy_Rotary_AC2_half.Description.Name",
+    "content": "RAC2 RISC弹药"
+  },
+  {
+    "id": "Ammo_Heavy_Rotary_AC5.Description.Details",
+    "content": "弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_Heavy_Rotary_AC5.Description.UIName",
+    "content": "RAC/5 RISC弹药"
+  },
+  {
+    "id": "Ammo_Heavy_Rotary_AC5.Description.Name",
+    "content": "RAC5 RISC弹药"
+  },
+  {
+    "id": "Ammo_Heavy_Rotary_AC5_double.Description.Details",
+    "content": "双倍弹药舱:将一个弹舱的进料和储存机制替换为一个多25%子弹的弹舱.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_Heavy_Rotary_AC5_double.Description.UIName",
+    "content": "RAC/5 RISC弹药[双]"
+  },
+  {
+    "id": "Ammo_Heavy_Rotary_AC5_double.Description.Name",
+    "content": "RAC5 RISC弹药"
+  },
+  {
+    "id": "Ammo_Heavy_Rotary_AC5_half.Description.Details",
+    "content": "弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_Heavy_Rotary_AC5_half.Description.UIName",
+    "content": "RAC/5 RISC弹药[半]"
+  },
+  {
+    "id": "Ammo_Heavy_Rotary_AC5_half.Description.Name",
+    "content": "RAC5 RISC弹药"
+  },
+  {
+    "id": "Ammo_Heavy_Rotary_Caseless_AC10.Description.Details",
+    "content": "自动加农炮无壳弹药是由联邦合众国开发的,以供给更多的弹药.不是一个标准的装满推进剂金属或塑料外壳,自动加农炮的无壳发射药'包装'在弹丸周围.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_Heavy_Rotary_Caseless_AC10.Description.UIName",
+    "content": "RAC/10弹药[无壳]"
+  },
+  {
+    "id": "Ammo_Heavy_Rotary_Caseless_AC10.Description.Name",
+    "content": "RAC/10弹药"
+  },
+  {
+    "id": "Ammo_Heavy_Rotary_Caseless_AC2.Description.Details",
+    "content": "自动加农炮无壳弹药是由联邦合众国开发的,以供给更多的弹药.不是一个标准的装满推进剂金属或塑料外壳,自动加农炮的无壳发射药'包装'在弹丸周围.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_Heavy_Rotary_Caseless_AC2.Description.UIName",
+    "content": "RAC/2 RISC弹药[无壳]"
+  },
+  {
+    "id": "Ammo_Heavy_Rotary_Caseless_AC2.Description.Name",
+    "content": "RAC2 RISC弹药"
+  },
+  {
+    "id": "Ammo_Heavy_Rotary_Caseless_AC20.Description.Details",
+    "content": "自动加农炮无壳弹药是由联邦合众国开发的,以供给更多的弹药.不是一个标准的装满推进剂金属或塑料外壳,自动加农炮的无壳发射药'包装'在弹丸周围.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_Heavy_Rotary_Caseless_AC20.Description.UIName",
+    "content": "RAC/20弹药[无壳]"
+  },
+  {
+    "id": "Ammo_Heavy_Rotary_Caseless_AC20.Description.Name",
+    "content": "RAC/20弹药"
+  },
+  {
+    "id": "Ammo_Heavy_Rotary_Caseless_AC5.Description.Details",
+    "content": "自动加农炮无壳弹药是由联邦合众国开发的,以供给更多的弹药.不是一个标准的装满推进剂金属或塑料外壳,自动加农炮的无壳发射药'包装'在弹丸周围.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_Heavy_Rotary_Caseless_AC5.Description.UIName",
+    "content": "RAC/5 RISC弹药[无壳]"
+  },
+  {
+    "id": "Ammo_Heavy_Rotary_Caseless_AC5.Description.Name",
+    "content": "RAC5 RISC弹药"
+  },
+  {
+    "id": "Ammo_Heavy_Rotary_Protected_AC10.Description.Details",
+    "content": "C.A.S.E.弹药箱的设计有爆炸面板以保护机甲上的重要部件.一旦传感器检测到弹药爆炸,靠近最外面的面板就被抛掉.将大量的爆炸能量导向机甲外部空间. "
+  },
+  {
+    "id": "Ammo_Heavy_Rotary_Protected_AC10.Description.UIName",
+    "content": "RAC/10弹药[安全]"
+  },
+  {
+    "id": "Ammo_Heavy_Rotary_Protected_AC10.Description.Name",
+    "content": "RAC/10弹药"
+  },
+  {
+    "id": "Ammo_Heavy_Rotary_Protected_AC2.Description.Details",
+    "content": "C.A.S.E.弹药箱的设计有爆炸面板以保护机甲上的重要部件.一旦传感器检测到弹药爆炸,靠近最外面的面板就被抛掉.将大量的爆炸能量导向机甲外部空间. "
+  },
+  {
+    "id": "Ammo_Heavy_Rotary_Protected_AC2.Description.UIName",
+    "content": "RAC/2 RISC弹药[安全]"
+  },
+  {
+    "id": "Ammo_Heavy_Rotary_Protected_AC2.Description.Name",
+    "content": "RAC2 RISC弹药"
+  },
+  {
+    "id": "Ammo_Heavy_Rotary_Protected_AC20.Description.Details",
+    "content": "C.A.S.E.弹药箱的设计有爆炸面板以保护机甲上的重要部件.一旦传感器检测到弹药爆炸,靠近最外面的面板就被抛掉.将大量的爆炸能量导向机甲外部空间. "
+  },
+  {
+    "id": "Ammo_Heavy_Rotary_Protected_AC20.Description.UIName",
+    "content": "RAC/20弹药[安全]"
+  },
+  {
+    "id": "Ammo_Heavy_Rotary_Protected_AC20.Description.Name",
+    "content": "RAC/20弹药"
+  },
+  {
+    "id": "Ammo_Heavy_Rotary_Protected_AC5.Description.Details",
+    "content": "C.A.S.E.弹药箱的设计有爆炸面板以保护机甲上的重要部件.一旦传感器检测到弹药爆炸,靠近最外面的面板就被抛掉.将大量的爆炸能量导向机甲外部空间. "
+  },
+  {
+    "id": "Ammo_Heavy_Rotary_Protected_AC5.Description.UIName",
+    "content": "RAC/5 RISC弹药[安全]"
+  },
+  {
+    "id": "Ammo_Heavy_Rotary_Protected_AC5.Description.Name",
+    "content": "RAC5 RISC弹药"
+  }
+]

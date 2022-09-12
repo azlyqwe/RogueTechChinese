@@ -1,0 +1,26 @@
+[
+  {
+    "id": "Ammo_AmmunitionBox_Generic_Harpoon.Description.Details",
+    "content": "一盒长的金属带倒钩的尖刺,俗称鱼叉.<b><color=#099FF2>不会爆炸.</color></b>"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_Harpoon.Description.UIName",
+    "content": "鱼叉弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_Harpoon.Description.Name",
+    "content": "鱼叉弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_Taser.Description.Details",
+    "content": "弹舱包含以射弹为基础的武器所需的子弹,每种武器至少需要一个弹舱.<b><color=#099FF2>不会爆炸.</color></b>"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_Taser.Description.UIName",
+    "content": "泰瑟枪弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Generic_Taser.Description.Name",
+    "content": "泰瑟枪弹药"
+  }
+]

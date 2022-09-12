@@ -1,0 +1,110 @@
+[
+  {
+    "id": "Ammo_AmmunitionBox_Rifle_Heavy.Description.Details",
+    "content": "弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Rifle_Heavy.Description.UIName",
+    "content": "重型线膛炮弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Rifle_Heavy.Description.Name",
+    "content": "重型线膛炮弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Rifle_Heavy_APFSDS.Description.Details",
+    "content": "这种弹药试图使原始线膛武器在面对现代装甲时有效.穿甲尾翼稳定脱壳弹已经使用了几个世纪.本质上是一个长的重金属镖,他们只用动能穿透装甲;不使用爆炸弹头.这意味着弹药爆炸的危险性较小,但在远程情况下其伤害会降低.弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Rifle_Heavy_APFSDS.Description.UIName",
+    "content": "重型线膛炮弹药[穿甲]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Rifle_Heavy_APFSDS.Description.Name",
+    "content": "重型线膛炮弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Rifle_Heavy_Caseless.Description.Details",
+    "content": "这种线膛炮弹药由古老的蓝图制成,装有推进剂,同时以降低可靠性为代价节省空间.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Rifle_Heavy_Caseless.Description.UIName",
+    "content": "重型线膛炮弹药[无壳]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Rifle_Heavy_Caseless.Description.Name",
+    "content": "重型线膛炮弹药[无壳]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Rifle_Light.Description.Details",
+    "content": "弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Rifle_Light.Description.UIName",
+    "content": "轻型线膛炮弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Rifle_Light.Description.Name",
+    "content": "轻型线膛炮弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Rifle_Light_APFSDS.Description.Details",
+    "content": "这种弹药试图使原始线膛武器在面对现代装甲时有效.穿甲尾翼稳定脱壳弹已经使用了几个世纪.本质上是一个长的重金属镖,他们只用动能穿透装甲;不使用爆炸弹头.这意味着弹药爆炸的危险性较小,但在远程情况下其伤害会降低.弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Rifle_Light_APFSDS.Description.UIName",
+    "content": "轻型线膛炮弹药[穿甲]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Rifle_Light_APFSDS.Description.Name",
+    "content": "轻型线膛炮穿甲弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Rifle_Medium.Description.Details",
+    "content": "弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Rifle_Medium.Description.UIName",
+    "content": "中型线膛炮弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Rifle_Medium.Description.Name",
+    "content": "中型线膛炮弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Rifle_Medium_APFSDS.Description.Details",
+    "content": "这种弹药试图使原始线膛武器在面对现代装甲时有效.穿甲尾翼稳定脱壳弹已经使用了几个世纪.本质上是一个长的重金属镖,他们只用动能穿透装甲;不使用爆炸弹头.这意味着弹药爆炸的危险性较小,但在远程情况下其伤害会降低.弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Rifle_Medium_APFSDS.Description.UIName",
+    "content": "中型线膛炮弹药[穿甲]"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Rifle_Medium_APFSDS.Description.Name",
+    "content": "中型线膛炮穿甲弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Rifle_Medium_Caseless.Description.Details",
+    "content": "弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Rifle_Medium_Caseless.Description.UIName",
+    "content": "中型线膛炮弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Rifle_Medium_Caseless.Description.Name",
+    "content": "中型线膛炮弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Rifle_Potatoe.Description.Details",
+    "content": "弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. "
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Rifle_Potatoe.Description.UIName",
+    "content": "外围空间线膛炮弹药"
+  },
+  {
+    "id": "Ammo_AmmunitionBox_Rifle_Potatoe.Description.Name",
+    "content": "线膛炮弹药"
+  }
+]

@@ -1,0 +1,242 @@
+{
+    "culture": 2,
+    "files": [
+        "Ammo_AmmunitionBox_Narc_Beacon.json",
+        "Ammo_AmmunitionBox_Narc_Beacon_Improved.json",
+        "Ammo_AmmunitionBox_Narc_ECM.json",
+        "Ammo_AmmunitionBox_Narc_Explosive.json",
+        "Ammo_AmmunitionBox_Narc_Haywire.json",
+        "Ammo_AmmunitionBox_Narc_ShootAndSit.json"
+    ],
+    "directories": [
+        {
+            "dir": [
+                "RogueMunitions",
+                "NARC"
+            ],
+            "processors": [
+                "Description.Details",
+                "Description.UIName",
+                "Description.Name"
+            ]
+        }
+    ],
+    "content": [
+        {
+            "id": "Ammo_AmmunitionBox_Narc_Beacon.Description.Details",
+            "original": "Ammo Bins contain the rounds needed for projectile-based weaponry, with at least one bin required per weapon type.Upon receiving a Critical Hit, any remaining ammunition stored inside an Ammo Bin will explode dealing damage to the install location. Risk can be mitigated with the use of C.A.S.E.",
+            "prevOriginal": "Ammo Bins contain the rounds needed for projectile-based weaponry, with at least one bin required per weapon type.Upon receiving a Critical Hit, any remaining ammunition stored inside an Ammo Bin will explode dealing damage to the install location. Risk can be mitigated with the use of C.A.S.E.",
+            "content": "Ammo Bins contain the rounds needed for projectile-based weaponry, with at least one bin required per weapon type.Upon receiving a Critical Hit, any remaining ammunition stored inside an Ammo Bin will explode dealing damage to the install location. Risk can be mitigated with the use of C.A.S.E.",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_Narc_Beacon",
+            "processor": "Description.Details"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_Narc_Beacon.Description.UIName",
+            "original": "Ammo Narc Beacon",
+            "prevOriginal": "Ammo Narc Beacon",
+            "content": "Ammo Narc Beacon",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_Narc_Beacon",
+            "processor": "Description.UIName"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_Narc_Beacon.Description.Name",
+            "original": "Narc Beacon Ammo",
+            "prevOriginal": "Narc Beacon Ammo",
+            "content": "Narc Beacon Ammo",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_Narc_Beacon",
+            "processor": "Description.Name"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_Narc_Beacon_Improved.Description.Details",
+            "original": "Replaced by iNARC.",
+            "prevOriginal": "Replaced by iNARC.",
+            "content": "Replaced by iNARC.",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_Narc_Beacon_Improved",
+            "processor": "Description.Details"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_Narc_Beacon_Improved.Description.UIName",
+            "original": "Deprecated (Please sell)",
+            "prevOriginal": "Deprecated (Please sell)",
+            "content": "Deprecated (Please sell)",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_Narc_Beacon_Improved",
+            "processor": "Description.UIName"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_Narc_Beacon_Improved.Description.Name",
+            "original": "iNarc Beacon Ammo",
+            "prevOriginal": "iNarc Beacon Ammo",
+            "content": "iNarc Beacon Ammo",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_Narc_Beacon_Improved",
+            "processor": "Description.Name"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_Narc_ECM.Description.Details",
+            "original": "Replaced by iNARC ECM ammunition.",
+            "prevOriginal": "Replaced by iNARC ECM ammunition.",
+            "content": "Replaced by iNARC ECM ammunition.",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_Narc_ECM",
+            "processor": "Description.Details"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_Narc_ECM.Description.UIName",
+            "original": "DEPRECATED (Please sell)",
+            "prevOriginal": "DEPRECATED (Please sell)",
+            "content": "DEPRECATED (Please sell)",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_Narc_ECM",
+            "processor": "Description.UIName"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_Narc_ECM.Description.Name",
+            "original": "Narc Ammo",
+            "prevOriginal": "Narc Ammo",
+            "content": "Narc Ammo",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_Narc_ECM",
+            "processor": "Description.Name"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_Narc_Explosive.Description.Details",
+            "original": "This highly specialized variant of the NARC pod strips out the homing components in exchange for a sizable shaped charge warhead. Ammo Bins contain the rounds needed for projectile-based weaponry, with at least one bin required per weapon type.Upon receiving a Critical Hit, any remaining ammunition stored inside an Ammo Bin will explode dealing damage to the install location. Risk can be mitigated with the use of C.A.S.E.",
+            "prevOriginal": "This highly specialized variant of the NARC pod strips out the homing components in exchange for a sizable shaped charge warhead. Ammo Bins contain the rounds needed for projectile-based weaponry, with at least one bin required per weapon type.Upon receiving a Critical Hit, any remaining ammunition stored inside an Ammo Bin will explode dealing damage to the install location. Risk can be mitigated with the use of C.A.S.E.",
+            "content": "This highly specialized variant of the NARC pod strips out the homing components in exchange for a sizable shaped charge warhead. Ammo Bins contain the rounds needed for projectile-based weaponry, with at least one bin required per weapon type.Upon receiving a Critical Hit, any remaining ammunition stored inside an Ammo Bin will explode dealing damage to the install location. Risk can be mitigated with the use of C.A.S.E.",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_Narc_Explosive",
+            "processor": "Description.Details"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_Narc_Explosive.Description.UIName",
+            "original": "Ammo Narc Explosive",
+            "prevOriginal": "Ammo Narc Explosive",
+            "content": "Ammo Narc Explosive",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_Narc_Explosive",
+            "processor": "Description.UIName"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_Narc_Explosive.Description.Name",
+            "original": "Narc Ammo",
+            "prevOriginal": "Narc Ammo",
+            "content": "Narc Ammo",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_Narc_Explosive",
+            "processor": "Description.Name"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_Narc_Haywire.Description.Details",
+            "original": "Replaced by iNARC Haywaire ammunition.",
+            "prevOriginal": "Replaced by iNARC Haywaire ammunition.",
+            "content": "Replaced by iNARC Haywaire ammunition.",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_Narc_Haywire",
+            "processor": "Description.Details"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_Narc_Haywire.Description.UIName",
+            "original": "DEPRECATED (Please sell)",
+            "prevOriginal": "DEPRECATED (Please sell)",
+            "content": "DEPRECATED (Please sell)",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_Narc_Haywire",
+            "processor": "Description.UIName"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_Narc_Haywire.Description.Name",
+            "original": "iNarc Ammo",
+            "prevOriginal": "iNarc Ammo",
+            "content": "iNarc Ammo",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_Narc_Haywire",
+            "processor": "Description.Name"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_Narc_ShootAndSit.Description.Details",
+            "original": "This highly specialized variant of the NARC pod strips out the homing components in exchange for a sizable high explosive charge. Upon impact the pod sticks to the target. In order to maximize instability delivered to the target a small gyroscopic sensor detonates when the target shifts it's weight, or, as a failsafe, after a few seconds delay. Ammo Bins contain the rounds needed for projectile-based weaponry, with at least one bin required per weapon type.Upon receiving a Critical Hit, any remaining ammunition stored inside an Ammo Bin will explode dealing damage to the install location. Risk can be mitigated with the use of C.A.S.E.",
+            "prevOriginal": "This highly specialized variant of the NARC pod strips out the homing components in exchange for a sizable high explosive charge. Upon impact the pod sticks to the target. In order to maximize instability delivered to the target a small gyroscopic sensor detonates when the target shifts it's weight, or, as a failsafe, after a few seconds delay. Ammo Bins contain the rounds needed for projectile-based weaponry, with at least one bin required per weapon type.Upon receiving a Critical Hit, any remaining ammunition stored inside an Ammo Bin will explode dealing damage to the install location. Risk can be mitigated with the use of C.A.S.E.",
+            "content": "This highly specialized variant of the NARC pod strips out the homing components in exchange for a sizable high explosive charge. Upon impact the pod sticks to the target. In order to maximize instability delivered to the target a small gyroscopic sensor detonates when the target shifts it's weight, or, as a failsafe, after a few seconds delay. Ammo Bins contain the rounds needed for projectile-based weaponry, with at least one bin required per weapon type.Upon receiving a Critical Hit, any remaining ammunition stored inside an Ammo Bin will explode dealing damage to the install location. Risk can be mitigated with the use of C.A.S.E.",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_Narc_ShootAndSit",
+            "processor": "Description.Details"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_Narc_ShootAndSit.Description.UIName",
+            "original": "Ammo Narc Stickybomb",
+            "prevOriginal": "Ammo Narc Stickybomb",
+            "content": "Ammo Narc Stickybomb",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_Narc_ShootAndSit",
+            "processor": "Description.UIName"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_Narc_ShootAndSit.Description.Name",
+            "original": "Narc Shoot & Sit Ammo",
+            "prevOriginal": "Narc Shoot & Sit Ammo",
+            "content": "Narc Shoot & Sit Ammo",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_Narc_ShootAndSit",
+            "processor": "Description.Name"
+        }
+    ]
+}

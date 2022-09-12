@@ -1,11 +1,11 @@
 [
   {
     "id": "MechEngineer.AmmoCount.Full",
-    "content": "{0} 弹药 - {1}发装"
+    "content": "{0}弹药 - {1}发装"
   },
   {
     "id": "MechEngineer.AmmoCountLoc.Full",
-    "content": "{0} 弹药 - {1}发装;需要和武器装在同一位置."
+    "content": "{0}弹药 - {1}发装;需要和武器装在同一位置."
   },
   {
     "id": "MechEngineer.MineIFF.Full",
@@ -785,11 +785,11 @@
   },
   {
     "id": "MechEngineer.AmmoCost.Full",
-    "content": "平均每发花费{0} Cbills"
+    "content": "平均每发花费 {0} Cbills"
   },
   {
     "id": "MechEngineer.CoolantCost.Full",
-    "content": "冷却液冷却成本:{0} Cbills"
+    "content": "冷却液冷却成本: {0} Cbills"
   },
   {
     "id": "MechEngineer.CoolantCostMulti.Full",
@@ -1553,7 +1553,7 @@
   },
   {
     "id": "MechEngineer.FailCritSelf.Long",
-    "content": "失败造成致命损伤"
+    "content": "失败造成严重损伤"
   },
   {
     "id": "MechEngineer.ActiveMoveMod.Long",
@@ -5185,19 +5185,19 @@
   },
   {
     "id": "MechEngineer.ArmorTPCost.Full",
-    "content": "修复装甲时{0}技术点数花费"
+    "content": "修复装甲时增加{0}技术点数花费"
   },
   {
     "id": "MechEngineer.ArmorCBCost.Full",
-    "content": "修复装甲时{0}资金花费."
+    "content": "修复装甲时增加{0}资金花费."
   },
   {
     "id": "MechEngineer.StructureTPCost.Full",
-    "content": "修复结构时{0}技术点数花费 "
+    "content": "修复结构时增加{0}技术点数花费 "
   },
   {
     "id": "MechEngineer.StructureCBCost.Full",
-    "content": "修复结构时{0}资金花费 "
+    "content": "修复结构时增加{0}资金花费 "
   },
   {
     "id": "MechEngineer.KineticProtection.Full",
@@ -6161,11 +6161,11 @@
   },
   {
     "id": "MechEngineer.ArmorDmgMod.Long",
-    "content": "{0}装甲伤害模块"
+    "content": "{0}装甲伤害"
   },
   {
     "id": "MechEngineer.StructureDmgMod.Long",
-    "content": "{0}结构伤害模块"
+    "content": "{0}结构伤害"
   },
   {
     "id": "MechEngineer.MortarFlare.Long",
