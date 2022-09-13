@@ -1,7 +1,7 @@
 [
   {
     "id": "Universal_InternalBombBay.Description.Details",
-    "content": "能够容纳更换多种弹药的内部挂载点系统.\n\n<b><color=#ff0066>该武器所有的状态都来自其装载的弹药</color></b> \n\n<b><color=#ff0066>需要专用槽和挂载点弹药</color></b>."
+    "content": "能够容纳更换多种弹药的内部挂载点系统.\r\n\r\n<b><color=#ff0066>该武器所有的状态都来自其装载的弹药</color></b> \r\n\r\n<b><color=#ff0066>需要专用槽和挂载点弹药</color></b>."
   },
   {
     "id": "Universal_InternalBombBay.Description.UIName",
@@ -17,7 +17,7 @@
   },
   {
     "id": "Universal_WingMount.Description.Details",
-    "content": "能够容纳更换多种弹药的外部挂载点系统.\n\n<b><color=#ff0066>该武器所有的状态都来自其装载的弹药</color></b> \n\n<b><color=#ff0066>需要专用槽和挂载点弹药</color></b>."
+    "content": "能够容纳更换多种弹药的外部挂载点系统.\r\n\r\n<b><color=#ff0066>该武器所有的状态都来自其装载的弹药</color></b> \r\n\r\n<b><color=#ff0066>需要专用槽和挂载点弹药</color></b>."
   },
   {
     "id": "Universal_WingMount.Description.UIName",

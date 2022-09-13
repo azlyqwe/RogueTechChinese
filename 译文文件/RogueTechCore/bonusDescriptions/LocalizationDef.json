@@ -37,7 +37,7 @@
   },
   {
     "id": "MechEngineer.CaselessAMS.Full",
-    "content": "无壳弹:每个弹舱获得双倍弹药容量;增加产热、爆燃和卡壳机率."
+    "content": "无壳弹:每个弹舱获得双倍弹药容量."
   },
   {
     "id": "MechEngineer.Doubled.Full",
@@ -1101,7 +1101,7 @@
   },
   {
     "id": "MechEngineer.BattleArmor.Full",
-    "content": "战斗装甲(BA)是步兵动力服.不需要关心热量.不可以冲刺.不能安装其他单位.容易受到喷火器和机枪的攻击."
+    "content": "战斗装甲(BA)是步兵动力服.不需要关心热量.不能跑动.不能安装其他单位.容易受到喷火器和机枪的攻击."
   },
   {
     "id": "MechEngineer.BAPhysicalWeapon.Full",
@@ -1313,11 +1313,15 @@
   },
   {
     "id": "MechEngineer.FailReducPilot.Full",
-    "content": "失败机率被驾驶技能降低"
+    "content": "每点驾驶技能-2%失败率."
   },
   {
     "id": "MechEngineer.FailCritSelf.Full",
     "content": "失败时对自身造成严重损伤"
+  },
+  {
+    "id": "MechEngineer.FailInjury.Full",
+    "content": "驾驶员会因失败而受伤."
   },
   {
     "id": "MechEngineer.ActiveMoveMod.Full",
@@ -1422,6 +1426,10 @@
   {
     "id": "MechEngineer.ActiveEvaMax.Full",
     "content": "激活时{0}最大闪避点数."
+  },
+  {
+    "id": "MechEngineer.ActiveEvaPips.Full",
+    "content": "激活时{0}移动获得闪避点数."
   },
   {
     "id": "MechEngineer.ActiveCalledShot.Full",
@@ -1556,6 +1564,10 @@
     "content": "失败造成严重损伤"
   },
   {
+    "id": "MechEngineer.FailInjury.Long",
+    "content": "失效时受伤"
+  },
+  {
     "id": "MechEngineer.ActiveMoveMod.Long",
     "content": "{0}移动倍率"
   },
@@ -1658,6 +1670,10 @@
   {
     "id": "MechEngineer.ActiveEvaMax.Long",
     "content": "{0}最大闪避"
+  },
+  {
+    "id": "MechEngineer.ActiveEvaPips.Long",
+    "content": "{0}闪避点数"
   },
   {
     "id": "MechEngineer.ActiveCalledShot.Long",
@@ -1789,7 +1805,11 @@
   },
   {
     "id": "MechEngineer.FailCritSelf.Short",
-    "content": "失败致命损伤"
+    "content": "失败严重损伤"
+  },
+  {
+    "id": "MechEngineer.FailInjury.Short",
+    "content": "失败受伤"
   },
   {
     "id": "MechEngineer.ActiveMoveMod.Short",
@@ -1894,6 +1914,10 @@
   {
     "id": "MechEngineer.ActiveEvaMax.Short",
     "content": "{0}最大闪避"
+  },
+  {
+    "id": "MechEngineer.ActiveEvaPips.Short",
+    "content": "{0}闪避点数"
   },
   {
     "id": "MechEngineer.ActiveCalledShot.Short",
@@ -5925,7 +5949,15 @@
   },
   {
     "id": "MechEngineer.SpawnXenoSwarm.Full",
-    "content": "孵化一个异形蜂群单位.该单位是AI控制的盟友.范围{0}.每次战斗使用{1}次"
+    "content": "孵化一个异形蜂群单位.该单位是AI控制的盟友.射程{0}.每次战斗使用{1}次"
+  },
+  {
+    "id": "MechEngineer.AllowedWeightClasses.Full",
+    "content": "只能被安装到{0}-{1}的机甲上."
+  },
+  {
+    "id": "MechEngineer.NoQuad.Full",
+    "content": "不能安装到四足机甲上."
   },
   {
     "id": "MechEngineer.DEPRECIATED.Long",
@@ -7408,6 +7440,14 @@
     "content": "孵化异形群.{1}使用次数."
   },
   {
+    "id": "MechEngineer.AllowedWeightClasses.Long",
+    "content": "允许的重量等级:{0}-{1}"
+  },
+  {
+    "id": "MechEngineer.NoQuad.Long",
+    "content": "不能四足机甲"
+  },
+  {
     "id": "MechEngineer.DEPRECIATED.Short",
     "content": "过时"
   },
@@ -8888,6 +8928,14 @@
     "content": "孵化异形群"
   },
   {
+    "id": "MechEngineer.AllowedWeightClasses.Short",
+    "content": "允许的重量等级"
+  },
+  {
+    "id": "MechEngineer.NoQuad.Short",
+    "content": "不允许四足机甲"
+  },
+  {
     "id": "MechEngineer.Thunder.Full",
     "content": "雷霆/FASCAM弹药在命中地面时会埋设地雷"
   },
@@ -9497,7 +9545,7 @@
   },
   {
     "id": "MechEngineer.BoltOn.Full",
-    "content": "栓接武器系统固定在底盘上,受到精度惩罚.使用特殊槽位.需要{0}吨载重能力."
+    "content": "栓接武器系统固定在底盘上,受到精度惩罚.使用专用槽位.需要{0}吨载重能力."
   },
   {
     "id": "MechEngineer.HandHeldMelee.Full",
@@ -9509,7 +9557,7 @@
   },
   {
     "id": "MechEngineer.SpecialMeleeWeapon.Full",
-    "content": "手持式近战武器.用专用槽位.在击打或实体武器攻击时开火.需要{0}吨载重能力."
+    "content": "手持式近战武器.使用专用槽位.在击打或实体武器攻击时开火.需要{0}吨载重能力."
   },
   {
     "id": "MechEngineer.HandHeldShield.Full",
@@ -9605,7 +9653,7 @@
   },
   {
     "id": "MechEngineer.SpecialistSlotDefault.Long",
-    "content": "特殊"
+    "content": "专用"
   },
   {
     "id": "MechEngineer.HandHeld.Long",
@@ -9633,11 +9681,11 @@
   },
   {
     "id": "MechEngineer.Special.Long",
-    "content": "{0}T 特殊"
+    "content": "{0}T 专用"
   },
   {
     "id": "MechEngineer.BASpecial.Long",
-    "content": "BA特殊装备"
+    "content": "BA专用装备"
   },
   {
     "id": "MechEngineer.Quirk.Long",
@@ -9721,7 +9769,7 @@
   },
   {
     "id": "MechEngineer.SpecialistSlotDefault.Short",
-    "content": "特殊"
+    "content": "专用"
   },
   {
     "id": "MechEngineer.HandHeld.Short",
@@ -9749,11 +9797,11 @@
   },
   {
     "id": "MechEngineer.Special.Short",
-    "content": "{0}T 特殊"
+    "content": "{0}T 专用"
   },
   {
     "id": "MechEngineer.BASpecial.Short",
-    "content": "BA特殊装备"
+    "content": "BA专用装备"
   },
   {
     "id": "MechEngineer.Quirk.Short",
@@ -10061,7 +10109,7 @@
   },
   {
     "id": "MechEngineer.FLAKmode.Full",
-    "content": "高射炮模式:可以使用标准或高爆弹药射击空中单位: -3精度惩罚,没有最小射程."
+    "content": "高射炮模式:可以使用标准或高爆弹药射击空中单位:-3精度.没有最小射程惩罚."
   },
   {
     "id": "MechEngineer.DIRECTmode.Full",
@@ -10397,7 +10445,7 @@
   },
   {
     "id": "MechEngineer.iATM.Full",
-    "content": "改进型先进战术导弹(iATM)发射器拥有特殊的内置系统,需要独特弹药."
+    "content": "改进型先进战术导弹(iATM)发射器拥有内置的迅捷系统,需要独特弹药."
   },
   {
     "id": "MechEngineer.MicroMissile.Full",
@@ -10573,11 +10621,11 @@
   },
   {
     "id": "MechEngineer.IonCannonMode1.Full",
-    "content": "离子加农炮伤害模式: 伤害:{0}±{1}. AOE伤害:{2}半径为{3}.<color=#ff0000>哑火机率:{4}</color>."
+    "content": "离子加农炮伤害模式: 伤害:{0}±{1}. 范围伤害:{2}半径为{3}.<color=#ff0000>失火机率:{4}</color>."
   },
   {
     "id": "MechEngineer.IonCannonMode2.Full",
-    "content": "离子加农炮眩晕模式：伤害:{0}. 热量:{1}. 产生{2}ECM干扰. 敌人{3}重新开火惩罚. 敌人停机机率:{4}. <color=#ff0000>哑火机率:{5}</color>."
+    "content": "离子加农炮眩晕模式：伤害:{0}. 热量:{1}. 产生{2}ECM干扰. 敌人{3}重新开火惩罚. 敌人停机机率:{4}. <color=#ff0000>失火机率:{5}</color>."
   },
   {
     "id": "MechEngineer.RLRM1.Full",
@@ -10585,11 +10633,11 @@
   },
   {
     "id": "MechEngineer.RLRM2.Full",
-    "content": "转轮LRM{0}模式:\n\n  弹:{1} | 产热:{2}\n\n  精度修正:{3} | 卡壳率:{4}"
+    "content": "转轮LRM{0}模式:\n\n  导弹:{1} | 产热:{2}\n\n  精度修正:{3} | 卡壳率:{4}"
   },
   {
     "id": "MechEngineer.RLRM3.Full",
-    "content": "转轮LRM{0}模式:\n\n  弹:{1} | 产热:{2}\n\n  精度修正:{3} | 哑火率:{4}"
+    "content": "转轮LRM{0}模式:\n\n  导弹:{1} | 产热:{2}\n\n  精度修正:{3} | 失火率:{4}"
   },
   {
     "id": "MechEngineer.PlasmaRailMode1.Full",
@@ -10597,7 +10645,7 @@
   },
   {
     "id": "MechEngineer.PlasmaRailMode2.Full",
-    "content": "AOE模式:在{1}m半径内产生{0}热量效果.{2}更近的射程.会点燃命中位置;{3}回合冷却."
+    "content": "范围模式:在{1}m半径内产生{0}热量效果.{2}更近的射程.会点燃命中位置;{3}回合冷却."
   },
   {
     "id": "MechEngineer.PlasmaRailMode3.Full",

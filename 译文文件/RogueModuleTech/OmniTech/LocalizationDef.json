@@ -1,7 +1,7 @@
 [
   {
     "id": "emod_arm_omni_hand.Description.Details",
-    "content": "专为泛用机甲的泛用吊舱设计手部机构.即使原本泛用底盘不适配也可以加装手部机构.需要标准小臂机构或泛用小臂吊舱机构. \n\n<b><color=#ffcc00>不可以和臂装弹道武器或臂装粒子炮一起使用</color></b>."
+    "content": "专为泛用机甲的泛用吊舱设计手部机构.即使原本泛用底盘不适配也可以加装手部机构.需要标准小臂机构或泛用小臂吊舱机构. \r\n\r\n<b><color=#ffcc00>不可以和臂装弹道武器或臂装粒子炮一起使用</color></b>."
   },
   {
     "id": "emod_arm_omni_hand.Description.UIName",
@@ -25,7 +25,7 @@
   },
   {
     "id": "emod_arm_omni_lower.Description.Details",
-    "content": "专为泛用机甲的泛用吊舱设计小臂机构.即使原本泛用底盘不适配也可以加装小臂机构. \n\n<b><color=#ffcc00>不可以和臂装弹道武器或臂装粒子炮一起使用</color></b>."
+    "content": "专为泛用机甲的泛用吊舱设计小臂机构.即使原本泛用底盘不适配也可以加装小臂机构. \r\n\r\n<b><color=#ffcc00>不可以和臂装弹道武器或臂装粒子炮一起使用</color></b>."
   },
   {
     "id": "emod_arm_omni_lower.Description.UIName",

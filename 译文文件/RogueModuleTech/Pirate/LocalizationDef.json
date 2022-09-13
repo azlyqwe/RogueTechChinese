@@ -1,7 +1,7 @@
 [
   {
     "id": "Weapon_LAVA_PLASMA.Description.Details",
-    "content": "这是3个等离子加农炮和一个单一的快速供弹机,不能正确地产生等离子并且大多数情况下只是把一团热的等离子扔到前面的东西上....我知道海盗们都是酒鬼,但你别再给我拿这些东西了,老板!"
+    "content": "这是3个等离子加农炮和一个单一的快速供弹机,不能正确地产生等离子并且大多数情况下只是把一团热的等离子扔到前面的东西上....我知道海盗们都是酒鬼,但你别再给我拿这些东西了,老板! \r\n\r\n<b><color=#ffcc00>使用等离子弹药.</color></b> <b><color=#099ff2>不稳定!</color></b>"
   },
   {
     "id": "Weapon_LAVA_PLASMA.Description.UIName",
@@ -45,6 +45,22 @@
   },
   {
     "id": "Gear_Engine_Pirate.Description.Manufacturer",
+    "content": "海盗"
+  },
+  {
+    "id": "Gear_Engine_Pirate_superheavy.Description.Details",
+    "content": "所以一些狗仔子认为他破解了如何制造一个星联发动机屏蔽罩的秘密.如果它在再坏的时候把你炸上天,它肯定能很好的加速引擎.主面板上刻着一条留言,上面写着''吸吧--杨''."
+  },
+  {
+    "id": "Gear_Engine_Pirate_superheavy.Description.UIName",
+    "content": "标准引擎(P-SH)"
+  },
+  {
+    "id": "Gear_Engine_Pirate_superheavy.Description.Name",
+    "content": "海盗引擎"
+  },
+  {
+    "id": "Gear_Engine_Pirate_superheavy.Description.Manufacturer",
     "content": "海盗"
   },
   {

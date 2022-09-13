@@ -1,7 +1,7 @@
 [
   {
     "id": "Weapon_Autocannon_AC10_HYPER.Description.Details",
-    "content": "超高速自动加农炮(HVAC)系列武器是以自动炮为基础的.虽然和普通自动炮有相同等级的伤害,但他们的射程要远的多.然而,为了获得更大的弹道射程,超高速弹药更大,并使用了特殊推进剂,这降低了每吨弹药的发数,同时还存在这诸如武器爆炸,每次开火产生浓烟等一些其他缺点.\n\n<b><color=#ffcc00>使用HVAC10弹药</color></b>."
+    "content": "超高速自动加农炮(HVAC)系列武器是以自动炮为基础的.虽然和普通自动炮有相同等级的伤害,但他们的射程要远的多.然而,为了获得更大的弹道射程,超高速弹药更大,并使用了特殊推进剂,这降低了每吨弹药的发数,同时还存在这诸如武器爆炸,每次开火产生浓烟等一些其他缺点.\r\n\r\n<b><color=#ffcc00>使用HVAC10弹药</color></b>."
   },
   {
     "id": "Weapon_Autocannon_AC10_HYPER.Description.UIName",
@@ -25,7 +25,7 @@
   },
   {
     "id": "Weapon_Autocannon_AC10_LBX.Description.Details",
-    "content": "由卢巴林弹道公司为人类霸权开发的LB-X自动炮是标准和相对原始的自动炮的衍生品.该公司利用先进材料,仅需稍微稍微增加体积即可减轻武器重量,可以将其与先进水星VII瞄准系统配合,以提高其射程.\n\n<b><color=#ffcc00>使用LBX10弹药</color></b>."
+    "content": "由卢巴林弹道公司为人类霸权开发的LB-X自动炮是标准和相对原始的自动炮的衍生品.该公司利用先进材料,仅需稍微稍微增加体积即可减轻武器重量,可以将其与先进水星VII瞄准系统配合,以提高其射程.\r\n\r\n<b><color=#ffcc00>使用LBX10弹药</color></b>."
   },
   {
     "id": "Weapon_Autocannon_AC10_LBX.Description.UIName",
@@ -73,7 +73,7 @@
   },
   {
     "id": "Weapon_Autocannon_AC10_LIGHT.Description.Details",
-    "content": "轻型AC工程是自动炮的一种更轻、更小的分支.但也有类似缺点,而且卡住的可能性更高.\n\n<b><color=#ffcc00>使用AC弹药</color></b>."
+    "content": "轻型AC工程是自动炮的一种更轻、更小的分支.但也有类似缺点,而且卡住的可能性更高.\r\n\r\n<b><color=#ffcc00>使用AC弹药</color></b>."
   },
   {
     "id": "Weapon_Autocannon_AC10_LIGHT.Description.UIName",
@@ -97,7 +97,7 @@
   },
   {
     "id": "Weapon_Autocannon_AC10_Ultra.Description.Details",
-    "content": "终极自动炮到射速是普通自动炮的两倍,重量、体积和热量只是适度增加.UAC10是最适合你的标准重型炮,具有全面良好的伤害、射程和热效率.\n\n<b><color=#ffcc00>使用UAC10弹药</color></b>. "
+    "content": "终极自动炮到射速是普通自动炮的两倍,重量、体积和热量只是适度增加.UAC10是最适合你的标准重型炮,具有全面良好的伤害、射程和热效率.\r\n\r\n<b><color=#ffcc00>使用UAC10弹药</color></b>. "
   },
   {
     "id": "Weapon_Autocannon_AC10_Ultra.Description.UIName",
@@ -121,7 +121,7 @@
   },
   {
     "id": "Weapon_Autocannon_AC20_HYPER.Description.Details",
-    "content": "超高速自动加农炮(HVAC)系列武器是以自动炮为基础的.虽然和普通自动炮有相同等级的伤害,但他们的射程要远的多.然而,为了获得更大的弹道射程,超高速弹药更大,并使用了特殊推进剂,这降低了每吨弹药的发数,同时还存在这诸如武器爆炸,每次开火产生浓烟等一些其他缺点.\n\n<b><color=#ffcc00>使用HVAC20弹药</color></b>."
+    "content": "超高速自动加农炮(HVAC)系列武器是以自动炮为基础的.虽然和普通自动炮有相同等级的伤害,但他们的射程要远的多.然而,为了获得更大的弹道射程,超高速弹药更大,并使用了特殊推进剂,这降低了每吨弹药的发数,同时还存在这诸如武器爆炸,每次开火产生浓烟等一些其他缺点.\r\n\r\n<b><color=#ffcc00>使用HVAC20弹药</color></b>."
   },
   {
     "id": "Weapon_Autocannon_AC20_HYPER.Description.UIName",
@@ -137,7 +137,7 @@
   },
   {
     "id": "Weapon_Autocannon_AC20_LBX.Description.Details",
-    "content": "由卢巴林弹道公司为人类霸权开发的LB-X自动炮是标准和相对原始的自动炮的衍生品.该公司利用先进材料,仅需稍微稍微增加体积即可减轻武器重量,可以将其与先进水星VII瞄准系统配合,以提高其射程.\n\n<b><color=#ffcc00>使用LBX20弹药</color></b>."
+    "content": "由卢巴林弹道公司为人类霸权开发的LB-X自动炮是标准和相对原始的自动炮的衍生品.该公司利用先进材料,仅需稍微稍微增加体积即可减轻武器重量,可以将其与先进水星VII瞄准系统配合,以提高其射程.\r\n\r\n<b><color=#ffcc00>使用LBX20弹药</color></b>."
   },
   {
     "id": "Weapon_Autocannon_AC20_LBX.Description.UIName",
@@ -153,7 +153,7 @@
   },
   {
     "id": "Weapon_Autocannon_AC20_LIGHT.Description.Details",
-    "content": "轻型AC工程是自动炮的一种更轻、更小的分支.但也有类似缺点,而且卡住的可能性更高.\n\n<b><color=#ffcc00>使用AC20弹药</color></b>."
+    "content": "轻型AC工程是自动炮的一种更轻、更小的分支.但也有类似缺点,而且卡住的可能性更高.\r\n\r\n<b><color=#ffcc00>使用AC20弹药</color></b>."
   },
   {
     "id": "Weapon_Autocannon_AC20_LIGHT.Description.UIName",
@@ -169,7 +169,7 @@
   },
   {
     "id": "Weapon_Autocannon_AC20_Ultra.Description.Details",
-    "content": "终极自动炮到射速是普通自动炮的两倍,重量、体积和热量只是适度增加.UAC/20是战场上最可怕的武器之一.\n\n<b><color=#ffcc00>使用UAC20弹药</color></b>. "
+    "content": "终极自动炮到射速是普通自动炮的两倍,重量、体积和热量只是适度增加.UAC/20是战场上最可怕的武器之一.\r\n\r\n<b><color=#ffcc00>使用UAC20弹药</color></b>. "
   },
   {
     "id": "Weapon_Autocannon_AC20_Ultra.Description.UIName",
@@ -185,7 +185,7 @@
   },
   {
     "id": "Weapon_Autocannon_AC2_HYPER.Description.Details",
-    "content": "超高速自动加农炮(HVAC)系列武器是以自动炮为基础的.虽然和普通自动炮有相同等级的伤害,但他们的射程要远的多.然而,为了获得更大的弹道射程,超高速弹药更大,并使用了特殊推进剂,这降低了每吨弹药的发数,同时还存在这诸如武器爆炸,每次开火产生浓烟等一些其他缺点.\n\n<b><color=#ffcc00>使用HVAC2弹药</color></b>."
+    "content": "超高速自动加农炮(HVAC)系列武器是以自动炮为基础的.虽然和普通自动炮有相同等级的伤害,但他们的射程要远的多.然而,为了获得更大的弹道射程,超高速弹药更大,并使用了特殊推进剂,这降低了每吨弹药的发数,同时还存在这诸如武器爆炸,每次开火产生浓烟等一些其他缺点.\r\n\r\n<b><color=#ffcc00>使用HVAC2弹药</color></b>."
   },
   {
     "id": "Weapon_Autocannon_AC2_HYPER.Description.UIName",
@@ -209,7 +209,7 @@
   },
   {
     "id": "Weapon_Autocannon_AC2_LBX.Description.Details",
-    "content": "由卢巴林弹道公司为人类霸权开发的LB-X自动炮是标准和相对原始的自动炮的衍生品.该公司利用先进材料,仅需稍微稍微增加体积即可减轻武器重量,可以将其与先进水星VII瞄准系统配合,以提高其射程.\n\n<b><color=#ffcc00>使用LBX2弹药</color></b>."
+    "content": "由卢巴林弹道公司为人类霸权开发的LB-X自动炮是标准和相对原始的自动炮的衍生品.该公司利用先进材料,仅需稍微稍微增加体积即可减轻武器重量,可以将其与先进水星VII瞄准系统配合,以提高其射程.\r\n\r\n<b><color=#ffcc00>使用LBX2弹药</color></b>."
   },
   {
     "id": "Weapon_Autocannon_AC2_LBX.Description.UIName",
@@ -233,7 +233,7 @@
   },
   {
     "id": "Weapon_Autocannon_AC2_LIGHT.Description.Details",
-    "content": "轻型AC工程是自动炮的一种更轻、更小的分支.但也有类似缺点,而且卡住的可能性更高.\n\n<b><color=#ffcc00>使用AC2弹药</color></b>."
+    "content": "轻型AC工程是自动炮的一种更轻、更小的分支.但也有类似缺点,而且卡住的可能性更高.\r\n\r\n<b><color=#ffcc00>使用AC2弹药</color></b>."
   },
   {
     "id": "Weapon_Autocannon_AC2_LIGHT.Description.UIName",
@@ -257,7 +257,7 @@
   },
   {
     "id": "Weapon_Autocannon_AC2_Ultra.Description.Details",
-    "content": "终极自动炮到射速是普通自动炮的两倍,重量、体积和热量只是适度增加.虽然UAC2是系列中口径最小的,但它有无与伦比的暴头能力.\n\n<b><color=#ffcc00>使用UAC2弹药</color></b>. "
+    "content": "终极自动炮到射速是普通自动炮的两倍,重量、体积和热量只是适度增加.虽然UAC2是系列中口径最小的,但它有无与伦比的暴头能力.\r\n\r\n<b><color=#ffcc00>使用UAC2弹药</color></b>. "
   },
   {
     "id": "Weapon_Autocannon_AC2_Ultra.Description.UIName",
@@ -281,7 +281,7 @@
   },
   {
     "id": "Weapon_Autocannon_AC5_HYPER.Description.Details",
-    "content": "超高速自动加农炮(HVAC)系列武器是以自动炮为基础的.虽然和普通自动炮有相同等级的伤害,但他们的射程要远的多.然而,为了获得更大的弹道射程,超高速弹药更大,并使用了特殊推进剂,这降低了每吨弹药的发数,同时还存在这诸如武器爆炸,每次开火产生浓烟等一些其他缺点.\n\n<b><color=#ffcc00>使用HVAC5弹药</color></b>."
+    "content": "超高速自动加农炮(HVAC)系列武器是以自动炮为基础的.虽然和普通自动炮有相同等级的伤害,但他们的射程要远的多.然而,为了获得更大的弹道射程,超高速弹药更大,并使用了特殊推进剂,这降低了每吨弹药的发数,同时还存在这诸如武器爆炸,每次开火产生浓烟等一些其他缺点.\r\n\r\n<b><color=#ffcc00>使用HVAC5弹药</color></b>."
   },
   {
     "id": "Weapon_Autocannon_AC5_HYPER.Description.UIName",
@@ -305,7 +305,7 @@
   },
   {
     "id": "Weapon_Autocannon_AC5_LBX.Description.Details",
-    "content": "由卢巴林弹道公司为人类霸权开发的LB-X自动炮是标准和相对原始的自动炮的衍生品.该公司利用先进材料,仅需稍微稍微增加体积即可减轻武器重量,可以将其与先进水星VII瞄准系统配合,以提高其射程.\n\n<b><color=#ffcc00>使用LBX5弹药</color></b>."
+    "content": "由卢巴林弹道公司为人类霸权开发的LB-X自动炮是标准和相对原始的自动炮的衍生品.该公司利用先进材料,仅需稍微稍微增加体积即可减轻武器重量,可以将其与先进水星VII瞄准系统配合,以提高其射程.\r\n\r\n<b><color=#ffcc00>使用LBX5弹药</color></b>."
   },
   {
     "id": "Weapon_Autocannon_AC5_LBX.Description.UIName",
@@ -329,7 +329,7 @@
   },
   {
     "id": "Weapon_Autocannon_AC5_LIGHT.Description.Details",
-    "content": "轻型AC工程是自动炮的一种更轻、更小的分支.但也有类似缺点,而且卡住的可能性更高.\n\n<b><color=#ffcc00>使用AC5弹药</color></b>."
+    "content": "轻型AC工程是自动炮的一种更轻、更小的分支.但也有类似缺点,而且卡住的可能性更高.\r\n\r\n<b><color=#ffcc00>使用AC5弹药</color></b>."
   },
   {
     "id": "Weapon_Autocannon_AC5_LIGHT.Description.UIName",
@@ -353,7 +353,7 @@
   },
   {
     "id": "Weapon_Autocannon_AC5_Ultra.Description.Details",
-    "content": "终极自动炮到射速是普通自动炮的两倍,重量、体积和热量只是适度增加.UAC/5是一种可靠的远程武器.\n\n<b><color=#ffcc00>使用UAC5弹药</color></b>. "
+    "content": "终极自动炮到射速是普通自动炮的两倍,重量、体积和热量只是适度增加.UAC/5是一种可靠的远程武器.\r\n\r\n<b><color=#ffcc00>使用UAC5弹药</color></b>. "
   },
   {
     "id": "Weapon_Autocannon_AC5_Ultra.Description.UIName",
@@ -425,7 +425,7 @@
   },
   {
     "id": "Weapon_Flamer_Heavy_Vehicle.Description.Details",
-    "content": "车载喷火器的性能与机甲安装的喷火器相同,在目标处排放过热气体,使其过热/燃烧.由于大多数非\"机甲\"单位缺乏昂贵的聚变反应器,车辆的喷火器使用燃烧的弹药取而代之.\n\n<b><color=#F79232>使用车辆喷火器弹药</color></b>."
+    "content": "车载喷火器的性能与机甲安装的喷火器相同,在目标处排放过热气体,使其过热/燃烧.由于大多数非\"机甲\"单位缺乏昂贵的聚变反应器,车辆的喷火器使用燃烧的弹药取而代之.\r\n\r\n<b><color=#F79232>使用车辆喷火器弹药</color></b>."
   },
   {
     "id": "Weapon_Flamer_Heavy_Vehicle.Description.UIName",
@@ -441,7 +441,7 @@
   },
   {
     "id": "Weapon_Flamer_Vehicle.Description.Details",
-    "content": "车载喷火器的性能与机甲安装的喷火器相同,在目标处排放过热气体,使其过热/燃烧.由于大多数非\"机甲\"单位缺乏昂贵的聚变反应器,车辆的喷火器使用燃烧的弹药取而代之.\n\n<b><color=#F79232>使用车辆喷火器弹药</color></b>."
+    "content": "车载喷火器的性能与机甲安装的喷火器相同,在目标处排放过热气体,使其过热/燃烧.由于大多数非\"机甲\"单位缺乏昂贵的聚变反应器,车辆的喷火器使用燃烧的弹药取而代之.\r\n\r\n<b><color=#F79232>使用车辆喷火器弹药</color></b>."
   },
   {
     "id": "Weapon_Flamer_Vehicle.Description.UIName",
@@ -457,7 +457,7 @@
   },
   {
     "id": "Weapon_FluidGun.Description.Details",
-    "content": "液体喷枪只不过是一个军事化的液体喷射器.索拉里斯VII的工程师们通过强化供给管线和储罐,创建了一个大致相当于火焰器的系统.然而,与火焰器不同; 液体喷枪可以存储并喷射多种液体.聪明的竟技场战士在比赛中使用了水、浮油、炼狱燃料、冷却液和腐蚀性液体.\n\n<b><color=#ffcc00>使用液体罐(弹药)</color></b>."
+    "content": "液体喷枪只不过是一个军事化的液体喷射器.索拉里斯VII的工程师们通过强化供给管线和储罐,创建了一个大致相当于火焰器的系统.然而,与火焰器不同; 液体喷枪可以存储并喷射多种液体.聪明的竟技场战士在比赛中使用了水、浮油、炼狱燃料、冷却液和腐蚀性液体.\r\n\r\n<b><color=#ffcc00>使用液体罐(弹药)</color></b>."
   },
   {
     "id": "Weapon_FluidGun.Description.UIName",
@@ -473,7 +473,7 @@
   },
   {
     "id": "Weapon_Gauss_Gauss_2-Norse.Description.Details",
-    "content": "高斯线膛炮使用电磁电荷以极高的速度发射金属子弹,单靠动能造成巨大的伤害.\n\n<b><color=#ffcc00>使用高斯弹药</color></b>\n\n<b><color=#099ff2>不稳定!</color></b>"
+    "content": "高斯线膛炮使用电磁电荷以极高的速度发射金属子弹,单靠动能造成巨大的伤害.\r\n\r\n<b><color=#ffcc00>使用高斯弹药</color></b>\r\n\r\n<b><color=#099ff2>不稳定!</color></b>"
   },
   {
     "id": "Weapon_Gauss_Gauss_2-Norse.Description.UIName",
@@ -497,7 +497,7 @@
   },
   {
     "id": "Weapon_Gauss_Gauss_3-Blackwell.Description.Details",
-    "content": "高斯线膛炮使用电磁电荷以极高的速度发射金属子弹,单靠动能造成巨大的伤害.\n\n<b><color=#ffcc00>使用高斯弹药</color></b>\n\n<b><color=#099ff2>不稳定!</color></b>"
+    "content": "高斯线膛炮使用电磁电荷以极高的速度发射金属子弹,单靠动能造成巨大的伤害.\r\n\r\n<b><color=#ffcc00>使用高斯弹药</color></b>\r\n\r\n<b><color=#099ff2>不稳定!</color></b>"
   },
   {
     "id": "Weapon_Gauss_Gauss_3-Blackwell.Description.UIName",
@@ -521,7 +521,7 @@
   },
   {
     "id": "Weapon_Gauss_Gauss_HEAVY.Description.Details",
-    "content": "重型高斯线膛炮是天琴座同盟国科学家与达法恩工业公司和塔里斯公司合作开发的一项新的致命创造.将其\"越多越好\"的理念应用于高斯技术,重型高斯是现存最重的战场设备之一.\n\n<b><color=#ffcc00>使用重型高斯弹药</color></b>\n\n<b><color=#099ff2>不稳定!</color></b>"
+    "content": "重型高斯线膛炮是天琴座同盟国科学家与达法恩工业公司和塔里斯公司合作开发的一项新的致命创造.将其\"越多越好\"的理念应用于高斯技术,重型高斯是现存最重的战场设备之一.\r\n\r\n<b><color=#ffcc00>使用重型高斯弹药</color></b>\r\n\r\n<b><color=#099ff2>不稳定!</color></b>"
   },
   {
     "id": "Weapon_Gauss_Gauss_HEAVY.Description.UIName",
@@ -545,7 +545,7 @@
   },
   {
     "id": "Weapon_Gauss_Gauss_LIGHT.Description.Details",
-    "content": "轻型高斯线膛炮是有自由世界联盟推出的.它的功能和高斯线膛炮相同,使用电磁将弹头加速到高速,能远程造成巨大伤害.然而,顾名思义,轻型高斯设计的更紧凑,允许高斯线膛炮安装在较小的作战单位上.\n\n<b><color=#ffcc00>使用轻型高斯弹药</color></b> <b><color=#099ff2>不稳定!</color></b>"
+    "content": "轻型高斯线膛炮是有自由世界联盟推出的.它的功能和高斯线膛炮相同,使用电磁将弹头加速到高速,能远程造成巨大伤害.然而,顾名思义,轻型高斯设计的更紧凑,允许高斯线膛炮安装在较小的作战单位上.\r\n\r\n<b><color=#ffcc00>使用轻型高斯弹药</color></b> <b><color=#099ff2>不稳定!</color></b>"
   },
   {
     "id": "Weapon_Gauss_Gauss_LIGHT.Description.UIName",
@@ -569,7 +569,7 @@
   },
   {
     "id": "Weapon_Gauss_Gauss_Silverbullet.Description.Details",
-    "content": "NAIS开发了银弹高斯线膛炮(或SB高斯),试图将LB-X自动炮的功能加入到高斯线膛炮.虽然集群弹药更容易集中目标,并且在防空任务中特别有效,但它的损伤曲线并不十分优秀.\n\n<b><color=#ffcc00>使用高斯弹药</color></b> \n\n<b><color=#099ff2>不稳定!</color></b>"
+    "content": "NAIS开发了银弹高斯线膛炮(或SB高斯),试图将LB-X自动炮的功能加入到高斯线膛炮.虽然集群弹药更容易集中目标,并且在防空任务中特别有效,但它的损伤曲线并不十分优秀.\r\n\r\n<b><color=#ffcc00>使用高斯弹药</color></b> \r\n\r\n<b><color=#099ff2>不稳定!</color></b>"
   },
   {
     "id": "Weapon_Gauss_Gauss_Silverbullet.Description.UIName",
@@ -609,7 +609,7 @@
   },
   {
     "id": "Weapon_Gauss_Improved_HEAVY.Description.Details",
-    "content": "虽然重型高斯线膛炮大部分时候都是有效的,但工程师们认为他们可以提高弹丸的弹道性能.这将提供更一致的损伤分布,使改进后的重型高斯线膛炮在所有射程都有效.经过四年的工作,工程师们创造出了一种武器,其占用空间和重型高斯线膛炮相同,但能够在所有射程范围拥有一致的性损伤曲线.\n\n<b><color=#ffcc00>使用重型高斯弹药</color></b> \n\n<b><color=#099ff2>不稳定!</color></b>"
+    "content": "虽然重型高斯线膛炮大部分时候都是有效的,但工程师们认为他们可以提高弹丸的弹道性能.这将提供更一致的损伤分布,使改进后的重型高斯线膛炮在所有射程都有效.经过四年的工作,工程师们创造出了一种武器,其占用空间和重型高斯线膛炮相同,但能够在所有射程范围拥有一致的性损伤曲线.\r\n\r\n<b><color=#ffcc00>使用重型高斯弹药</color></b> \r\n\r\n<b><color=#099ff2>不稳定!</color></b>"
   },
   {
     "id": "Weapon_Gauss_Improved_HEAVY.Description.UIName",
@@ -673,7 +673,7 @@
   },
   {
     "id": "Weapon_Laser_LargeLaserPulse_VSPL.Description.Details",
-    "content": "大型变速脉冲(VSP)激光是目前使用的最大的变速脉冲激光.大型VSP激光的重量几乎相当于重型粒子炮,可以对目标造成几乎相同的伤害,并有更高的命中率.\n\n<b><color=#00ffff>移动越远伤害和产热越低</color> </b>"
+    "content": "大型变速脉冲(VSP)激光是目前使用的最大的变速脉冲激光.大型VSP激光的重量几乎相当于重型粒子炮,可以对目标造成几乎相同的伤害,并有更高的命中率.\r\n\r\n<b><color=#00ffff>移动越远伤害和产热越低</color> </b>"
   },
   {
     "id": "Weapon_Laser_LargeLaserPulse_VSPL.Description.UIName",
@@ -769,7 +769,7 @@
   },
   {
     "id": "Weapon_Laser_MediumLaserPulse_VSPL.Description.Details",
-    "content": "名为启示的正在使用的中型变速脉冲(VSP)激光,\n\n<b><color=#00ffff>移动越远伤害和产热就越低</color> </b>"
+    "content": "名为启示的正在使用的中型变速脉冲(VSP)激光,\r\n\r\n<b><color=#00ffff>移动越远伤害和产热就越低</color> </b>"
   },
   {
     "id": "Weapon_Laser_MediumLaserPulse_VSPL.Description.UIName",
@@ -817,7 +817,7 @@
   },
   {
     "id": "Weapon_Laser_SmallLaserPulse_VSPL.Description.Details",
-    "content": "名为启示小型变速脉冲激光的正在使用的最小的变速脉冲(VSP)激光. 这种武器通常被安装在小型脉冲激光的位置,主要用于轻型机甲上.\n\n<b><color=#00ffff>移动越远伤害和产热就越低</color> </b>"
+    "content": "名为启示小型变速脉冲激光的正在使用的最小的变速脉冲(VSP)激光. 这种武器通常被安装在小型脉冲激光的位置,主要用于轻型机甲上.\r\n\r\n<b><color=#00ffff>移动越远伤害和产热就越低</color> </b>"
   },
   {
     "id": "Weapon_Laser_SmallLaserPulse_VSPL.Description.UIName",
@@ -1097,7 +1097,7 @@
   },
   {
     "id": "Weapon_LRM_Thunderbolt10.Description.Details",
-    "content": "霹雳火发射器是标准LRM技术的一个分支. 霹雳火发射装置不是发射多组导弹,而是发射一枚导弹.\n\n<b><color=#ffcc00>使用霹雳火10弹药</color></b>."
+    "content": "霹雳火发射器是标准LRM技术的一个分支. 霹雳火发射装置不是发射多组导弹,而是发射一枚导弹.\r\n\r\n<b><color=#ffcc00>使用霹雳火10弹药</color></b>."
   },
   {
     "id": "Weapon_LRM_Thunderbolt10.Description.UIName",
@@ -1113,7 +1113,7 @@
   },
   {
     "id": "Weapon_LRM_Thunderbolt15.Description.Details",
-    "content": "霹雳火发射器是标准LRM技术的一个分支. 霹雳火发射装置不是发射多组导弹,而是发射一枚导弹.\n\n<b><color=#ffcc00>使用霹雳火15弹药</color></b>."
+    "content": "霹雳火发射器是标准LRM技术的一个分支. 霹雳火发射装置不是发射多组导弹,而是发射一枚导弹.\r\n\r\n<b><color=#ffcc00>使用霹雳火15弹药</color></b>."
   },
   {
     "id": "Weapon_LRM_Thunderbolt15.Description.UIName",
@@ -1129,7 +1129,7 @@
   },
   {
     "id": "Weapon_LRM_Thunderbolt20.Description.Details",
-    "content": "霹雳火发射器是标准LRM技术的一个分支. 霹雳火发射装置不是发射多组导弹,而是发射一枚导弹.\n\n<b><color=#ffcc00>使用霹雳火20弹药</color></b>."
+    "content": "霹雳火发射器是标准LRM技术的一个分支. 霹雳火发射装置不是发射多组导弹,而是发射一枚导弹.\r\n\r\n<b><color=#ffcc00>使用霹雳火20弹药</color></b>."
   },
   {
     "id": "Weapon_LRM_Thunderbolt20.Description.UIName",
@@ -1145,7 +1145,7 @@
   },
   {
     "id": "Weapon_LRM_Thunderbolt5.Description.Details",
-    "content": "霹雳火发射器是标准LRM技术的一个分支. 霹雳火发射装置不是发射多组导弹,而是发射一枚导弹.\n\n<b><color=#ffcc00>使用霹雳火5弹药</color></b>."
+    "content": "霹雳火发射器是标准LRM技术的一个分支. 霹雳火发射装置不是发射多组导弹,而是发射一枚导弹.\r\n\r\n<b><color=#ffcc00>使用霹雳火5弹药</color></b>."
   },
   {
     "id": "Weapon_LRM_Thunderbolt5.Description.UIName",
@@ -1161,7 +1161,7 @@
   },
   {
     "id": "Weapon_MachineGun_ARRAY.Description.Details",
-    "content": "机枪阵列是多支机枪连接在一起同时开火,由4支机枪组成.\n\n<b><color=#ffcc00>使用机枪弹药</color></b>. "
+    "content": "机枪阵列是多支机枪连接在一起同时开火,由4支机枪组成.\r\n\r\n<b><color=#ffcc00>使用机枪弹药</color></b>. "
   },
   {
     "id": "Weapon_MachineGun_ARRAY.Description.UIName",
@@ -1177,7 +1177,7 @@
   },
   {
     "id": "Weapon_MachineGun_ARRAY_HEAVY.Description.Details",
-    "content": "机枪阵列是多支机枪连接在一起同时开火,由3支重机枪组成.氏族版本在更高的开火频率下也不容易卡壳.\n\n<b><color=#ffcc00>使用重机枪弹药</color></b> <b><color=#00ffff>左键点击 数量/伤害 以切换射击模式</color> </b>"
+    "content": "机枪阵列是多支机枪连接在一起同时开火,由3支重机枪组成.氏族版本在更高的开火频率下也不容易卡壳.\r\n\r\n<b><color=#ffcc00>使用重机枪弹药</color></b> <b><color=#00ffff>左键点击 数量/伤害 以切换射击模式</color> </b>"
   },
   {
     "id": "Weapon_MachineGun_ARRAY_HEAVY.Description.UIName",
@@ -1193,7 +1193,7 @@
   },
   {
     "id": "Weapon_MachineGun_ARRAY_LIGHT.Description.Details",
-    "content": "机枪阵列是多支机枪连接在一起同时开火,由4支轻机枪组成.\n\n<b><color=#ffcc00>使用轻机枪弹药</color></b> <b><color=#00ffff>左键点击 数量/伤害 以切换射击模式</color> </b>"
+    "content": "机枪阵列是多支机枪连接在一起同时开火,由4支轻机枪组成.\r\n\r\n<b><color=#ffcc00>使用轻机枪弹药</color></b> <b><color=#00ffff>左键点击 数量/伤害 以切换射击模式</color> </b>"
   },
   {
     "id": "Weapon_MachineGun_ARRAY_LIGHT.Description.UIName",
@@ -1209,7 +1209,7 @@
   },
   {
     "id": "Weapon_MachineGun_Blackwell.Description.Details",
-    "content": "机枪造成的伤害非常低,射程非常有限,并且依赖于不稳定的弹药. 然而,当他们撞击已剥去装甲的目标时,造成严重损伤的机率大大增加.\n\n<b><color=#ffcc00>使用机枪弹药</color></b>. "
+    "content": "机枪造成的伤害非常低,射程非常有限,并且依赖于不稳定的弹药. 然而,当他们撞击已剥去装甲的目标时,造成严重损伤的机率大大增加.\r\n\r\n<b><color=#ffcc00>使用机枪弹药</color></b>. "
   },
   {
     "id": "Weapon_MachineGun_Blackwell.Description.UIName",
@@ -1225,7 +1225,7 @@
   },
   {
     "id": "Weapon_MachineGun_HEAVY.Description.Details",
-    "content": "顾名思义,重机枪(HMG)与其说是机枪(MG),不如说是自动榴弹发射器. HMG造成的伤害更大,穿透和摧毁关键部件的机会更大,但重量是普通机枪的两倍,并且存在后座问题.\n\n<b><color=#ffcc00>使用重机枪弹药</color></b>. "
+    "content": "顾名思义,重机枪(HMG)与其说是机枪(MG),不如说是自动榴弹发射器. HMG造成的伤害更大,穿透和摧毁关键部件的机会更大,但重量是普通机枪的两倍,并且存在后座问题.\r\n\r\n<b><color=#ffcc00>使用重机枪弹药</color></b>. "
   },
   {
     "id": "Weapon_MachineGun_HEAVY.Description.UIName",
@@ -1241,7 +1241,7 @@
   },
   {
     "id": "Weapon_MachineGun_LIGHT.Description.Details",
-    "content": "轻机枪(LMG)发射小口径炮弹,但拥有比标准机枪更高的射速和更大的射程.\n\n<b><color=#ffcc00>使用轻机枪弹药</color></b>. "
+    "content": "轻机枪(LMG)发射小口径炮弹,但拥有比标准机枪更高的射速和更大的射程.\r\n\r\n<b><color=#ffcc00>使用轻机枪弹药</color></b>. "
   },
   {
     "id": "Weapon_MachineGun_LIGHT.Description.UIName",
@@ -1257,7 +1257,7 @@
   },
   {
     "id": "Weapon_MachineGun_MachineGun_Dual.Description.Details",
-    "content": "机枪造成的伤害非常低,射程非常有限,并且依赖于不稳定的弹药. 然而,当他们撞击已剥去装甲的目标时,造成严重损伤的机率大大增加. 这个只是将两个普通机枪焊接在一起,只占用一个挂载点.\n\n<b><color=#ffcc00>U使用机枪弹药</color></b> "
+    "content": "机枪造成的伤害非常低,射程非常有限,并且依赖于不稳定的弹药. 然而,当他们撞击已剥去装甲的目标时,造成严重损伤的机率大大增加. 这个只是将两个普通机枪焊接在一起,只占用一个挂载点.\r\n\r\n<b><color=#ffcc00>U使用机枪弹药</color></b> "
   },
   {
     "id": "Weapon_MachineGun_MachineGun_Dual.Description.UIName",
@@ -1273,7 +1273,7 @@
   },
   {
     "id": "Weapon_MECHMORTAR_2.Description.Details",
-    "content": "基于步兵几个世纪以来使用的武器,机甲迫击炮能够以高弧度发射一枚小炮弹落在目标上. 虽然机甲迫击炮是人类霸权发明的,但到了2835年,继承战争已将其变为历史. 随着反导系统的重新引入,工程师们重新提出了机甲迫击炮的概念. 迫击炮使用的弹药,尽管通常是有限制导包,但在测试中没有被AMS系统摧毁. 迫击炮弹的适应性也很强,可以使用多种类型弹药.\n\n<b><color=#ffcc00>使用迫击炮弹药</color></b>"
+    "content": "基于步兵几个世纪以来使用的武器,机甲迫击炮能够以高弧度发射一枚小炮弹落在目标上. 虽然机甲迫击炮是人类霸权发明的,但到了2835年,继承战争已将其变为历史. 随着反导系统的重新引入,工程师们重新提出了机甲迫击炮的概念. 迫击炮使用的弹药,尽管通常是有限制导包,但在测试中没有被AMS系统摧毁. 迫击炮弹的适应性也很强,可以使用多种类型弹药.\r\n\r\n<b><color=#ffcc00>使用迫击炮弹药</color></b>"
   },
   {
     "id": "Weapon_MECHMORTAR_2.Description.UIName",
@@ -1289,7 +1289,7 @@
   },
   {
     "id": "Weapon_MECHMORTAR_4.Description.Details",
-    "content": "基于步兵几个世纪以来使用的武器,机甲迫击炮能够以高弧度发射一枚小炮弹落在目标上. 虽然机甲迫击炮是人类霸权发明的,但到了2835年,继承战争已将其变为历史. 随着反导系统的重新引入,工程师们重新提出了机甲迫击炮的概念. 迫击炮使用的弹药,尽管通常是有限制导包,但在测试中没有被AMS系统摧毁. 迫击炮弹的适应性也很强,可以使用多种类型弹药.\n\n<b><color=#ffcc00>使用迫击炮弹药</color></b>"
+    "content": "基于步兵几个世纪以来使用的武器,机甲迫击炮能够以高弧度发射一枚小炮弹落在目标上. 虽然机甲迫击炮是人类霸权发明的,但到了2835年,继承战争已将其变为历史. 随着反导系统的重新引入,工程师们重新提出了机甲迫击炮的概念. 迫击炮使用的弹药,尽管通常是有限制导包,但在测试中没有被AMS系统摧毁. 迫击炮弹的适应性也很强,可以使用多种类型弹药.\r\n\r\n<b><color=#ffcc00>使用迫击炮弹药</color></b>"
   },
   {
     "id": "Weapon_MECHMORTAR_4.Description.UIName",
@@ -1305,7 +1305,7 @@
   },
   {
     "id": "Weapon_MECHMORTAR_6.Description.Details",
-    "content": "基于步兵几个世纪以来使用的武器,机甲迫击炮能够以高弧度发射一枚小炮弹落在目标上. 虽然机甲迫击炮是人类霸权发明的,但到了2835年,继承战争已将其变为历史. 随着反导系统的重新引入,工程师们重新提出了机甲迫击炮的概念. 迫击炮使用的弹药,尽管通常是有限制导包,但在测试中没有被AMS系统摧毁. 迫击炮弹的适应性也很强,可以使用多种类型弹药.\n\n<b><color=#ffcc00>使用迫击炮弹药</color></b>"
+    "content": "基于步兵几个世纪以来使用的武器,机甲迫击炮能够以高弧度发射一枚小炮弹落在目标上. 虽然机甲迫击炮是人类霸权发明的,但到了2835年,继承战争已将其变为历史. 随着反导系统的重新引入,工程师们重新提出了机甲迫击炮的概念. 迫击炮使用的弹药,尽管通常是有限制导包,但在测试中没有被AMS系统摧毁. 迫击炮弹的适应性也很强,可以使用多种类型弹药.\r\n\r\n<b><color=#ffcc00>使用迫击炮弹药</color></b>"
   },
   {
     "id": "Weapon_MECHMORTAR_6.Description.UIName",
@@ -1321,7 +1321,7 @@
   },
   {
     "id": "Weapon_MECHMORTAR_8.Description.Details",
-    "content": "基于步兵几个世纪以来使用的武器,机甲迫击炮能够以高弧度发射一枚小炮弹落在目标上. 虽然机甲迫击炮是人类霸权发明的,但到了2835年,继承战争已将其变为历史. 随着反导系统的重新引入,工程师们重新提出了机甲迫击炮的概念. 迫击炮使用的弹药,尽管通常是有限制导包,但在测试中没有被AMS系统摧毁. 迫击炮弹的适应性也很强,可以使用多种类型弹药.\n\n<b><color=#ffcc00>使用迫击炮弹药</color></b>"
+    "content": "基于步兵几个世纪以来使用的武器,机甲迫击炮能够以高弧度发射一枚小炮弹落在目标上. 虽然机甲迫击炮是人类霸权发明的,但到了2835年,继承战争已将其变为历史. 随着反导系统的重新引入,工程师们重新提出了机甲迫击炮的概念. 迫击炮使用的弹药,尽管通常是有限制导包,但在测试中没有被AMS系统摧毁. 迫击炮弹的适应性也很强,可以使用多种类型弹药.\r\n\r\n<b><color=#ffcc00>使用迫击炮弹药</color></b>"
   },
   {
     "id": "Weapon_MECHMORTAR_8.Description.UIName",
@@ -1337,7 +1337,7 @@
   },
   {
     "id": "Weapon_MML_3.Description.Details",
-    "content": "多联装导弹发射器可以发射LRM和SRM,包括任何特殊弹头类型,并与月神IV火控系统兼容.\n\n<b><color=#ffcc00>使用SRM/LRM弹药</color></b>.\n\n<b><color=#00ffff>左键点击弹药可以在战斗中切换SRM/LRM弹药模式</color> </b>."
+    "content": "多联装导弹发射器可以发射LRM和SRM,包括任何特殊弹头类型,并与月神IV火控系统兼容.\r\n\r\n<b><color=#ffcc00>使用SRM/LRM弹药</color></b>.\r\n\r\n<b><color=#00ffff>左键点击弹药可以在战斗中切换SRM/LRM弹药模式</color> </b>."
   },
   {
     "id": "Weapon_MML_3.Description.UIName",
@@ -1361,7 +1361,7 @@
   },
   {
     "id": "Weapon_MML_5.Description.Details",
-    "content": "多联装导弹发射器可以发射LRM和SRM,包括任何特殊弹头类型,并与月神IV火控系统兼容.\n\n<b><color=#ffcc00>使用SRM/LRM弹药</color></b>.\n\n<b><color=#00ffff>左键点击弹药可以在战斗中切换SRM/LRM弹药模式</color> </b>."
+    "content": "多联装导弹发射器可以发射LRM和SRM,包括任何特殊弹头类型,并与月神IV火控系统兼容.\r\n\r\n<b><color=#ffcc00>使用SRM/LRM弹药</color></b>.\r\n\r\n<b><color=#00ffff>左键点击弹药可以在战斗中切换SRM/LRM弹药模式</color> </b>."
   },
   {
     "id": "Weapon_MML_5.Description.UIName",
@@ -1385,7 +1385,7 @@
   },
   {
     "id": "Weapon_MML_7.Description.Details",
-    "content": "多联装导弹发射器可以发射LRM和SRM,包括任何特殊弹头类型,并与月神IV火控系统兼容.\n\n<b><color=#ffcc00>使用SRM/LRM弹药</color></b>.\n\n<b><color=#00ffff>左键点击弹药可以在战斗中切换SRM/LRM弹药模式</color> </b>."
+    "content": "多联装导弹发射器可以发射LRM和SRM,包括任何特殊弹头类型,并与月神IV火控系统兼容.\r\n\r\n<b><color=#ffcc00>使用SRM/LRM弹药</color></b>.\r\n\r\n<b><color=#00ffff>左键点击弹药可以在战斗中切换SRM/LRM弹药模式</color> </b>."
   },
   {
     "id": "Weapon_MML_7.Description.UIName",
@@ -1409,7 +1409,7 @@
   },
   {
     "id": "Weapon_MML_9.Description.Details",
-    "content": "多联装导弹发射器可以发射LRM和SRM,包括任何特殊弹头类型,并与月神IV火控系统兼容.\n\n<b><color=#ffcc00>使用SRM/LRM弹药</color></b>.\n\n<b><color=#00ffff>左键点击弹药可以在战斗中切换SRM/LRM弹药模式</color> </b>."
+    "content": "多联装导弹发射器可以发射LRM和SRM,包括任何特殊弹头类型,并与月神IV火控系统兼容.\r\n\r\n<b><color=#ffcc00>使用SRM/LRM弹药</color></b>.\r\n\r\n<b><color=#00ffff>左键点击弹药可以在战斗中切换SRM/LRM弹药模式</color> </b>."
   },
   {
     "id": "Weapon_MML_9.Description.UIName",
@@ -1433,7 +1433,7 @@
   },
   {
     "id": "Weapon_MRM_10.Description.Details",
-    "content": "中程导弹发射器(MRM)是由Luhine Amor Works的科学家设计的.MRM是死火导弹,发射的方式更像激光,而不是导弹. 为了将尽可能多的到导弹一齐发射,科学家们拆除了它们的制导系统,并使整个整个武器包更小. 尽管这被视为技术发展的一步,但廉价且致命的MRM在天龙联合体和许多雇用兵单位中传播.\n\n<b><color=#ffcc00>使用MRM弹药</color></b>。"
+    "content": "中程导弹发射器(MRM)是由Luhine Amor Works的科学家设计的.MRM是死火导弹,发射的方式更像激光,而不是导弹. 为了将尽可能多的到导弹一齐发射,科学家们拆除了它们的制导系统,并使整个整个武器包更小. 尽管这被视为技术发展的一步,但廉价且致命的MRM在天龙联合体和许多雇用兵单位中传播.\r\n\r\n<b><color=#ffcc00>使用MRM弹药</color></b>。"
   },
   {
     "id": "Weapon_MRM_10.Description.UIName",
@@ -1449,7 +1449,7 @@
   },
   {
     "id": "Weapon_MRM_20.Description.Details",
-    "content": "中程导弹发射器(MRM)是由Luhine Amor Works的科学家设计的.MRM是死火导弹,发射的方式更像激光,而不是导弹. 为了将尽可能多的到导弹一齐发射,科学家们拆除了它们的制导系统,并使整个整个武器包更小. 尽管这被视为技术发展的一步,但廉价且致命的MRM在天龙联合体和许多雇用兵单位中传播.\n\n<b><color=#ffcc00>使用MRM弹药</color></b>。"
+    "content": "中程导弹发射器(MRM)是由Luhine Amor Works的科学家设计的.MRM是死火导弹,发射的方式更像激光,而不是导弹. 为了将尽可能多的到导弹一齐发射,科学家们拆除了它们的制导系统,并使整个整个武器包更小. 尽管这被视为技术发展的一步,但廉价且致命的MRM在天龙联合体和许多雇用兵单位中传播.\r\n\r\n<b><color=#ffcc00>使用MRM弹药</color></b>。"
   },
   {
     "id": "Weapon_MRM_20.Description.UIName",
@@ -1465,7 +1465,7 @@
   },
   {
     "id": "Weapon_MRM_30.Description.Details",
-    "content": "中程导弹发射器(MRM)是由Luhine Amor Works的科学家设计的.MRM是死火导弹,发射的方式更像激光,而不是导弹. 为了将尽可能多的到导弹一齐发射,科学家们拆除了它们的制导系统,并使整个整个武器包更小. 尽管这被视为技术发展的一步,但廉价且致命的MRM在天龙联合体和许多雇用兵单位中传播.\n\n<b><color=#ffcc00>使用MRM弹药</color></b>。"
+    "content": "中程导弹发射器(MRM)是由Luhine Amor Works的科学家设计的.MRM是死火导弹,发射的方式更像激光,而不是导弹. 为了将尽可能多的到导弹一齐发射,科学家们拆除了它们的制导系统,并使整个整个武器包更小. 尽管这被视为技术发展的一步,但廉价且致命的MRM在天龙联合体和许多雇用兵单位中传播.\r\n\r\n<b><color=#ffcc00>使用MRM弹药</color></b>。"
   },
   {
     "id": "Weapon_MRM_30.Description.UIName",
@@ -1481,7 +1481,7 @@
   },
   {
     "id": "Weapon_MRM_40.Description.Details",
-    "content": "中程导弹发射器(MRM)是由Luhine Amor Works的科学家设计的.MRM是死火导弹,发射的方式更像激光,而不是导弹. 为了将尽可能多的到导弹一齐发射,科学家们拆除了它们的制导系统,并使整个整个武器包更小. 尽管这被视为技术发展的一步,但廉价且致命的MRM在天龙联合体和许多雇用兵单位中传播.\n\n<b><color=#ffcc00>使用MRM弹药</color></b>。"
+    "content": "中程导弹发射器(MRM)是由Luhine Amor Works的科学家设计的.MRM是死火导弹,发射的方式更像激光,而不是导弹. 为了将尽可能多的到导弹一齐发射,科学家们拆除了它们的制导系统,并使整个整个武器包更小. 尽管这被视为技术发展的一步,但廉价且致命的MRM在天龙联合体和许多雇用兵单位中传播.\r\n\r\n<b><color=#ffcc00>使用MRM弹药</color></b>。"
   },
   {
     "id": "Weapon_MRM_40.Description.UIName",
@@ -1497,7 +1497,7 @@
   },
   {
     "id": "Weapon_PLASMA.Description.Details",
-    "content": "这个等离子加农炮原型将一个\"等离子泡沫\"弹药加速并加热到激发态,将其转换为等离子体发射,产生巨大的动能和热冲击. \n\n<b><color=#ffcc00>使用等离子弹药</color></b> <b><color=#099ff2>不稳定!</color></b>."
+    "content": "这个等离子加农炮原型将一个\"等离子泡沫\"弹药加速并加热到激发态,将其转换为等离子体发射,产生巨大的动能和热冲击. \r\n\r\n<b><color=#ffcc00>使用等离子弹药</color></b> <b><color=#099ff2>不稳定!</color></b>."
   },
   {
     "id": "Weapon_PLASMA.Description.UIName",
@@ -1521,7 +1521,7 @@
   },
   {
     "id": "Weapon_PPC_HEAVY.Description.Details",
-    "content": "重型粒子炮是由天龙联合体开发,是粒子投射加农炮的更大、更强版本,能够对敌人及其传感器造成毁灭性打击.\n\n<b><color=#00ffff>在战斗中左键点击以切换到场抑制器关闭(FIOFF)模式,没有最低射程惩罚,但可能失火.</color> </b>"
+    "content": "重型粒子炮是由天龙联合体开发,是粒子投射加农炮的更大、更强版本,能够对敌人及其传感器造成毁灭性打击.\r\n\r\n<b><color=#00ffff>在战斗中左键点击以切换到场抑制器关闭(FIOFF)模式,没有最低射程惩罚,但可能失火.</color> </b>"
   },
   {
     "id": "Weapon_PPC_HEAVY.Description.UIName",
@@ -1545,7 +1545,7 @@
   },
   {
     "id": "Weapon_PPC_HEAVY_CAPACITATOR.Description.Details",
-    "content": "布莱克之道的重型粒子炮设计有内置电容器,'天罚'没有最低射程,且可以在远程下射出更强更具毁灭力的粒子束. \n\n <b><color=#00ffff>在战斗中左键点击以起用电容器.激活电容器会增加伤害、射程,有机会卡壳</color></b>."
+    "content": "布莱克之道的重型粒子炮设计有内置电容器,'天罚'没有最低射程,且可以在远程下射出更强更具毁灭力的粒子束. \r\n\r\n <b><color=#00ffff>在战斗中左键点击以起用电容器.激活电容器会增加伤害、射程,有机会卡壳</color></b>."
   },
   {
     "id": "Weapon_PPC_HEAVY_CAPACITATOR.Description.UIName",
@@ -1665,7 +1665,7 @@
   },
   {
     "id": "Weapon_Rotary_Autocannon_2.Description.Details",
-    "content": "转轮式自动炮(RAC)仅在一定成都上基于自动炮. 虽然它们有相同的口径,但其发射能力是其标准同类的六倍,使其造成的伤害甚至是终极自动炮的三倍. 同时,发射每增加一次,自动炮产生的热量也会增加,并增加发生卡壳的可能性.\n\n<b><color=#ffcc00>使用RAC2弹药</color></b> "
+    "content": "转轮式自动炮(RAC)仅在一定成都上基于自动炮. 虽然它们有相同的口径,但其发射能力是其标准同类的六倍,使其造成的伤害甚至是终极自动炮的三倍. 同时,发射每增加一次,自动炮产生的热量也会增加,并增加发生卡壳的可能性.\r\n\r\n<b><color=#ffcc00>使用RAC2弹药</color></b> "
   },
   {
     "id": "Weapon_Rotary_Autocannon_2.Description.UIName",
@@ -1689,7 +1689,7 @@
   },
   {
     "id": "Weapon_Rotary_Autocannon_5.Description.Details",
-    "content": "转轮式自动炮(RAC)仅在一定成都上基于自动炮. 虽然它们有相同的口径,但其发射能力是其标准同类的六倍,使其造成的伤害甚至是终极自动炮的三倍. 同时,发射每增加一次,自动炮产生的热量也会增加,并增加发生卡壳的可能性.\n\n<b><color=#ffcc00>使用RAC5弹药</color></b> "
+    "content": "转轮式自动炮(RAC)仅在一定成都上基于自动炮. 虽然它们有相同的口径,但其发射能力是其标准同类的六倍,使其造成的伤害甚至是终极自动炮的三倍. 同时,发射每增加一次,自动炮产生的热量也会增加,并增加发生卡壳的可能性.\r\n\r\n<b><color=#ffcc00>使用RAC5弹药</color></b> "
   },
   {
     "id": "Weapon_Rotary_Autocannon_5.Description.UIName",
@@ -1729,7 +1729,7 @@
   },
   {
     "id": "Weapon_SRM_SRM2_STREAK.Description.Details",
-    "content": "急射(Streak)SMR2发射器是一种原型SRM,使用先进的主动制导系统来跟踪目标,但代价是产热和重量提高了50%.\n\n<b><color=#ffcc00>使用急射SRM弹药</color></b>."
+    "content": "急射(Streak)SMR2发射器是一种原型SRM,使用先进的主动制导系统来跟踪目标,但代价是产热和重量提高了50%.\r\n\r\n<b><color=#ffcc00>使用急射SRM弹药</color></b>."
   },
   {
     "id": "Weapon_SRM_SRM2_STREAK.Description.UIName",
@@ -1745,7 +1745,7 @@
   },
   {
     "id": "Weapon_SRM_SRM4_STREAK.Description.Details",
-    "content": "急射(Streak)SMR4发射器是一种原型SRM,使用先进的主动制导系统来跟踪目标,但代价是产热和重量增加50%.\n\n<b><color=#ffcc00>使用急射SRM弹药</color></b>."
+    "content": "急射(Streak)SMR4发射器是一种原型SRM,使用先进的主动制导系统来跟踪目标,但代价是产热和重量增加50%.\r\n\r\n<b><color=#ffcc00>使用急射SRM弹药</color></b>."
   },
   {
     "id": "Weapon_SRM_SRM4_STREAK.Description.UIName",
@@ -1777,7 +1777,7 @@
   },
   {
     "id": "Weapon_SRM_SRM6_STREAK.Description.Details",
-    "content": "急射(Streak)SMR4发射器是一种原型SRM,使用先进的主动制导系统来跟踪目标,但代价是产热和重量增加50%.\n\n<b><color=#ffcc00>使用急射SRM弹药</color></b>."
+    "content": "急射(Streak)SMR4发射器是一种原型SRM,使用先进的主动制导系统来跟踪目标,但代价是产热和重量增加50%.\r\n\r\n<b><color=#ffcc00>使用急射SRM弹药</color></b>."
   },
   {
     "id": "Weapon_SRM_SRM6_STREAK.Description.UIName",
@@ -1793,7 +1793,7 @@
   },
   {
     "id": "Weapon_SRM_SRM_iNARC.Description.Details",
-    "content": "该发射器发射一个单独的iNARC信标,将其黏附到敌人身上,并向所有友军武器发射定位信号. \n\n<b><color=#ffcc00>使用iNARC弹药</color></b>."
+    "content": "该发射器发射一个单独的iNARC信标,将其黏附到敌人身上,并向所有友军武器发射定位信号. \r\n\r\n<b><color=#ffcc00>使用iNARC弹药</color></b>."
   },
   {
     "id": "Weapon_SRM_SRM_iNARC.Description.UIName",
@@ -1809,7 +1809,7 @@
   },
   {
     "id": "Weapon_SRM_SRM_NARC.Description.Details",
-    "content": "该发射器发射一个单独的NARC信标,将其黏附到敌人身上,并向所有友军武器发射定位信号. \n\n<b><color=#ffcc00>使用NARC弹药</color></b>."
+    "content": "该发射器发射一个单独的NARC信标,将其黏附到敌人身上,并向所有友军武器发射定位信号. \r\n\r\n<b><color=#ffcc00>使用NARC弹药</color></b>."
   },
   {
     "id": "Weapon_SRM_SRM_NARC.Description.UIName",
@@ -2033,7 +2033,7 @@
   },
   {
     "id": "Weapon_VehicleGrenadeLauncher.Description.Details",
-    "content": "手榴弹发射器基于步兵几个世纪以来的武器,以高弧度发射一枚落在目标上的小炮弹,\n\n<b><color=#ffcc00>使用迫击炮弹药</color></b>"
+    "content": "手榴弹发射器基于步兵几个世纪以来的武器,以高弧度发射一枚落在目标上的小炮弹,\r\n\r\n<b><color=#ffcc00>使用迫击炮弹药</color></b>"
   },
   {
     "id": "Weapon_VehicleGrenadeLauncher.Description.UIName",

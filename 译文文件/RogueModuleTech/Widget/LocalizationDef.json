@@ -1857,7 +1857,7 @@
   },
   {
     "id": "Hand_Weapon_AP_Gauss_Clan.Description.Details",
-    "content": "一部手持式反人员高斯步枪阵列.\n\n <b><color=#ffcc00>10发装</color></b>"
+    "content": "一部手持式反人员高斯步枪阵列.\r\n\r\n <b><color=#ffcc00>10发装</color></b>"
   },
   {
     "id": "Hand_Weapon_AP_Gauss_Clan.Description.UIName",
@@ -1873,7 +1873,7 @@
   },
   {
     "id": "Hand_Weapon_LargeLaserRifle_CLAN.Description.Details",
-    "content": "在索拉里斯VII上首次亮相时,氏族已经部署了这一激光步枪杰作.将氏族先进的激光技术与星联防卫军激光步枪相结合,这种武器可以在竞技场和战场上击败很多对手. \n\n <b><color=#F79232>32发装</color></b> \n\n <b><color=#00ffff>替换开火模式可以花费双倍弹药的代价获得更强力的伤害或更远的射程</color> </b>"
+    "content": "在索拉里斯VII上首次亮相时,氏族已经部署了这一激光步枪杰作.将氏族先进的激光技术与星联防卫军激光步枪相结合,这种武器可以在竞技场和战场上击败很多对手. \r\n\r\n <b><color=#F79232>32发装</color></b> \r\n\r\n <b><color=#00ffff>替换开火模式可以花费双倍弹药的代价获得更强力的伤害或更远的射程</color> </b>"
   },
   {
     "id": "Hand_Weapon_LargeLaserRifle_CLAN.Description.UIName",
@@ -1889,7 +1889,7 @@
   },
   {
     "id": "Hand_Weapon_LRM10_CLAN.Description.Details",
-    "content": "这个手持式套件结合了2个氏族LRM5发射器,能够精确的齐射或连续齐射,有更高的集群命中率.\n\n <b><color=#ffcc00>60发装</color></b>"
+    "content": "这个手持式套件结合了2个氏族LRM5发射器,能够精确的齐射或连续齐射,有更高的集群命中率.\r\n\r\n <b><color=#ffcc00>60发装</color></b>"
   },
   {
     "id": "Hand_Weapon_LRM10_CLAN.Description.UIName",
@@ -1905,7 +1905,7 @@
   },
   {
     "id": "Hand_Weapon_MediumLaserRifle_CLAN.Description.Details",
-    "content": "一部氏族级化学激光步枪!与旧的星联防卫军设计类似,但他们将2个化学激光器连在了一起.\n\n <b><color=#F79232>20发装</color></b> \n\n <b><color=#00ffff>替代射击模式允许使用双倍弹药造成更高伤害</color> </b>"
+    "content": "一部氏族级化学激光步枪!与旧的星联防卫军设计类似,但他们将2个化学激光器连在了一起.\r\n\r\n <b><color=#F79232>20发装</color></b> \r\n\r\n <b><color=#00ffff>替代射击模式允许使用双倍弹药造成更高伤害</color> </b>"
   },
   {
     "id": "Hand_Weapon_MediumLaserRifle_CLAN.Description.UIName",
@@ -1921,7 +1921,7 @@
   },
   {
     "id": "Hand_Weapon_STREAKLRM5_CLAN.Description.Details",
-    "content": "一部迅捷LRM5发射系统.\n\n <b><color=#ffcc00>60发装</color></b>"
+    "content": "一部迅捷LRM5发射系统.\r\n\r\n <b><color=#ffcc00>60发装</color></b>"
   },
   {
     "id": "Hand_Weapon_STREAKLRM5_CLAN.Description.UIName",
@@ -1937,7 +1937,7 @@
   },
   {
     "id": "Hand_Weapon_STREAKSRM4_CLAN.Description.Details",
-    "content": "一部迅捷SRM4发射系统.\n\n <b><color=#ffcc00>52发装</color></b>"
+    "content": "一部迅捷SRM4发射系统.\r\n\r\n <b><color=#ffcc00>52发装</color></b>"
   },
   {
     "id": "Hand_Weapon_STREAKSRM4_CLAN.Description.UIName",
@@ -2433,7 +2433,7 @@
   },
   {
     "id": "Hand_Weapon_CombatShotgun.Description.Details",
-    "content": "这似乎是一个普通的LBX AC/5,直接从一个不幸的机甲外壳上扯下的.有人在上面焊接了一些弹药包,连接了一个供弹器,并锯短了枪管以减轻重量.这有一些暴怒的工程师,老大. \n\n <b><color=#ffcc00>内含10发弹药</color></b>"
+    "content": "这似乎是一个普通的LBX AC/5,直接从一个不幸的机甲外壳上扯下的.有人在上面焊接了一些弹药包,连接了一个供弹器,并锯短了枪管以减轻重量.这有一些暴怒的工程师,老大. \r\n\r\n <b><color=#ffcc00>内含10发弹药</color></b>"
   },
   {
     "id": "Hand_Weapon_CombatShotgun.Description.UIName",
@@ -2529,7 +2529,7 @@
   },
   {
     "id": "Hand_Weapon_SuperShotgun.Description.Details",
-    "content": "这种'超级霰弹枪'几乎就是一种手持设备中的LBX20,它可以撕碎、撕裂和杀死任何被指向的东西. \n\n <b><color=#ffcc00>内含8发弹药</color></b>"
+    "content": "这种'超级霰弹枪'几乎就是一种手持设备中的LBX20,它可以撕碎、撕裂和杀死任何被指向的东西. \r\n\r\n <b><color=#ffcc00>内含8发弹药</color></b>"
   },
   {
     "id": "Hand_Weapon_SuperShotgun.Description.UIName",
@@ -3257,7 +3257,7 @@
   },
   {
     "id": "Hand_Weapon_Battlerifle.Description.Details",
-    "content": "从星联防卫军(SLDF)设施中回收.这种武器在口径和射程上和AC/10相似,但按照高级步兵武器的思路设计,带有开火模式选择.\n\n <b><color=#00ffff>开火模式: 单发,连发,全自动.</color> </b>"
+    "content": "从星联防卫军(SLDF)设施中回收.这种武器在口径和射程上和AC/10相似,但按照高级步兵武器的思路设计,带有开火模式选择.\r\n\r\n <b><color=#00ffff>开火模式: 单发,连发,全自动.</color> </b>"
   },
   {
     "id": "Hand_Weapon_Battlerifle.Description.UIName",
@@ -3425,7 +3425,7 @@
   },
   {
     "id": "Hand_Weapon_LargeLaserRifle.Description.Details",
-    "content": "这是一个惊人的遗物,一支大型激光步枪!看看这个老大,它被设计成可以由任何机甲携带进行战斗,而不需要重新布线.这些星联防卫军黑心人真是狡猾!\n\n <b><color=#F79232>16发装</color></b>"
+    "content": "这是一个惊人的遗物,一支大型激光步枪!看看这个老大,它被设计成可以由任何机甲携带进行战斗,而不需要重新布线.这些星联防卫军黑心人真是狡猾!\r\n\r\n <b><color=#F79232>16发装</color></b>"
   },
   {
     "id": "Hand_Weapon_LargeLaserRifle.Description.UIName",
@@ -3441,7 +3441,7 @@
   },
   {
     "id": "Hand_Weapon_LaserPistol.Description.Details",
-    "content": "激光手枪?我只在旧的技术手册上看到过这些.你看到它们是如何连接化学激光器的了吗?就想事经典的手枪一样发射,这是天才! \n\n <b><color=#F79232>30发装</color></b>"
+    "content": "激光手枪?我只在旧的技术手册上看到过这些.你看到它们是如何连接化学激光器的了吗?就想事经典的手枪一样发射,这是天才! \r\n\r\n <b><color=#F79232>30发装</color></b>"
   },
   {
     "id": "Hand_Weapon_LaserPistol.Description.UIName",
@@ -3457,7 +3457,7 @@
   },
   {
     "id": "Hand_Weapon_MediumLaserRifle.Description.Details",
-    "content": "令人惊讶的是,它起初看起来像是一个垃圾,但如果你仔细看,它是一个旧的原型星联防卫军黄蜂激光步枪;我不知道他们在那里挖到这个东西的,甚至根本不知道它是怎么工作的! \n\n <b><color=#F79232>20发装</color></b>"
+    "content": "令人惊讶的是,它起初看起来像是一个垃圾,但如果你仔细看,它是一个旧的原型星联防卫军黄蜂激光步枪;我不知道他们在那里挖到这个东西的,甚至根本不知道它是怎么工作的! \r\n\r\n <b><color=#F79232>20发装</color></b>"
   },
   {
     "id": "Hand_Weapon_MediumLaserRifle.Description.UIName",
@@ -3473,7 +3473,7 @@
   },
   {
     "id": "Hand_Weapon_MML_3.Description.Details",
-    "content": "一部手持式MML3发射器系统. \n\n <b><color=#ffcc00>内含弹药: LRM:30发. SRM:30发.</color></b> \n\n <b><color=#00ffff>在战斗这使用左点击在LRM和SRM间切换</color> </b>"
+    "content": "一部手持式MML3发射器系统. \r\n\r\n <b><color=#ffcc00>内含弹药: LRM:30发. SRM:30发.</color></b> \r\n\r\n <b><color=#00ffff>在战斗这使用左点击在LRM和SRM间切换</color> </b>"
   },
   {
     "id": "Hand_Weapon_MML_3.Description.UIName",
@@ -3489,7 +3489,7 @@
   },
   {
     "id": "Hand_Weapon_MML_5.Description.Details",
-    "content": "一部手持式MML5发射器系统. \n\n <b><color=#ffcc00>内含弹药: LRM:50发. SRM:50发.</color></b> \n\n <b><color=#00ffff>在战斗这使用左点击在LRM和SRM间切换</color> </b>"
+    "content": "一部手持式MML5发射器系统. \r\n\r\n <b><color=#ffcc00>内含弹药: LRM:50发. SRM:50发.</color></b> \r\n\r\n <b><color=#00ffff>在战斗这使用左点击在LRM和SRM间切换</color> </b>"
   },
   {
     "id": "Hand_Weapon_MML_5.Description.UIName",
@@ -3505,7 +3505,7 @@
   },
   {
     "id": "Hand_Weapon_MML_7.Description.Details",
-    "content": "一部手持式MML7发射器系统. \n\n <b><color=#ffcc00>内含弹药: LRM:70发. SRM:70发.</color></b> \n\n <b><color=#00ffff>在战斗这使用左点击在LRM和SRM间切换</color> </b>"
+    "content": "一部手持式MML7发射器系统. \r\n\r\n <b><color=#ffcc00>内含弹药: LRM:70发. SRM:70发.</color></b> \r\n\r\n <b><color=#00ffff>在战斗这使用左点击在LRM和SRM间切换</color> </b>"
   },
   {
     "id": "Hand_Weapon_MML_7.Description.UIName",
@@ -3521,7 +3521,7 @@
   },
   {
     "id": "Hand_Weapon_MML_9.Description.Details",
-    "content": "一部手持式MML9发射器系统. \n\n <b><color=#ffcc00>内含弹药: LRM:90发. SRM:90发.</color></b> \n\n <b><color=#00ffff>在战斗这使用左点击在LRM和SRM间切换</color> </b>"
+    "content": "一部手持式MML9发射器系统. \r\n\r\n <b><color=#ffcc00>内含弹药: LRM:90发. SRM:90发.</color></b> \r\n\r\n <b><color=#00ffff>在战斗这使用左点击在LRM和SRM间切换</color> </b>"
   },
   {
     "id": "Hand_Weapon_MML_9.Description.UIName",
@@ -3561,7 +3561,7 @@
   },
   {
     "id": "Hand_Weapon_MRM_10.Description.Details",
-    "content": "中程导弹发射器(MRM)是由Luhine Amor Works的科学家设计的.MRM是死火导弹,发射的方式更像激光,而不是导弹. 为了将尽可能多的到导弹一齐发射,科学家们拆除了它们的制导系统,并使整个整个武器包更小. 尽管这被视为技术发展的一步,但廉价且致命的MRM在天龙联合体和许多雇用兵单位中传播.\n\n<b><color=#F79232>100发装</color></b>."
+    "content": "中程导弹发射器(MRM)是由Luhine Amor Works的科学家设计的.MRM是死火导弹,发射的方式更像激光,而不是导弹. 为了将尽可能多的到导弹一齐发射,科学家们拆除了它们的制导系统,并使整个整个武器包更小. 尽管这被视为技术发展的一步,但廉价且致命的MRM在天龙联合体和许多雇用兵单位中传播.\r\n\r\n<b><color=#F79232>100发装</color></b>."
   },
   {
     "id": "Hand_Weapon_MRM_10.Description.UIName",
@@ -3577,7 +3577,7 @@
   },
   {
     "id": "Hand_Weapon_Plasma.Description.Details",
-    "content": "是的,老板,我不知道你是从那弄来的,但这不是外围太空垃圾,这把步枪是用最好的技术专门制造的. \n\n <b><color=#F79232>10发装</color></b>"
+    "content": "是的,老板,我不知道你是从那弄来的,但这不是外围太空垃圾,这把步枪是用最好的技术专门制造的. \r\n\r\n <b><color=#F79232>10发装</color></b>"
   },
   {
     "id": "Hand_Weapon_Plasma.Description.UIName",
@@ -3633,7 +3633,7 @@
   },
   {
     "id": "Hand_Weapon_RAC5.Description.Details",
-    "content": "维宁工程师和打捞团队定做的'复仇者'绝不是劣质垃圾.围绕着一个专用减震器和3吨的无壳弹弹舱的迈德龙转轮AC5,这场胜利和复仇会在竞技场中呼啸而过吗. \n\n <b><color=#ffcc00>拥有120发弹药</color></b> "
+    "content": "维宁工程师和打捞团队定做的'复仇者'绝不是劣质垃圾.围绕着一个专用减震器和3吨的无壳弹弹舱的迈德龙转轮AC5,这场胜利和复仇会在竞技场中呼啸而过吗. \r\n\r\n <b><color=#ffcc00>拥有120发弹药</color></b> "
   },
   {
     "id": "Hand_Weapon_RAC5.Description.UIName",

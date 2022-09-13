@@ -1,7 +1,7 @@
 [
   {
     "id": "Weapon_Autocannon_AC10_0-STOCK.Description.Details",
-    "content": "AC/10是战斗中最强大、最有效的武器之一,其以强大的伤害和击倒对手的能力而闻名.与所有自动加农炮武器一样,AC/10也会受到持续开火后座的影响.\n\n<b><color=#ffcc00>使用AC10弹药</color></b>."
+    "content": "AC/10是战斗中最强大、最有效的武器之一,其以强大的伤害和击倒对手的能力而闻名.与所有自动加农炮武器一样,AC/10也会受到持续开火后座的影响.\r\n\r\n<b><color=#ffcc00>使用AC10弹药</color></b>."
   },
   {
     "id": "Weapon_Autocannon_AC10_0-STOCK.Description.UIName",
@@ -25,7 +25,7 @@
   },
   {
     "id": "Weapon_Autocannon_AC10_1-Defiance.Description.Details",
-    "content": "AC/10是战斗中最强大、最有效的武器之一,其以强大的伤害和击倒对手的能力而闻名.与所有自动加农炮武器一样,AC/10也会受到持续开火后座的影响.\n\n<b><color=#ffcc00>使用AC10弹药</color></b>."
+    "content": "AC/10是战斗中最强大、最有效的武器之一,其以强大的伤害和击倒对手的能力而闻名.与所有自动加农炮武器一样,AC/10也会受到持续开火后座的影响.\r\n\r\n<b><color=#ffcc00>使用AC10弹药</color></b>."
   },
   {
     "id": "Weapon_Autocannon_AC10_1-Defiance.Description.UIName",
@@ -49,7 +49,7 @@
   },
   {
     "id": "Weapon_Autocannon_AC10_1-Imperator.Description.Details",
-    "content": "AC/10是战斗中最强大、最有效的武器之一,其以强大的伤害和击倒对手的能力而闻名.与所有自动加农炮武器一样,AC/10也会受到持续开火后座的影响.\n\n<b><color=#ffcc00>使用AC10弹药</color></b>."
+    "content": "AC/10是战斗中最强大、最有效的武器之一,其以强大的伤害和击倒对手的能力而闻名.与所有自动加农炮武器一样,AC/10也会受到持续开火后座的影响.\r\n\r\n<b><color=#ffcc00>使用AC10弹药</color></b>."
   },
   {
     "id": "Weapon_Autocannon_AC10_1-Imperator.Description.UIName",
@@ -73,7 +73,7 @@
   },
   {
     "id": "Weapon_Autocannon_AC10_1-Kali_Yama.Description.Details",
-    "content": "AC/10是战斗中最强大、最有效的武器之一,其以强大的伤害和击倒对手的能力而闻名.与所有自动加农炮武器一样,AC/10也会受到持续开火后座的影响.\n\n<b><color=#ffcc00>使用AC10弹药</color></b>."
+    "content": "AC/10是战斗中最强大、最有效的武器之一,其以强大的伤害和击倒对手的能力而闻名.与所有自动加农炮武器一样,AC/10也会受到持续开火后座的影响.\r\n\r\n<b><color=#ffcc00>使用AC10弹药</color></b>."
   },
   {
     "id": "Weapon_Autocannon_AC10_1-Kali_Yama.Description.UIName",
@@ -97,7 +97,7 @@
   },
   {
     "id": "Weapon_Autocannon_AC10_1-Mydron.Description.Details",
-    "content": "AC/10是战斗中最强大、最有效的武器之一,其以强大的伤害和击倒对手的能力而闻名.与所有自动加农炮武器一样,AC/10也会受到持续开火后座的影响.\n\n<b><color=#ffcc00>使用AC10弹药</color></b>."
+    "content": "AC/10是战斗中最强大、最有效的武器之一,其以强大的伤害和击倒对手的能力而闻名.与所有自动加农炮武器一样,AC/10也会受到持续开火后座的影响.\r\n\r\n<b><color=#ffcc00>使用AC10弹药</color></b>."
   },
   {
     "id": "Weapon_Autocannon_AC10_1-Mydron.Description.UIName",
@@ -121,7 +121,7 @@
   },
   {
     "id": "Weapon_Autocannon_AC10_2-Federated.Description.Details",
-    "content": "AC/10是战斗中最强大、最有效的武器之一,其以强大的伤害和击倒对手的能力而闻名.与所有自动加农炮武器一样,AC/10也会受到持续开火后座的影响.\n\n<b><color=#ffcc00>使用AC10弹药</color></b>."
+    "content": "AC/10是战斗中最强大、最有效的武器之一,其以强大的伤害和击倒对手的能力而闻名.与所有自动加农炮武器一样,AC/10也会受到持续开火后座的影响.\r\n\r\n<b><color=#ffcc00>使用AC10弹药</color></b>."
   },
   {
     "id": "Weapon_Autocannon_AC10_2-Federated.Description.UIName",
@@ -145,7 +145,7 @@
   },
   {
     "id": "Weapon_Autocannon_AC20_0-STOCK.Description.Details",
-    "content": "就基础伤害而言,AC/20是战场之王,它比其他的任何武器都更具杀伤力.然而,这是以重量、射程和严重受限的弹药为代价.与所有自动加农炮武器一样,AC20在连续射击后也会受后座力影响.\n\n<b><color=#ffcc00>使用AC20弹药</color></b>."
+    "content": "就基础伤害而言,AC/20是战场之王,它比其他的任何武器都更具杀伤力.然而,这是以重量、射程和严重受限的弹药为代价.与所有自动加农炮武器一样,AC20在连续射击后也会受后座力影响.\r\n\r\n<b><color=#ffcc00>使用AC20弹药</color></b>."
   },
   {
     "id": "Weapon_Autocannon_AC20_0-STOCK.Description.UIName",
@@ -161,7 +161,7 @@
   },
   {
     "id": "Weapon_Autocannon_AC20_1-Defiance.Description.Details",
-    "content": "就基础伤害而言,AC/20是战场之王,它比其他的任何武器都更具杀伤力.然而,这是以重量、射程和严重受限的弹药为代价.与所有自动加农炮武器一样,AC20在连续射击后也会受后座力影响.\n\n<b><color=#ffcc00>使用AC20弹药</color></b>."
+    "content": "就基础伤害而言,AC/20是战场之王,它比其他的任何武器都更具杀伤力.然而,这是以重量、射程和严重受限的弹药为代价.与所有自动加农炮武器一样,AC20在连续射击后也会受后座力影响.\r\n\r\n<b><color=#ffcc00>使用AC20弹药</color></b>."
   },
   {
     "id": "Weapon_Autocannon_AC20_1-Defiance.Description.UIName",
@@ -177,7 +177,7 @@
   },
   {
     "id": "Weapon_Autocannon_AC20_1-Federated.Description.Details",
-    "content": "就基础伤害而言,AC/20是战场之王,它比其他的任何武器都更具杀伤力.然而,这是以重量、射程和严重受限的弹药为代价.与所有自动加农炮武器一样,AC20在连续射击后也会受后座力影响.\n\n<b><color=#ffcc00>使用AC20弹药</color></b>."
+    "content": "就基础伤害而言,AC/20是战场之王,它比其他的任何武器都更具杀伤力.然而,这是以重量、射程和严重受限的弹药为代价.与所有自动加农炮武器一样,AC20在连续射击后也会受后座力影响.\r\n\r\n<b><color=#ffcc00>使用AC20弹药</color></b>."
   },
   {
     "id": "Weapon_Autocannon_AC20_1-Federated.Description.UIName",
@@ -193,7 +193,7 @@
   },
   {
     "id": "Weapon_Autocannon_AC20_1-Imperator.Description.Details",
-    "content": "就基础伤害而言,AC/20是战场之王,它比其他的任何武器都更具杀伤力.然而,这是以重量、射程和严重受限的弹药为代价.与所有自动加农炮武器一样,AC20在连续射击后也会受后座力影响.\n\n<b><color=#ffcc00>使用AC20弹药</color></b>."
+    "content": "就基础伤害而言,AC/20是战场之王,它比其他的任何武器都更具杀伤力.然而,这是以重量、射程和严重受限的弹药为代价.与所有自动加农炮武器一样,AC20在连续射击后也会受后座力影响.\r\n\r\n<b><color=#ffcc00>使用AC20弹药</color></b>."
   },
   {
     "id": "Weapon_Autocannon_AC20_1-Imperator.Description.UIName",
@@ -209,7 +209,7 @@
   },
   {
     "id": "Weapon_Autocannon_AC20_1-Mydron.Description.Details",
-    "content": "就基础伤害而言,AC/20是战场之王,它比其他的任何武器都更具杀伤力.然而,这是以重量、射程和严重受限的弹药为代价.与所有自动加农炮武器一样,AC20在连续射击后也会受后座力影响.\n\n<b><color=#ffcc00>使用AC20弹药</color></b>."
+    "content": "就基础伤害而言,AC/20是战场之王,它比其他的任何武器都更具杀伤力.然而,这是以重量、射程和严重受限的弹药为代价.与所有自动加农炮武器一样,AC20在连续射击后也会受后座力影响.\r\n\r\n<b><color=#ffcc00>使用AC20弹药</color></b>."
   },
   {
     "id": "Weapon_Autocannon_AC20_1-Mydron.Description.UIName",
@@ -225,7 +225,7 @@
   },
   {
     "id": "Weapon_Autocannon_AC20_2-Kali_Yama.Description.Details",
-    "content": "就基础伤害而言,AC/20是战场之王,它比其他的任何武器都更具杀伤力.然而,这是以重量、射程和严重受限的弹药为代价.与所有自动加农炮武器一样,AC20在连续射击后也会受后座力影响.\n\n<b><color=#ffcc00>使用AC20弹药</color></b>."
+    "content": "就基础伤害而言,AC/20是战场之王,它比其他的任何武器都更具杀伤力.然而,这是以重量、射程和严重受限的弹药为代价.与所有自动加农炮武器一样,AC20在连续射击后也会受后座力影响.\r\n\r\n<b><color=#ffcc00>使用AC20弹药</color></b>."
   },
   {
     "id": "Weapon_Autocannon_AC20_2-Kali_Yama.Description.UIName",
@@ -241,7 +241,7 @@
   },
   {
     "id": "Weapon_Autocannon_AC2_0-STOCK.Description.Details",
-    "content": "AC/2用于远距离支援火力,以低热和大量的每吨弹药造成中等伤害.\n\n<b><color=#ffcc00>使用AC2弹药</color></b>."
+    "content": "AC/2用于远距离支援火力,以低热和大量的每吨弹药造成中等伤害.\r\n\r\n<b><color=#ffcc00>使用AC2弹药</color></b>."
   },
   {
     "id": "Weapon_Autocannon_AC2_0-STOCK.Description.UIName",
@@ -265,7 +265,7 @@
   },
   {
     "id": "Weapon_Autocannon_AC2_1-Defiance.Description.Details",
-    "content": "AC/2用于远距离支援火力,以低热和大量的每吨弹药造成中等伤害.\n\n<b><color=#ffcc00>使用AC2弹药</color></b>."
+    "content": "AC/2用于远距离支援火力,以低热和大量的每吨弹药造成中等伤害.\r\n\r\n<b><color=#ffcc00>使用AC2弹药</color></b>."
   },
   {
     "id": "Weapon_Autocannon_AC2_1-Defiance.Description.UIName",
@@ -289,7 +289,7 @@
   },
   {
     "id": "Weapon_Autocannon_AC2_1-Federated.Description.Details",
-    "content": "AC/2用于远距离支援火力,以低热和大量的每吨弹药造成中等伤害.\n\n<b><color=#ffcc00>使用AC2弹药</color></b>."
+    "content": "AC/2用于远距离支援火力,以低热和大量的每吨弹药造成中等伤害.\r\n\r\n<b><color=#ffcc00>使用AC2弹药</color></b>."
   },
   {
     "id": "Weapon_Autocannon_AC2_1-Federated.Description.UIName",
@@ -313,7 +313,7 @@
   },
   {
     "id": "Weapon_Autocannon_AC2_1-Kali_Yama.Description.Details",
-    "content": "AC/2用于远距离支援火力,以低热和大量的每吨弹药造成中等伤害.\n\n<b><color=#ffcc00>使用AC2弹药</color></b>."
+    "content": "AC/2用于远距离支援火力,以低热和大量的每吨弹药造成中等伤害.\r\n\r\n<b><color=#ffcc00>使用AC2弹药</color></b>."
   },
   {
     "id": "Weapon_Autocannon_AC2_1-Kali_Yama.Description.UIName",
@@ -337,7 +337,7 @@
   },
   {
     "id": "Weapon_Autocannon_AC2_1-Mydron.Description.Details",
-    "content": "AC/2用于远距离支援火力,以低热和大量的每吨弹药造成中等伤害.\n\n<b><color=#ffcc00>使用AC2弹药</color></b>."
+    "content": "AC/2用于远距离支援火力,以低热和大量的每吨弹药造成中等伤害.\r\n\r\n<b><color=#ffcc00>使用AC2弹药</color></b>."
   },
   {
     "id": "Weapon_Autocannon_AC2_1-Mydron.Description.UIName",
@@ -361,7 +361,7 @@
   },
   {
     "id": "Weapon_Autocannon_AC2_2-Imperator.Description.Details",
-    "content": "AC/2用于远距离支援火力,以低热和大量的每吨弹药造成中等伤害.\n\n<b><color=#ffcc00>使用AC2弹药</color></b>."
+    "content": "AC/2用于远距离支援火力,以低热和大量的每吨弹药造成中等伤害.\r\n\r\n<b><color=#ffcc00>使用AC2弹药</color></b>."
   },
   {
     "id": "Weapon_Autocannon_AC2_2-Imperator.Description.UIName",
@@ -385,7 +385,7 @@
   },
   {
     "id": "Weapon_Autocannon_AC5_0-STOCK.Description.Details",
-    "content": "AC5是一种灵活的武器,它在射程、功率和性能间取得了平衡. 这些武器通常在中型机甲上才能被发现,是其可靠伤害的主要来源.与所有自动火炮武器一样,AC5在连续射击后也会受到后座的影响.\n\n<b><color=#ffcc00>使用AC5弹药</color></b>."
+    "content": "AC5是一种灵活的武器,它在射程、功率和性能间取得了平衡. 这些武器通常在中型机甲上才能被发现,是其可靠伤害的主要来源.与所有自动火炮武器一样,AC5在连续射击后也会受到后座的影响.\r\n\r\n<b><color=#ffcc00>使用AC5弹药</color></b>."
   },
   {
     "id": "Weapon_Autocannon_AC5_0-STOCK.Description.UIName",
@@ -409,7 +409,7 @@
   },
   {
     "id": "Weapon_Autocannon_AC5_1-Defiance.Description.Details",
-    "content": "AC5是一种灵活的武器,它在射程、功率和性能间取得了平衡. 这些武器通常在中型机甲上才能被发现,是其可靠伤害的主要来源.与所有自动火炮武器一样,AC5在连续射击后也会受到后座的影响.\n\n<b><color=#ffcc00>使用AC5弹药</color></b>."
+    "content": "AC5是一种灵活的武器,它在射程、功率和性能间取得了平衡. 这些武器通常在中型机甲上才能被发现,是其可靠伤害的主要来源.与所有自动火炮武器一样,AC5在连续射击后也会受到后座的影响.\r\n\r\n<b><color=#ffcc00>使用AC5弹药</color></b>."
   },
   {
     "id": "Weapon_Autocannon_AC5_1-Defiance.Description.UIName",
@@ -433,7 +433,7 @@
   },
   {
     "id": "Weapon_Autocannon_AC5_1-Federated.Description.Details",
-    "content": "AC5是一种灵活的武器,它在射程、功率和性能间取得了平衡. 这些武器通常在中型机甲上才能被发现,是其可靠伤害的主要来源.与所有自动火炮武器一样,AC5在连续射击后也会受到后座的影响.\n\n<b><color=#ffcc00>使用AC5弹药</color></b>."
+    "content": "AC5是一种灵活的武器,它在射程、功率和性能间取得了平衡. 这些武器通常在中型机甲上才能被发现,是其可靠伤害的主要来源.与所有自动火炮武器一样,AC5在连续射击后也会受到后座的影响.\r\n\r\n<b><color=#ffcc00>使用AC5弹药</color></b>."
   },
   {
     "id": "Weapon_Autocannon_AC5_1-Federated.Description.UIName",
@@ -457,7 +457,7 @@
   },
   {
     "id": "Weapon_Autocannon_AC5_1-Imperator.Description.Details",
-    "content": "AC5是一种灵活的武器,它在射程、功率和性能间取得了平衡. 这些武器通常在中型机甲上才能被发现,是其可靠伤害的主要来源.与所有自动火炮武器一样,AC5在连续射击后也会受到后座的影响.\n\n<b><color=#ffcc00>使用AC5弹药</color></b>."
+    "content": "AC5是一种灵活的武器,它在射程、功率和性能间取得了平衡. 这些武器通常在中型机甲上才能被发现,是其可靠伤害的主要来源.与所有自动火炮武器一样,AC5在连续射击后也会受到后座的影响.\r\n\r\n<b><color=#ffcc00>使用AC5弹药</color></b>."
   },
   {
     "id": "Weapon_Autocannon_AC5_1-Imperator.Description.UIName",
@@ -481,7 +481,7 @@
   },
   {
     "id": "Weapon_Autocannon_AC5_1-Kali_Yama.Description.Details",
-    "content": "AC5是一种灵活的武器,它在射程、功率和性能间取得了平衡. 这些武器通常在中型机甲上才能被发现,是其可靠伤害的主要来源.与所有自动火炮武器一样,AC5在连续射击后也会受到后座的影响.\n\n<b><color=#ffcc00>使用AC5弹药</color></b>."
+    "content": "AC5是一种灵活的武器,它在射程、功率和性能间取得了平衡. 这些武器通常在中型机甲上才能被发现,是其可靠伤害的主要来源.与所有自动火炮武器一样,AC5在连续射击后也会受到后座的影响.\r\n\r\n<b><color=#ffcc00>使用AC5弹药</color></b>."
   },
   {
     "id": "Weapon_Autocannon_AC5_1-Kali_Yama.Description.UIName",
@@ -505,7 +505,7 @@
   },
   {
     "id": "Weapon_Autocannon_AC5_2-Mydron.Description.Details",
-    "content": "AC5是一种灵活的武器,它在射程、功率和性能间取得了平衡. 这些武器通常在中型机甲上才能被发现,是其可靠伤害的主要来源.与所有自动火炮武器一样,AC5在连续射击后也会受到后座的影响.\n\n<b><color=#ffcc00>使用AC5弹药</color></b>."
+    "content": "AC5是一种灵活的武器,它在射程、功率和性能间取得了平衡. 这些武器通常在中型机甲上才能被发现,是其可靠伤害的主要来源.与所有自动火炮武器一样,AC5在连续射击后也会受到后座的影响.\r\n\r\n<b><color=#ffcc00>使用AC5弹药</color></b>."
   },
   {
     "id": "Weapon_Autocannon_AC5_2-Mydron.Description.UIName",
@@ -577,7 +577,7 @@
   },
   {
     "id": "Weapon_Gauss_Gauss_0-STOCK.Description.Details",
-    "content": "高斯线膛炮使用电磁电荷以极高的速度发射金属子弹,单靠动能造成巨大的伤害.\n\n<b><color=#ffcc00>使用高斯弹药</color></b>\n\n<b><color=#099ff2>不稳定!</color></b>"
+    "content": "高斯线膛炮使用电磁电荷以极高的速度发射金属子弹,单靠动能造成巨大的伤害.\r\n\r\n<b><color=#ffcc00>使用高斯弹药</color></b>\r\n\r\n<b><color=#099ff2>不稳定!</color></b>"
   },
   {
     "id": "Weapon_Gauss_Gauss_0-STOCK.Description.UIName",
@@ -601,7 +601,7 @@
   },
   {
     "id": "Weapon_Gauss_Gauss_1-M7.Description.Details",
-    "content": "高斯线膛炮使用电磁电荷以极高的速度发射金属子弹,单靠动能造成巨大的伤害.和自动炮不同,高斯线膛炮不会受到射击后座率的影响,并具有基线精度奖励.\n\n<b><color=#ffcc00>使用高斯弹药</color></b>\n\n<b><color=#099ff2>不稳定!</color></b>"
+    "content": "高斯线膛炮使用电磁电荷以极高的速度发射金属子弹,单靠动能造成巨大的伤害.和自动炮不同,高斯线膛炮不会受到射击后座率的影响,并具有基线精度奖励.\r\n\r\n<b><color=#ffcc00>使用高斯弹药</color></b>\r\n\r\n<b><color=#099ff2>不稳定!</color></b>"
   },
   {
     "id": "Weapon_Gauss_Gauss_1-M7.Description.UIName",
@@ -625,7 +625,7 @@
   },
   {
     "id": "Weapon_Gauss_Gauss_2-M9.Description.Details",
-    "content": "高斯线膛炮使用电磁电荷以极高的速度发射金属子弹,单靠动能造成巨大的伤害.和自动炮不同,高斯线膛炮不会受到射击后座率的影响,并具有基线精度奖励.\n\n<b><color=#ffcc00>使用高斯弹药</color></b>\n\n<b><color=#099ff2>不稳定!</color></b>"
+    "content": "高斯线膛炮使用电磁电荷以极高的速度发射金属子弹,单靠动能造成巨大的伤害.和自动炮不同,高斯线膛炮不会受到射击后座率的影响,并具有基线精度奖励.\r\n\r\n<b><color=#ffcc00>使用高斯弹药</color></b>\r\n\r\n<b><color=#099ff2>不稳定!</color></b>"
   },
   {
     "id": "Weapon_Gauss_Gauss_2-M9.Description.UIName",
@@ -1241,7 +1241,7 @@
   },
   {
     "id": "Weapon_LRM_LRM10_0-STOCK.Description.Details",
-    "content": "远程导弹发射器(LRM)10安装在大多数单位上时起到了辅助火力作用,通过低热耗和弹药消耗来平衡相当低的伤害. 与所有LRM一样,LRM10能够在侦察单位帮助下越过障碍物和地形间瞄射击.LRM可以通过使用专用弹药承担多种角色.\n\n<b><color=#00ffff>左击射击模式可以切换到热负合模式(HL).HL导弹没有最低射程,但可能会失火,损坏发射器</color></b>"
+    "content": "远程导弹发射器(LRM)10安装在大多数单位上时起到了辅助火力作用,通过低热耗和弹药消耗来平衡相当低的伤害. 与所有LRM一样,LRM10能够在侦察单位帮助下越过障碍物和地形间瞄射击.LRM可以通过使用专用弹药承担多种角色.\r\n\r\n<b><color=#00ffff>左击射击模式可以切换到热负合模式(HL).HL导弹没有最低射程,但可能会失火,损坏发射器</color></b>"
   },
   {
     "id": "Weapon_LRM_LRM10_0-STOCK.Description.UIName",
@@ -1265,7 +1265,7 @@
   },
   {
     "id": "Weapon_LRM_LRM10_1-Delta.Description.Details",
-    "content": "远程导弹发射器(LRM)10安装在大多数单位上时起到了辅助火力作用,通过低热耗和弹药消耗来平衡相当低的伤害. 与所有LRM一样,LRM10能够在侦察单位帮助下越过障碍物和地形间瞄射击.LRM可以通过使用专用弹药承担多种角色.\n\n<b><color=#00ffff>左击射击模式可以切换到热负合模式(HL).HL导弹没有最低射程,但可能会失火,损坏发射器</color></b>"
+    "content": "远程导弹发射器(LRM)10安装在大多数单位上时起到了辅助火力作用,通过低热耗和弹药消耗来平衡相当低的伤害. 与所有LRM一样,LRM10能够在侦察单位帮助下越过障碍物和地形间瞄射击.LRM可以通过使用专用弹药承担多种角色.\r\n\r\n<b><color=#00ffff>左击射击模式可以切换到热负合模式(HL).HL导弹没有最低射程,但可能会失火,损坏发射器</color></b>"
   },
   {
     "id": "Weapon_LRM_LRM10_1-Delta.Description.UIName",
@@ -1289,7 +1289,7 @@
   },
   {
     "id": "Weapon_LRM_LRM10_1-LongFire.Description.Details",
-    "content": "远程导弹发射器(LRM)10安装在大多数单位上时起到了辅助火力作用,通过低热耗和弹药消耗来平衡相当低的伤害. 与所有LRM一样,LRM10能够在侦察单位帮助下越过障碍物和地形间瞄射击.LRM可以通过使用专用弹药承担多种角色.\n\n<b><color=#00ffff>左击射击模式可以切换到热负合模式(HL).HL导弹没有最低射程,但可能会失火,损坏发射器</color></b>"
+    "content": "远程导弹发射器(LRM)10安装在大多数单位上时起到了辅助火力作用,通过低热耗和弹药消耗来平衡相当低的伤害. 与所有LRM一样,LRM10能够在侦察单位帮助下越过障碍物和地形间瞄射击.LRM可以通过使用专用弹药承担多种角色.\r\n\r\n<b><color=#00ffff>左击射击模式可以切换到热负合模式(HL).HL导弹没有最低射程,但可能会失火,损坏发射器</color></b>"
   },
   {
     "id": "Weapon_LRM_LRM10_1-LongFire.Description.UIName",
@@ -1313,7 +1313,7 @@
   },
   {
     "id": "Weapon_LRM_LRM10_1-Telos.Description.Details",
-    "content": "远程导弹发射器(LRM)10安装在大多数单位上时起到了辅助火力作用,通过低热耗和弹药消耗来平衡相当低的伤害. 与所有LRM一样,LRM10能够在侦察单位帮助下越过障碍物和地形间瞄射击.LRM可以通过使用专用弹药承担多种角色.\n\n<b><color=#00ffff>左击射击模式可以切换到热负合模式(HL).HL导弹没有最低射程,但可能会失火,损坏发射器</color></b>"
+    "content": "远程导弹发射器(LRM)10安装在大多数单位上时起到了辅助火力作用,通过低热耗和弹药消耗来平衡相当低的伤害. 与所有LRM一样,LRM10能够在侦察单位帮助下越过障碍物和地形间瞄射击.LRM可以通过使用专用弹药承担多种角色.\r\n\r\n<b><color=#00ffff>左击射击模式可以切换到热负合模式(HL).HL导弹没有最低射程,但可能会失火,损坏发射器</color></b>"
   },
   {
     "id": "Weapon_LRM_LRM10_1-Telos.Description.UIName",
@@ -1337,7 +1337,7 @@
   },
   {
     "id": "Weapon_LRM_LRM10_2-Zeus.Description.Details",
-    "content": "远程导弹发射器(LRM)10安装在大多数单位上时起到了辅助火力作用,通过低热耗和弹药消耗来平衡相当低的伤害. 与所有LRM一样,LRM10能够在侦察单位帮助下越过障碍物和地形间瞄射击.LRM可以通过使用专用弹药承担多种角色.\n\n<b><color=#00ffff>左击射击模式可以切换到热负合模式(HL).HL导弹没有最低射程,但可能会失火,损坏发射器</color></b>"
+    "content": "远程导弹发射器(LRM)10安装在大多数单位上时起到了辅助火力作用,通过低热耗和弹药消耗来平衡相当低的伤害. 与所有LRM一样,LRM10能够在侦察单位帮助下越过障碍物和地形间瞄射击.LRM可以通过使用专用弹药承担多种角色.\r\n\r\n<b><color=#00ffff>左击射击模式可以切换到热负合模式(HL).HL导弹没有最低射程,但可能会失火,损坏发射器</color></b>"
   },
   {
     "id": "Weapon_LRM_LRM10_2-Zeus.Description.UIName",
@@ -1361,7 +1361,7 @@
   },
   {
     "id": "Weapon_LRM_LRM15_0-STOCK.Description.Details",
-    "content": "LRM15远程导弹(LRM)架在远距射程上造成巨大的破坏和稳定性影响,通常成对出现在间接火力支援单位上. 与所有LRM一样,LRM15能够在侦察单位帮助下越过障碍物和地形间瞄射击.\n\n<b><color=#00ffff>左击射击模式可以切换到热负合模式(HL).HL导弹没有最低射程,但可能会失火,损坏发射器</color> </b>."
+    "content": "LRM15远程导弹(LRM)架在远距射程上造成巨大的破坏和稳定性影响,通常成对出现在间接火力支援单位上. 与所有LRM一样,LRM15能够在侦察单位帮助下越过障碍物和地形间瞄射击.\r\n\r\n<b><color=#00ffff>左击射击模式可以切换到热负合模式(HL).HL导弹没有最低射程,但可能会失火,损坏发射器</color> </b>."
   },
   {
     "id": "Weapon_LRM_LRM15_0-STOCK.Description.UIName",
@@ -1385,7 +1385,7 @@
   },
   {
     "id": "Weapon_LRM_LRM15_1-Delta.Description.Details",
-    "content": "LRM15远程导弹(LRM)架在远距射程上造成巨大的破坏和稳定性影响,通常成对出现在间接火力支援单位上. 与所有LRM一样,LRM15能够在侦察单位帮助下越过障碍物和地形间瞄射击.\n\n<b><color=#00ffff>左击射击模式可以切换到热负合模式(HL).HL导弹没有最低射程,但可能会失火,损坏发射器</color> </b>."
+    "content": "LRM15远程导弹(LRM)架在远距射程上造成巨大的破坏和稳定性影响,通常成对出现在间接火力支援单位上. 与所有LRM一样,LRM15能够在侦察单位帮助下越过障碍物和地形间瞄射击.\r\n\r\n<b><color=#00ffff>左击射击模式可以切换到热负合模式(HL).HL导弹没有最低射程,但可能会失火,损坏发射器</color> </b>."
   },
   {
     "id": "Weapon_LRM_LRM15_1-Delta.Description.UIName",
@@ -1409,7 +1409,7 @@
   },
   {
     "id": "Weapon_LRM_LRM15_1-LongFire.Description.Details",
-    "content": "LRM15远程导弹(LRM)架在远距射程上造成巨大的破坏和稳定性影响,通常成对出现在间接火力支援单位上. 与所有LRM一样,LRM15能够在侦察单位帮助下越过障碍物和地形间瞄射击.\n\n<b><color=#00ffff>左击射击模式可以切换到热负合模式(HL).HL导弹没有最低射程,但可能会失火,损坏发射器</color> </b>."
+    "content": "LRM15远程导弹(LRM)架在远距射程上造成巨大的破坏和稳定性影响,通常成对出现在间接火力支援单位上. 与所有LRM一样,LRM15能够在侦察单位帮助下越过障碍物和地形间瞄射击.\r\n\r\n<b><color=#00ffff>左击射击模式可以切换到热负合模式(HL).HL导弹没有最低射程,但可能会失火,损坏发射器</color> </b>."
   },
   {
     "id": "Weapon_LRM_LRM15_1-LongFire.Description.UIName",
@@ -1433,7 +1433,7 @@
   },
   {
     "id": "Weapon_LRM_LRM15_1-Telos.Description.Details",
-    "content": "LRM15远程导弹(LRM)架在远距射程上造成巨大的破坏和稳定性影响,通常成对出现在间接火力支援单位上. 与所有LRM一样,LRM15能够在侦察单位帮助下越过障碍物和地形间瞄射击.\n\n<b><color=#00ffff>左击射击模式可以切换到热负合模式(HL).HL导弹没有最低射程,但可能会失火,损坏发射器</color> </b>."
+    "content": "LRM15远程导弹(LRM)架在远距射程上造成巨大的破坏和稳定性影响,通常成对出现在间接火力支援单位上. 与所有LRM一样,LRM15能够在侦察单位帮助下越过障碍物和地形间瞄射击.\r\n\r\n<b><color=#00ffff>左击射击模式可以切换到热负合模式(HL).HL导弹没有最低射程,但可能会失火,损坏发射器</color> </b>."
   },
   {
     "id": "Weapon_LRM_LRM15_1-Telos.Description.UIName",
@@ -1457,7 +1457,7 @@
   },
   {
     "id": "Weapon_LRM_LRM15_2-Zeus.Description.Details",
-    "content": "LRM15远程导弹(LRM)架在远距射程上造成巨大的破坏和稳定性影响,通常成对出现在间接火力支援单位上. 与所有LRM一样,LRM15能够在侦察单位帮助下越过障碍物和地形间瞄射击.\n\n<b><color=#00ffff>左击射击模式可以切换到热负合模式(HL).HL导弹没有最低射程,但可能会失火,损坏发射器</color> </b>."
+    "content": "LRM15远程导弹(LRM)架在远距射程上造成巨大的破坏和稳定性影响,通常成对出现在间接火力支援单位上. 与所有LRM一样,LRM15能够在侦察单位帮助下越过障碍物和地形间瞄射击.\r\n\r\n<b><color=#00ffff>左击射击模式可以切换到热负合模式(HL).HL导弹没有最低射程,但可能会失火,损坏发射器</color> </b>."
   },
   {
     "id": "Weapon_LRM_LRM15_2-Zeus.Description.UIName",
@@ -1481,7 +1481,7 @@
   },
   {
     "id": "Weapon_LRM_LRM20_0-STOCK.Description.Details",
-    "content": "LRM20远程导弹(LRM)架通常作为较重单位的辅助武器,在适宜的射程可以造成相当大的伤害. 使用弹药一口口咬向目标. 与所有LRM一样,LRM20能够在侦察单位帮助下越过障碍物和地形间瞄射击.LRM可以通过使用专用弹药承担多种角色.\n\n<b><color=#00ffff>左击射击模式可以切换到热负合模式(HL).HL导弹没有最低射程,但可能会失火,损坏发射器</color> </b>."
+    "content": "LRM20远程导弹(LRM)架通常作为较重单位的辅助武器,在适宜的射程可以造成相当大的伤害. 使用弹药一口口咬向目标. 与所有LRM一样,LRM20能够在侦察单位帮助下越过障碍物和地形间瞄射击.LRM可以通过使用专用弹药承担多种角色.\r\n\r\n<b><color=#00ffff>左击射击模式可以切换到热负合模式(HL).HL导弹没有最低射程,但可能会失火,损坏发射器</color> </b>."
   },
   {
     "id": "Weapon_LRM_LRM20_0-STOCK.Description.UIName",
@@ -1505,7 +1505,7 @@
   },
   {
     "id": "Weapon_LRM_LRM20_1-Delta.Description.Details",
-    "content": "LRM20远程导弹(LRM)架通常作为较重单位的辅助武器,在适宜的射程可以造成相当大的伤害. 使用弹药一口口咬向目标. 与所有LRM一样,LRM20能够在侦察单位帮助下越过障碍物和地形间瞄射击.LRM可以通过使用专用弹药承担多种角色.\n\n<b><color=#00ffff>左击射击模式可以切换到热负合模式(HL).HL导弹没有最低射程,但可能会失火,损坏发射器</color> </b>."
+    "content": "LRM20远程导弹(LRM)架通常作为较重单位的辅助武器,在适宜的射程可以造成相当大的伤害. 使用弹药一口口咬向目标. 与所有LRM一样,LRM20能够在侦察单位帮助下越过障碍物和地形间瞄射击.LRM可以通过使用专用弹药承担多种角色.\r\n\r\n<b><color=#00ffff>左击射击模式可以切换到热负合模式(HL).HL导弹没有最低射程,但可能会失火,损坏发射器</color> </b>."
   },
   {
     "id": "Weapon_LRM_LRM20_1-Delta.Description.UIName",
@@ -1529,7 +1529,7 @@
   },
   {
     "id": "Weapon_LRM_LRM20_1-LongFire.Description.Details",
-    "content": "LRM20远程导弹(LRM)架通常作为较重单位的辅助武器,在适宜的射程可以造成相当大的伤害. 使用弹药一口口咬向目标. 与所有LRM一样,LRM20能够在侦察单位帮助下越过障碍物和地形间瞄射击.LRM可以通过使用专用弹药承担多种角色.\n\n<b><color=#00ffff>左击射击模式可以切换到热负合模式(HL).HL导弹没有最低射程,但可能会失火,损坏发射器</color> </b>."
+    "content": "LRM20远程导弹(LRM)架通常作为较重单位的辅助武器,在适宜的射程可以造成相当大的伤害. 使用弹药一口口咬向目标. 与所有LRM一样,LRM20能够在侦察单位帮助下越过障碍物和地形间瞄射击.LRM可以通过使用专用弹药承担多种角色.\r\n\r\n<b><color=#00ffff>左击射击模式可以切换到热负合模式(HL).HL导弹没有最低射程,但可能会失火,损坏发射器</color> </b>."
   },
   {
     "id": "Weapon_LRM_LRM20_1-LongFire.Description.UIName",
@@ -1553,7 +1553,7 @@
   },
   {
     "id": "Weapon_LRM_LRM20_1-Telos.Description.Details",
-    "content": "LRM20远程导弹(LRM)架通常作为较重单位的辅助武器,在适宜的射程可以造成相当大的伤害. 使用弹药一口口咬向目标. 与所有LRM一样,LRM20能够在侦察单位帮助下越过障碍物和地形间瞄射击.LRM可以通过使用专用弹药承担多种角色.\n\n<b><color=#00ffff>左击射击模式可以切换到热负合模式(HL).HL导弹没有最低射程,但可能会失火,损坏发射器</color> </b>."
+    "content": "LRM20远程导弹(LRM)架通常作为较重单位的辅助武器,在适宜的射程可以造成相当大的伤害. 使用弹药一口口咬向目标. 与所有LRM一样,LRM20能够在侦察单位帮助下越过障碍物和地形间瞄射击.LRM可以通过使用专用弹药承担多种角色.\r\n\r\n<b><color=#00ffff>左击射击模式可以切换到热负合模式(HL).HL导弹没有最低射程,但可能会失火,损坏发射器</color> </b>."
   },
   {
     "id": "Weapon_LRM_LRM20_1-Telos.Description.UIName",
@@ -1577,7 +1577,7 @@
   },
   {
     "id": "Weapon_LRM_LRM20_2-Zeus.Description.Details",
-    "content": "LRM20远程导弹(LRM)架通常作为较重单位的辅助武器,在适宜的射程可以造成相当大的伤害. 使用弹药一口口咬向目标. 与所有LRM一样,LRM20能够在侦察单位帮助下越过障碍物和地形间瞄射击.LRM可以通过使用专用弹药承担多种角色.\n\n<b><color=#00ffff>左击射击模式可以切换到热负合模式(HL).HL导弹没有最低射程,但可能会失火,损坏发射器</color> </b>."
+    "content": "LRM20远程导弹(LRM)架通常作为较重单位的辅助武器,在适宜的射程可以造成相当大的伤害. 使用弹药一口口咬向目标. 与所有LRM一样,LRM20能够在侦察单位帮助下越过障碍物和地形间瞄射击.LRM可以通过使用专用弹药承担多种角色.\r\n\r\n<b><color=#00ffff>左击射击模式可以切换到热负合模式(HL).HL导弹没有最低射程,但可能会失火,损坏发射器</color> </b>."
   },
   {
     "id": "Weapon_LRM_LRM20_2-Zeus.Description.UIName",
@@ -1601,7 +1601,7 @@
   },
   {
     "id": "Weapon_LRM_LRM5_0-STOCK.Description.Details",
-    "content": "LRM是远程导弹中最小的一种,效率很高,往往用作骚扰武器. 与所有LRM一样,LRM5能够在侦察单位帮助下越过障碍物和地形间瞄射击.LRM可以通过使用专用弹药承担多种角色.\n\n<b><color=#00ffff>左击射击模式可以切换到热负合模式(HL).HL导弹没有最低射程,但可能会失火,损坏发射器</color></b>."
+    "content": "LRM是远程导弹中最小的一种,效率很高,往往用作骚扰武器. 与所有LRM一样,LRM5能够在侦察单位帮助下越过障碍物和地形间瞄射击.LRM可以通过使用专用弹药承担多种角色.\r\n\r\n<b><color=#00ffff>左击射击模式可以切换到热负合模式(HL).HL导弹没有最低射程,但可能会失火,损坏发射器</color></b>."
   },
   {
     "id": "Weapon_LRM_LRM5_0-STOCK.Description.UIName",
@@ -1625,7 +1625,7 @@
   },
   {
     "id": "Weapon_LRM_LRM5_1-Delta.Description.Details",
-    "content": "LRM是远程导弹中最小的一种,效率很高,往往用作骚扰武器. 与所有LRM一样,LRM5能够在侦察单位帮助下越过障碍物和地形间瞄射击.LRM可以通过使用专用弹药承担多种角色.\n\n<b><color=#00ffff>左击射击模式可以切换到热负合模式(HL).HL导弹没有最低射程,但可能会失火,损坏发射器</color></b>."
+    "content": "LRM是远程导弹中最小的一种,效率很高,往往用作骚扰武器. 与所有LRM一样,LRM5能够在侦察单位帮助下越过障碍物和地形间瞄射击.LRM可以通过使用专用弹药承担多种角色.\r\n\r\n<b><color=#00ffff>左击射击模式可以切换到热负合模式(HL).HL导弹没有最低射程,但可能会失火,损坏发射器</color></b>."
   },
   {
     "id": "Weapon_LRM_LRM5_1-Delta.Description.UIName",
@@ -1649,7 +1649,7 @@
   },
   {
     "id": "Weapon_LRM_LRM5_1-LongFire.Description.Details",
-    "content": "LRM是远程导弹中最小的一种,效率很高,往往用作骚扰武器. 与所有LRM一样,LRM5能够在侦察单位帮助下越过障碍物和地形间瞄射击.LRM可以通过使用专用弹药承担多种角色.\n\n<b><color=#00ffff>左击射击模式可以切换到热负合模式(HL).HL导弹没有最低射程,但可能会失火,损坏发射器</color></b>."
+    "content": "LRM是远程导弹中最小的一种,效率很高,往往用作骚扰武器. 与所有LRM一样,LRM5能够在侦察单位帮助下越过障碍物和地形间瞄射击.LRM可以通过使用专用弹药承担多种角色.\r\n\r\n<b><color=#00ffff>左击射击模式可以切换到热负合模式(HL).HL导弹没有最低射程,但可能会失火,损坏发射器</color></b>."
   },
   {
     "id": "Weapon_LRM_LRM5_1-LongFire.Description.UIName",
@@ -1673,7 +1673,7 @@
   },
   {
     "id": "Weapon_LRM_LRM5_1-Telos.Description.Details",
-    "content": "LRM是远程导弹中最小的一种,效率很高,往往用作骚扰武器. 与所有LRM一样,LRM5能够在侦察单位帮助下越过障碍物和地形间瞄射击.LRM可以通过使用专用弹药承担多种角色.\n\n<b><color=#00ffff>左击射击模式可以切换到热负合模式(HL).HL导弹没有最低射程,但可能会失火,损坏发射器</color></b>."
+    "content": "LRM是远程导弹中最小的一种,效率很高,往往用作骚扰武器. 与所有LRM一样,LRM5能够在侦察单位帮助下越过障碍物和地形间瞄射击.LRM可以通过使用专用弹药承担多种角色.\r\n\r\n<b><color=#00ffff>左击射击模式可以切换到热负合模式(HL).HL导弹没有最低射程,但可能会失火,损坏发射器</color></b>."
   },
   {
     "id": "Weapon_LRM_LRM5_1-Telos.Description.UIName",
@@ -1697,7 +1697,7 @@
   },
   {
     "id": "Weapon_LRM_LRM5_2-Zeus.Description.Details",
-    "content": "LRM是远程导弹中最小的一种,效率很高,往往用作骚扰武器. 与所有LRM一样,LRM5能够在侦察单位帮助下越过障碍物和地形间瞄射击.LRM可以通过使用专用弹药承担多种角色.\n\n<b><color=#00ffff>左击射击模式可以切换到热负合模式(HL).HL导弹没有最低射程,但可能会失火,损坏发射器</color></b>."
+    "content": "LRM是远程导弹中最小的一种,效率很高,往往用作骚扰武器. 与所有LRM一样,LRM5能够在侦察单位帮助下越过障碍物和地形间瞄射击.LRM可以通过使用专用弹药承担多种角色.\r\n\r\n<b><color=#00ffff>左击射击模式可以切换到热负合模式(HL).HL导弹没有最低射程,但可能会失火,损坏发射器</color></b>."
   },
   {
     "id": "Weapon_LRM_LRM5_2-Zeus.Description.UIName",
@@ -1721,7 +1721,7 @@
   },
   {
     "id": "Weapon_MachineGun_MachineGun_0-STOCK.Description.Details",
-    "content": "机枪造成的伤害非常低,射程非常有限,并且依赖于不稳定的弹药. 然而,当他们撞击已剥去装甲的目标时,造成严重损伤的机率大大增加.\n\n<b><color=#ffcc00>使用机枪弹药</color></b>. "
+    "content": "机枪造成的伤害非常低,射程非常有限,并且依赖于不稳定的弹药. 然而,当他们撞击已剥去装甲的目标时,造成严重损伤的机率大大增加.\r\n\r\n<b><color=#ffcc00>使用机枪弹药</color></b>. "
   },
   {
     "id": "Weapon_MachineGun_MachineGun_0-STOCK.Description.UIName",
@@ -1833,7 +1833,7 @@
   },
   {
     "id": "Weapon_PPC_PPC_0-STOCK.Description.Details",
-    "content": "粒子投射炮(PPC)向目标发射通电电流,对目标造成巨大破坏和稳定影响. 然而,这伴随着强烈的发热和笨重的体积重量. PPC还会产生轻微的电磁场,降低其目标的瞄准能力.\n\n<b><color=#00ffff>在战斗中左键点击以切换到场抑制器关闭(FIOFF)模式,没有最低射程惩罚,但可能失火</color></b>."
+    "content": "粒子投射炮(PPC)向目标发射通电电流,对目标造成巨大破坏和稳定影响. 然而,这伴随着强烈的发热和笨重的体积重量. PPC还会产生轻微的电磁场,降低其目标的瞄准能力.\r\n\r\n<b><color=#00ffff>在战斗中左键点击以切换到场抑制器关闭(FIOFF)模式,没有最低射程惩罚,但可能失火</color></b>."
   },
   {
     "id": "Weapon_PPC_PPC_0-STOCK.Description.UIName",
@@ -1865,7 +1865,7 @@
   },
   {
     "id": "Weapon_PPC_PPC_1-Ceres_Arms.Description.Details",
-    "content": "粒子投射炮(PPC)向目标发射通电电流,对目标造成巨大破坏和稳定影响. 然而,这伴随着强烈的发热和笨重的体积重量. PPC还会产生轻微的电磁场,降低其目标的瞄准能力.\n\n<b><color=#00ffff>在战斗中左键点击以切换到场抑制器关闭(FIOFF)模式,没有最低射程惩罚,但可能失火</color></b>."
+    "content": "粒子投射炮(PPC)向目标发射通电电流,对目标造成巨大破坏和稳定影响. 然而,这伴随着强烈的发热和笨重的体积重量. PPC还会产生轻微的电磁场,降低其目标的瞄准能力.\r\n\r\n<b><color=#00ffff>在战斗中左键点击以切换到场抑制器关闭(FIOFF)模式,没有最低射程惩罚,但可能失火</color></b>."
   },
   {
     "id": "Weapon_PPC_PPC_1-Ceres_Arms.Description.UIName",
@@ -1897,7 +1897,7 @@
   },
   {
     "id": "Weapon_PPC_PPC_1-Donal.Description.Details",
-    "content": "粒子投射炮(PPC)向目标发射通电电流,对目标造成巨大破坏和稳定影响. 然而,这伴随着强烈的发热和笨重的体积重量. PPC还会产生轻微的电磁场,降低其目标的瞄准能力.\n\n<b><color=#00ffff>在战斗中左键点击以切换到场抑制器关闭(FIOFF)模式,没有最低射程惩罚,但可能失火</color></b>."
+    "content": "粒子投射炮(PPC)向目标发射通电电流,对目标造成巨大破坏和稳定影响. 然而,这伴随着强烈的发热和笨重的体积重量. PPC还会产生轻微的电磁场,降低其目标的瞄准能力.\r\n\r\n<b><color=#00ffff>在战斗中左键点击以切换到场抑制器关闭(FIOFF)模式,没有最低射程惩罚,但可能失火</color></b>."
   },
   {
     "id": "Weapon_PPC_PPC_1-Donal.Description.UIName",
@@ -1929,7 +1929,7 @@
   },
   {
     "id": "Weapon_PPC_PPC_1-Tiegart.Description.Details",
-    "content": "粒子投射炮(PPC)向目标发射通电电流,对目标造成巨大破坏和稳定影响. 然而,这伴随着强烈的发热和笨重的体积重量. PPC还会产生轻微的电磁场,降低其目标的瞄准能力.\n\n<b><color=#00ffff>在战斗中左键点击以切换到场抑制器关闭(FIOFF)模式,没有最低射程惩罚,但可能失火</color></b>."
+    "content": "粒子投射炮(PPC)向目标发射通电电流,对目标造成巨大破坏和稳定影响. 然而,这伴随着强烈的发热和笨重的体积重量. PPC还会产生轻微的电磁场,降低其目标的瞄准能力.\r\n\r\n<b><color=#00ffff>在战斗中左键点击以切换到场抑制器关闭(FIOFF)模式,没有最低射程惩罚,但可能失火</color></b>."
   },
   {
     "id": "Weapon_PPC_PPC_1-Tiegart.Description.UIName",
@@ -1961,7 +1961,7 @@
   },
   {
     "id": "Weapon_PPC_PPC_3-Defiance.Description.Details",
-    "content": "粒子投射炮(PPC)向目标发射通电电流,对目标造成巨大破坏和稳定影响. 然而,这伴随着强烈的发热和笨重的体积重量. PPC还会产生轻微的电磁场,降低其目标的瞄准能力.\n\n<b><color=#00ffff>在战斗中左键点击以切换到场抑制器关闭(FIOFF)模式,没有最低射程惩罚,但可能失火</color></b>."
+    "content": "粒子投射炮(PPC)向目标发射通电电流,对目标造成巨大破坏和稳定影响. 然而,这伴随着强烈的发热和笨重的体积重量. PPC还会产生轻微的电磁场,降低其目标的瞄准能力.\r\n\r\n<b><color=#00ffff>在战斗中左键点击以切换到场抑制器关闭(FIOFF)模式,没有最低射程惩罚,但可能失火</color></b>."
   },
   {
     "id": "Weapon_PPC_PPC_3-Defiance.Description.UIName",

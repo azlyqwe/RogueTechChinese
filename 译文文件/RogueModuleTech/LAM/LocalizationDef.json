@@ -249,7 +249,7 @@
   },
   {
     "id": "LAM_WingMount.Description.Details",
-    "content": "能够容纳更换多种弹药的陆空机甲外部挂载点系统.\n\n<b><color=#ff0066>该武器所有的状态都来自其装载的弹药</color></b> \n\n<b><color=#ff0066>需要特殊糟和(HP)弹药</color></b>."
+    "content": "能够容纳更换多种弹药的陆空机甲外部挂载点系统.\r\n\r\n<b><color=#ff0066>该武器所有的状态都来自其装载的弹药</color></b> \r\n\r\n<b><color=#ff0066>需要特殊糟和(HP)弹药</color></b>."
   },
   {
     "id": "LAM_WingMount.Description.UIName",
@@ -1105,7 +1105,7 @@
   },
   {
     "id": "LAM_Engine.Description.Details",
-    "content": "陆空机甲(LAM)引擎提供了一个特殊的能量概念.使机甲能够转变为地效机翼(WiGE)单位.\n<b><color=#ff0066>单位可以在陆空机甲(LAM)模式和普通机甲(Mech)模式切换.</color></b> \n\n<b><color=#ff0066>陆空机甲(LAM)模式:机甲会悬停在战场上,机甲的行走速度转换为飞行速度.</color></b> \n\n<b><color=#ff0066>LAM涡轮在飞行中提供额外的\"行走\"速度.</color></b> \n\n<b><color=#ff0066>在LAM模式下,机甲可以以增加热量(\"加力\")为代价下进行超长距离跳跃.</color></b> \n\n<b><color=#ff0066>在LAM模式下,机甲不会受到地形地面的影响</color></b>."
+    "content": "陆空机甲(LAM)引擎提供了一个特殊的能量概念.使机甲能够转变为地效机翼(WiGE)单位.\r\n<b><color=#ff0066>单位可以在陆空机甲(LAM)模式和普通机甲(Mech)模式切换.</color></b> \r\n\r\n<b><color=#ff0066>陆空机甲(LAM)模式:机甲会悬停在战场上,机甲的行走速度转换为飞行速度.</color></b> \r\n\r\n<b><color=#ff0066>LAM涡轮在飞行中提供额外的\"行走\"速度.</color></b> \r\n\r\n<b><color=#ff0066>在LAM模式下,机甲可以以增加热量(\"加力\")为代价下进行超长距离跳跃.</color></b> \r\n\r\n<b><color=#ff0066>在LAM模式下,机甲不会受到地形地面的影响</color></b>."
   },
   {
     "id": "LAM_Engine.Description.UIName",
@@ -1121,7 +1121,7 @@
   },
   {
     "id": "LAM_Engine_XL.Description.Details",
-    "content": "陆空机甲(LAM)引擎提供了一个特殊的能量概念.使机甲能够转变为地效机翼(WiGE)单位.\n<b><color=#ff0066>单位可以在陆空机甲(LAM)模式和普通机甲(Mech)模式切换.</color></b> \n\n<b><color=#ff0066>陆空机甲(LAM)模式:机甲会悬停在战场上,机甲的行走速度转换为飞行速度.</color></b> \n\n<b><color=#ff0066>LAM涡轮在飞行中提供额外的\"行走\"速度.</color></b> \n\n<b><color=#ff0066>在LAM模式下,机甲可以以增加热量(\"加力\")为代价下进行超长距离跳跃.</color></b> \n\n<b><color=#ff0066>在LAM模式下,机甲不会受到地形地面的影响</color></b>."
+    "content": "陆空机甲(LAM)引擎提供了一个特殊的能量概念.使机甲能够转变为地效机翼(WiGE)单位.\r\n<b><color=#ff0066>单位可以在陆空机甲(LAM)模式和普通机甲(Mech)模式切换.</color></b> \r\n\r\n<b><color=#ff0066>陆空机甲(LAM)模式:机甲会悬停在战场上,机甲的行走速度转换为飞行速度.</color></b> \r\n\r\n<b><color=#ff0066>LAM涡轮在飞行中提供额外的\"行走\"速度.</color></b> \r\n\r\n<b><color=#ff0066>在LAM模式下,机甲可以以增加热量(\"加力\")为代价下进行超长距离跳跃.</color></b> \r\n\r\n<b><color=#ff0066>在LAM模式下,机甲不会受到地形地面的影响</color></b>."
   },
   {
     "id": "LAM_Engine_XL.Description.UIName",
@@ -1137,7 +1137,7 @@
   },
   {
     "id": "LAM_Engine_XXLC.Description.Details",
-    "content": "陆空机甲(LAM)引擎提供了一个特殊的能量概念.使机甲能够转变为地效机翼(WiGE)单位.\n<b><color=#ff0066>单位可以在陆空机甲(LAM)模式和普通机甲(Mech)模式切换.</color></b> \n\n<b><color=#ff0066>陆空机甲(LAM)模式:机甲会悬停在战场上,机甲的行走速度转换为飞行速度.</color></b> \n\n<b><color=#ff0066>LAM涡轮在飞行中提供额外的\"行走\"速度.</color></b> \n\n<b><color=#ff0066>在LAM模式下,机甲可以以增加热量(\"加力\")为代价下进行超长距离跳跃.</color></b> \n\n<b><color=#ff0066>在LAM模式下,机甲不会受到地形地面的影响</color></b>."
+    "content": "陆空机甲(LAM)引擎提供了一个特殊的能量概念.使机甲能够转变为地效机翼(WiGE)单位.\r\n<b><color=#ff0066>单位可以在陆空机甲(LAM)模式和普通机甲(Mech)模式切换.</color></b> \r\n\r\n<b><color=#ff0066>陆空机甲(LAM)模式:机甲会悬停在战场上,机甲的行走速度转换为飞行速度.</color></b> \r\n\r\n<b><color=#ff0066>LAM涡轮在飞行中提供额外的\"行走\"速度.</color></b> \r\n\r\n<b><color=#ff0066>在LAM模式下,机甲可以以增加热量(\"加力\")为代价下进行超长距离跳跃.</color></b> \r\n\r\n<b><color=#ff0066>在LAM模式下,机甲不会受到地形地面的影响</color></b>."
   },
   {
     "id": "LAM_Engine_XXLC.Description.UIName",

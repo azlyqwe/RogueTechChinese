@@ -217,7 +217,7 @@
   },
   {
     "id": "lootable_engineslots_std_center.Description.Details",
-    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\n聚变引擎根据其<b>引擎额定功率</b>区分.对于机甲来说,引擎额定功率是其重量和最大步行或巡航速度的数学乘积."
+    "content": "聚变引擎的功能是以轻氢和钚为燃料获得聚变反应的能量.\r\n聚变引擎根据其<b>引擎额定功率</b>区分.对于机甲来说,引擎额定功率是其重量和最大步行或巡航速度的数学乘积."
   },
   {
     "id": "lootable_engineslots_std_center.Description.UIName",

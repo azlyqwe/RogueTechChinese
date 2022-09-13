@@ -689,7 +689,7 @@
   },
   {
     "id": "Weapon_AMS_Advanced.Description.Details",
-    "content": "\"铁穹\"先进点防御系统,也被称为APD或APDS,是一种反导系统,目的是为了保护多个单位免受来袭导弹的攻击,能够让一层金属弹药覆盖天空.\n\n<b><color=#ffcc00>使用AMS弹药</color></b> "
+    "content": "\"铁穹\"先进点防御系统,也被称为APD或APDS,是一种反导系统,目的是为了保护多个单位免受来袭导弹的攻击,能够让一层金属弹药覆盖天空.\r\n\r\n<b><color=#ffcc00>使用AMS弹药</color></b> "
   },
   {
     "id": "Weapon_AMS_Advanced.Description.UIName",
@@ -705,7 +705,7 @@
   },
   {
     "id": "Weapon_Gauss_Taser.Description.Details",
-    "content": "战斗机甲泰瑟枪是一种经过改装的金属鱼叉,通过与发射装置相连的电线向目标发射一个巨大的电脉冲.该脉冲的目的是使目标的电气系统过载,并有希望使目标单位关闭.这使得携带泰瑟枪的单位可以捕获目标单位,而不是摧毁目标.\n\n<b><color=#ffcc00>使用泰瑟弹药</color></b> \n\n<b><color=#099ff2>不稳定!</color></b>"
+    "content": "战斗机甲泰瑟枪是一种经过改装的金属鱼叉,通过与发射装置相连的电线向目标发射一个巨大的电脉冲.该脉冲的目的是使目标的电气系统过载,并有希望使目标单位关闭.这使得携带泰瑟枪的单位可以捕获目标单位,而不是摧毁目标.\r\n\r\n<b><color=#ffcc00>使用泰瑟弹药</color></b> \r\n\r\n<b><color=#099ff2>不稳定!</color></b>"
   },
   {
     "id": "Weapon_Gauss_Taser.Description.UIName",

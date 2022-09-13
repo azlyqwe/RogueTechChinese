@@ -537,7 +537,7 @@
   },
   {
     "id": "Weapon_Laser_DiscoLaser_Chemical.Description.Details",
-    "content": "这个\"派队(PAAARTY)加农炮\"有不超过四个化学激光器,手工将其与随机聚焦透镜装配在一起,使其在发射过程中改变颜色....有人在上面刻了\"Sta-sta一直活着\"\n\n<b><color=#ffcc00>使用化学中型弹药</color></b>."
+    "content": "这个\"派队(PAAARTY)加农炮\"有不超过四个化学激光器,手工将其与随机聚焦透镜装配在一起,使其在发射过程中改变颜色....有人在上面刻了\"Sta-sta一直活着\"\r\n\r\n<b><color=#ffcc00>使用化学中型弹药</color></b>."
   },
   {
     "id": "Weapon_Laser_DiscoLaser_Chemical.Description.UIName",
@@ -561,7 +561,7 @@
   },
   {
     "id": "Weapon_Laser_LargeLaser_Chemical.Description.Details",
-    "content": "化学激光并不完全是一项新发明,而是对超光速飞行之前的地球激光武器的重新开发,这种武器依靠化学过程产生完成发射所需的能量.\n\n<b><color=#ffcc00>使用大型化学激光弹药.</color></b>"
+    "content": "化学激光并不完全是一项新发明,而是对超光速飞行之前的地球激光武器的重新开发,这种武器依靠化学过程产生完成发射所需的能量.\r\n\r\n<b><color=#ffcc00>使用大型化学激光弹药.</color></b>"
   },
   {
     "id": "Weapon_Laser_LargeLaser_Chemical.Description.UIName",
@@ -585,7 +585,7 @@
   },
   {
     "id": "Weapon_Laser_MediumLaser_Chemical.Description.Details",
-    "content": "化学激光并不完全是一项新发明,而是对超光速飞行之前的地球激光武器的重新开发,这种武器依靠化学过程产生完成发射所需的能量.\n\n<b><color=#ffcc00>使用中型化学激光弹药</color></b>."
+    "content": "化学激光并不完全是一项新发明,而是对超光速飞行之前的地球激光武器的重新开发,这种武器依靠化学过程产生完成发射所需的能量.\r\n\r\n<b><color=#ffcc00>使用中型化学激光弹药</color></b>."
   },
   {
     "id": "Weapon_Laser_MediumLaser_Chemical.Description.UIName",
@@ -601,7 +601,7 @@
   },
   {
     "id": "Weapon_Laser_SmallLaser_Chemical.Description.Details",
-    "content": "化学激光并不完全是一项新发明,而是对超光速飞行之前的地球激光武器的重新开发,这种武器依靠化学过程产生完成发射所需的能量.\n\n<b><color=#ffcc00>使用小型化学激光弹药</color></b>."
+    "content": "化学激光并不完全是一项新发明,而是对超光速飞行之前的地球激光武器的重新开发,这种武器依靠化学过程产生完成发射所需的能量.\r\n\r\n<b><color=#ffcc00>使用小型化学激光弹药</color></b>."
   },
   {
     "id": "Weapon_Laser_SmallLaser_Chemical.Description.UIName",
@@ -1065,7 +1065,7 @@
   },
   {
     "id": "Weapon_Rifle_Heavy.Description.Details",
-    "content": "重型线膛炮是线膛炮家族中最大的线膛炮. 作为现代自动炮的前身,该线膛炮基于太空时代前地面上坦克使用的主炮.\n\n<b><color=#ffcc00>使用重型线膛炮弹药</color></b>."
+    "content": "重型线膛炮是线膛炮家族中最大的线膛炮. 作为现代自动炮的前身,该线膛炮基于太空时代前地面上坦克使用的主炮.\r\n\r\n<b><color=#ffcc00>使用重型线膛炮弹药</color></b>."
   },
   {
     "id": "Weapon_Rifle_Heavy.Description.UIName",
@@ -1081,7 +1081,7 @@
   },
   {
     "id": "Weapon_Rifle_Light.Description.Details",
-    "content": "轻型线膛炮是''线膛炮家族''中最小的一种. 作为现代自动炮的前身,该线膛炮基于太空时代前地面上坦克使用的主炮.\n\n<b><color=#ffcc00>使用轻型线膛炮弹药</color></b>"
+    "content": "轻型线膛炮是''线膛炮家族''中最小的一种. 作为现代自动炮的前身,该线膛炮基于太空时代前地面上坦克使用的主炮.\r\n\r\n<b><color=#ffcc00>使用轻型线膛炮弹药</color></b>"
   },
   {
     "id": "Weapon_Rifle_Light.Description.UIName",
@@ -1097,7 +1097,7 @@
   },
   {
     "id": "Weapon_Rifle_Medium.Description.Details",
-    "content": "中型线膛炮是''线膛炮''家族中的中量级线膛炮. 作为现代自动炮的前身,该线膛炮基于太空时代前地面上坦克使用的主炮.\n\n<b><color=#ffcc00>使用中型线膛炮弹药</color></b>."
+    "content": "中型线膛炮是''线膛炮''家族中的中量级线膛炮. 作为现代自动炮的前身,该线膛炮基于太空时代前地面上坦克使用的主炮.\r\n\r\n<b><color=#ffcc00>使用中型线膛炮弹药</color></b>."
   },
   {
     "id": "Weapon_Rifle_Medium.Description.UIName",
@@ -1113,7 +1113,7 @@
   },
   {
     "id": "Weapon_Rifle_Potatoe.Description.Details",
-    "content": "这把线膛炮只不过是在一根粗管上,上面加了一个击发装置. 我猜,不管有什么效果.\n\n<b><color=#ffcc00>使用土豆线膛炮弹药</color></b> <b><color=#099ff2>不稳定!</color></b>"
+    "content": "这把线膛炮只不过是在一根粗管上,上面加了一个击发装置. 我猜,不管有什么效果.\r\n\r\n<b><color=#ffcc00>使用土豆线膛炮弹药</color></b> <b><color=#099ff2>不稳定!</color></b>"
   },
   {
     "id": "Weapon_Rifle_Potatoe.Description.UIName",
@@ -1129,7 +1129,7 @@
   },
   {
     "id": "Weapon_Rotary_Rifle_Heavy.Description.Details",
-    "content": "体验真正的转轮式火力,无需传统旋转式自动炮的沉重重量和体积.试一试Quicesll公司纤薄光滑的转轮式线膛炮. 非常适合您预算的火力需求.\n\n<b><color=#ffcc00>使用重线膛炮弹药</color></b>."
+    "content": "体验真正的转轮式火力,无需传统旋转式自动炮的沉重重量和体积.试一试Quicesll公司纤薄光滑的转轮式线膛炮. 非常适合您预算的火力需求.\r\n\r\n<b><color=#ffcc00>使用重线膛炮弹药</color></b>."
   },
   {
     "id": "Weapon_Rotary_Rifle_Heavy.Description.UIName",
@@ -1145,7 +1145,7 @@
   },
   {
     "id": "Weapon_Rotary_Rifle_Light.Description.Details",
-    "content": "体验真正的转轮式火力,无需传统旋转式自动炮的沉重重量和体积.试一试Quicesll公司纤薄光滑的转轮式线膛炮. 非常适合您预算的火力需求.\n\n<b><color=#ffcc00>使用轻型线膛炮弹药</color></b>"
+    "content": "体验真正的转轮式火力,无需传统旋转式自动炮的沉重重量和体积.试一试Quicesll公司纤薄光滑的转轮式线膛炮. 非常适合您预算的火力需求.\r\n\r\n<b><color=#ffcc00>使用轻型线膛炮弹药</color></b>"
   },
   {
     "id": "Weapon_Rotary_Rifle_Light.Description.UIName",
@@ -1161,7 +1161,7 @@
   },
   {
     "id": "Weapon_Rotary_Rifle_Medium.Description.Details",
-    "content": "体验真正的转轮式火力,无需传统旋转式自动炮的沉重重量和体积.试一试Quices公司纤薄光滑的转轮式线膛炮. 非常适合您预算的火力需求.\n\n<b><color=#ffcc00>使用中型线膛炮弹药</color></b>."
+    "content": "体验真正的转轮式火力,无需传统旋转式自动炮的沉重重量和体积.试一试Quices公司纤薄光滑的转轮式线膛炮. 非常适合您预算的火力需求.\r\n\r\n<b><color=#ffcc00>使用中型线膛炮弹药</color></b>."
   },
   {
     "id": "Weapon_Rotary_Rifle_Medium.Description.UIName",
@@ -1177,7 +1177,7 @@
   },
   {
     "id": "Weapon_Rotary_Rifle_Potatoe.Description.Details",
-    "content": "体验真正的转轮式火力,无需传统旋转式自动炮的沉重重量和体积试一试Quices公司纤薄光滑的转轮式线膛炮. 非常适合您预算的火力需求.\n\n<b><color=#ffcc00>使用外围线膛炮弹药</color></b>."
+    "content": "体验真正的转轮式火力,无需传统旋转式自动炮的沉重重量和体积试一试Quices公司纤薄光滑的转轮式线膛炮. 非常适合您预算的火力需求.\r\n\r\n<b><color=#ffcc00>使用外围线膛炮弹药</color></b>."
   },
   {
     "id": "Weapon_Rotary_Rifle_Potatoe.Description.UIName",

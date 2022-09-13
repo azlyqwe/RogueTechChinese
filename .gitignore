@@ -3,3 +3,7 @@ core汉化文件/
 output/
 outputGettext.py
 参考文档/电子战.html
+*).json
+*.sldproj
+*.sdlxliff
+译文文件/RogueModuleTech/AMS/changeStatus.py
