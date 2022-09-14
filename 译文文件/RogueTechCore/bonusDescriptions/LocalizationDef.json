@@ -785,7 +785,7 @@
   },
   {
     "id": "MechEngineer.AmmoCost.Full",
-    "content": "平均每发花费 {0} Cbills"
+    "content": "平均每发花费: {0} Cbills"
   },
   {
     "id": "MechEngineer.CoolantCost.Full",
@@ -5209,19 +5209,19 @@
   },
   {
     "id": "MechEngineer.ArmorTPCost.Full",
-    "content": "修复装甲时增加{0}技术点数花费"
+    "content": "修复装甲的技术点数花费{0}"
   },
   {
     "id": "MechEngineer.ArmorCBCost.Full",
-    "content": "修复装甲时增加{0}资金花费."
+    "content": "修复装甲的资金花费{0}"
   },
   {
     "id": "MechEngineer.StructureTPCost.Full",
-    "content": "修复结构时增加{0}技术点数花费 "
+    "content": "修复结构的技术点数花费{0} "
   },
   {
     "id": "MechEngineer.StructureCBCost.Full",
-    "content": "修复结构时增加{0}资金花费 "
+    "content": "修复结构资金花费{0} "
   },
   {
     "id": "MechEngineer.KineticProtection.Full",
@@ -5401,11 +5401,11 @@
   },
   {
     "id": "MechEngineer.WpnRecoil.Full",
-    "content": "该武器有{0}后座"
+    "content": "该武器后座为{0}"
   },
   {
     "id": "MechEngineer.WpnRecoilShot.Full",
-    "content": "该武器每发有{0}后座"
+    "content": "该武器每次射击的后座为{0}"
   },
   {
     "id": "MechEngineer.LRMRecoil.Full",
@@ -5437,7 +5437,7 @@
   },
   {
     "id": "MechEngineer.WpnAccuracy.Full",
-    "content": "{0}该武器精度."
+    "content": "{0}武器精度."
   },
   {
     "id": "MechEngineer.PipsIgnored.Full",
@@ -5941,7 +5941,7 @@
   },
   {
     "id": "MechEngineer.AAFactorMulti.Full",
-    "content": "该单位武器的防空系数 * {0}"
+    "content": "该单位所有武器防空系数 {0}"
   },
   {
     "id": "MechEngineer.SHRACArtillery.Full",

@@ -27,7 +27,7 @@
 
     "Tooltips" : {
         "TITLE" : "热量等级",
-        "END_OF_TURN_HEAT" : "投射热: {0} / {1}",
+        "END_OF_TURN_HEAT" : "回合结束热量: {0} / {1}",
         "HEAT_AND_SINKING" : "\n  热量: {0} / {1}  将会散热: {2} / {3} (<color=#{4}>x{5:#.#}</color>)",
         "AMMO_EXP_CHANCE" : "\n弹药爆炸:(d100+{0}) < {1}",
         "AMMO_EXP_WARNING" : "保证弹药爆炸!",

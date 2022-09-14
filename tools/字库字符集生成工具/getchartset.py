@@ -16,9 +16,13 @@ for dirpath, dirnames, filenames in os.walk("."):
                 for ch in tempBuf:
                     charset.add(ch)
 
+
+charList = list(charset)
+charList = sorted(charList)
+
 charsetfile = open("charset.txt", mode="w", encoding="utf-8")
 if charsetfile is not None:
-    for ch in charset:
+    for ch in charList:
         charsetfile.write(ch)
 charsetfile.close()
 print("生成字符集完成")

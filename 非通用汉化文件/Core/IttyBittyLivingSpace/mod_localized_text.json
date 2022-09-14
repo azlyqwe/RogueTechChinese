@@ -6,8 +6,8 @@
     },
 	
 	"Tooltips" : {
-	    "CARGO_CHASSIS" : "\n\n<color=#FF0000>货物花费: {0} 基于 {1} 吨</color>",
-        "CARGO_EQUIPMENT" : "\n\n<color=#FF0000>货物花费: {0} 基于 {1}u 尺寸</color>",
-        "CARGO_WEAPON" : "\n\n<color=#FF0000>货物花费: {0} 基于 {1}u 尺寸</color>"
+	    "CARGO_CHASSIS" : "\n\n<color=#FF0000>仓储费: 每{1}吨花费 {0}</color>",
+        "CARGO_EQUIPMENT" : "\n\n<color=#FF0000>仓储费:每{1}u尺寸花费{0}</color>",
+        "CARGO_WEAPON" : "\n\n<color=#FF0000>仓储费:每{1}u尺寸花费{0}</color>"
 	}	
 }
