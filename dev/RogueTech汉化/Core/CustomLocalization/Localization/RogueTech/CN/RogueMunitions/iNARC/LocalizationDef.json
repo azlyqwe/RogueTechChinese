@@ -1,0 +1,168 @@
+{
+    "culture": 2,
+    "files": [
+        "Ammo_AmmunitionBox_iNarc_Beacon.json",
+        "Ammo_AmmunitionBox_iNarc_ECM.json",
+        "Ammo_AmmunitionBox_iNarc_Explosive.json",
+        "Ammo_AmmunitionBox_iNarc_Haywire.json"
+    ],
+    "directories": [
+        {
+            "dir": [
+                "RogueMunitions",
+                "iNARC"
+            ],
+            "processors": [
+                "Description.Details",
+                "Description.UIName",
+                "Description.Name"
+            ]
+        }
+    ],
+    "content": [
+        {
+            "id": "Ammo_AmmunitionBox_iNarc_Beacon.Description.Details",
+            "original": "Ammo Bins contain the rounds needed for projectile-based weaponry, with at least one bin required per weapon type.Upon receiving a Critical Hit, any remaining ammunition stored inside an Ammo Bin will explode dealing damage to the install location. Risk can be mitigated with the use of C.A.S.E.",
+            "prevOriginal": "Ammo Bins contain the rounds needed for projectile-based weaponry, with at least one bin required per weapon type.Upon receiving a Critical Hit, any remaining ammunition stored inside an Ammo Bin will explode dealing damage to the install location. Risk can be mitigated with the use of C.A.S.E.",
+            "content": "弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险.",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_iNarc_Beacon",
+            "processor": "Description.Details"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_iNarc_Beacon.Description.UIName",
+            "original": "Ammo iNarc Beacon",
+            "prevOriginal": "Ammo iNarc Beacon",
+            "content": "iNARC信标弹药",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_iNarc_Beacon",
+            "processor": "Description.UIName"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_iNarc_Beacon.Description.Name",
+            "original": "iNarc Beacon Ammo",
+            "prevOriginal": "iNarc Beacon Ammo",
+            "content": "iNARC信标弹药",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_iNarc_Beacon",
+            "processor": "Description.Name"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_iNarc_ECM.Description.Details",
+            "original": "The ECM Pod strips out the homing beacon of the Homing Pod and replaces it with a powerful but short-ranged ECM Suite. Once attached, the target is effectively trapped inside the effective radius of the ECM suite, with any advanced electronics rendered useless.Ammo Bins contain the rounds needed for projectile-based weaponry, with at least one bin required per weapon type.Upon receiving a Critical Hit, any remaining ammunition stored inside an Ammo Bin will explode dealing damage to the install location. Risk can be mitigated with the use of C.A.S.E.",
+            "prevOriginal": "The ECM Pod strips out the homing beacon of the Homing Pod and replaces it with a powerful but short-ranged ECM Suite. Once attached, the target is effectively trapped inside the effective radius of the ECM suite, with any advanced electronics rendered useless.Ammo Bins contain the rounds needed for projectile-based weaponry, with at least one bin required per weapon type.Upon receiving a Critical Hit, any remaining ammunition stored inside an Ammo Bin will explode dealing damage to the install location. Risk can be mitigated with the use of C.A.S.E.",
+            "content": "ECM吊舱去掉了归航吊舱的归航信标,代之以强大但短距的ECM套件.一旦附着,目标实际上被困在ECM套件的有效半径内,任何先进的电子设备都将无效.弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险.",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_iNarc_ECM",
+            "processor": "Description.Details"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_iNarc_ECM.Description.UIName",
+            "original": "Ammo iNarc ECM",
+            "prevOriginal": "Ammo iNarc ECM",
+            "content": "iNARC ECM弹药",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_iNarc_ECM",
+            "processor": "Description.UIName"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_iNarc_ECM.Description.Name",
+            "original": "Narc Ammo",
+            "prevOriginal": "Narc Ammo",
+            "content": "Narc弹药",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_iNarc_ECM",
+            "processor": "Description.Name"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_iNarc_Explosive.Description.Details",
+            "original": "This highly specialized variant of the iNARC pod strips out the homing components in exchange for a sizable shaped charge warhead. Ammo Bins contain the rounds needed for projectile-based weaponry, with at least one bin required per weapon type.Upon receiving a Critical Hit, any remaining ammunition stored inside an Ammo Bin will explode dealing damage to the install location. Risk can be mitigated with the use of C.A.S.E.",
+            "prevOriginal": "This highly specialized variant of the iNARC pod strips out the homing components in exchange for a sizable shaped charge warhead. Ammo Bins contain the rounds needed for projectile-based weaponry, with at least one bin required per weapon type.Upon receiving a Critical Hit, any remaining ammunition stored inside an Ammo Bin will explode dealing damage to the install location. Risk can be mitigated with the use of C.A.S.E.",
+            "content": "弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险.",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_iNarc_Explosive",
+            "processor": "Description.Details"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_iNarc_Explosive.Description.UIName",
+            "original": "Ammo iNarc Explosive",
+            "prevOriginal": "Ammo iNarc Explosive",
+            "content": "iNARC爆炸弹药",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_iNarc_Explosive",
+            "processor": "Description.UIName"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_iNarc_Explosive.Description.Name",
+            "original": "Narc Ammo",
+            "prevOriginal": "Narc Ammo",
+            "content": "Narc弹药",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_iNarc_Explosive",
+            "processor": "Description.Name"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_iNarc_Haywire.Description.Details",
+            "original": "Ammo Bins contain the rounds needed for projectile-based weaponry, with at least one bin required per weapon type. Upon receiving a Critical Hit, any remaining ammunition stored inside an Ammo Bin will explode dealing damage to the install location. Risk can be mitigated with the use of C.A.S.E.",
+            "prevOriginal": "Ammo Bins contain the rounds needed for projectile-based weaponry, with at least one bin required per weapon type. Upon receiving a Critical Hit, any remaining ammunition stored inside an Ammo Bin will explode dealing damage to the install location. Risk can be mitigated with the use of C.A.S.E.",
+            "content": "弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险.",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_iNarc_Haywire",
+            "processor": "Description.Details"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_iNarc_Haywire.Description.UIName",
+            "original": "Ammo iNarc Haywire",
+            "prevOriginal": "Ammo iNarc Haywire",
+            "content": "INARC失控弹药",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_iNarc_Haywire",
+            "processor": "Description.UIName"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_iNarc_Haywire.Description.Name",
+            "original": "iNarc Ammo",
+            "prevOriginal": "iNarc Ammo",
+            "content": "iNarc弹药",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_iNarc_Haywire",
+            "processor": "Description.Name"
+        }
+    ]
+}

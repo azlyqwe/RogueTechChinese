@@ -1,0 +1,242 @@
+{
+    "culture": 2,
+    "files": [
+        "Ammo_AmmunitionBox_Narc_Beacon.json",
+        "Ammo_AmmunitionBox_Narc_Beacon_Improved.json",
+        "Ammo_AmmunitionBox_Narc_ECM.json",
+        "Ammo_AmmunitionBox_Narc_Explosive.json",
+        "Ammo_AmmunitionBox_Narc_Haywire.json",
+        "Ammo_AmmunitionBox_Narc_ShootAndSit.json"
+    ],
+    "directories": [
+        {
+            "dir": [
+                "RogueMunitions",
+                "NARC"
+            ],
+            "processors": [
+                "Description.Details",
+                "Description.UIName",
+                "Description.Name"
+            ]
+        }
+    ],
+    "content": [
+        {
+            "id": "Ammo_AmmunitionBox_Narc_Beacon.Description.Details",
+            "original": "Ammo Bins contain the rounds needed for projectile-based weaponry, with at least one bin required per weapon type.Upon receiving a Critical Hit, any remaining ammunition stored inside an Ammo Bin will explode dealing damage to the install location. Risk can be mitigated with the use of C.A.S.E.",
+            "prevOriginal": "Ammo Bins contain the rounds needed for projectile-based weaponry, with at least one bin required per weapon type.Upon receiving a Critical Hit, any remaining ammunition stored inside an Ammo Bin will explode dealing damage to the install location. Risk can be mitigated with the use of C.A.S.E.",
+            "content": "弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险.",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_Narc_Beacon",
+            "processor": "Description.Details"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_Narc_Beacon.Description.UIName",
+            "original": "Ammo Narc Beacon",
+            "prevOriginal": "Ammo Narc Beacon",
+            "content": "NARC信标弹药",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_Narc_Beacon",
+            "processor": "Description.UIName"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_Narc_Beacon.Description.Name",
+            "original": "Narc Beacon Ammo",
+            "prevOriginal": "Narc Beacon Ammo",
+            "content": "NARC信标弹药",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_Narc_Beacon",
+            "processor": "Description.Name"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_Narc_Beacon_Improved.Description.Details",
+            "original": "Replaced by iNARC.",
+            "prevOriginal": "Replaced by iNARC.",
+            "content": "被iNARC取代.",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_Narc_Beacon_Improved",
+            "processor": "Description.Details"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_Narc_Beacon_Improved.Description.UIName",
+            "original": "Deprecated (Please sell)",
+            "prevOriginal": "Deprecated (Please sell)",
+            "content": "不推荐(请出售)",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_Narc_Beacon_Improved",
+            "processor": "Description.UIName"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_Narc_Beacon_Improved.Description.Name",
+            "original": "iNarc Beacon Ammo",
+            "prevOriginal": "iNarc Beacon Ammo",
+            "content": "NARC信标弹药",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_Narc_Beacon_Improved",
+            "processor": "Description.Name"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_Narc_ECM.Description.Details",
+            "original": "Replaced by iNARC ECM ammunition.",
+            "prevOriginal": "Replaced by iNARC ECM ammunition.",
+            "content": "被iNARC ECM弹药所取代。",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_Narc_ECM",
+            "processor": "Description.Details"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_Narc_ECM.Description.UIName",
+            "original": "DEPRECATED (Please sell)",
+            "prevOriginal": "DEPRECATED (Please sell)",
+            "content": "不推荐(请出售)",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_Narc_ECM",
+            "processor": "Description.UIName"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_Narc_ECM.Description.Name",
+            "original": "Narc Ammo",
+            "prevOriginal": "Narc Ammo",
+            "content": "NARC弹药",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_Narc_ECM",
+            "processor": "Description.Name"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_Narc_Explosive.Description.Details",
+            "original": "This highly specialized variant of the NARC pod strips out the homing components in exchange for a sizable shaped charge warhead. Ammo Bins contain the rounds needed for projectile-based weaponry, with at least one bin required per weapon type.Upon receiving a Critical Hit, any remaining ammunition stored inside an Ammo Bin will explode dealing damage to the install location. Risk can be mitigated with the use of C.A.S.E.",
+            "prevOriginal": "This highly specialized variant of the NARC pod strips out the homing components in exchange for a sizable shaped charge warhead. Ammo Bins contain the rounds needed for projectile-based weaponry, with at least one bin required per weapon type.Upon receiving a Critical Hit, any remaining ammunition stored inside an Ammo Bin will explode dealing damage to the install location. Risk can be mitigated with the use of C.A.S.E.",
+            "content": "这种高度专业化的NARC吊舱变种去掉了寻获部件,换上了一个相当大的聚能装药弹头.弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险.",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_Narc_Explosive",
+            "processor": "Description.Details"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_Narc_Explosive.Description.UIName",
+            "original": "Ammo Narc Explosive",
+            "prevOriginal": "Ammo Narc Explosive",
+            "content": "NARC爆炸弹药",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_Narc_Explosive",
+            "processor": "Description.UIName"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_Narc_Explosive.Description.Name",
+            "original": "Narc Ammo",
+            "prevOriginal": "Narc Ammo",
+            "content": "NARC弹药",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_Narc_Explosive",
+            "processor": "Description.Name"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_Narc_Haywire.Description.Details",
+            "original": "Replaced by iNARC Haywaire ammunition.",
+            "prevOriginal": "Replaced by iNARC Haywaire ammunition.",
+            "content": "被iNARC海韦尔弹药所取代.",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_Narc_Haywire",
+            "processor": "Description.Details"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_Narc_Haywire.Description.UIName",
+            "original": "DEPRECATED (Please sell)",
+            "prevOriginal": "DEPRECATED (Please sell)",
+            "content": "不推荐(请出售)",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_Narc_Haywire",
+            "processor": "Description.UIName"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_Narc_Haywire.Description.Name",
+            "original": "iNarc Ammo",
+            "prevOriginal": "iNarc Ammo",
+            "content": "iNARC弹药",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_Narc_Haywire",
+            "processor": "Description.Name"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_Narc_ShootAndSit.Description.Details",
+            "original": "This highly specialized variant of the NARC pod strips out the homing components in exchange for a sizable high explosive charge. Upon impact the pod sticks to the target. In order to maximize instability delivered to the target a small gyroscopic sensor detonates when the target shifts it's weight, or, as a failsafe, after a few seconds delay. Ammo Bins contain the rounds needed for projectile-based weaponry, with at least one bin required per weapon type.Upon receiving a Critical Hit, any remaining ammunition stored inside an Ammo Bin will explode dealing damage to the install location. Risk can be mitigated with the use of C.A.S.E.",
+            "prevOriginal": "This highly specialized variant of the NARC pod strips out the homing components in exchange for a sizable high explosive charge. Upon impact the pod sticks to the target. In order to maximize instability delivered to the target a small gyroscopic sensor detonates when the target shifts it's weight, or, as a failsafe, after a few seconds delay. Ammo Bins contain the rounds needed for projectile-based weaponry, with at least one bin required per weapon type.Upon receiving a Critical Hit, any remaining ammunition stored inside an Ammo Bin will explode dealing damage to the install location. Risk can be mitigated with the use of C.A.S.E.",
+            "content": "这种高度专业化的NARC吊舱变种将归航组件剥离出来,以换取一个相当大的高爆炸装药.一旦撞击,吊舱就会粘在目标上.为了最大化传递给目标不稳定性,通过一个小的陀螺传感器使在目标移动它的重心时引爆,或者作为故障保险,在几秒钟的延迟后引爆.弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险.",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_Narc_ShootAndSit",
+            "processor": "Description.Details"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_Narc_ShootAndSit.Description.UIName",
+            "original": "Ammo Narc Stickybomb",
+            "prevOriginal": "Ammo Narc Stickybomb",
+            "content": "NARC粘弹弹药",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_Narc_ShootAndSit",
+            "processor": "Description.UIName"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_Narc_ShootAndSit.Description.Name",
+            "original": "Narc Shoot & Sit Ammo",
+            "prevOriginal": "Narc Shoot & Sit Ammo",
+            "content": "NARC黏性弹药",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_Narc_ShootAndSit",
+            "processor": "Description.Name"
+        }
+    ]
+}

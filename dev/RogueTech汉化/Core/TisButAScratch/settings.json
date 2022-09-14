@@ -1,0 +1,1000 @@
+{
+	"enableLogging": true,
+        "debugPatchEnabled": true,
+	"enableLethalTorsoHead": false,
+	"debilIncapacitates": true,
+	"BleedingOutLethal": true,
+	"BleedingOutSuffix": "_bleedout",
+	"BleedingOutTimerString": "activations",
+	"enableInternalDmgInjuries": true,
+	"pilotPainShunt": "pilot_painshunt",
+	"pilotingReqs": [
+		{
+			"ComponentTag": "RequireNI",
+			"PilotTag": "pilot_NeuralImplants",
+			"PilotTagDisplay": "Requires Neural Implants"
+		}
+	],
+	"internalDmgStatName": "InjureOnStructDmg",
+	"internalDmgInjuryLimit": 1,
+	"internalDmgLvlReq": 5,
+	"timeHealsAllWounds": true,
+	"missionKillSeverityThreshold": 3,
+	"reInjureWeightAppliesCurrentContract": false,
+	"reInjureLocWeight": 11,
+	"debilSeverityThreshold": 4,
+	"severityCost": 50,
+	"debilitatedCost": 2000,
+	"medtechDebilMultiplier": 0.5,
+	"injuryHealTimeMultiplier": 1.0,
+	"injureVehiclePilotOnDestroy": "SINGLE",
+	"crewOrCockpitCustomID": [
+		"CrewCompartment",
+		"Cockpit"
+	],
+	"lifeSupportCustomID": [
+		"LifeSupportA",
+		"LifeSupportB"
+	],
+	"disableTBASTag": "TBAS_Disabled",
+	"OverheatInjuryStat": "InjureOnOverheat",
+	"isTorsoMountStatName": "isTorsoMount",
+	"lifeSupportSupportsLifeTM": true,
+	"internalDmgInjuryLocs": [
+		"Head",
+		"CenterTorso",
+		"LeftTorso",
+		"RightTorso",
+		"LeftArm",
+		"RightArm",
+		"LeftLeg",
+		"RightLeg"
+	],
+	"InjuryEffectsList": [
+		{
+			"injuryID": "HeadConcussion",
+			"injuryName": "脑震荡",
+			"injuryLoc": "Head",
+			"couldBeThermal": false,
+			"severity": 1,
+			"description": "驾驶员脑震荡.思维变得混乱.",
+			"effectDataJO": [
+				{
+					"durationData": {},
+					"targetingData": {
+						"effectTriggerType": "Passive",
+						"effectTargetType": "Creator",
+						"showInStatusPanel": true
+					},
+					"effectType": "StatisticEffect",
+					"Description": {
+						"Id": "Concussed",
+						"Name": "脑震荡",
+						"Details": "驾驶员脑震荡.思维变得混乱.主动性降低.",
+						"Icon": "seeingstars"
+					},
+					"nature": "Buff",
+					"statisticData": {
+						"statName": "SBI_MOD_INJURY",
+						"operation": "Int_Add",
+						"modValue": "-3",
+						"modType": "System.Int32"
+					}
+				}
+			]
+		},
+		{
+			"injuryID": "HeadJaw",
+			"injuryName": "下颚骨折",
+			"injuryLoc": "Head",
+			"couldBeThermal": false,
+			"severity": 1,
+			"description": "这个驾驶员下颚骨折,由于交流受阻,决心获取减少.",
+			"effectDataJO": [
+				{
+					"durationData": {},
+					"targetingData": {
+						"effectTriggerType": "Passive",
+						"effectTargetType": "Creator",
+						"showInStatusPanel": true
+					},
+					"effectType": "StatisticEffect",
+					"Description": {
+						"Id": "BrokenJaw",
+						"Name": "下颚骨折",
+						"Details": "这个驾驶员下颚骨折,由于交流受阻,决心获取减少.",
+						"Icon": "seeingstars"
+					},
+					"nature": "Buff",
+					"statisticData": {
+						"appliesEachTick": false,
+						"effectsPersistAfterDestruction": false,
+						"statName": "MoraleBonusGain",
+						"operation": "Int_Add",
+						"modValue": "-3",
+						"modType": "System.Int32",
+						"additionalRules": "NotSet",
+						"targetCollection": "NotSet",
+						"targetWeaponCategory": "NotSet",
+						"targetWeaponType": "NotSet",
+						"targetAmmoCategory": "NotSet",
+						"targetWeaponSubType": "NotSet"
+					}
+				}
+			]
+		},
+		{
+			"injuryID": "HeadBurns",
+			"injuryName": "严重烧伤-头部",
+			"injuryLoc": "Head",
+			"couldBeThermal": true,
+			"severity": 1,
+			"description": "这个驾驶员头部严重烧伤.视距降低.",
+			"effectDataJO": [
+				{
+					"durationData": {},
+					"targetingData": {
+						"effectTriggerType": "Passive",
+						"effectTargetType": "Creator",
+						"showInStatusPanel": true
+					},
+					"effectType": "StatisticEffect",
+					"Description": {
+						"Id": "EyesBurnSpotter",
+						"Name": "头部烧伤",
+						"Details": "这个驾驶员头部严重烧伤.视距降低.",
+						"Icon": "seeingstars"
+					},
+					"nature": "Buff",
+					"statisticData": {
+						"statName": "SpotterDistanceMultiplier",
+						"operation": "Float_Multiply",
+						"modValue": "0.75",
+						"modType": "System.Single"
+					}
+				}
+			]
+		},
+		{
+			"injuryID": "HeadBarotrauma",
+			"injuryName": "气压伤-头部",
+			"injuryLoc": "Head",
+			"couldBeThermal": false,
+			"severity": 2,
+			"description": "这个驾驶员头部受到气压伤.主动性降低.",
+			"effectDataJO": [
+				{
+					"durationData": {},
+					"targetingData": {
+						"effectTriggerType": "Passive",
+						"effectTargetType": "Creator",
+						"showInStatusPanel": true
+					},
+					"effectType": "StatisticEffect",
+					"Description": {
+						"Id": "EyesBaroUnsteady",
+						"Name": "气压伤",
+						"Details": "这个驾驶员头部受到气压伤.主动性降低.",
+						"Icon": "seeingstars"
+					},
+					"nature": "Buff",
+					"statisticData": {
+						"statName": "SBI_MOD_INJURY",
+						"operation": "Int_Add",
+						"modValue": "-5",
+						"modType": "System.Int32"
+					}
+				}
+			]
+		},
+		{
+			"injuryID": "ArmLBurns",
+			"injuryName": "严重烧伤-左臂",
+			"injuryLoc": "ArmL",
+			"couldBeThermal": true,
+			"severity": 1,
+			"description": "这个驾驶员手臂严重烧伤.受到精度惩罚.",
+			"effectDataJO": [
+				{
+					"durationData": {},
+					"targetingData": {
+						"effectTriggerType": "Passive",
+						"effectTargetType": "Creator",
+						"showInStatusPanel": true
+					},
+					"effectType": "StatisticEffect",
+					"Description": {
+						"Id": "ArmLBurned",
+						"Name": "严重烧伤-左臂",
+						"Details": "这个驾驶员手臂严重烧伤.受到精度惩罚.",
+						"Icon": "flamingskull"
+					},
+					"nature": "Buff",
+					"statisticData": {
+						"modType": "System.Single",
+						"modValue": "2.0",
+						"operation": "Float_Add",
+						"statName": "AccuracyModifier",
+						"targetAmmoCategory": "NotSet",
+						"targetCollection": "Weapon",
+						"targetWeaponCategory": "NotSet",
+						"targetWeaponSubType": "NotSet",
+						"targetWeaponType": "NotSet"
+					}
+				}
+			]
+		},
+		{
+			"injuryID": "ArmRBurns",
+			"injuryName": "严重烧伤-右臂",
+			"injuryLoc": "ArmR",
+			"couldBeThermal": true,
+			"severity": 1,
+			"description": "这个驾驶员手臂严重烧伤.受到精度惩罚.",
+			"effectDataJO": [
+				{
+					"durationData": {},
+					"targetingData": {
+						"effectTriggerType": "Passive",
+						"effectTargetType": "Creator",
+						"showInStatusPanel": true
+					},
+					"effectType": "StatisticEffect",
+					"Description": {
+						"Id": "ArmRBurned",
+						"Name": "严重烧伤-右臂",
+						"Details": "这个驾驶员手臂严重烧伤.受到精度惩罚.",
+						"Icon": "flamingskull"
+					},
+					"nature": "Buff",
+					"statisticData": {
+						"modType": "System.Single",
+						"modValue": "2.0",
+						"operation": "Float_Add",
+						"statName": "AccuracyModifier",
+						"targetAmmoCategory": "NotSet",
+						"targetCollection": "Weapon",
+						"targetWeaponCategory": "NotSet",
+						"targetWeaponSubType": "NotSet",
+						"targetWeaponType": "NotSet"
+					}
+				}
+			]
+		},
+		{
+			"injuryID": "ArmLBroken",
+			"injuryName": "单纯性骨折-左臂",
+			"injuryLoc": "ArmL",
+			"couldBeThermal": false,
+			"severity": 1,
+			"description": "这个驾驶员手臂骨折.受到精度惩罚.",
+			"effectDataJO": [
+				{
+					"durationData": {},
+					"targetingData": {
+						"effectTriggerType": "Passive",
+						"effectTargetType": "Creator",
+						"showInStatusPanel": true
+					},
+					"effectType": "StatisticEffect",
+					"Description": {
+						"Id": "ArmLBroken",
+						"Name": "手臂骨折-左臂",
+						"Details": "这个驾驶员手臂骨折.受到精度惩罚.",
+						"Icon": "brokenarm"
+					},
+					"nature": "Buff",
+					"statisticData": {
+						"modType": "System.Single",
+						"modValue": "3.0",
+						"operation": "Float_Add",
+						"statName": "AccuracyModifier",
+						"targetAmmoCategory": "NotSet",
+						"targetCollection": "Weapon",
+						"targetWeaponCategory": "NotSet",
+						"targetWeaponSubType": "NotSet",
+						"targetWeaponType": "NotSet"
+					}
+				}
+			]
+		},
+		{
+			"injuryID": "ArmRBroken",
+			"injuryName": "单纯性骨折-右臂",
+			"injuryLoc": "ArmR",
+			"couldBeThermal": false,
+			"severity": 1,
+			"description": "这个驾驶员手臂骨折.受到精度惩罚.",
+			"effectDataJO": [
+				{
+					"durationData": {},
+					"targetingData": {
+						"effectTriggerType": "Passive",
+						"effectTargetType": "Creator",
+						"showInStatusPanel": true
+					},
+					"effectType": "StatisticEffect",
+					"Description": {
+						"Id": "ArmRBroken",
+						"Name": "手臂骨折-右臂",
+						"Details": "这个驾驶员手臂骨折.受到精度惩罚.",
+						"Icon": "brokenarm"
+					},
+					"nature": "Buff",
+					"statisticData": {
+						"modType": "System.Single",
+						"modValue": "3.0",
+						"operation": "Float_Add",
+						"statName": "AccuracyModifier",
+						"targetAmmoCategory": "NotSet",
+						"targetCollection": "Weapon",
+						"targetWeaponCategory": "NotSet",
+						"targetWeaponSubType": "NotSet",
+						"targetWeaponType": "NotSet"
+					}
+				}
+			]
+		},
+		{
+			"injuryID": "ArmLBrokenCompound",
+			"injuryID_Post": "ArmLBroken",
+			"injuryName": "复合骨折-左臂",
+			"injuryLoc": "ArmL",
+			"couldBeThermal": false,
+			"severity": 1,
+			"description": "这个驾驶员手臂有复合性骨折.受到精度惩罚.",
+			"effectDataJO": [
+				{
+					"durationData": {},
+					"targetingData": {
+						"effectTriggerType": "Passive",
+						"effectTargetType": "Creator",
+						"showInStatusPanel": true
+					},
+					"effectType": "StatisticEffect",
+					"Description": {
+						"Id": "ArmLCmpdBroken_bleedout",
+						"Name": "复合骨折-左臂",
+						"Details": "这个驾驶员手臂有复合性骨折.受到精度惩罚.",
+						"Icon": "brokenarm"
+					},
+					"nature": "Buff",
+					"statisticData": {
+						"modType": "System.Single",
+						"modValue": "4.0",
+						"operation": "Float_Add",
+						"statName": "AccuracyModifier",
+						"targetAmmoCategory": "NotSet",
+						"targetCollection": "Weapon",
+						"targetWeaponCategory": "NotSet",
+						"targetWeaponSubType": "NotSet",
+						"targetWeaponType": "NotSet"
+					}
+				}
+			]
+		},
+		{
+			"injuryID": "ArmRBrokenCompound",
+			"injuryID_Post": "ArmRBroken",
+			"injuryName": "复合骨折-右臂",
+			"injuryLoc": "ArmR",
+			"couldBeThermal": false,
+			"severity": 1,
+			"description": "这个驾驶员手臂有复合性骨折.受到精度惩罚.",
+			"effectDataJO": [
+				{
+					"durationData": {},
+					"targetingData": {
+						"effectTriggerType": "Passive",
+						"effectTargetType": "Creator",
+						"showInStatusPanel": true
+					},
+					"effectType": "StatisticEffect",
+					"Description": {
+						"Id": "ArmRCmpdBroken_bleedout",
+						"Name": "复合骨折-右臂",
+						"Details": "这个驾驶员手臂有复合性骨折.受到精度惩罚.",
+						"Icon": "brokenarm"
+					},
+					"nature": "Buff",
+					"statisticData": {
+						"modType": "System.Single",
+						"modValue": "4.0",
+						"operation": "Float_Add",
+						"statName": "AccuracyModifier",
+						"targetAmmoCategory": "NotSet",
+						"targetCollection": "Weapon",
+						"targetWeaponCategory": "NotSet",
+						"targetWeaponSubType": "NotSet",
+						"targetWeaponType": "NotSet"
+					}
+				}
+			]
+		},
+		{
+			"injuryID": "LegLBurns",
+			"injuryName": "严重烧伤-左腿",
+			"injuryLoc": "LegL",
+			"couldBeThermal": true,
+			"severity": 1,
+			"description": "这个驾驶员腿部严重烧伤.受到驾驶技能惩罚.",
+			"effectDataJO": [
+				{
+					"durationData": {},
+					"targetingData": {
+						"effectTriggerType": "Passive",
+						"effectTargetType": "Creator",
+						"showInStatusPanel": true
+					},
+					"effectType": "StatisticEffect",
+					"Description": {
+						"Id": "LegLBurnedWalk",
+						"Name": "严重烧伤-左腿",
+						"Details": "这个驾驶员腿部严重烧伤.受到驾驶技能惩罚.",
+						"Icon": "flamingskull"
+					},
+					"nature": "Buff",
+					"statisticData": {
+						"statName": "Piloting",
+						"operation": "Int_Add",
+						"modValue": "-2",
+						"modType": "System.Int32",
+						"targetCollection": "Pilot"
+					}
+				}
+			]
+		},
+		{
+			"injuryID": "LegRBurns",
+			"injuryName": "严重烧伤-右腿",
+			"injuryLoc": "LegR",
+			"couldBeThermal": true,
+			"severity": 1,
+			"description": "这个驾驶员腿部严重烧伤.受到驾驶技能惩罚.",
+			"effectDataJO": [
+				{
+					"durationData": {},
+					"targetingData": {
+						"effectTriggerType": "Passive",
+						"effectTargetType": "Creator",
+						"showInStatusPanel": true
+					},
+					"effectType": "StatisticEffect",
+					"Description": {
+						"Id": "LegRBurnedWalk",
+						"Name": "严重烧伤-右腿",
+						"Details": "这个驾驶员腿部严重烧伤.受到驾驶技能惩罚.",
+						"Icon": "flamingskull"
+					},
+					"nature": "Buff",
+					"statisticData": {
+						"statName": "Piloting",
+						"operation": "Int_Add",
+						"modValue": "-2",
+						"modType": "System.Int32",
+						"targetCollection": "Pilot"
+					}
+				}
+			]
+		},
+		{
+			"injuryID": "LegLBroken",
+			"injuryName": "单纯性骨折-左腿",
+			"injuryLoc": "LegL",
+			"couldBeThermal": false,
+			"severity": 1,
+			"description": "这个驾驶员腿部骨折.受到驾驶技能惩罚.",
+			"effectDataJO": [
+				{
+					"durationData": {},
+					"targetingData": {
+						"effectTriggerType": "Passive",
+						"effectTargetType": "Creator",
+						"showInStatusPanel": true
+					},
+					"effectType": "StatisticEffect",
+					"Description": {
+						"Id": "LegLBrokeWalk",
+						"Name": "单纯性骨折-左腿",
+						"Details": "这个驾驶员腿部骨折.受到驾驶技能惩罚.",
+						"Icon": "footcast"
+					},
+					"nature": "Buff",
+					"statisticData": {
+						"statName": "Piloting",
+						"operation": "Int_Add",
+						"modValue": "-3",
+						"modType": "System.Int32",
+						"targetCollection": "Pilot"
+					}
+				}
+			]
+		},
+		{
+			"injuryID": "LegLBrokenCompound",
+			"injuryID_Post": "LegLBroken",
+			"injuryName": "复合性骨折-左腿",
+			"injuryLoc": "LegL",
+			"couldBeThermal": false,
+			"severity": 1,
+			"description": "这个驾驶员腿部复合性骨折.受到严重的驾驶技能惩罚.",
+			"effectDataJO": [
+				{
+					"durationData": {},
+					"targetingData": {
+						"effectTriggerType": "Passive",
+						"effectTargetType": "Creator",
+						"showInStatusPanel": true
+					},
+					"effectType": "StatisticEffect",
+					"Description": {
+						"Id": "LegLBrokeCmpndWalk_bleedout",
+						"Name": "复合性骨折-左腿",
+						"Details": "这个驾驶员腿部骨折.受到严重的驾驶技能惩罚.",
+						"Icon": "footcast"
+					},
+					"nature": "Buff",
+					"statisticData": {
+						"statName": "Piloting",
+						"operation": "Int_Add",
+						"modValue": "-5",
+						"modType": "System.Int32",
+						"targetCollection": "Pilot"
+					}
+				}
+			]
+		},
+		{
+			"injuryID": "LegRBroken",
+			"injuryName": "单纯性骨折-右腿",
+			"injuryLoc": "LegR",
+			"couldBeThermal": false,
+			"severity": 1,
+			"description": "这个驾驶员腿部骨折.受到驾驶技能惩罚.",
+			"effectDataJO": [
+				{
+					"durationData": {},
+					"targetingData": {
+						"effectTriggerType": "Passive",
+						"effectTargetType": "Creator",
+						"showInStatusPanel": true
+					},
+					"effectType": "StatisticEffect",
+					"Description": {
+						"Id": "LegRBrokeWalk",
+						"Name": "Simple Fracture - Right Leg",
+						"Details": "这个驾驶员腿部骨折.受到驾驶技能惩罚.",
+						"Icon": "footcast"
+					},
+					"nature": "Buff",
+					"statisticData": {
+						"statName": "Piloting",
+						"operation": "Int_Add",
+						"modValue": "-3",
+						"modType": "System.Int32",
+						"targetCollection": "Pilot"
+					}
+				}
+			]
+		},
+		{
+			"injuryID": "LegRBrokenCompound",
+			"injuryID_Post": "LegRBroken",
+			"injuryName": "复合性骨折-右腿",
+			"injuryLoc": "LegR",
+			"couldBeThermal": false,
+			"severity": 1,
+			"description": "这个驾驶员腿部复合性骨折.受到严重的驾驶技能惩罚.",
+			"effectDataJO": [
+				{
+					"durationData": {},
+					"targetingData": {
+						"effectTriggerType": "Passive",
+						"effectTargetType": "Creator",
+						"showInStatusPanel": true
+					},
+					"effectType": "StatisticEffect",
+					"Description": {
+						"Id": "LegRBrokeCmpndWalk_bleedout",
+						"Name": "复合性骨折-右腿",
+						"Details": "这个驾驶员腿部骨折.受到严重的驾驶技能惩罚.",
+						"Icon": "footcast"
+					},
+					"nature": "Buff",
+					"statisticData": {
+						"statName": "Piloting",
+						"operation": "Int_Add",
+						"modValue": "-5",
+						"modType": "System.Int32",
+						"targetCollection": "Pilot"
+					}
+				}
+			]
+		},
+		{
+			"injuryID": "TorsoInternalBleeding",
+			"injuryID_Post": "TorsoRibs",
+			"injuryName": "内出血-躯干",
+			"injuryLoc": "Torso",
+			"couldBeThermal": false,
+			"severity": 2,
+			"description": "这个驾驶员遭受内出血的痛苦,闪避降低.",
+			"effectDataJO": [
+				{
+					"durationData": {},
+					"targetingData": {
+						"effectTriggerType": "Passive",
+						"effectTargetType": "Creator",
+						"showInStatusPanel": true
+					},
+					"effectType": "StatisticEffect",
+					"Description": {
+						"Id": "TorsoHemEvasion_bleedout",
+						"Name": "内出血",
+						"Details": "这个驾驶员遭受内出血的痛苦,闪避降低.",
+						"Icon": "bandaged"
+					},
+					"nature": "Buff",
+					"statisticData": {
+						"statName": "MaxEvasivePips",
+						"operation": "Int_Add",
+						"modValue": "-3",
+						"modType": "System.Int32"
+					}
+				}
+			]
+		},
+		{
+			"injuryID": "TorsoRibs",
+			"injuryName": "肋骨骨折",
+			"injuryLoc": "Torso",
+			"couldBeThermal": false,
+			"severity": 1,
+			"description": "驾驶员肋骨骨折,闪避降低.",
+			"effectDataJO": [
+				{
+					"durationData": {},
+					"targetingData": {
+						"effectTriggerType": "Passive",
+						"effectTargetType": "Creator",
+						"showInStatusPanel": true
+					},
+					"effectType": "StatisticEffect",
+					"Description": {
+						"Id": "TorsoRibsEvasion",
+						"Name": "肋骨骨折",
+						"Details": "驾驶员肋骨骨折,闪避降低.",
+						"Icon": "bandaged"
+					},
+					"nature": "Buff",
+					"statisticData": {
+						"statName": "MaxEvasivePips",
+						"operation": "Int_Add",
+						"modValue": "-2",
+						"modType": "System.Int32"
+					}
+				}
+			]
+		},
+		{
+			"injuryID": "TorsoLungs",
+			"injuryName": "肺穿孔",
+			"injuryLoc": "Torso",
+			"couldBeThermal": false,
+			"severity": 1,
+			"description": "驾驶员肺部被刺穿,降低勇气.",
+			"effectDataJO": [
+				{
+					"durationData": {},
+					"targetingData": {
+						"effectTriggerType": "Passive",
+						"effectTargetType": "Creator",
+						"showInStatusPanel": true
+					},
+					"effectType": "StatisticEffect",
+					"Description": {
+						"Id": "TorsoLungsGuts",
+						"Name": "肺穿孔",
+						"Details": "驾驶员肺部被刺穿,降低勇气.",
+						"Icon": "lungs"
+					},
+					"nature": "Buff",
+					"statisticData": {
+						"statName": "Guts",
+						"operation": "Int_Add",
+						"modValue": "-3",
+						"modType": "System.Int32",
+						"targetCollection": "Pilot"
+					}
+				}
+			]
+		},
+		{
+			"injuryID": "TorsoLungsBleedout",
+			"injuryID_Post": "TorsoLungs",
+			"injuryName": "肺萎陷",
+			"injuryLoc": "Torso",
+			"couldBeThermal": false,
+			"severity": 1,
+			"description": "驾驶员肺部萎陷,降低勇气.",
+			"effectDataJO": [
+				{
+					"durationData": {},
+					"targetingData": {
+						"effectTriggerType": "Passive",
+						"effectTargetType": "Creator",
+						"showInStatusPanel": true
+					},
+					"effectType": "StatisticEffect",
+					"Description": {
+						"Id": "TorsoLungsGuts_bleedout",
+						"Name": "肺萎陷",
+						"Details": "驾驶员肺部萎陷,降低勇气.",
+						"Icon": "lungs"
+					},
+					"nature": "Buff",
+					"statisticData": {
+						"statName": "Guts",
+						"operation": "Int_Add",
+						"modValue": "-5",
+						"modType": "System.Int32",
+						"targetCollection": "Pilot"
+					}
+				}
+			]
+		},
+		{
+			"injuryID": "TorsoBurned",
+			"injuryName": "严重烧伤-躯干",
+			"injuryLoc": "Torso",
+			"couldBeThermal": true,
+			"severity": 2,
+			"description": "驾驶员躯干被严重烧伤,受到闪避减益.",
+			"effectDataJO": [
+				{
+					"durationData": {},
+					"targetingData": {
+						"effectTriggerType": "Passive",
+						"effectTargetType": "Creator",
+						"showInStatusPanel": true
+					},
+					"effectType": "StatisticEffect",
+					"Description": {
+						"Id": "TorsoBurnEvasion",
+						"Name": "严重烧伤-躯干",
+						"Details": "驾驶员躯干被严重烧伤,受到闪避减益.",
+						"Icon": "bandaged"
+					},
+					"nature": "Buff",
+					"statisticData": {
+						"modType": "System.Int32",
+						"modValue": "-3",
+						"operation": "Int_Add",
+						"statName": "MaxEvasivePips"
+					}
+				}
+			]
+		}
+	],
+	"InternalDmgInjuries": [
+		{
+			"injuryID": "HeadNeuralFeedback",
+			"injuryName": "神经负反馈",
+			"injuryLoc": "Head",
+			"couldBeThermal": false,
+			"severity": 2,
+			"description": "这个驾驶员受到DNI或EI接口的负面反馈,彻底地降低精度.",
+			"effectDataJO": [
+				{
+					"durationData": {},
+					"targetingData": {
+						"effectTriggerType": "Passive",
+						"effectTargetType": "Creator",
+						"showInStatusPanel": true
+					},
+					"effectType": "StatisticEffect",
+					"Description": {
+						"Id": "HeadNeural",
+						"Name": "神经负反馈",
+						"Details": "这个驾驶员受到DNI或EI接口的负面反馈,彻底地降低精度.",
+						"Icon": "crackedskull"
+					},
+					"nature": "Buff",
+					"statisticData": {
+						"modType": "System.Single",
+						"modValue": "5.0",
+						"operation": "Float_Add",
+						"statName": "AccuracyModifier",
+						"targetAmmoCategory": "NotSet",
+						"targetCollection": "Weapon",
+						"targetWeaponCategory": "NotSet",
+						"targetWeaponSubType": "NotSet",
+						"targetWeaponType": "NotSet"
+					}
+				}
+			]
+		}
+	],
+	"additiveBleedingFactor": 0.75,
+	"minBloodBank": 2,
+	"baseBloodBankAdd": 1,
+	"UseGutsForBloodBank": true,
+	"factorBloodBankMult": 1,
+	"UseBleedingEffects": true,
+	"BleedingEffects": [
+		{
+			"bleedingEffectID": "BleedingShock",
+			"bleedingName": "颤栗",
+			"bleedingEffectLvl": 1,
+			"description": "这个驾驶员轻微失血,并有轻微颤栗,降低精度.",
+			"effectDataJO": [
+				{
+					"durationData": {},
+					"targetingData": {
+						"effectTriggerType": "Passive",
+						"effectTargetType": "Creator",
+						"showInStatusPanel": true
+					},
+					"effectType": "StatisticEffect",
+					"Description": {
+						"Id": "BleedShock",
+						"Name": "失血:颤栗",
+						"Details": "这个驾驶员轻微失血,并有轻微颤栗,降低精度.",
+						"Icon": "blood"
+					},
+					"nature": "Buff",
+					"statisticData": {
+						"modType": "System.Single",
+						"modValue": "1.0",
+						"operation": "Float_Add",
+						"statName": "AccuracyModifier",
+						"targetAmmoCategory": "NotSet",
+						"targetCollection": "Weapon",
+						"targetWeaponCategory": "NotSet",
+						"targetWeaponSubType": "NotSet",
+						"targetWeaponType": "NotSet"
+					}
+				}
+			]
+		},
+		{
+			"bleedingEffectID": "BleedingDizzy",
+			"bleedingName": "头晕",
+			"bleedingEffectLvl": 2,
+			"description": "这个驾驶员中度失血,受到主动性惩罚.",
+			"effectDataJO": [
+				{
+					"durationData": {},
+					"targetingData": {
+						"effectTriggerType": "Passive",
+						"effectTargetType": "Creator",
+						"showInStatusPanel": true
+					},
+					"effectType": "StatisticEffect",
+					"Description": {
+						"Id": "BleedDizzy",
+						"Name": "失血:头晕",
+						"Details": "这个驾驶员中度失血,思维迟钝,受到主动性惩罚.",
+						"Icon": "seeingstars"
+					},
+					"nature": "Buff",
+					"statisticData": {
+						"statName": "SBI_MOD_INJURY",
+						"operation": "Int_Add",
+						"modValue": "-7",
+						"modType": "System.Int32"
+					}
+				}
+			]
+		},
+		{
+			"bleedingEffectID": "BleedingRun",
+			"bleedingName": "虚弱",
+			"bleedingEffectLvl": 3,
+			"description": "这个驾驶员失血过多,意识模糊,驾驶技能受到惩罚.",
+			"effectDataJO": [
+				{
+					"durationData": {},
+					"targetingData": {
+						"effectTriggerType": "Passive",
+						"effectTargetType": "Creator",
+						"showInStatusPanel": true
+					},
+					"effectType": "StatisticEffect",
+					"Description": {
+						"Id": "BleedingRun_Walk",
+						"Name": "失血:虚弱",
+						"Details": "这个驾驶员失血过多,意识模糊,驾驶技能受到惩罚.",
+						"Icon": "footcast"
+					},
+					"nature": "Buff",
+					"statisticData": {
+						"statName": "Piloting",
+						"operation": "Int_Add",
+						"modValue": "-5",
+						"modType": "System.Int32",
+						"targetCollection": "Pilot"
+					}
+				}
+			]
+		}
+	],
+	"UseSimBleedingEffects": false,
+	"SimBleedingEffects": [
+		{
+			"simBleedingEffectID": "BleedGutsLvl1",
+			"bleedingEffectLvl": 1,
+			"simResultJO": [
+				{
+					"Scope": "MechWarrior",
+					"Requirements": null,
+					"AddedTags": {
+						"tagSetSourceFile": "",
+						"items": [
+							"TBAS_SimBleed__Guts__-1"
+						]
+					},
+					"RemovedTags": {
+						"tagSetSourceFile": "",
+						"items": []
+					},
+					"Stats": [],
+					"Actions": [],
+					"ForceEvents": null,
+					"TemporaryResult": true,
+					"ResultDuration": 10
+				}
+			]
+		},
+		{
+			"simBleedingEffectID": "BleedGutsLvl2",
+			"bleedingEffectLvl": 2,
+			"simResultJO": [
+				{
+					"Scope": "MechWarrior",
+					"Requirements": null,
+					"AddedTags": {
+						"tagSetSourceFile": "",
+						"items": [
+							"TBAS_SimBleed__Guts__-3"
+						]
+					},
+					"RemovedTags": {
+						"tagSetSourceFile": "",
+						"items": []
+					},
+					"Stats": [],
+					"Actions": [],
+					"ForceEvents": null,
+					"TemporaryResult": true,
+					"ResultDuration": 20
+				}
+			]
+		},
+		{
+			"simBleedingEffectID": "BleedGutsLvl3",
+			"bleedingEffectLvl": 3,
+			"simResultJO": [
+				{
+					"Scope": "MechWarrior",
+					"Requirements": null,
+					"AddedTags": {
+						"tagSetSourceFile": "",
+						"items": [
+							"TBAS_SimBleed__Guts__-5"
+						]
+					},
+					"RemovedTags": {
+						"tagSetSourceFile": "",
+						"items": []
+					},
+					"Stats": [],
+					"Actions": [],
+					"ForceEvents": null,
+					"TemporaryResult": true,
+					"ResultDuration": 30
+				}
+			]
+		}
+	]
+}

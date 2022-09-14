@@ -1,0 +1,205 @@
+{
+    "culture": 2,
+    "files": [
+        "Ammo_AmmunitionBox_AntiMissile.json",
+        "Ammo_AmmunitionBox_AntiMissile_Caseless.json",
+        "Ammo_AmmunitionBox_AntiMissile_double.json",
+        "Ammo_AmmunitionBox_AntiMissile_half.json",
+        "Ammo_AmmunitionBox_AntiMissile_HE.json"
+    ],
+    "directories": [
+        {
+            "dir": [
+                "RogueMunitions",
+                "AMS"
+            ],
+            "processors": [
+                "Description.Details",
+                "Description.UIName",
+                "Description.Name"
+            ]
+        }
+    ],
+    "content": [
+        {
+            "id": "Ammo_AmmunitionBox_AntiMissile.Description.Details",
+            "original": "Ammo Bins contain the rounds needed for projectile-based weaponry, with at least one bin required per weapon type. Upon receiving a Critical Hit, any remaining ammunition stored inside an Ammo Bin will explode dealing damage to the install location. Risk can be mitigated with the use of C.A.S.E.",
+            "prevOriginal": "Ammo Bins contain the rounds needed for projectile-based weaponry, with at least one bin required per weapon type. Upon receiving a Critical Hit, any remaining ammunition stored inside an Ammo Bin will explode dealing damage to the install location. Risk can be mitigated with the use of C.A.S.E.",
+            "content": "弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到致命损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险。",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_AntiMissile",
+            "processor": "Description.Details"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_AntiMissile.Description.UIName",
+            "original": "Ammo AMS",
+            "prevOriginal": "Ammo AMS",
+            "content": "AMS弹药",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_AntiMissile",
+            "processor": "Description.UIName"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_AntiMissile.Description.Name",
+            "original": "AMS Ammo",
+            "prevOriginal": "AMS Ammo",
+            "content": "AMS弹药",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_AntiMissile",
+            "processor": "Description.Name"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_AntiMissile_Caseless.Description.Details",
+            "original": "Ammo Bins contain the rounds needed for projectile-based weaponry, with at least one bin required per weapon type. Upon receiving a Critical Hit, any remaining ammunition stored inside an Ammo Bin will explode dealing damage to the install location. Risk can be mitigated with the use of C.A.S.E.",
+            "prevOriginal": "Ammo Bins contain the rounds needed for projectile-based weaponry, with at least one bin required per weapon type. Upon receiving a Critical Hit, any remaining ammunition stored inside an Ammo Bin will explode dealing damage to the install location. Risk can be mitigated with the use of C.A.S.E.",
+            "content": "弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到致命损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险。",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_AntiMissile_Caseless",
+            "processor": "Description.Details"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_AntiMissile_Caseless.Description.UIName",
+            "original": "Ammo AMS [CL]",
+            "prevOriginal": "Ammo AMS [CL]",
+            "content": "AMS弹药[无壳]",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_AntiMissile_Caseless",
+            "processor": "Description.UIName"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_AntiMissile_Caseless.Description.Name",
+            "original": "AMS Ammo",
+            "prevOriginal": "AMS Ammo",
+            "content": "AMS弹药",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_AntiMissile_Caseless",
+            "processor": "Description.Name"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_AntiMissile_double.Description.Details",
+            "original": "Doubled Ammo Bins replace one ammo bins feeding and storing mechanism to 25% more shots into one location. Upon receiving a Critical Hit, any remaining ammunition stored inside an Ammo Bin will explode dealing damage to the install location. Risk can be mitigated with the use of C.A.S.E.",
+            "prevOriginal": "Doubled Ammo Bins replace one ammo bins feeding and storing mechanism to 25% more shots into one location. Upon receiving a Critical Hit, any remaining ammunition stored inside an Ammo Bin will explode dealing damage to the install location. Risk can be mitigated with the use of C.A.S.E.",
+            "content": "双倍弹药舱:将一个弹舱的进料和储存机制替换为一个多25%子弹的弹舱.在受到致命损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险。",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_AntiMissile_double",
+            "processor": "Description.Details"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_AntiMissile_double.Description.UIName",
+            "original": "Ammo AMS [DBL]",
+            "prevOriginal": "Ammo AMS [DBL]",
+            "content": "AMS弹药[双]",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_AntiMissile_double",
+            "processor": "Description.UIName"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_AntiMissile_double.Description.Name",
+            "original": "AMS Ammo",
+            "prevOriginal": "AMS Ammo",
+            "content": "AMS弹药",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_AntiMissile_double",
+            "processor": "Description.Name"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_AntiMissile_half.Description.Details",
+            "original": "Ammo Bins contain the rounds needed for projectile-based weaponry, with at least one bin required per weapon type. Upon receiving a Critical Hit, any remaining ammunition stored inside an Ammo Bin will explode dealing damage to the install location. Risk can be mitigated with the use of C.A.S.E.",
+            "prevOriginal": "Ammo Bins contain the rounds needed for projectile-based weaponry, with at least one bin required per weapon type. Upon receiving a Critical Hit, any remaining ammunition stored inside an Ammo Bin will explode dealing damage to the install location. Risk can be mitigated with the use of C.A.S.E.",
+            "content": "弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到致命损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险。",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_AntiMissile_half",
+            "processor": "Description.Details"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_AntiMissile_half.Description.UIName",
+            "original": "Ammo AMS [Half]",
+            "prevOriginal": "Ammo AMS [Half]",
+            "content": "AMS弹药[半]",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_AntiMissile_half",
+            "processor": "Description.UIName"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_AntiMissile_half.Description.Name",
+            "original": "AMS Ammo Half Load",
+            "prevOriginal": "AMS Ammo Half Load",
+            "content": "AMS弹药半装",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_AntiMissile_half",
+            "processor": "Description.Name"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_AntiMissile_HE.Description.Details",
+            "original": "HE AMS Shells are an adaption of old time flak shells, firing time delayed explosive into the path of incoming Missiles. Upon receiving a Critical Hit, any remaining ammunition stored inside an Ammo Bin will explode dealing damage to the install location. Risk can be mitigated with the use of C.A.S.E.",
+            "prevOriginal": "HE AMS Shells are an adaption of old time flak shells, firing time delayed explosive into the path of incoming Missiles. Upon receiving a Critical Hit, any remaining ammunition stored inside an Ammo Bin will explode dealing damage to the install location. Risk can be mitigated with the use of C.A.S.E.",
+            "content": "他的AMS炮弹是对旧的时间高射炮炮弹的改造，发射时间延迟的炸药进入来袭导弹的路径。在受到致命损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险。",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_AntiMissile_HE",
+            "processor": "Description.Details"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_AntiMissile_HE.Description.UIName",
+            "original": "Ammo AMS HE",
+            "prevOriginal": "Ammo AMS HE",
+            "content": "AMS高爆弹药",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_AntiMissile_HE",
+            "processor": "Description.UIName"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_AntiMissile_HE.Description.Name",
+            "original": "AMS Ammo",
+            "prevOriginal": "AMS Ammo",
+            "content": "AMS弹药",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_AntiMissile_HE",
+            "processor": "Description.Name"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+	"Dialog": {
+		"SCRAP_ALL_TITLE": "报废库存中所有机甲",
+		"SCRAP_ALL_ASSAULT": "报废库存中突击机甲",
+		"SCRAP_ALL_HEAVY": "报废库存中重型机甲",
+		"SCRAP_ALL_LIGHT": "报废库存中轻型机甲",
+		"SCRAP_ALL_MEDIUM": "报废库存中中型机甲",
+		"SCRAP_ALL_DESC": "这将报废当前存储中的单位,获得{0}c-bills.此操作无法恢复,您需要加载较早的存档.你确定吗?",
+		"BUTTON_CANCEL": "取消",
+		"BUTTON_SCRAP": "报废"
+	},
+
+	"Floaties": {
+		"INJURY_RESIST": "抵抗受伤!"
+	},
+
+	"Labels" : {
+		"MECHBAY_CONFIRM_TEXT" : "确认"
+	},
+
+	"Modifiers": {
+		"CALLED_SHOT": "精确射击"
+	},
+
+	"SimGameDifficultyStrings": {
+		"DESCRIPTION": "总体难度",
+		"LABEL": "难度"
+	},
+
+	"Tooltips": {
+		"COMBAT_SAVE_TITLE": "战斗中存档被禁用",
+		"COMBAT_SAVE_DETAILS": "战斗期间的保存被禁用,以防止修改游戏中出现错误.加载一个修改过的游戏会导致不一致的行为,因为很少有mod会将数据写入存档.",
+		"COMBAT_RESTART_TITLE": "任务重开始被禁用",
+		"COMBAT_RESTART_DETAILS": "在战斗中重启任务被禁用,以防止修改游戏出现错误.重起任务通常会导致打捞屏幕异常."
+	}
+}

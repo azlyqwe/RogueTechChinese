@@ -1,0 +1,353 @@
+{
+    "culture": 2,
+    "files": [
+        "Ammo_AmmunitionBox_Rifle_Heavy.json",
+        "Ammo_AmmunitionBox_Rifle_Heavy_APFSDS.json",
+        "Ammo_AmmunitionBox_Rifle_Heavy_Caseless.json",
+        "Ammo_AmmunitionBox_Rifle_Light.json",
+        "Ammo_AmmunitionBox_Rifle_Light_APFSDS.json",
+        "Ammo_AmmunitionBox_Rifle_Medium.json",
+        "Ammo_AmmunitionBox_Rifle_Medium_APFSDS.json",
+        "Ammo_AmmunitionBox_Rifle_Medium_Caseless.json",
+        "Ammo_AmmunitionBox_Rifle_Potatoe.json"
+    ],
+    "directories": [
+        {
+            "dir": [
+                "RogueMunitions",
+                "Rifles"
+            ],
+            "processors": [
+                "Description.Details",
+                "Description.UIName",
+                "Description.Name"
+            ]
+        }
+    ],
+    "content": [
+        {
+            "id": "Ammo_AmmunitionBox_Rifle_Heavy.Description.Details",
+            "original": "Ammo Bins contain the rounds needed for projectile-based weaponry, with at least one bin required per weapon type. Upon receiving a Critical Hit, any remaining ammunition stored inside an Ammo Bin will explode dealing damage to the install location. Risk can be mitigated with the use of C.A.S.E. ",
+            "prevOriginal": "Ammo Bins contain the rounds needed for projectile-based weaponry, with at least one bin required per weapon type. Upon receiving a Critical Hit, any remaining ammunition stored inside an Ammo Bin will explode dealing damage to the install location. Risk can be mitigated with the use of C.A.S.E. ",
+            "content": "弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. ",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_Rifle_Heavy",
+            "processor": "Description.Details"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_Rifle_Heavy.Description.UIName",
+            "original": "Ammo Heavy Rifle",
+            "prevOriginal": "Ammo Heavy Rifle",
+            "content": "重型线膛炮弹药",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_Rifle_Heavy",
+            "processor": "Description.UIName"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_Rifle_Heavy.Description.Name",
+            "original": "Heavy Rifle Ammo",
+            "prevOriginal": "Heavy Rifle Ammo",
+            "content": "重型线膛炮弹药",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_Rifle_Heavy",
+            "processor": "Description.Name"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_Rifle_Heavy_APFSDS.Description.Details",
+            "original": "This ammunition is an attempt to make primitive Rifle weapons effective in the face of modern armor. Armor Piercing Fin Stabilized Discarding Sabot munitions have been used for centuries. Essentially a long heavy metal dart they punch through armor using kinetic energy alone; no explosive warhead is used. This means ammo explosions are less dangerous, but their damage decreases at long range. Ammo Bins contain the rounds needed for projectile-based weaponry, with at least one bin required per weapon type. Upon receiving a Critical Hit, any remaining ammunition stored inside an Ammo Bin will explode dealing damage to the install location. Risk can be mitigated with the use of C.A.S.E. ",
+            "prevOriginal": "This ammunition is an attempt to make primitive Rifle weapons effective in the face of modern armor. Armor Piercing Fin Stabilized Discarding Sabot munitions have been used for centuries. Essentially a long heavy metal dart they punch through armor using kinetic energy alone; no explosive warhead is used. This means ammo explosions are less dangerous, but their damage decreases at long range. Ammo Bins contain the rounds needed for projectile-based weaponry, with at least one bin required per weapon type. Upon receiving a Critical Hit, any remaining ammunition stored inside an Ammo Bin will explode dealing damage to the install location. Risk can be mitigated with the use of C.A.S.E. ",
+            "content": "这种弹药试图使原始线膛武器在面对现代装甲时有效.穿甲尾翼稳定脱壳弹已经使用了几个世纪.本质上是一个长的重金属镖,他们只用动能穿透装甲;不使用爆炸弹头.这意味着弹药爆炸的危险性较小,但在远程情况下其伤害会降低.弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. ",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_Rifle_Heavy_APFSDS",
+            "processor": "Description.Details"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_Rifle_Heavy_APFSDS.Description.UIName",
+            "original": "Ammo Heavy Rifle Sabot",
+            "prevOriginal": "Ammo Heavy Rifle Sabot",
+            "content": "重型线膛炮弹药[穿甲]",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_Rifle_Heavy_APFSDS",
+            "processor": "Description.UIName"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_Rifle_Heavy_APFSDS.Description.Name",
+            "original": "Heavy Rifle Ammo Sabot",
+            "prevOriginal": "Heavy Rifle Ammo Sabot",
+            "content": "重型线膛炮弹药",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_Rifle_Heavy_APFSDS",
+            "processor": "Description.Name"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_Rifle_Heavy_Caseless.Description.Details",
+            "original": "Made from ancient Blue Prints, this Rifle Munitions is encased in its propellant to save up space at cost of reliability. Upon receiving a Critical Hit, any remaining ammunition stored inside an Ammo Bin will explode dealing damage to the install location. Risk can be mitigated with the use of C.A.S.E. ",
+            "prevOriginal": "Made from ancient Blue Prints, this Rifle Munitions is encased in its propellant to save up space at cost of reliability. Upon receiving a Critical Hit, any remaining ammunition stored inside an Ammo Bin will explode dealing damage to the install location. Risk can be mitigated with the use of C.A.S.E. ",
+            "content": "这种线膛炮弹药由古老的蓝图制成,装有推进剂,同时以降低可靠性为代价节省空间.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. ",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_Rifle_Heavy_Caseless",
+            "processor": "Description.Details"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_Rifle_Heavy_Caseless.Description.UIName",
+            "original": "Ammo Heavy Rifle [CL]",
+            "prevOriginal": "Ammo Heavy Rifle [CL]",
+            "content": "重型线膛炮弹药[无壳]",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_Rifle_Heavy_Caseless",
+            "processor": "Description.UIName"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_Rifle_Heavy_Caseless.Description.Name",
+            "original": "Heavy Rifle Ammo [CL]",
+            "prevOriginal": "Heavy Rifle Ammo [CL]",
+            "content": "重型线膛炮弹药[无壳]",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_Rifle_Heavy_Caseless",
+            "processor": "Description.Name"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_Rifle_Light.Description.Details",
+            "original": "Ammo Bins contain the rounds needed for projectile-based weaponry, with at least one bin required per weapon type. Upon receiving a Critical Hit, any remaining ammunition stored inside an Ammo Bin will explode dealing damage to the install location. Risk can be mitigated with the use of C.A.S.E. ",
+            "prevOriginal": "Ammo Bins contain the rounds needed for projectile-based weaponry, with at least one bin required per weapon type. Upon receiving a Critical Hit, any remaining ammunition stored inside an Ammo Bin will explode dealing damage to the install location. Risk can be mitigated with the use of C.A.S.E. ",
+            "content": "弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. ",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_Rifle_Light",
+            "processor": "Description.Details"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_Rifle_Light.Description.UIName",
+            "original": "Ammo Light Rifle",
+            "prevOriginal": "Ammo Light Rifle",
+            "content": "轻型线膛炮弹药",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_Rifle_Light",
+            "processor": "Description.UIName"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_Rifle_Light.Description.Name",
+            "original": "Light Rifle Ammo",
+            "prevOriginal": "Light Rifle Ammo",
+            "content": "轻型线膛炮弹药",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_Rifle_Light",
+            "processor": "Description.Name"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_Rifle_Light_APFSDS.Description.Details",
+            "original": "This ammunition is an attempt to make primitive Rifle weapons effective in the face of modern armor. Armor Piercing Fin Stabilized Discarding Sabot munitions have been used for centuries. Essentially a long heavy metal dart they punch through armor using kinetic energy alone; no explosive warhead is used. This means ammo explosions are less dangerous, but their damage decreases at long range. Ammo Bins contain the rounds needed for projectile-based weaponry, with at least one bin required per weapon type. Upon receiving a Critical Hit, any remaining ammunition stored inside an Ammo Bin will explode dealing damage to the install location. Risk can be mitigated with the use of C.A.S.E. ",
+            "prevOriginal": "This ammunition is an attempt to make primitive Rifle weapons effective in the face of modern armor. Armor Piercing Fin Stabilized Discarding Sabot munitions have been used for centuries. Essentially a long heavy metal dart they punch through armor using kinetic energy alone; no explosive warhead is used. This means ammo explosions are less dangerous, but their damage decreases at long range. Ammo Bins contain the rounds needed for projectile-based weaponry, with at least one bin required per weapon type. Upon receiving a Critical Hit, any remaining ammunition stored inside an Ammo Bin will explode dealing damage to the install location. Risk can be mitigated with the use of C.A.S.E. ",
+            "content": "这种弹药试图使原始线膛武器在面对现代装甲时有效.穿甲尾翼稳定脱壳弹已经使用了几个世纪.本质上是一个长的重金属镖,他们只用动能穿透装甲;不使用爆炸弹头.这意味着弹药爆炸的危险性较小,但在远程情况下其伤害会降低.弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. ",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_Rifle_Light_APFSDS",
+            "processor": "Description.Details"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_Rifle_Light_APFSDS.Description.UIName",
+            "original": "Ammo Light Rifle Sabot",
+            "prevOriginal": "Ammo Light Rifle Sabot",
+            "content": "轻型线膛炮弹药[穿甲]",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_Rifle_Light_APFSDS",
+            "processor": "Description.UIName"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_Rifle_Light_APFSDS.Description.Name",
+            "original": "Light Rifle Ammo Sabot",
+            "prevOriginal": "Light Rifle Ammo Sabot",
+            "content": "轻型线膛炮穿甲弹药",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_Rifle_Light_APFSDS",
+            "processor": "Description.Name"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_Rifle_Medium.Description.Details",
+            "original": "Ammo Bins contain the rounds needed for projectile-based weaponry, with at least one bin required per weapon type. Upon receiving a Critical Hit, any remaining ammunition stored inside an Ammo Bin will explode dealing damage to the install location. Risk can be mitigated with the use of C.A.S.E. ",
+            "prevOriginal": "Ammo Bins contain the rounds needed for projectile-based weaponry, with at least one bin required per weapon type. Upon receiving a Critical Hit, any remaining ammunition stored inside an Ammo Bin will explode dealing damage to the install location. Risk can be mitigated with the use of C.A.S.E. ",
+            "content": "弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. ",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_Rifle_Medium",
+            "processor": "Description.Details"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_Rifle_Medium.Description.UIName",
+            "original": "Ammo Medium Rifle",
+            "prevOriginal": "Ammo Medium Rifle",
+            "content": "中型线膛炮弹药",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_Rifle_Medium",
+            "processor": "Description.UIName"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_Rifle_Medium.Description.Name",
+            "original": "Medium Rifle Ammo",
+            "prevOriginal": "Medium Rifle Ammo",
+            "content": "中型线膛炮弹药",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_Rifle_Medium",
+            "processor": "Description.Name"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_Rifle_Medium_APFSDS.Description.Details",
+            "original": "This ammunition is an attempt to make primitive Rifle weapons effective in the face of modern armor. Armor Piercing Fin Stabilized Discarding Sabot munitions have been used for centuries. Essentially a long heavy metal dart they punch through armor using kinetic energy alone; no explosive warhead is used. This means ammo explosions are less dangerous, but their damage decreases at long range. Ammo Bins contain the rounds needed for projectile-based weaponry, with at least one bin required per weapon type. Upon receiving a Critical Hit, any remaining ammunition stored inside an Ammo Bin will explode dealing damage to the install location. Risk can be mitigated with the use of C.A.S.E. ",
+            "prevOriginal": "This ammunition is an attempt to make primitive Rifle weapons effective in the face of modern armor. Armor Piercing Fin Stabilized Discarding Sabot munitions have been used for centuries. Essentially a long heavy metal dart they punch through armor using kinetic energy alone; no explosive warhead is used. This means ammo explosions are less dangerous, but their damage decreases at long range. Ammo Bins contain the rounds needed for projectile-based weaponry, with at least one bin required per weapon type. Upon receiving a Critical Hit, any remaining ammunition stored inside an Ammo Bin will explode dealing damage to the install location. Risk can be mitigated with the use of C.A.S.E. ",
+            "content": "这种弹药试图使原始线膛武器在面对现代装甲时有效.穿甲尾翼稳定脱壳弹已经使用了几个世纪.本质上是一个长的重金属镖,他们只用动能穿透装甲;不使用爆炸弹头.这意味着弹药爆炸的危险性较小,但在远程情况下其伤害会降低.弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. ",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_Rifle_Medium_APFSDS",
+            "processor": "Description.Details"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_Rifle_Medium_APFSDS.Description.UIName",
+            "original": "Ammo Medium Rifle Sabot",
+            "prevOriginal": "Ammo Medium Rifle Sabot",
+            "content": "中型线膛炮弹药[穿甲]",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_Rifle_Medium_APFSDS",
+            "processor": "Description.UIName"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_Rifle_Medium_APFSDS.Description.Name",
+            "original": "Medium Rifle Ammo Sabot",
+            "prevOriginal": "Medium Rifle Ammo Sabot",
+            "content": "中型线膛炮穿甲弹药",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_Rifle_Medium_APFSDS",
+            "processor": "Description.Name"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_Rifle_Medium_Caseless.Description.Details",
+            "original": "Ammo Bins contain the rounds needed for projectile-based weaponry, with at least one bin required per weapon type. Upon receiving a Critical Hit, any remaining ammunition stored inside an Ammo Bin will explode dealing damage to the install location. Risk can be mitigated with the use of C.A.S.E. ",
+            "prevOriginal": "Ammo Bins contain the rounds needed for projectile-based weaponry, with at least one bin required per weapon type. Upon receiving a Critical Hit, any remaining ammunition stored inside an Ammo Bin will explode dealing damage to the install location. Risk can be mitigated with the use of C.A.S.E. ",
+            "content": "弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. ",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_Rifle_Medium_Caseless",
+            "processor": "Description.Details"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_Rifle_Medium_Caseless.Description.UIName",
+            "original": "Ammo Medium Rifle [CL]",
+            "prevOriginal": "Ammo Medium Rifle [CL]",
+            "content": "中型线膛炮弹药",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_Rifle_Medium_Caseless",
+            "processor": "Description.UIName"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_Rifle_Medium_Caseless.Description.Name",
+            "original": "Medium Rifle Ammo [CL]",
+            "prevOriginal": "Medium Rifle Ammo [CL]",
+            "content": "中型线膛炮弹药",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_Rifle_Medium_Caseless",
+            "processor": "Description.Name"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_Rifle_Potatoe.Description.Details",
+            "original": "Ammo Bins contain the rounds needed for projectile-based weaponry, with at least one bin required per weapon type. Upon receiving a Critical Hit, any remaining ammunition stored inside an Ammo Bin will explode dealing damage to the install location. Risk can be mitigated with the use of C.A.S.E. ",
+            "prevOriginal": "Ammo Bins contain the rounds needed for projectile-based weaponry, with at least one bin required per weapon type. Upon receiving a Critical Hit, any remaining ammunition stored inside an Ammo Bin will explode dealing damage to the install location. Risk can be mitigated with the use of C.A.S.E. ",
+            "content": "弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. ",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_Rifle_Potatoe",
+            "processor": "Description.Details"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_Rifle_Potatoe.Description.UIName",
+            "original": "Ammo Rifle Periphery",
+            "prevOriginal": "Ammo Rifle Periphery",
+            "content": "外围空间线膛炮弹药",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_Rifle_Potatoe",
+            "processor": "Description.UIName"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_Rifle_Potatoe.Description.Name",
+            "original": "Rifle Ammo",
+            "prevOriginal": "Rifle Ammo",
+            "content": "线膛炮弹药",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_Rifle_Potatoe",
+            "processor": "Description.Name"
+        }
+    ]
+}

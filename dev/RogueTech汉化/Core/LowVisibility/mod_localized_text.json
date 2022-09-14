@@ -1,0 +1,73 @@
+{
+    "MapEffects" : {
+        "MAP_LIGHT_BRIGHT" : "明亮",
+        "MAP_LIGHT_DIM" : "昏暗",
+        "MAP_LIGHT_DARK" : "黑暗",
+        "MAP_FOG_LIGHT" : "雾",
+        "MAP_FOG_HEAVY" : "浓雾",
+        "MAP_SNOW" : "雪",
+        "MAP_RAIN" : "雨"
+    },
+    "StatusPanel" : {
+        "PANEL_SENSORS" : "<b>传感器</b><size=90%><color=#{0}>{1:#.00}m</color> 倍率:<color=#{2}>x{3}</color> [{4}]\n",
+        "PANEL_VISUALS" : "<b>视觉</b><size=90%> <color=#00FF00>{0:0}m</color> 扫描:{1}m [{2}]\n",
+        "PANEL_DETAILS" : "  总共:<color=#{0}>{1:+0;-#}</color><size=90%> 投骰:<color=#{2}>{3:+0;-#}</color> 战术:<color=#00FF00>{4:+0;-#}</color> 高级传感器:<color=#{5}>{6:+0;-#}</color>\n ",
+        "PANEL_HEAT_VISION" : "<b>热视</b><size=90%>模块: <color=#{0}>{1:+0;-#}</color> / {2} 热范围: {3}m\n",
+        "PANEL_ZOOM_VISION" : "<b>缩放</b><size=90%>模块: <color=#{0}>{1:+0;-#}</color> Cap:<color=#{2}>{3:+0;-#}</color> 范围:{4}m\n",
+
+        "DETAILS_NONE" : "无信息",
+        "LOCATION_AND_TYPE" : "类型",
+        "ARMOR_AND_WEAPON_TYPE" : "装甲+武器类型",
+        "STRUCT_AND_WEAPON_ID" : "结构+武器",
+        "ALL_INFO" : "所有信息",
+        "DETAILS_UNKNOWN" : "未知"
+    },
+    "AttackModifiers" : {
+        "ATTACK_FIRE_BLIND" : "盲射",
+        "ATTACK_NO_VISUALS" : "不在视线中",
+        "ATTACK_ZOOM_VISION" : "缩放视觉",
+        "ATTACK_HEAT_VISION" : "热视觉",
+        "ATTACK_MIMETIC_ARMOR" : "拟态装甲",
+        "ATTACK_NO_SENSORS" : "无传感器",
+        "ATTACK_ECM_JAMMED" : "ECM干扰",
+        "ATTACK_ECM_SHIELD" : "ECM防护",
+        "ATTACK_STEALTH" : "隐身",
+        "ATTACK_NARCED" : "NARC标记",
+        "ATTACK_TAGGED" : "TAG寻获"
+    },
+    "Floaties" : {
+        "FLOATIE_ECM_SHIELDED" : "ECM防护",
+        "FLOATIE_ECM_JAMMED" : "ECM干扰"
+    },
+    "TargetingComputer" : {
+        "TARG_COMP_BALLISTIC" : "弹道",
+        "TARG_COMP_ENERGY" : "能量",
+        "TARG_COMP_MISSILE" : "导弹",
+        "TARG_COMP_PHYSICAL" : "物理",
+        "TARG_COMP_UNIDENTIFIED" : "未识别"
+    },
+    "Tooltips" : {
+        "TOOLTIP_TITLE_VISION_AND_SENSORS" : "视觉和传感器",
+        "TOOLTIP_TITLE_SENSORS_DISABLED" : "传感器离线",
+        "TOOLTIP_TEXT_SENSORS_DISABLED" : "在第一回合战斗中传感器离线.",
+        "TOOLTIP_TITLE_EW" : "电子战",
+        "TOOLTIP_LABEL_EW_ECM_SHIELD" : "<size=90%><b>ECM防护</b>: <color=#{0}>{1:+0;-#}</color> 侦测或命中.\n",
+        "TOOLTIP_LABEL_EW_ECM_JAMMING" : "<size=90%><b>ECM干扰</b>: <color=#{0}>{1:+0;-#} 传感器详细信息.</color>\n",
+        "TOOLTIP_LABEL_EW_PROBE_CARRIER" : "<size=90%><b>主动探测器</b>: <color=#{0}>{1:+0;-#}</color> 对敌人ECM, 隐身, 伪装\n",
+        "TOOLTIP_LABEL_EW_NARC_EFFECT" : "<size=90%><b>NARC标记</b>: <color=#{0}>{1:+0;-#}</color> 侦测或命中.\n",
+        "TOOLTIP_LABEL_EW_PROBE_EFFECT" : "<size=90%><b>探测器 PINGED</b>: <color=#{0}>{1:+0;-#}</color> 侦测.\n",
+        "TOOLTIP_LABEL_EW_TAG_EFFECT" : "<size=90%><b>TAG捕获</b>: <color=#{0}>{1:+0;-#}</color> 侦测或命中.\n",
+        "TOOLTIP_LABEL_EW_MIMETIC" : "<size=90%><b>伪装</b>: <color=#{0}>{1:+0;-#}</color> 命中.\n",
+        "TOOLTIP_LABEL_EW_STEALTH" : "<size=90%><b>隐身</b>: 中. <color=#{0}>{1:+0;-#}</color> / 远 <color=#{0}>{2:+0;-#}</color> / 极远. <color=#{0}>{3:+0;-#}</color> 攻击修正\n"
+    },
+    "CACSidePanel" : {
+        "SIDEPANEL_TITLE" : "  {0} {1}\n",
+        "SIDEPANEL_MOVE_MECH" : "  走: {0}m  跑: {1}m  跳: {2}m\n",
+        "SIDEPANEL_MOVE_VEHICLE" : "  巡航: {0}m  侧面: {1}m\n",
+        "SIDEPANEL_DISTANCE" : "  距离: {0}m\n",
+        "SIDEPANEL_HEAT" : "  热: {0} of {1}\n",
+        "SIDEPANEL_DAMAGE" : "  不稳定: {0} of {1}\n",
+        "SIDEPANEL_WEIGHT" : "{0} 吨"
+    }
+
+}

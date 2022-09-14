@@ -1,0 +1,643 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2022-09-10 周六 12:37 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>&lrm;</title>
+<meta name="generator" content="Org Mode" />
+<style>
+  #content { max-width: 60em; margin: auto; }
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #e6e6e6;
+    border-radius: 3px;
+    background-color: #f2f2f2;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: auto;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    top: -8px;
+    right: 12px;
+    padding: 3px;
+    color: #555;
+    background-color: #f2f2f299;
+  }
+  pre.src:hover:before { display: inline; margin-top: 14px;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-authinfo::before { content: 'Authinfo'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .equation-container {
+    display: table;
+    text-align: center;
+    width: 100%;
+  }
+  .equation {
+    vertical-align: middle;
+  }
+  .equation-label {
+    display: table-cell;
+    text-align: right;
+    vertical-align: middle;
+  }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { width: 90%; }
+</style>
+</head>
+<body>
+<div id="content" class="content">
+<div id="table-of-contents" role="doc-toc">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents" role="doc-toc">
+<ul>
+<li><a href="#orgc3a0529">1. 命中</a></li>
+<li><a href="#org75077d9">2. 致命损伤/暴击/致命一击</a>
+<ul>
+<li><a href="#org2737491">2.1. 普通致命损伤</a></li>
+<li><a href="#org36688e8">2.2. TAC</a></li>
+</ul>
+</li>
+<li><a href="#org3c78cae">3. 热效应</a>
+<ul>
+<li><a href="#orgf6a7eab">3.1. 热阈值</a></li>
+<li><a href="#org74bfc9c">3.2. 散热量计算</a></li>
+</ul>
+</li>
+<li><a href="#org9ba6400">4. 电子战</a>
+<ul>
+<li><a href="#org3a77a20">4.1. 基本电子战效果</a></li>
+<li><a href="#org2e13263">4.2. 隐身</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-orgc3a0529" class="outline-2">
+<h2 id="orgc3a0529"><span class="section-number-2">1.</span> 命中</h2>
+<div class="outline-text-2" id="text-1">
+<p>
+RogueTech里的基础命中为80%,实际命中通过多种效果对基础命中进行修饰得出
+命中修饰符正为减益
+</p>
+<ol class="org-ol">
+<li>修饰符:
+<ul class="org-ul">
+<li>机甲运动:
+<ul class="org-ul">
+<li>移动 +1</li>
+<li>冲刺 +2(和移动叠加)</li>
+<li>跳跃 +3(和移动叠加)</li>
+</ul></li>
+<li>目标移动,每个闪避点+2</li>
+<li>高差,目标每高一个级别+1,每低一个级别-1</li>
+<li>目标角度:
+<ul class="org-ul">
+<li>侧面 -1</li>
+<li>后面 -2</li>
+</ul></li>
+<li>可见度:
+<ul class="org-ul">
+<li>被阻挡 +1</li>
+<li>无目视 +5(和被阻挡叠加)</li>
+</ul></li>
+<li>射程
+<ul class="org-ul">
+<li>最低射程:+8</li>
+<li>近程:0</li>
+<li>中程:+2</li>
+<li>远程:+4</li>
+<li>极远射程:+6</li>
+</ul></li>
+<li>射击模式 间接+2</li>
+<li>传感器
+<ul class="org-ul">
+<li>无传感器: +5</li>
+<li>ECM防护: 每点+0.6</li>
+</ul></li>
+<li>驾驶员技能
+<ul class="org-ul">
+<li>射击学:每点+1%</li>
+<li>谨慎:+1</li>
+</ul></li>
+</ul></li>
+<li>射程
+武器信息上列出了3个射程范围最小射程,最佳射程,最大射程
+所有低于最小射程的攻击都会受到+8惩罚,
+近程和中程在最小射程和最佳射程之间,远程和极远射程在最佳和最大射程之间.
+武器伤害衰减在超出最佳射程外开始计算,并在射程极限达到最大</li>
+<li><p>
+闪避点
+默认情况下,每台机甲最多可以从移动中获得6点闪避.上限可以通过驾驶员技能和装备来增加.
+在机甲库耐久值上悬停可以获得不计算装备和驾驶员技能的当前可获得的最大闪避点数
+移动距离和闪避点对应
+</p>
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-right" />
+
+<col  class="org-right" />
+
+<col  class="org-right" />
+
+<col  class="org-right" />
+
+<col  class="org-right" />
+
+<col  class="org-right" />
+
+<col  class="org-right" />
+
+<col  class="org-right" />
+
+<col  class="org-right" />
+
+<col  class="org-right" />
+
+<col  class="org-right" />
+
+<col  class="org-right" />
+
+<col  class="org-right" />
+
+<col  class="org-right" />
+
+<col  class="org-right" />
+</colgroup>
+<tbody>
+<tr>
+<td class="org-right">30m</td>
+<td class="org-right">80m</td>
+<td class="org-right">140m</td>
+<td class="org-right">210m</td>
+<td class="org-right">280m</td>
+<td class="org-right">330m</td>
+<td class="org-right">390m</td>
+<td class="org-right">450m</td>
+<td class="org-right">510m</td>
+<td class="org-right">570m</td>
+<td class="org-right">630m</td>
+<td class="org-right">690m</td>
+<td class="org-right">900m</td>
+<td class="org-right">960m</td>
+<td class="org-right">990m</td>
+</tr>
+
+<tr>
+<td class="org-right">1</td>
+<td class="org-right">2</td>
+<td class="org-right">3</td>
+<td class="org-right">4</td>
+<td class="org-right">5</td>
+<td class="org-right">6</td>
+<td class="org-right">7</td>
+<td class="org-right">8</td>
+<td class="org-right">9</td>
+<td class="org-right">10</td>
+<td class="org-right">11</td>
+<td class="org-right">12</td>
+<td class="org-right">13</td>
+<td class="org-right">14</td>
+<td class="org-right">15</td>
+</tr>
+</tbody>
+</table></li>
+</ol>
+</div>
+</div>
+
+<div id="outline-container-org75077d9" class="outline-2">
+<h2 id="org75077d9"><span class="section-number-2">2.</span> 致命损伤/暴击/致命一击</h2>
+<div class="outline-text-2" id="text-2">
+</div>
+<div id="outline-container-org2737491" class="outline-3">
+<h3 id="org2737491"><span class="section-number-3">2.1.</span> 普通致命损伤</h3>
+<div class="outline-text-3" id="text-2-1">
+<p>
+致命损伤机率为=1 - 当前结构值/最大结构值
+致命损伤机率不会低于56%,任何低于该值都会提升到该值
+如果部位装甲已经打光,则每次结构被击中都会触发一次致命损伤投骰.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org36688e8" class="outline-3">
+<h3 id="org36688e8"><span class="section-number-3">2.2.</span> TAC</h3>
+<div class="outline-text-3" id="text-2-2">
+<p>
+穿甲致命损伤
+受攻击机甲命中部位有100/200装甲,结构完整.
+基础最小致命损伤机率为0.1
+武器有如下属性
+APArmorShardsMod = 0.5 装甲破片率
+PMaxArmorThickness = 150 最大穿深
+APCritChance = 0.5 穿甲致命损伤率
+破片修正 = 1 + (1 - 100/200) = 1.5
+穿深修正 = 1- 100/150 = 0.333
+</p>
+
+<p>
+0.1(最小基础值) * 1.5(破片修正) * 0.333(穿深修正) * 0.5(武器致命损伤率) = 0.025
+当装甲过低时,破片修正和传深修正都对增加.更容易发生TAC
+如有致命损伤率+25%的修饰词条,它们会根据物品进行相加或相乘,最后乘以上面的概率
+0.025*(1 + 25%) = 0.03125
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org3c78cae" class="outline-2">
+<h2 id="org3c78cae"><span class="section-number-2">3.</span> 热效应</h2>
+<div class="outline-text-2" id="text-3">
+<p>
+原版的过热效果已被放弃,现已不会在过热情况下直接伤害结构,而是加入了一些随过热程度提高概率的负面效果
+主要影响以下几方面:
+</p>
+<ol class="org-ol">
+<li>影响命中率</li>
+<li>降低引擎功率,即移动惩罚</li>
+<li>进行d100的停机投骰,失败强制关机</li>
+<li>进行d100的弹药爆炸投骰,失败弹药爆炸</li>
+<li>进行d100的驾驶员受伤投骰,失败驾驶员健康-1</li>
+<li>进行d100的故障投骰,失败时随机组件损坏</li>
+</ol>
+<p>
+有0到150个热量等级,在同一热量等级下可能产生多种影响,如同时单位停机,弹药爆炸,驾驶员受伤.
+除移动和攻击惩罚外,所有效果会在回合结束时生效.
+多于1点的勇气技能点数,每点会降低5%负面效果概率.
+</p>
+
+<p>
+如勇气技能为3点,机甲在51热量等级下关机机率为10%
+则51热量等级下永远不会关机10%-(3-1)*5% = 0
+具体信息可以将鼠标悬浮在左下角热量条上查看
+</p>
+</div>
+
+<div id="outline-container-orgf6a7eab" class="outline-3">
+<h3 id="orgf6a7eab"><span class="section-number-3">3.1.</span> 热阈值</h3>
+<div class="outline-text-3" id="text-3-1">
+<p>
+热阈值指示器(过热条),原版会受到过热伤害,现在游戏热阈值被固定在42
+RT中对热阈值的描述有不同含义:
+</p>
+<ol class="org-ol">
+<li>热阈值百分比,例如紧凑型激进散热套件,在超过90%热量时激活,在低于50%热量时停用,是指阈值的百分比</li>
+<li>对过热机甲造成额外伤害的武器,如喷火器,在当前热量超过此阈值时会造成额外伤害.阈值不随驾驶员勇气技能和机甲装备改变.</li>
+<li>某些设备如增强成像(EI)过热时会驾驶员造成伤害,会与热效应中负面作用的驾驶员受伤同时生效,该效果超过阈值即产生,不手勇气技能影响</li>
+<li>驾驶员勇气技能会推迟负面效果产生的热量起始值.</li>
+</ol>
+</div>
+</div>
+
+<div id="outline-container-org74bfc9c" class="outline-3">
+<h3 id="org74bfc9c"><span class="section-number-3">3.2.</span> 散热量计算</h3>
+<div class="outline-text-3" id="text-3-2">
+<p>
+机甲基础总散热量=(引擎集成散热器数+引擎附加散热器数+外部装备散热器数) * 散热器散热值
+散热器散热值和可装配的散热器种类由引擎安装的散热套件决定,更换散热套件后外部散热器也必须更换.
+普通单层散热器散热量为3,双层散热器为6
+引擎集成散热器数由引擎核心决定,其数量由引擎核心110的4个到引擎核心500的10个不等,,
+引擎附加散热器容量最大值由引擎核心决定,负数为最少必须安装该数目的外部散热器,且无法安装引擎附加散热器,否则提示组件安装错误,附加散热器有+1到+10几个等级,每+1代表一个额外引擎散热器,根据实际安装的组件计算,但不能超过引擎最大附加容量.
+</p>
+
+<p>
+例子:如安装引擎核心200,集成散热器数量为8,安装的附加散热器容量为0,额外需要2个外部散热器(必须装至少两个外部散热器,否则会提示错误组件)
+     安装双层散热套件
+     则散热量为 = (8 + 0 + 2) * 6 = 60
+</p>
+
+<p>
+若使用引擎核心320,集成散热器数量为10,可安装附加引擎散热器的容量为2(可安装+1或+2的附加散热器)
+使用单层散热器
+安装+1的附加引擎散热器,不装配外部引擎散热器
+则散热量 = (10 + 1 + 0) * 3 = 33
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org9ba6400" class="outline-2">
+<h2 id="org9ba6400"><span class="section-number-2">4.</span> 电子战</h2>
+<div class="outline-text-2" id="text-4">
+<ul class="org-ul">
+<li>ECM可以干扰敌人,保护敌人免受敌人的干扰,并且为携带者提供ECM防护</li>
+<li>电战套件降低敌人的ECM防护,并给范围内盟友提供ECM防护</li>
+<li>干扰降低攻击者的精度,每点干扰降低0.8精度,最大到无传感器信号-5</li>
+<li>ECM防护降低攻击者的精度,每点防护降低0.6精度,最大到无传感器信号-5</li>
+<li>隐身系统降低单位的可见度和信号特征,还给攻击者提供额外惩罚</li>
+<li>C3系统使用组合范围
+<ul class="org-ul">
+<li>给范围内敌人debuff
+<ul class="org-ul">
+<li>更容易通过视觉或传感器侦测</li>
+<li>被动地给范围内敌人添加一个或多个传感器PING.每个传感器PING点都会使防护/隐身效果-1</li>
+</ul></li>
+<li>给友军增益
+<ul class="org-ul">
+<li>盟友获得视觉和传感器范围增</li>
+</ul></li>
+</ul></li>
+<li>主动探测器可以增加单位的视觉或传感器范围,检测雷区,并抵消隐身或ECM防护的影响.</li>
+<li>效果可以叠加.两个+10%传感器范围的来源总共提供+21%的传感器范围.两个+2的干扰源,总共提供+4干扰</li>
+</ul>
+
+<p>
+所有电子战效果最后都作用到4个数值上:
+</p>
+<ol class="org-ol">
+<li>传感器侦测范围
+范围受3个因素影响:
+<ol class="org-ol">
+<li><p>
+基础传感器范围
+</p>
+<ul class="org-ul">
+<li>机甲:16格*25m=400m</li>
+<li>载具:12格*25m=350m</li>
+<li>炮塔:20格*25m=500m</li>
+<li>其他:12格*25m=300m</li>
+</ul>
+<p>
+传感器范围不会低于5格*25=125m
+</p></li>
+<li>EWC,每回合都会重新计算
+<ol class="org-ol">
+<li>如果单位安装了AR14信标,提供了+15%范围加成
+则对于机甲来说传感器范围400*(1+15%)=460m</li>
+<li>传感器投骰修正
+每回合都会在-14和+14间随机,随机值/10对范围进行再修正
+如本回合获得+3,则修正倍率为1+3/10=1.3,若是-2则为1-2/10=0.8
+例如本回合投骰修正为1,则传感器范围为460*(1+1/10)=460*1.1=506m</li>
+</ol></li>
+<li>目标信号特征强度
+目标信号特征强度会受如隐身装甲或C3效果影响,如果目标刚刚开火,则在一段时间内会增加信号特征,连续开火会堆叠
+地形也会影响特征强度,森林信号特征*0.8,水中特征强度*1.2
+无源探测器,有些无源探测器提供了-25%信号特征的效果
+此时探测范围为506m*(1-25%)=379.5m</li>
+</ol></li>
+<li><p>
+视觉侦测范围
+计算方法与传感器类似
+敌人有三种状态:
+</p>
+<ul class="org-ul">
+<li>可见:目标在可视范围内,并且有视线(LoS)</li>
+<li>无视觉:目标存在LoS,但目标超出了可视范围,不时攻击会受到+5无视觉惩罚</li>
+<li>无LoS:目标不可视,无法直瞄射击</li>
+</ul>
+
+<p>
+可视范围受以下状态影响:
+</p>
+<ul class="org-ul">
+<li>一天内的时间
+定义了基本可视范围:
+<ul class="org-ul">
+<li>明亮:48格*25m=1200m</li>
+<li>昏暗:24格*25m=600m</li>
+<li>黑暗:12格*25m=300m</li>
+</ul></li>
+<li>天气
+天气会对基本可视范围进行修饰,如雨雪轻雾天气*0.8,浓雾*0.7等</li>
+<li>装备
+座舱,传感器,主动探测器会影响范围</li>
+</ul>
+
+<p>
+示例:
+     配备主动探测器和测距仪++的单位在昏暗雨天
+     (600(昏暗) + 60(测距仪++)) * 0.8雨 * 1.1(主动探测器) = 581m(23格)
+</p></li>
+
+<li>传感器信息
+一个传感器检测的最基础信息是目标位置,除此之外驾驶员还可以通过传感器获得目标名称,装甲值,装备等内容</li>
+<li>攻击精度
+每点精度,大概影响2-7%的命中率</li>
+</ol>
+</div>
+
+<div id="outline-container-org3a77a20" class="outline-3">
+<h3 id="org3a77a20"><span class="section-number-3">4.1.</span> 基本电子战效果</h3>
+<div class="outline-text-3" id="text-4-1">
+<ul class="org-ul">
+<li>防御效果
+<ol class="org-ol">
+<li>屏蔽效果
+大多数屏蔽效果只适用于携带装置的单位.
+最基本的效果为ECM防护.这代表了多光谱设备,混淆了敌人的制导系统,影响敌人的瞄准计算机
+最高ECM防护和干扰惩罚合计为5点(传感器没检测到),无论ECM屏蔽和干扰有多大,最高合计5点
+ECM屏蔽还会将屏蔽单位的信号特征降低-10%,并让对被屏蔽单位的信息检查处以+1的惩罚(获取的信息更粗略)
+ECM屏蔽效果可以通过传感器PING和主动探测器来减弱或抵消</li>
+<li>干扰效果
+干扰和屏蔽效果类似,只是作用于敌人而不是友军.干扰效果会干扰范围内所有敌人(除非有特殊说明否则不会干扰友军),通过将ECM切换为主动模式产生干扰而不是屏蔽,受干扰的敌人无论对谁攻击都会受到每干扰点0.8精度的惩罚.</li>
+<li>隐身
+隐身有两种方式信号隐身和视觉隐身</li>
+</ol></li>
+<li>攻击效果
+<ol class="org-ol">
+<li>传感器
+最基本的电子战设备是任何机甲都内置的传感器
+它们一般为会对传感器或视觉范围提供增益,同时让获取的敌人信息更详细</li>
+<li>主动探测器
+以猎兔犬探测器为例
+<ul class="org-ul">
+<li>+10%传感器范围,多个传感器范围修正都以乘法方式应用</li>
+<li>+10%视野范围,多个视野范围修正都以乘法方式应用</li>
+<li>被动探测器,-2点EMC/隐身,当对受ECM或隐身效果保护的敌人攻击时,敌人ECM防护/隐身效果点数-2
+例如:敌人装备守护者ECM,获得4点ECM屏蔽,本来精度损失为4*0.6=2.4,当装备猎兔犬后精度损失为(4-2)*0.6=1.2</li>
+<li>传感器信息奖励+2,获取信息更详细</li>
+<li>检测90米范围内的雷区,会在白色圈范围内含有地雷的地面标上三角警告标志</li>
+</ul></li>
+
+<li>抗干扰
+ECM可以工作在被动(屏蔽)和主动(干扰)模式两种模式下,还有抗干扰功能,
+如天使ECM其干扰光环强度为5,会造成4(5*0.8)点精度惩罚
+如果机甲配备了被动模式的守护者ECM,可以减少3点干扰,则天使ECM的实际干扰点为2(5-3)点既只受到2*0.8=1.6精度惩罚</li>
+
+<li>传感器锁定
+传感器锁定(无人机或战术能力提供)会对锁定单位的隐身和ECM提供实质性debuff
+处移除闪避点外,在回合结束前还有以下效果:
+<ol class="org-ol">
+<li>EMC屏蔽-6</li>
+<li>隐身点数-6</li>
+<li>传感器信号特征+100%</li>
+<li>视觉特征+100%</li>
+</ol></li>
+<li>C3网络
+现在有实际网络,文档未更新,基本上效果为增加传感器/视野范围,削减ECM/隐身层数</li>
+<li>TAG
+目标寻获装备,与其他加成叠加,但不与其他TAG叠加.
+TAG为电子战提供增益,使目标更容易被侦测和获取信息,TAG奖励会随着目标移动而衰减,如果目标不移动,则不衰减.
+TAG还增加了目标的的传感器和视觉特征强度</li>
+</ol></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org2e13263" class="outline-3">
+<h3 id="org2e13263"><span class="section-number-3">4.2.</span> 隐身</h3>
+<div class="outline-text-3" id="text-4-2">
+<p>
+隐身有两种,传感器隐身和视觉隐身,需要运行某种隐身ECM
+任何一种隐身都是隐身装甲的固有属性,通常一种隐身装甲只有一种隐身效果,但可以通过附加模块(必须配合合适的隐身装甲)
+</p>
+</div>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="date">Created: 2022-09-10 周六 12:37</p>
+<p class="validation"><a href="https://validator.w3.org/check?uri=referer">Validate</a></p>
+</div>
+</body>
+</html>

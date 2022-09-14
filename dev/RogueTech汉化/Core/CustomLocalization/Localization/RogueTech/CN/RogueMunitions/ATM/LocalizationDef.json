@@ -1,0 +1,242 @@
+{
+    "culture": 2,
+    "files": [
+        "Ammo_AmmunitionBox_ER_ATM.json",
+        "Ammo_AmmunitionBox_ER_ATM_half.json",
+        "Ammo_AmmunitionBox_Generic_ATM.json",
+        "Ammo_AmmunitionBox_Generic_ATM_half.json",
+        "Ammo_AmmunitionBox_HE_ATM.json",
+        "Ammo_AmmunitionBox_HE_ATM_half.json"
+    ],
+    "directories": [
+        {
+            "dir": [
+                "RogueMunitions",
+                "ATM"
+            ],
+            "processors": [
+                "Description.Details",
+                "Description.UIName",
+                "Description.Name"
+            ]
+        }
+    ],
+    "content": [
+        {
+            "id": "Ammo_AmmunitionBox_ER_ATM.Description.Details",
+            "original": "Extreme Range ATM Ammo utilizes more advanced flight computers and stabilizer to drastically increase their range. Upon receiving a Critical Hit, any remaining ammunition stored inside an Ammo Bin will explode dealing damage to the install location. Risk can be mitigated with the use of C.A.S.E.",
+            "prevOriginal": "Extreme Range ATM Ammo utilizes more advanced flight computers and stabilizer to drastically increase their range. Upon receiving a Critical Hit, any remaining ammunition stored inside an Ammo Bin will explode dealing damage to the install location. Risk can be mitigated with the use of C.A.S.E.",
+            "content": "极远射程ATM弹药利用更先进的飞行电脑和稳定器大幅增加其射程.在受到致命损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险.",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_ER_ATM",
+            "processor": "Description.Details"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_ER_ATM.Description.UIName",
+            "original": "Ammo ATM ER",
+            "prevOriginal": "Ammo ATM ER",
+            "content": "ATM增程弹药",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_ER_ATM",
+            "processor": "Description.UIName"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_ER_ATM.Description.Name",
+            "original": "ATM ER Ammo",
+            "prevOriginal": "ATM ER Ammo",
+            "content": "ATM增程弹药",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_ER_ATM",
+            "processor": "Description.Name"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_ER_ATM_half.Description.Details",
+            "original": "Extreme Range ATM Ammo utilizes more advanced flight computers and stabilizer to drastically increase their range. Upon receiving a Critical Hit, any remaining ammunition stored inside an Ammo Bin will explode dealing damage to the install location. Risk can be mitigated with the use of C.A.S.E.",
+            "prevOriginal": "Extreme Range ATM Ammo utilizes more advanced flight computers and stabilizer to drastically increase their range. Upon receiving a Critical Hit, any remaining ammunition stored inside an Ammo Bin will explode dealing damage to the install location. Risk can be mitigated with the use of C.A.S.E.",
+            "content": "极远射程ATM弹药利用更先进的飞行电脑和稳定器大幅增加其射程.在受到致命损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险.",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_ER_ATM_half",
+            "processor": "Description.Details"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_ER_ATM_half.Description.UIName",
+            "original": "Ammo ATM ER [Half]",
+            "prevOriginal": "Ammo ATM ER [Half]",
+            "content": "ATM增程弹药[半]",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_ER_ATM_half",
+            "processor": "Description.UIName"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_ER_ATM_half.Description.Name",
+            "original": "ATM ER Ammo",
+            "prevOriginal": "ATM ER Ammo",
+            "content": "ATM增程弹药",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_ER_ATM_half",
+            "processor": "Description.Name"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_Generic_ATM.Description.Details",
+            "original": "Ammo Bins contain the rounds needed for projectile-based weaponry, with at least one bin required per weapon type. Upon receiving a Critical Hit, any remaining ammunition stored inside an Ammo Bin will explode dealing damage to the install location. Risk can be mitigated with the use of C.A.S.E.",
+            "prevOriginal": "Ammo Bins contain the rounds needed for projectile-based weaponry, with at least one bin required per weapon type. Upon receiving a Critical Hit, any remaining ammunition stored inside an Ammo Bin will explode dealing damage to the install location. Risk can be mitigated with the use of C.A.S.E.",
+            "content": "弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到致命损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险.",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_Generic_ATM",
+            "processor": "Description.Details"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_Generic_ATM.Description.UIName",
+            "original": "Ammo ATM",
+            "prevOriginal": "Ammo ATM",
+            "content": "ATM弹药",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_Generic_ATM",
+            "processor": "Description.UIName"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_Generic_ATM.Description.Name",
+            "original": "ATM Ammo",
+            "prevOriginal": "ATM Ammo",
+            "content": "ATM弹药",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_Generic_ATM",
+            "processor": "Description.Name"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_Generic_ATM_half.Description.Details",
+            "original": "Ammo Bins contain the rounds needed for projectile-based weaponry, with at least one bin required per weapon type. Upon receiving a Critical Hit, any remaining ammunition stored inside an Ammo Bin will explode dealing damage to the install location. Risk can be mitigated with the use of C.A.S.E.",
+            "prevOriginal": "Ammo Bins contain the rounds needed for projectile-based weaponry, with at least one bin required per weapon type. Upon receiving a Critical Hit, any remaining ammunition stored inside an Ammo Bin will explode dealing damage to the install location. Risk can be mitigated with the use of C.A.S.E.",
+            "content": "弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到致命损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险.",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_Generic_ATM_half",
+            "processor": "Description.Details"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_Generic_ATM_half.Description.UIName",
+            "original": "Ammo ATM [Half]",
+            "prevOriginal": "Ammo ATM [Half]",
+            "content": "ATM弹药[半]",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_Generic_ATM_half",
+            "processor": "Description.UIName"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_Generic_ATM_half.Description.Name",
+            "original": "ATM Ammo",
+            "prevOriginal": "ATM Ammo",
+            "content": "ATM弹药",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_Generic_ATM_half",
+            "processor": "Description.Name"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_HE_ATM.Description.Details",
+            "original": "High Explosive ATM ammo carries a larger payload in exchange for fuel. Upon receiving a Critical Hit, any remaining ammunition stored inside an Ammo Bin will explode dealing damage to the install location. Risk can be mitigated with the use of C.A.S.E.",
+            "prevOriginal": "High Explosive ATM ammo carries a larger payload in exchange for fuel. Upon receiving a Critical Hit, any remaining ammunition stored inside an Ammo Bin will explode dealing damage to the install location. Risk can be mitigated with the use of C.A.S.E.",
+            "content": "高爆ATM弹药以燃料换取更大的战斗部.在受到致命损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险.",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_HE_ATM",
+            "processor": "Description.Details"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_HE_ATM.Description.UIName",
+            "original": "Ammo ATM HE",
+            "prevOriginal": "Ammo ATM HE",
+            "content": "ATM高爆弹药",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_HE_ATM",
+            "processor": "Description.UIName"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_HE_ATM.Description.Name",
+            "original": "ATM HighExplosive Ammo",
+            "prevOriginal": "ATM HighExplosive Ammo",
+            "content": "ATM高爆弹药",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_HE_ATM",
+            "processor": "Description.Name"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_HE_ATM_half.Description.Details",
+            "original": "High Explosive ATM ammo carries a larger payload in exchange for fuel. Upon receiving a Critical Hit, any remaining ammunition stored inside an Ammo Bin will explode dealing damage to the install location. Risk can be mitigated with the use of C.A.S.E.",
+            "prevOriginal": "High Explosive ATM ammo carries a larger payload in exchange for fuel. Upon receiving a Critical Hit, any remaining ammunition stored inside an Ammo Bin will explode dealing damage to the install location. Risk can be mitigated with the use of C.A.S.E.",
+            "content": "高爆ATM弹药以燃料换取更大的战斗部.在受到致命损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险.",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_HE_ATM_half",
+            "processor": "Description.Details"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_HE_ATM_half.Description.UIName",
+            "original": "Ammo ATM HE [Half]",
+            "prevOriginal": "Ammo ATM HE [Half]",
+            "content": "ATM高爆弹药[半]",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_HE_ATM_half",
+            "processor": "Description.UIName"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_HE_ATM_half.Description.Name",
+            "original": "ATM HighExplosive Ammo",
+            "prevOriginal": "ATM HighExplosive Ammo",
+            "content": "ATM高爆弹药",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_HE_ATM_half",
+            "processor": "Description.Name"
+        }
+    ]
+}

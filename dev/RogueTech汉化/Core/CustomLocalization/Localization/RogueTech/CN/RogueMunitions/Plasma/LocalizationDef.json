@@ -1,0 +1,131 @@
+{
+    "culture": 2,
+    "files": [
+        "Ammo_AmmunitionBox_Generic_Plasma.json",
+        "Ammo_AmmunitionBox_Generic_Plasma_double.json",
+        "Ammo_AmmunitionBox_Generic_Plasma_half.json"
+    ],
+    "directories": [
+        {
+            "dir": [
+                "RogueMunitions",
+                "Plasma"
+            ],
+            "processors": [
+                "Description.Details",
+                "Description.UIName",
+                "Description.Name"
+            ]
+        }
+    ],
+    "content": [
+        {
+            "id": "Ammo_AmmunitionBox_Generic_Plasma.Description.Details",
+            "original": "Ammo Bins contain the rounds needed for projectile-based weaponry, with at least one bin required per weapon type. <b><color=#099ff2>Does not explode.</color></b>",
+            "prevOriginal": "Ammo Bins contain the rounds needed for projectile-based weaponry, with at least one bin required per weapon type. <b><color=#099ff2>Does not explode.</color></b>",
+            "content": "弹舱包含以射弹为基础的武器所需的子弹,每种武器至少需要一个弹舱.<b><color=#099FF2>不会爆炸.</color></b>",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_Generic_Plasma",
+            "processor": "Description.Details"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_Generic_Plasma.Description.UIName",
+            "original": "Ammo Plasma",
+            "prevOriginal": "Ammo Plasma",
+            "content": "等离子弹药",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_Generic_Plasma",
+            "processor": "Description.UIName"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_Generic_Plasma.Description.Name",
+            "original": "Plasma Ammo",
+            "prevOriginal": "Plasma Ammo",
+            "content": "等离子弹药",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_Generic_Plasma",
+            "processor": "Description.Name"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_Generic_Plasma_double.Description.Details",
+            "original": "Ammo Bins contain the rounds needed for projectile-based weaponry, with at least one bin required per weapon type. <b><color=#099ff2>Does not explode.</color></b>",
+            "prevOriginal": "Ammo Bins contain the rounds needed for projectile-based weaponry, with at least one bin required per weapon type. <b><color=#099ff2>Does not explode.</color></b>",
+            "content": "弹舱包含以射弹为基础的武器所需的子弹,每种武器至少需要一个弹舱.<b><color=#099FF2>不会爆炸.</color></b>",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_Generic_Plasma_double",
+            "processor": "Description.Details"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_Generic_Plasma_double.Description.UIName",
+            "original": "Ammo Plasma [DBL]",
+            "prevOriginal": "Ammo Plasma [DBL]",
+            "content": "等离子弹药[双]",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_Generic_Plasma_double",
+            "processor": "Description.UIName"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_Generic_Plasma_double.Description.Name",
+            "original": "Plasma Ammo",
+            "prevOriginal": "Plasma Ammo",
+            "content": "等离子弹药",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_Generic_Plasma_double",
+            "processor": "Description.Name"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_Generic_Plasma_half.Description.Details",
+            "original": "Ammo Bins contain the rounds needed for projectile-based weaponry, with at least one bin required per weapon type. <b><color=#099ff2>Does not explode.</color></b>",
+            "prevOriginal": "Ammo Bins contain the rounds needed for projectile-based weaponry, with at least one bin required per weapon type. <b><color=#099ff2>Does not explode.</color></b>",
+            "content": "弹舱包含以射弹为基础的武器所需的子弹,每种武器至少需要一个弹舱.<b><color=#099FF2>不会爆炸.</color></b>",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_Generic_Plasma_half",
+            "processor": "Description.Details"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_Generic_Plasma_half.Description.UIName",
+            "original": "Ammo Plasma half",
+            "prevOriginal": "Ammo Plasma half",
+            "content": "等离子弹药[半]",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_Generic_Plasma_half",
+            "processor": "Description.UIName"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_Generic_Plasma_half.Description.Name",
+            "original": "Plasma Ammo",
+            "prevOriginal": "Plasma Ammo",
+            "content": "等离子弹药",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_Generic_Plasma_half",
+            "processor": "Description.Name"
+        }
+    ]
+}

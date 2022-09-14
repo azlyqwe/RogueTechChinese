@@ -1,0 +1,38 @@
+{
+	"Floaties" : {
+		"FLOATIE_KNOCKDOWN" : "摔倒! -{0}主动性",
+		"FLOATIE_CALLED_SHOT_NOW" : "精确射击! -{0}主动性",
+		"FLOATIE_CALLED_SHOT_LATER" : "精确射击! 下回合-{0}主动性",
+		"FLOATIE_VIGILANCE" : "警惕! 下回合+{0}主动性!"
+	},
+	"MechBay" : {
+		"MECHBAY_TONNAGE" : "<b>基础</b>: {0} (<i>基于总重</i>)",
+		"MECHBAY_UNIT_TYPE" : "<space=2em><color=#{0}>{1:+0;-#} 单位类型</color>",
+		"MECHBAY_COMPONENTS" : "<space=2em><color=#{0}>{1:+0;-#} 组件</color>",
+		"MECHBAY_LANCE" : "<space=2em><color=#{0}>{1:+0;-#} 小队</color>",
+		"MECHBAY_TACTICS" : "<space=2em>{0:+0;-#} 战术",
+		"MECHBAY_TOTAL" : "<b>总共</b>: {0}",
+		"MECHBAY_RANDOM" : "<space=2em><color=#FF0000>{0} 到 {1} 随机</color> (<i>被战术减轻</i>)",
+		"MECHBAY_EXPECTED_NO_PILOT" : "<b>预期</b>: {0}",
+		"MECHBAY_EXPECTED" : "<b>预期</b>: {0} 到 {1}"
+	},
+	"Tooltip" : {
+		"TOOLTIP_TITLE_INITIATIVE" : "主动性",
+		"TOOLTIP_MECH_TONNAGE" : "底盘 => 总重:{0}",
+		"TOOLTIP_UNIT_TYPE" : "<color=#{0}>{1:+0;-#}单位类型</color>",
+		"TOOLTIP_COMPONENTS" : "<color=#{0}>{1:+0;-#}组件</color>",
+		"TOOLTIP_CRIPPLED" : "<color=#FF0000>{0} 残疾</color>",
+		"TOOLTIP_PRONE" : "<color=#FF0000>{0}陡峭</color>",
+		"TOOLTIP_SHUTDOWN" : "<color=#FF0000>{0}停机</color>",
+		"TOOLTIP_TACTICS" : "驾驶员 => 战术:<color=#00FF00>{0:+0}</color>",
+		"TOOLTIP_PILOT_TAGS" : "<color=#{0}>{1:+0;-#}驾驶员标签</color>",
+		"TOOLTIP_INSPIRED" : "<color=#00FF00>{0}受伤</color>",
+		"TOOLTIP_INJURY" : "<color=#{0}>{1:+0;-#}受伤</color>",	
+		"TOOLTIP_HESITATION" : "<color=#FF0000>{0}犹豫</color>",
+		"TOOLTIP_CALLED_SHOT" : "<color=#FF0000>{0}精确射击</color>",
+		"TOOLTIP_VIGILANCE" : "<color=#00FF00>{0}警惕</color>",
+		"TOOLTIP_RANDOM" : "\n随机 =><color=#FF0000>{0} 到 {1}</color> <i>(被战术减轻)</i>",
+		"TOOLTIP_EXPECTED" : "预期: <b>{0} 到 {1}</b>",
+		"TOOLTIP_HOVER" : "<i>在机甲库和部署主动性上悬停获得详细信息.</i>"
+	}
+}

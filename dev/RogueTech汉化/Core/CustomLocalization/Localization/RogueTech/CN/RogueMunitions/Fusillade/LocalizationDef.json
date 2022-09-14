@@ -1,0 +1,205 @@
+{
+    "culture": 2,
+    "files": [
+        "Ammo_AmmunitionBox_EMP_iATM_Fusillade.json",
+        "Ammo_AmmunitionBox_ER_iATM_Fusillade.json",
+        "Ammo_AmmunitionBox_Generic_iATM_Fusillade.json",
+        "Ammo_AmmunitionBox_HE_iATM_Fusillade.json",
+        "Ammo_AmmunitionBox_Inferno_iATM_Fusillade.json"
+    ],
+    "directories": [
+        {
+            "dir": [
+                "RogueMunitions",
+                "Fusillade"
+            ],
+            "processors": [
+                "Description.Details",
+                "Description.UIName",
+                "Description.Name"
+            ]
+        }
+    ],
+    "content": [
+        {
+            "id": "Ammo_AmmunitionBox_EMP_iATM_Fusillade.Description.Details",
+            "original": "Though they do inflict damage directly on a target, what makes these missiles so effective is their secondary effects. The warheads blanket the target in electromagnetic noise, causing the target to move more slowly, overheat, and interfere with targeting and communications systems. Upon receiving a Critical Hit, any remaining ammunition stored inside an Ammo Bin will explode dealing damage to the install location. Risk can be mitigated with the use of C.A.S.E. ",
+            "prevOriginal": "Though they do inflict damage directly on a target, what makes these missiles so effective is their secondary effects. The warheads blanket the target in electromagnetic noise, causing the target to move more slowly, overheat, and interfere with targeting and communications systems. Upon receiving a Critical Hit, any remaining ammunition stored inside an Ammo Bin will explode dealing damage to the install location. Risk can be mitigated with the use of C.A.S.E. ",
+            "content": "尽管它们确实会直接对目标造成伤害,但这些导弹如此有效的原因是它们的次要效果.弹头的电磁噪声覆盖目标,导致目标移动更慢,过热,并干扰瞄准和通信系统.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险. ",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_EMP_iATM_Fusillade",
+            "processor": "Description.Details"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_EMP_iATM_Fusillade.Description.UIName",
+            "original": "Proto Ammo iATM EMP",
+            "prevOriginal": "Proto Ammo iATM EMP",
+            "content": "原人iATM电磁脉冲弹药",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_EMP_iATM_Fusillade",
+            "processor": "Description.UIName"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_EMP_iATM_Fusillade.Description.Name",
+            "original": "Proto iATM EMP Ammo",
+            "prevOriginal": "Proto iATM EMP Ammo",
+            "content": "原人iATM EMP弹药",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_EMP_iATM_Fusillade",
+            "processor": "Description.Name"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_ER_iATM_Fusillade.Description.Details",
+            "original": "Extreme Range iATM Ammo utilizes more advanced flight computers and stabilizer to drastically increase their range. Upon receiving a Critical Hit, any remaining ammunition stored inside an Ammo Bin will explode dealing damage to the install location. Risk can be mitigated with the use of C.A.S.E.",
+            "prevOriginal": "Extreme Range iATM Ammo utilizes more advanced flight computers and stabilizer to drastically increase their range. Upon receiving a Critical Hit, any remaining ammunition stored inside an Ammo Bin will explode dealing damage to the install location. Risk can be mitigated with the use of C.A.S.E.",
+            "content": "极远射程iATM弹药利用更先进的飞行电脑和稳定器大幅增加其射程.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险.",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_ER_iATM_Fusillade",
+            "processor": "Description.Details"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_ER_iATM_Fusillade.Description.UIName",
+            "original": "Proto Ammo iATM ER",
+            "prevOriginal": "Proto Ammo iATM ER",
+            "content": "原人iATM增程弹药",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_ER_iATM_Fusillade",
+            "processor": "Description.UIName"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_ER_iATM_Fusillade.Description.Name",
+            "original": "Proto iATM ER Ammo",
+            "prevOriginal": "Proto iATM ER Ammo",
+            "content": "原人iATM增程弹药",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_ER_iATM_Fusillade",
+            "processor": "Description.Name"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_Generic_iATM_Fusillade.Description.Details",
+            "original": "Ammo Bins contain the rounds needed for projectile-based weaponry, with at least one bin required per weapon type. Upon receiving a Critical Hit, any remaining ammunition stored inside an Ammo Bin will explode dealing damage to the install location. Risk can be mitigated with the use of C.A.S.E.",
+            "prevOriginal": "Ammo Bins contain the rounds needed for projectile-based weaponry, with at least one bin required per weapon type. Upon receiving a Critical Hit, any remaining ammunition stored inside an Ammo Bin will explode dealing damage to the install location. Risk can be mitigated with the use of C.A.S.E.",
+            "content": "弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险.",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_Generic_iATM_Fusillade",
+            "processor": "Description.Details"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_Generic_iATM_Fusillade.Description.UIName",
+            "original": "Proto Ammo iATM",
+            "prevOriginal": "Proto Ammo iATM",
+            "content": "原人iATM弹药",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_Generic_iATM_Fusillade",
+            "processor": "Description.UIName"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_Generic_iATM_Fusillade.Description.Name",
+            "original": "Proto iATM Ammo",
+            "prevOriginal": "Proto iATM Ammo",
+            "content": "原人iATM弹药",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_Generic_iATM_Fusillade",
+            "processor": "Description.Name"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_HE_iATM_Fusillade.Description.Details",
+            "original": "High Explosive iATM ammo carries a larger payload in exchange for fuel. Upon receiving a Critical Hit, any remaining ammunition stored inside an Ammo Bin will explode dealing damage to the install location. Risk can be mitigated with the use of C.A.S.E.",
+            "prevOriginal": "High Explosive iATM ammo carries a larger payload in exchange for fuel. Upon receiving a Critical Hit, any remaining ammunition stored inside an Ammo Bin will explode dealing damage to the install location. Risk can be mitigated with the use of C.A.S.E.",
+            "content": "高爆iATM弹药以燃料换取更大的战斗部.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险.",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_HE_iATM_Fusillade",
+            "processor": "Description.Details"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_HE_iATM_Fusillade.Description.UIName",
+            "original": "Proto Ammo iATM HE",
+            "prevOriginal": "Proto Ammo iATM HE",
+            "content": "原人iATM高爆弹药",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_HE_iATM_Fusillade",
+            "processor": "Description.UIName"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_HE_iATM_Fusillade.Description.Name",
+            "original": "Proto iATM High Explosive Ammo",
+            "prevOriginal": "Proto iATM High Explosive Ammo",
+            "content": "原人iATM高爆弹药",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_HE_iATM_Fusillade",
+            "processor": "Description.Name"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_Inferno_iATM_Fusillade.Description.Details",
+            "original": "Ammo Bins contain the rounds needed for projectile-based weaponry, with at least one bin required per weapon type. Upon receiving a Critical Hit, any remaining ammunition stored inside an Ammo Bin will explode dealing damage to the install location. Risk can be mitigated with the use of C.A.S.E.",
+            "prevOriginal": "Ammo Bins contain the rounds needed for projectile-based weaponry, with at least one bin required per weapon type. Upon receiving a Critical Hit, any remaining ammunition stored inside an Ammo Bin will explode dealing damage to the install location. Risk can be mitigated with the use of C.A.S.E.",
+            "content": "弹药舱包含射弹武器所需的弹药,每种武器类型至少需要一个弹舱.在受到严重损伤后,储存在弹舱中的任何剩余弹药将爆炸,对安装部位造成伤害.使用C.A.S.E.可以降低风险.",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_Inferno_iATM_Fusillade",
+            "processor": "Description.Details"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_Inferno_iATM_Fusillade.Description.UIName",
+            "original": "Proto Ammo iATM Inferno",
+            "prevOriginal": "Proto Ammo iATM Inferno",
+            "content": "原人iATM弹药[燃烧]",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_Inferno_iATM_Fusillade",
+            "processor": "Description.UIName"
+        },
+        {
+            "id": "Ammo_AmmunitionBox_Inferno_iATM_Fusillade.Description.Name",
+            "original": "Proto iATM Ammo",
+            "prevOriginal": "Proto iATM Ammo",
+            "content": "原人iATM弹药",
+            "localizatorComment": "",
+            "systemComment": "",
+            "backColor": "#FFFFFF",
+            "textColor": "#000000",
+            "filename": "Ammo_AmmunitionBox_Inferno_iATM_Fusillade",
+            "processor": "Description.Name"
+        }
+    ]
+}
